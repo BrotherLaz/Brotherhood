@@ -200,5 +200,6 @@ placeholder197	197																																																														
 placeholder198	198																																																																					0
 placeholder199	199																																																																					0
 placeholder200	200																																																																					0
-breakthrough	201																																									breakthrough																												0
-intimidate	202																																																																					0
+furystate	201																																																																					0
+breakthrough	202																																									breakthrough																												0
+intimidate	203																																																																					0

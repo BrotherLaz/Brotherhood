@@ -5444,12 +5444,12 @@
         {
             "type": "AnimationState",
             "name": "AnimationState150",
-            "_name": "SuperImpale_Seq",
+            "_name": "NewImpale_Seq",
             "audioId": "",
             "loopCount": 1,
             "stateId": 75,
             "modeId": 18,
-            "skillIndex": 478,
+            "skillIndex": 490,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -5477,12 +5477,12 @@
         {
             "type": "AnimationState",
             "name": "AnimationState151",
-            "_name": "PounceBash_Seq",
+            "_name": "Lunge_Seq",
             "audioId": "",
             "loopCount": 1,
             "stateId": 76,
             "modeId": 18,
-            "skillIndex": 479,
+            "skillIndex": 493,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -5546,12 +5546,12 @@
         {
             "type": "AnimationState",
             "name": "AnimationState153",
-            "_name": "SuperJab_Seq",
+            "_name": "NewJab_Seq",
             "audioId": "",
             "loopCount": 0,
             "stateId": 78,
             "modeId": 18,
-            "skillIndex": 481,
+            "skillIndex": 489,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -5579,12 +5579,12 @@
         {
             "type": "AnimationState",
             "name": "AnimationState154",
-            "_name": "SuperImpactJab_Seq",
+            "_name": "Breakthrough_Seq",
             "audioId": "",
             "loopCount": 1,
             "stateId": 79,
             "modeId": 18,
-            "skillIndex": 482,
+            "skillIndex": 498,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
