@@ -5581,7 +5581,7 @@
             "name": "AnimationState154",
             "_name": "Breakthrough_Seq",
             "audioId": "",
-            "loopCount": 1,
+            "loopCount": 0,
             "stateId": 79,
             "modeId": 18,
             "skillIndex": 498,

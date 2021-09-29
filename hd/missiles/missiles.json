@@ -698,7 +698,7 @@
     "recklessattacksmissile": "expansion_shockwave",
     "testfirebolt": "firebolt",
     "cracklingstrikecenter": "null",
-    "cracklingstrikewave": "lightningstrike",
+    "cracklingstrikewave": "charged_bolt",
     "pantheonstrikewave": "lightning_bolt",
     "windshearwave": "expansion_hurricane_swoosh",
     "tremorcenter": "null",
@@ -715,5 +715,7 @@
     "najastriketripbomb": "expansion_fire_spikes_ground",
     "thumperdeploy": "expansion_caltrops",
     "thumpertrap": "expansion_caltrops",
-    "thumperwave": "expansion_shockwave"
+    "thumperwave": "expansion_shockwave",
+    "revengecenter": "null",
+    "revengewave": "expansion_hurricane_swoosh"
 }

@@ -202,9 +202,22 @@ placeholder199	199																																																														
 placeholder200	200																																																																					0
 furystate	201																																																																					0
 breakthrough	202																																									breakthrough																												0
-intimidate	203																																																																					0
+intimidate	203							1																																																														0
 enabler	204									1																																																												0
 twinfang	205																																																																					0
-instawolf	206	3			1	1				1	1	1	1																									1		1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
+instawolf	206	3			1	1				1	1	1	1																											1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
 instabear	207	3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
 instarat	208	3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
+bloodmoon	209																																																																					0
+hitbymonster	210									1																																																												0
+enablehitbymonster	211																																																																					0
+retaliate	212																																																																					0
+retribute	213																																																																					0
+revenge	214																																																																					0
+helldive	215						1	1														1																				defense_curse							skill_armor_percent																					0
+converter	216																																																																					0
+impalestate	217																																																																					0
+cracklingstrikestate	218																																																																					0
+pantheonstrikestate	219																																																																					0
+battlemeditation	220																																																																					0
+skewer	221																																																																					0
