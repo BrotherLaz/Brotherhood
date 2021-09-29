@@ -6467,7 +6467,7 @@
             "loopCount": 0,
             "stateId": 75,
             "modeId": 18,
-            "skillIndex": 432,
+            "skillIndex": 433,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -6495,12 +6495,12 @@
         {
             "type": "AnimationState",
             "name": "AnimationState151",
-            "_name": "Tele_Seq",
+            "_name": "TwinAttack_Seq",
             "audioId": "",
             "loopCount": 1,
             "stateId": 76,
             "modeId": 18,
-            "skillIndex": 429,
+            "skillIndex": 431,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -6520,6 +6520,202 @@
                 ],
                 "ht2": [
                     "ht2_sequence"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState152",
+            "_name": "Skill_DragonFlight_Kick",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 77,
+            "modeId": 18,
+            "skillIndex": 435,
+            "stepIndex": 1,
+            "animationBindings": {
+                "hth": [
+                    "hth_dragonflight_kick"
+                ],
+                "bow": [
+                    "bow_dragonflight_kick"
+                ],
+                "1hs": [
+                    "1hs_dragonflight_kick"
+                ],
+                "1ht": [
+                    "1ht_dragonflight_kick"
+                ],
+                "stf": [
+                    "stf_dragonflight_kick"
+                ],
+                "2hs": [
+                    "2hs_dragonflight_kick"
+                ],
+                "2ht": [
+                    "2ht_dragonflight_kick"
+                ],
+                "xbw": [
+                    "xbw_dragonflight_kick"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [
+                    "ht1_dragonflight_kick"
+                ],
+                "ht2": [
+                    "ht2_dragonflight_kick"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState153",
+            "_name": "Skill_DragonFlight_Start",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 78,
+            "modeId": 18,
+            "skillIndex": 435,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "hth_dragonflight_start"
+                ],
+                "bow": [
+                    "bow_dragonflight_start"
+                ],
+                "1hs": [
+                    "1hs_dragonflight_start"
+                ],
+                "1ht": [
+                    "1ht_dragonflight_start"
+                ],
+                "stf": [
+                    "stf_dragonflight_start"
+                ],
+                "2hs": [
+                    "2hs_dragonflight_start"
+                ],
+                "2ht": [
+                    "2ht_dragonflight_start"
+                ],
+                "xbw": [
+                    "xbw_dragonflight_start"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [
+                    "ht1_dragonflight_start"
+                ],
+                "ht2": [
+                    "ht2_dragonflight_start"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState154",
+            "_name": "Skill_DragonTalon_FirstAttack",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 79,
+            "modeId": 18,
+            "skillIndex": 430,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "hth_dragontalon_start"
+                ],
+                "bow": [
+                    "bow_dragontalon_start"
+                ],
+                "1hs": [
+                    "1hs_dragontalon_start"
+                ],
+                "1ht": [
+                    "1ht_dragontalon_start"
+                ],
+                "stf": [
+                    "stf_dragontalon_start"
+                ],
+                "2hs": [
+                    "2hs_dragontalon_start"
+                ],
+                "2ht": [
+                    "2ht_dragontalon_start"
+                ],
+                "xbw": [
+                    "xbw_dragontalon_start"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [
+                    "ht1_dragontalon_start"
+                ],
+                "ht2": [
+                    "ht2_dragontalon_start"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState155",
+            "_name": "Skill_DragonTalon_FollowUpAttack",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 80,
+            "modeId": 18,
+            "skillIndex": 430,
+            "stepIndex": 1,
+            "animationBindings": {
+                "hth": [
+                    "hth_dragontalon_loop"
+                ],
+                "bow": [
+                    "bow_dragontalon_loop"
+                ],
+                "1hs": [
+                    "1hs_dragontalon_loop"
+                ],
+                "1ht": [
+                    "1ht_dragontalon_loop"
+                ],
+                "stf": [
+                    "stf_dragontalon_loop"
+                ],
+                "2hs": [
+                    "2hs_dragontalon_loop"
+                ],
+                "2ht": [
+                    "2ht_dragontalon_loop"
+                ],
+                "xbw": [
+                    "xbw_dragontalon_loop"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [
+                    "ht1_dragontalon_loop"
+                ],
+                "ht2": [
+                    "ht2_dragontalon_loop"
                 ]
             },
             "enterEvents": [],

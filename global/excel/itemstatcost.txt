@@ -360,3 +360,23 @@ passive_mag_mastery	357		1	12											1211	431		8	0	9	50																						
 passive_mag_pierce	358		1	9												2812		8	0	8	0																														0
 skill_cooldown	359			32	16																																														0
 skill_missile_damage_scale	360			32	16																																														0
+placeholder361	361																	14	0																																0
+placeholder362	362																	14	0																																0
+placeholder363	363																	14	0																																0
+placeholder364	364																	14	0																																0
+placeholder365	365																	14	0																																0
+placeholder366	366																	14	0																																0
+placeholder367	367																	14	0																																0
+placeholder368	368																	14	0																																0
+placeholder369	369																	14	0																																0
+placeholder370	370																	14	0																																0
+placeholder371	371																	14	0																																0
+placeholder372	372																	14	0																																0
+placeholder373	373																	14	0																																0
+placeholder374	374																	14	0																																0
+placeholder375	375																	14	0																																0
+placeholder376	376																	14	0																																0
+placeholder377	377																	14	0																																0
+placeholder378	378																	14	0																																0
+item_healonstriking	379		1	7							1				81	49		6	0	9	0												domeleedamage	28	domissiledamage	28	17	19		ModLifeOnStriking	ModLifeOnStriking										0
+item_manaonstriking	380		1	7							1				81	49		6	0	9	0												domeleedamage	17	domissiledamage	17	17	19		ModManaOnStriking	ModManaOnStriking										0

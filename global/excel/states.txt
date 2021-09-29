@@ -203,3 +203,8 @@ placeholder200	200																																																														
 furystate	201																																																																					0
 breakthrough	202																																									breakthrough																												0
 intimidate	203																																																																					0
+enabler	204									1																																																												0
+twinfang	205																																																																					0
+instawolf	206	3			1	1				1	1	1	1																									1		1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
+instabear	207	3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
+instarat	208	3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
