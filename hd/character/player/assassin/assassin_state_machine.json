@@ -6533,7 +6533,7 @@
             "loopCount": 1,
             "stateId": 77,
             "modeId": 18,
-            "skillIndex": 435,
+            "skillIndex": 436,
             "stepIndex": 1,
             "animationBindings": {
                 "hth": [
@@ -6582,7 +6582,7 @@
             "loopCount": 1,
             "stateId": 78,
             "modeId": 18,
-            "skillIndex": 435,
+            "skillIndex": 436,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [

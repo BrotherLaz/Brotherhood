@@ -217,7 +217,7 @@ revenge	214																																																																					
 helldive	215						1	1														1																				defense_curse							skill_armor_percent																					0
 converter	216																																																																					0
 impalestate	217																																																																					0
-cracklingstrikestate	218																																																																					0
-pantheonstrikestate	219																																																																					0
+enchantedspear	218																																																																					0
+wrathofthewastes	219																																																																					0
 battlemeditation	220																																																																					0
 skewer	221																																																																					0
