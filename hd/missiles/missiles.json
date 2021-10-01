@@ -708,9 +708,9 @@
     "turtlestrikecenter": "null",
     "tigerstrikewave": "expansion_bladefury_b",
     "tigerstrikewall": "expansion_bladefury_c",
-    "hornetstrikecenter": "null",
-    "hornetstrikeout": "frost_nova",
-    "hornetstrikein": "frost_nova",
+    "rollingthunderwave": "electric_nova",
+    "roarstuncenter": "null",
+    "roarstunwave": "rock_large",
     "najastrikewave": "expansion_fire_spikes",
     "najastriketripbomb": "expansion_fire_spikes_ground",
     "thumperdeploy": "expansion_caltrops",
@@ -719,5 +719,9 @@
     "bearstrikecenter": "bighead_lightning_missile",
     "bearstrikewave": "bighead_lightning_missile",
     "revengecenter": "null",
-    "revengewave": "expansion_hurricane_swoosh"
+    "revengewave": "expansion_hurricane_swoosh",
+    "roarwave": "expansion_lightningpiece",
+    "pouncecenter": "null",
+    "pouncewave": "b_a_yell_shock_wave_01",
+    "stormbringermissile": "lightning_bolt"
 }

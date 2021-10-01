@@ -5,216 +5,241 @@
         "skeletons": [],
         "animations": [
             {
-                "path": "data/hd/character/enemy/bear/animation/180_turn_ccw.animation"
+                "path": "data/hd/character/enemy/wolf/animation/180_turn_ccw.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/180_turn_cw.animation"
+                "path": "data/hd/character/enemy/wolf/animation/180_turn_cw.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/additive_aim_up_down.animation"
+                "path": "data/hd/character/enemy/wolf/animation/additive_aim_up_down.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/additive_look_left_right.animation"
+                "path": "data/hd/character/enemy/wolf/animation/additive_look_left_right.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/additive_look_up_down.animation"
+                "path": "data/hd/character/enemy/wolf/animation/additive_look_up_down.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/attack1.animation"
+                "path": "data/hd/character/enemy/wolf/animation/attack1.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/attack2.animation"
+                "path": "data/hd/character/enemy/wolf/animation/attack2.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/block.animation"
+                "path": "data/hd/character/enemy/wolf/animation/attackfury1.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/cast.animation"
+                "path": "data/hd/character/enemy/wolf/animation/attackfury2.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/dead.animation"
+                "path": "data/hd/character/enemy/wolf/animation/block.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/death.animation"
+                "path": "data/hd/character/enemy/wolf/animation/cast.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/fidget_01.animation"
+                "path": "data/hd/character/enemy/wolf/animation/dead.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/fidget_02.animation"
+                "path": "data/hd/character/enemy/wolf/animation/death.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/gethit.animation"
+                "path": "data/hd/character/enemy/wolf/animation/fidget_01.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/knockback.animation"
+                "path": "data/hd/character/enemy/wolf/animation/fidget_02.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/neutral.animation"
+                "path": "data/hd/character/enemy/wolf/animation/gethit.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/run.animation"
+                "path": "data/hd/character/enemy/wolf/animation/knockback.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/skill1.animation"
+                "path": "data/hd/character/enemy/wolf/animation/neutral.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/skill2.animation"
+                "path": "data/hd/character/enemy/wolf/animation/run.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/skill3.animation"
+                "path": "data/hd/character/enemy/wolf/animation/skill1.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/skill4.animation"
+                "path": "data/hd/character/enemy/wolf/animation/skill2.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/start_run.animation"
+                "path": "data/hd/character/enemy/wolf/animation/skill3.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/stop_run.animation"
+                "path": "data/hd/character/enemy/wolf/animation/skill4.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/transformation.animation"
+                "path": "data/hd/character/enemy/wolf/animation/start_run.animation"
             },
             {
-                "path": "data/hd/character/enemy/bear/animation/walk.animation"
+                "path": "data/hd/character/enemy/wolf/animation/stop_run.animation"
+            },
+            {
+                "path": "data/hd/character/enemy/wolf/animation/transformation.animation"
+            },
+            {
+                "path": "data/hd/character/enemy/wolf/animation/walk.animation"
             }
         ],
         "textures": [],
         "physics": [],
-        "json": [],
+        "json": [
+            {
+                "path": "data/hd/character/enemy/wolf/animation/attack1.json"
+            },
+            {
+                "path": "data/hd/character/enemy/wolf/animation/attack2.json"
+            }
+        ],
         "variantdata": [],
         "objecteffects": [],
         "other": []
     },
     "type": "AnimationStateMachine",
-    "name": "bear_statemachine",
+    "name": "wolf_statemachine",
     "unitType": "UNIT_MONSTER",
     "animations": [
         {
             "type": "AnimationItem",
             "name": "death",
-            "filename": "data/hd/character/enemy/bear/animation/death.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/death.animation"
         },
         {
             "type": "AnimationItem",
             "name": "neutral",
-            "filename": "data/hd/character/enemy/bear/animation/neutral.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/neutral.animation"
         },
         {
             "type": "AnimationItem",
             "name": "walk",
-            "filename": "data/hd/character/enemy/bear/animation/walk.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/walk.animation"
         },
         {
             "type": "AnimationItem",
             "name": "gethit",
-            "filename": "data/hd/character/enemy/bear/animation/gethit.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/gethit.animation"
         },
         {
             "type": "AnimationItem",
             "name": "attack1",
-            "filename": "data/hd/character/enemy/bear/animation/attack1.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/attack1.animation"
         },
         {
             "type": "AnimationItem",
             "name": "block",
-            "filename": "data/hd/character/enemy/bear/animation/block.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/block.animation"
         },
         {
             "type": "AnimationItem",
             "name": "cast",
-            "filename": "data/hd/character/enemy/bear/animation/cast.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/cast.animation"
         },
         {
             "type": "AnimationItem",
             "name": "skill1",
-            "filename": "data/hd/character/enemy/bear/animation/skill1.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/skill1.animation"
         },
         {
             "type": "AnimationItem",
             "name": "dead",
-            "filename": "data/hd/character/enemy/bear/animation/dead.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/dead.animation"
         },
         {
             "type": "AnimationItem",
             "name": "knockback",
-            "filename": "data/hd/character/enemy/bear/animation/knockback.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/knockback.animation"
         },
         {
             "type": "AnimationItem",
             "name": "run",
-            "filename": "data/hd/character/enemy/bear/animation/run.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/run.animation"
         },
         {
             "type": "AnimationItem",
             "name": "attack2",
-            "filename": "data/hd/character/enemy/bear/animation/attack2.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/attack2.animation"
         },
         {
             "type": "AnimationItem",
             "name": "skill2",
-            "filename": "data/hd/character/enemy/bear/animation/skill2.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/skill2.animation"
         },
         {
             "type": "AnimationItem",
             "name": "skill3",
-            "filename": "data/hd/character/enemy/bear/animation/skill3.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/skill3.animation"
         },
         {
             "type": "AnimationItem",
             "name": "skill4",
-            "filename": "data/hd/character/enemy/bear/animation/skill4.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/skill4.animation"
         },
         {
             "type": "AnimationItem",
             "name": "start_run",
-            "filename": "data/hd/character/enemy/bear/animation/start_run.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/start_run.animation"
         },
         {
             "type": "AnimationItem",
             "name": "stop_run",
-            "filename": "data/hd/character/enemy/bear/animation/stop_run.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/stop_run.animation"
         },
         {
             "type": "AnimationItem",
             "name": "180_turn_ccw",
-            "filename": "data/hd/character/enemy/bear/animation/180_turn_ccw.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/180_turn_ccw.animation"
         },
         {
             "type": "AnimationItem",
             "name": "180_turn_cw",
-            "filename": "data/hd/character/enemy/bear/animation/180_turn_cw.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/180_turn_cw.animation"
         },
         {
             "type": "AnimationItem",
             "name": "fidget_01",
-            "filename": "data/hd/character/enemy/bear/animation/fidget_01.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/fidget_01.animation"
         },
         {
             "type": "AnimationItem",
             "name": "fidget_02",
-            "filename": "data/hd/character/enemy/bear/animation/fidget_02.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/fidget_02.animation"
         },
         {
             "type": "AnimationItem",
             "name": "transformation",
-            "filename": "data/hd/character/enemy/bear/animation/transformation.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/transformation.animation"
         },
         {
             "type": "AnimationItem",
             "name": "additive_look_left_right",
-            "filename": "data/hd/character/enemy/bear/animation/additive_look_left_right.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/additive_look_left_right.animation"
         },
         {
             "type": "AnimationItem",
             "name": "additive_look_up_down",
-            "filename": "data/hd/character/enemy/bear/animation/additive_look_up_down.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/additive_look_up_down.animation"
         },
         {
             "type": "AnimationItem",
             "name": "additive_aim_up_down",
-            "filename": "data/hd/character/enemy/bear/animation/additive_aim_up_down.animation"
+            "filename": "data/hd/character/enemy/wolf/animation/additive_aim_up_down.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "attackfury2",
+            "filename": "data/hd/character/enemy/wolf/animation/attackfury2.animation",
+            "timeline": "data/hd/character/enemy/wolf/animation/attack2.json"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "attackfury1",
+            "filename": "data/hd/character/enemy/wolf/animation/attackfury1.animation",
+            "timeline": "data/hd/character/enemy/wolf/animation/attack1.json"
         }
     ],
     "states": [
@@ -1076,37 +1101,37 @@
         {
             "type": "AnimationState",
             "name": "AnimationState",
-            "_name": "Hunger_skill",
+            "_name": "Run_start",
             "audioId": "",
             "loopCount": 1,
             "stateId": 15,
-            "modeId": 14,
-            "skillIndex": 242,
+            "modeId": 100,
+            "skillIndex": -1,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
-                    "skill3"
+                    "start_run"
                 ],
                 "bow": [
-                    "skill3"
+                    "start_run"
                 ],
                 "1hs": [
-                    "skill3"
+                    "start_run"
                 ],
                 "1ht": [
-                    "skill3"
+                    "start_run"
                 ],
                 "stf": [
-                    "skill3"
+                    "start_run"
                 ],
                 "2hs": [
-                    "skill3"
+                    "start_run"
                 ],
                 "2ht": [
-                    "skill3"
+                    "start_run"
                 ],
                 "xbw": [
-                    "skill3"
+                    "start_run"
                 ],
                 "1js": [],
                 "1jt": [],
@@ -1121,7 +1146,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState001",
-            "_name": "Run_start",
+            "_name": "Run_stop",
             "audioId": "",
             "loopCount": 1,
             "stateId": 16,
@@ -1130,28 +1155,28 @@
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
-                    "start_run"
+                    "stop_run"
                 ],
                 "bow": [
-                    "start_run"
+                    "stop_run"
                 ],
                 "1hs": [
-                    "start_run"
+                    "stop_run"
                 ],
                 "1ht": [
-                    "start_run"
+                    "stop_run"
                 ],
                 "stf": [
-                    "start_run"
+                    "stop_run"
                 ],
                 "2hs": [
-                    "start_run"
+                    "stop_run"
                 ],
                 "2ht": [
-                    "start_run"
+                    "stop_run"
                 ],
                 "xbw": [
-                    "start_run"
+                    "stop_run"
                 ],
                 "1js": [],
                 "1jt": [],
@@ -1166,7 +1191,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState002",
-            "_name": "Run_stop",
+            "_name": "Run_Turn_180_CCW",
             "audioId": "",
             "loopCount": 1,
             "stateId": 17,
@@ -1175,28 +1200,28 @@
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
-                    "stop_run"
+                    "180_turn_ccw"
                 ],
                 "bow": [
-                    "stop_run"
+                    "180_turn_ccw"
                 ],
                 "1hs": [
-                    "stop_run"
+                    "180_turn_ccw"
                 ],
                 "1ht": [
-                    "stop_run"
+                    "180_turn_ccw"
                 ],
                 "stf": [
-                    "stop_run"
+                    "180_turn_ccw"
                 ],
                 "2hs": [
-                    "stop_run"
+                    "180_turn_ccw"
                 ],
                 "2ht": [
-                    "stop_run"
+                    "180_turn_ccw"
                 ],
                 "xbw": [
-                    "stop_run"
+                    "180_turn_ccw"
                 ],
                 "1js": [],
                 "1jt": [],
@@ -1211,7 +1236,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState003",
-            "_name": "Run_Turn_180_CCW",
+            "_name": "Run_Turn_180_CW",
             "audioId": "",
             "loopCount": 1,
             "stateId": 18,
@@ -1220,28 +1245,28 @@
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
-                    "180_turn_ccw"
+                    "180_turn_cw"
                 ],
                 "bow": [
-                    "180_turn_ccw"
+                    "180_turn_cw"
                 ],
                 "1hs": [
-                    "180_turn_ccw"
+                    "180_turn_cw"
                 ],
                 "1ht": [
-                    "180_turn_ccw"
+                    "180_turn_cw"
                 ],
                 "stf": [
-                    "180_turn_ccw"
+                    "180_turn_cw"
                 ],
                 "2hs": [
-                    "180_turn_ccw"
+                    "180_turn_cw"
                 ],
                 "2ht": [
-                    "180_turn_ccw"
+                    "180_turn_cw"
                 ],
                 "xbw": [
-                    "180_turn_ccw"
+                    "180_turn_cw"
                 ],
                 "1js": [],
                 "1jt": [],
@@ -1256,7 +1281,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState004",
-            "_name": "Run_Turn_180_CW",
+            "_name": "Fidget01",
             "audioId": "",
             "loopCount": 1,
             "stateId": 19,
@@ -1265,28 +1290,28 @@
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
-                    "180_turn_cw"
+                    "fidget_01"
                 ],
                 "bow": [
-                    "180_turn_cw"
+                    "fidget_01"
                 ],
                 "1hs": [
-                    "180_turn_cw"
+                    "fidget_01"
                 ],
                 "1ht": [
-                    "180_turn_cw"
+                    "fidget_01"
                 ],
                 "stf": [
-                    "180_turn_cw"
+                    "fidget_01"
                 ],
                 "2hs": [
-                    "180_turn_cw"
+                    "fidget_01"
                 ],
                 "2ht": [
-                    "180_turn_cw"
+                    "fidget_01"
                 ],
                 "xbw": [
-                    "180_turn_cw"
+                    "fidget_01"
                 ],
                 "1js": [],
                 "1jt": [],
@@ -1301,7 +1326,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState005",
-            "_name": "Fidget01",
+            "_name": "Fidget02",
             "audioId": "",
             "loopCount": 1,
             "stateId": 20,
@@ -1310,28 +1335,28 @@
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
-                    "fidget_01"
+                    "fidget_02"
                 ],
                 "bow": [
-                    "fidget_01"
+                    "fidget_02"
                 ],
                 "1hs": [
-                    "fidget_01"
+                    "fidget_02"
                 ],
                 "1ht": [
-                    "fidget_01"
+                    "fidget_02"
                 ],
                 "stf": [
-                    "fidget_01"
+                    "fidget_02"
                 ],
                 "2hs": [
-                    "fidget_01"
+                    "fidget_02"
                 ],
                 "2ht": [
-                    "fidget_01"
+                    "fidget_02"
                 ],
                 "xbw": [
-                    "fidget_01"
+                    "fidget_02"
                 ],
                 "1js": [],
                 "1jt": [],
@@ -1346,37 +1371,37 @@
         {
             "type": "AnimationState",
             "name": "AnimationState006",
-            "_name": "Fidget02",
+            "_name": "Skill_Fury_Sequence_Initial_Hit",
             "audioId": "",
             "loopCount": 1,
             "stateId": 21,
-            "modeId": 100,
-            "skillIndex": -1,
+            "modeId": 14,
+            "skillIndex": 248,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
-                    "fidget_02"
+                    "attack1"
                 ],
                 "bow": [
-                    "fidget_02"
+                    "attack1"
                 ],
                 "1hs": [
-                    "fidget_02"
+                    "attack1"
                 ],
                 "1ht": [
-                    "fidget_02"
+                    "attack1"
                 ],
                 "stf": [
-                    "fidget_02"
+                    "attack1"
                 ],
                 "2hs": [
-                    "fidget_02"
+                    "attack1"
                 ],
                 "2ht": [
-                    "fidget_02"
+                    "attack1"
                 ],
                 "xbw": [
-                    "fidget_02"
+                    "attack1"
                 ],
                 "1js": [],
                 "1jt": [],
@@ -1395,51 +1420,6 @@
             "audioId": "",
             "loopCount": 1,
             "stateId": 22,
-            "modeId": 7,
-            "skillIndex": 228,
-            "stepIndex": 0,
-            "animationBindings": {
-                "hth": [
-                    "transformation"
-                ],
-                "bow": [
-                    "transformation"
-                ],
-                "1hs": [
-                    "transformation"
-                ],
-                "1ht": [
-                    "transformation"
-                ],
-                "stf": [
-                    "transformation"
-                ],
-                "2hs": [
-                    "transformation"
-                ],
-                "2ht": [
-                    "transformation"
-                ],
-                "xbw": [
-                    "transformation"
-                ],
-                "1js": [],
-                "1jt": [],
-                "1ss": [],
-                "1st": [],
-                "ht1": [],
-                "ht2": []
-            },
-            "enterEvents": [],
-            "exitEvents": []
-        },
-        {
-            "type": "AnimationState",
-            "name": "AnimationState008",
-            "_name": "Transformation_Werewolf",
-            "audioId": "",
-            "loopCount": 1,
-            "stateId": 23,
             "modeId": 7,
             "skillIndex": 223,
             "stepIndex": 0,
@@ -1480,38 +1460,38 @@
         },
         {
             "type": "AnimationState",
-            "name": "AnimationState009",
-            "_name": "HeadAimLayer_Yaw",
+            "name": "AnimationState008",
+            "_name": "Transformation_Werebear",
             "audioId": "",
             "loopCount": 1,
-            "stateId": 24,
-            "modeId": 100,
-            "skillIndex": -1,
+            "stateId": 23,
+            "modeId": 7,
+            "skillIndex": 228,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
-                    "additive_look_left_right"
+                    "transformation"
                 ],
                 "bow": [
-                    "additive_look_left_right"
+                    "transformation"
                 ],
                 "1hs": [
-                    "additive_look_left_right"
+                    "transformation"
                 ],
                 "1ht": [
-                    "additive_look_left_right"
+                    "transformation"
                 ],
                 "stf": [
-                    "additive_look_left_right"
+                    "transformation"
                 ],
                 "2hs": [
-                    "additive_look_left_right"
+                    "transformation"
                 ],
                 "2ht": [
-                    "additive_look_left_right"
+                    "transformation"
                 ],
                 "xbw": [
-                    "additive_look_left_right"
+                    "transformation"
                 ],
                 "1js": [],
                 "1jt": [],
@@ -1525,8 +1505,66 @@
         },
         {
             "type": "AnimationState",
+            "name": "AnimationState009",
+            "_name": "Skill_Fury_Sequence_Follow_Up",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 24,
+            "modeId": 14,
+            "skillIndex": 248,
+            "stepIndex": 1,
+            "animationBindings": {
+                "hth": [
+                    "attackfury2",
+                    "attackfury1"
+                ],
+                "bow": [
+                    "attack1"
+                ],
+                "1hs": [
+                    "attack1"
+                ],
+                "1ht": [
+                    "attack1"
+                ],
+                "stf": [
+                    "attack1"
+                ],
+                "2hs": [
+                    "attack1"
+                ],
+                "2ht": [
+                    "attack1"
+                ],
+                "xbw": [
+                    "attack1"
+                ],
+                "1js": [
+                    "attack1"
+                ],
+                "1jt": [
+                    "attack1"
+                ],
+                "1ss": [
+                    "attack1"
+                ],
+                "1st": [
+                    "attack1"
+                ],
+                "ht1": [
+                    "attack1"
+                ],
+                "ht2": [
+                    "attack1"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
             "name": "AnimationState010",
-            "_name": "HeadAimLayer_Pitch",
+            "_name": "HeadAimLayer_Yaw",
             "audioId": "",
             "loopCount": 1,
             "stateId": 25,
@@ -1535,28 +1573,28 @@
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
-                    "additive_look_up_down"
+                    "additive_look_left_right"
                 ],
                 "bow": [
-                    "additive_look_up_down"
+                    "additive_look_left_right"
                 ],
                 "1hs": [
-                    "additive_look_up_down"
+                    "additive_look_left_right"
                 ],
                 "1ht": [
-                    "additive_look_up_down"
+                    "additive_look_left_right"
                 ],
                 "stf": [
-                    "additive_look_up_down"
+                    "additive_look_left_right"
                 ],
                 "2hs": [
-                    "additive_look_up_down"
+                    "additive_look_left_right"
                 ],
                 "2ht": [
-                    "additive_look_up_down"
+                    "additive_look_left_right"
                 ],
                 "xbw": [
-                    "additive_look_up_down"
+                    "additive_look_left_right"
                 ],
                 "1js": [],
                 "1jt": [],
@@ -1571,10 +1609,55 @@
         {
             "type": "AnimationState",
             "name": "AnimationState011",
-            "_name": "MeleeAimLayer",
+            "_name": "HeadAimLayer_Pitch",
             "audioId": "",
             "loopCount": 1,
             "stateId": 26,
+            "modeId": 100,
+            "skillIndex": -1,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "additive_look_up_down"
+                ],
+                "bow": [
+                    "additive_look_up_down"
+                ],
+                "1hs": [
+                    "additive_look_up_down"
+                ],
+                "1ht": [
+                    "additive_look_up_down"
+                ],
+                "stf": [
+                    "additive_look_up_down"
+                ],
+                "2hs": [
+                    "additive_look_up_down"
+                ],
+                "2ht": [
+                    "additive_look_up_down"
+                ],
+                "xbw": [
+                    "additive_look_up_down"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState012",
+            "_name": "MeleeAimLayer",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 27,
             "modeId": 100,
             "skillIndex": -1,
             "stepIndex": 0,
@@ -1615,45 +1698,71 @@
         },
         {
             "type": "AnimationState",
-            "name": "AnimationState023",
-            "_name": "Execute_Skill",
+            "name": "State_Ravage",
+            "_name": "Ravage",
             "audioId": "",
             "loopCount": 1,
             "stateId": 28,
-            "modeId": 14,
-            "skillIndex": 555,
+            "modeId": 4,
+            "skillIndex": 554,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
-                    "skill3"
+                    "attack1",
+                    "attack2"
                 ],
                 "bow": [
-                    "skill3"
+                    "attack1",
+                    "attack2"
                 ],
                 "1hs": [
-                    "skill3"
+                    "attack1",
+                    "attack2"
                 ],
                 "1ht": [
-                    "skill3"
+                    "attack1",
+                    "attack2"
                 ],
                 "stf": [
-                    "skill3"
+                    "attack1",
+                    "attack2"
                 ],
                 "2hs": [
-                    "skill3"
+                    "attack1",
+                    "attack2"
                 ],
                 "2ht": [
-                    "skill3"
+                    "attack1",
+                    "attack2"
                 ],
                 "xbw": [
-                    "skill3"
+                    "attack1",
+                    "attack2"
                 ],
-                "1js": [],
-                "1jt": [],
-                "1ss": [],
-                "1st": [],
-                "ht1": [],
-                "ht2": []
+                "1js": [
+                    "attack1",
+                    "attack2"
+                ],
+                "1jt": [
+                    "attack1",
+                    "attack2"
+                ],
+                "1ss": [
+                    "attack1",
+                    "attack2"
+                ],
+                "1st": [
+                    "attack1",
+                    "attack2"
+                ],
+                "ht1": [
+                    "attack1",
+                    "attack2"
+                ],
+                "ht2": [
+                    "attack1",
+                    "attack2"
+                ]
             },
             "enterEvents": [],
             "exitEvents": []
@@ -1788,7 +1897,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Death_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
@@ -1826,6 +1935,12 @@
                     "name": "Death_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Death_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -1849,19 +1964,19 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transition_to_GetHit",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transition_to_Attack1",
-                    "crossfadeSeconds": 0.06,
+                    "crossfadeSeconds": 0.2,
                     "to": 4
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transition_to_Attack16",
-                    "crossfadeSeconds": 0.06,
+                    "crossfadeSeconds": 0.2,
                     "to": 5
                 },
                 {
@@ -1873,7 +1988,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transition_to_Cast",
-                    "crossfadeSeconds": 0.08,
+                    "crossfadeSeconds": 0.2,
                     "to": 7
                 },
                 {
@@ -1891,13 +2006,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transition_to_Skill17",
-                    "crossfadeSeconds": 0.06,
+                    "crossfadeSeconds": 0.1,
                     "to": 10
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transition_to_Skill18",
-                    "crossfadeSeconds": 0.05,
+                    "crossfadeSeconds": 0.1,
                     "to": 11
                 },
                 {
@@ -1909,7 +2024,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transition_to_Knockback",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -1927,13 +2042,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transitions_transition001",
-                    "crossfadeSeconds": 0.05,
+                    "crossfadeSeconds": 0.2,
                     "to": 15
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transitions_transition002",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
@@ -1945,25 +2060,25 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transitions_transition004",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 18
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transitions_transition005",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 19
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.05,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Neutral_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -1995,6 +2110,12 @@
                     "name": "Neutral_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Neutral_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -2018,7 +2139,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Walk_transition_to_GetHit",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -2036,7 +2157,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Walk_transition_to_Block",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 6
                 },
                 {
@@ -2078,7 +2199,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Walk_transition_to_Knockback",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -2102,7 +2223,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Walk_transitions_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
@@ -2126,13 +2247,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Walk_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Walk_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -2164,6 +2285,12 @@
                     "name": "Walk_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Walk_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -2187,19 +2314,19 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transition_to_Walk",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 2
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transition_to_Attack1",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 4
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transition_to_Attack16",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 5
                 },
                 {
@@ -2211,31 +2338,31 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transition_to_Cast",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 7
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transition_to_Skill1",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 8
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transition_to_Skill16",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 9
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transition_to_Skill17",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 10
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transition_to_Skill18",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 11
                 },
                 {
@@ -2247,19 +2374,19 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transition_to_Knockback",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transition_to_Run",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 14
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transitions_transition",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -2271,7 +2398,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transitions_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
@@ -2295,13 +2422,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "GetHit_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -2333,6 +2460,12 @@
                     "name": "GetHit_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "GetHit_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -2350,7 +2483,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack1_transition_to_Neutral",
-                    "crossfadeSeconds": 0.06,
+                    "crossfadeSeconds": 0.2,
                     "to": 1
                 },
                 {
@@ -2362,7 +2495,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack1_transition_to_GetHit",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -2416,7 +2549,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack1_transition_to_Knockback",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -2440,19 +2573,19 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack1_transitions_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack1_transitions_transition003",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 17
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack1_transitions_transition004",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 18
                 },
                 {
@@ -2464,13 +2597,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack1_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack1_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -2502,6 +2635,12 @@
                     "name": "Attack1_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Attack1_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -2519,7 +2658,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack16_transition_to_Neutral",
-                    "crossfadeSeconds": 0.06,
+                    "crossfadeSeconds": 0.2,
                     "to": 1
                 },
                 {
@@ -2531,7 +2670,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack16_transition_to_GetHit",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -2585,7 +2724,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack16_transition_to_Knockback",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -2609,19 +2748,19 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack16_transitions_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack16_transitions_transition003",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 17
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack16_transitions_transition004",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 18
                 },
                 {
@@ -2633,13 +2772,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack16_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Attack16_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -2671,6 +2810,12 @@
                     "name": "Attack16_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Attack16_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -2688,13 +2833,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transition_to_Neutral",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 1
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transition_to_Walk",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 2
                 },
                 {
@@ -2706,31 +2851,31 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transition_to_Attack1",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 4
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transition_to_Attack16",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 5
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transition_to_Cast",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 7
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transition_to_Skill1",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 8
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transition_to_Skill16",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 9
                 },
                 {
@@ -2742,7 +2887,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transition_to_Skill18",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 11
                 },
                 {
@@ -2754,13 +2899,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transition_to_Knockback",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transition_to_Run",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 14
                 },
                 {
@@ -2778,7 +2923,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transitions_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
@@ -2802,13 +2947,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Block_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -2840,6 +2985,12 @@
                     "name": "Block_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Block_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -2857,7 +3008,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Cast_transition_to_Neutral",
-                    "crossfadeSeconds": 0.08,
+                    "crossfadeSeconds": 0.2,
                     "to": 1
                 },
                 {
@@ -2923,7 +3074,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Cast_transition_to_Knockback",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -2947,7 +3098,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Cast_transitions_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
@@ -2971,13 +3122,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Cast_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Cast_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -3009,6 +3160,12 @@
                     "name": "Cast_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Cast_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -3026,7 +3183,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill1_transition_to_Neutral",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.1,
                     "to": 1
                 },
                 {
@@ -3038,7 +3195,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill1_transition_to_GetHit",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -3056,7 +3213,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill1_transition_to_Block",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 6
                 },
                 {
@@ -3092,7 +3249,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill1_transition_to_Knockback",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -3116,7 +3273,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill1_transitions_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
@@ -3140,13 +3297,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill1_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill1_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -3178,6 +3335,12 @@
                     "name": "Skill1_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Skill1_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -3207,7 +3370,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill16_transition_to_GetHit",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -3261,7 +3424,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill16_transition_to_Knockback",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -3285,7 +3448,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill16_transitions_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
@@ -3309,13 +3472,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill16_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill16_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -3347,6 +3510,12 @@
                     "name": "Skill16_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Skill16_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -3364,7 +3533,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill17_transition_to_Neutral",
-                    "crossfadeSeconds": 0.06,
+                    "crossfadeSeconds": 0.05,
                     "to": 1
                 },
                 {
@@ -3376,7 +3545,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill17_transition_to_GetHit",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -3394,7 +3563,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill17_transition_to_Block",
-                    "crossfadeSeconds": 0.05,
+                    "crossfadeSeconds": 0.2,
                     "to": 6
                 },
                 {
@@ -3430,7 +3599,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill17_transition_to_Knockback",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -3454,7 +3623,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill17_transitions_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
@@ -3478,13 +3647,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill17_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill17_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -3516,6 +3685,12 @@
                     "name": "Skill17_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Skill17_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -3545,7 +3720,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill18_transition_to_GetHit",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -3599,7 +3774,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill18_transition_to_Knockback",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -3623,7 +3798,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill18_transitions_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
@@ -3647,13 +3822,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill18_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Skill18_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -3685,6 +3860,12 @@
                     "name": "Skill18_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Skill18_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -3816,7 +3997,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Dead_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
@@ -3854,6 +4035,12 @@
                     "name": "Dead_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Dead_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -3871,13 +4058,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transition_to_Neutral",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 1
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transition_to_Walk",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 2
                 },
                 {
@@ -3889,49 +4076,49 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transition_to_Attack1",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 4
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transition_to_Attack16",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 5
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transition_to_Block",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 6
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transition_to_Cast",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 7
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transition_to_Skill1",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 8
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transition_to_Skill16",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 9
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transition_to_Skill17",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 10
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transition_to_Skill18",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 11
                 },
                 {
@@ -3943,13 +4130,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transition_to_Run",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 14
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transitions_transition",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -3961,7 +4148,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transitions_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
@@ -3985,13 +4172,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Knockback_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -4023,6 +4210,12 @@
                     "name": "Knockback_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Knockback_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -4052,7 +4245,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Run_transition_to_GetHit",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -4124,19 +4317,19 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Run_transitions_transition001",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 15
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Run_transitions_transition002",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.15,
                     "to": 16
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Run_transitions_transition003",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.0,
                     "to": 17
                 },
                 {
@@ -4148,19 +4341,19 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Run_transitions_transition005",
-                    "crossfadeSeconds": 0.0,
+                    "crossfadeSeconds": 0.2,
                     "to": 19
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Run_transitions_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "Run_transitions_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -4192,6 +4385,12 @@
                     "name": "Run_transitions_transition012",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "Run_transitions_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -4209,7 +4408,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState_transitiongroup_transition001",
-                    "crossfadeSeconds": 0.05,
+                    "crossfadeSeconds": 0.2,
                     "to": 1
                 },
                 {
@@ -4221,7 +4420,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -4281,13 +4480,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState_transitiongroup_transition014",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 14
                 },
                 {
@@ -4299,7 +4498,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState_transitiongroup_transition016",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 16
                 },
                 {
@@ -4323,13 +4522,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState_transitiongroup_transition020",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState_transitiongroup_transition021",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -4361,6 +4560,12 @@
                     "name": "AnimationState_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -4378,67 +4583,67 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition001",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.05,
                     "to": 1
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition002",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 2
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition004",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 4
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition005",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 5
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition006",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 6
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition007",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 7
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition008",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 8
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition009",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 9
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition010",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 10
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition011",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 11
                 },
                 {
@@ -4450,19 +4655,19 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition014",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.15,
                     "to": 14
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition015",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 15
                 },
                 {
@@ -4492,13 +4697,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition020",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState001_transitiongroup_transition021",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -4530,6 +4735,12 @@
                     "name": "AnimationState001_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState001_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -4559,19 +4770,19 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState002_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState002_transitiongroup_transition004",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 4
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState002_transitiongroup_transition005",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 5
                 },
                 {
@@ -4619,13 +4830,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState002_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState002_transitiongroup_transition014",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.01,
                     "to": 14
                 },
                 {
@@ -4643,13 +4854,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState002_transitiongroup_transition017",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 17
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState002_transitiongroup_transition018",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 18
                 },
                 {
@@ -4667,7 +4878,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState002_transitiongroup_transition021",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -4699,6 +4910,12 @@
                     "name": "AnimationState002_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState002_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -4716,7 +4933,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState003_transitiongroup_transition001",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 1
                 },
                 {
@@ -4728,19 +4945,19 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState003_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState003_transitiongroup_transition004",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 4
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState003_transitiongroup_transition005",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 5
                 },
                 {
@@ -4788,7 +5005,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState003_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -4812,13 +5029,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState003_transitiongroup_transition017",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 17
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState003_transitiongroup_transition018",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 18
                 },
                 {
@@ -4830,13 +5047,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState003_transitiongroup_transition020",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState003_transitiongroup_transition021",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -4868,6 +5085,12 @@
                     "name": "AnimationState003_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState003_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -4885,7 +5108,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState004_transitiongroup_transition001",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 1
                 },
                 {
@@ -4897,7 +5120,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState004_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -4957,13 +5180,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState004_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState004_transitiongroup_transition014",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 14
                 },
                 {
@@ -4999,13 +5222,13 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState004_transitiongroup_transition020",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState004_transitiongroup_transition021",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -5037,6 +5260,12 @@
                     "name": "AnimationState004_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState004_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -5048,103 +5277,103 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 0
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition001",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.05,
                     "to": 1
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition002",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 2
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition004",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 4
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition005",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 5
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition006",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 6
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition007",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 7
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition008",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 8
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition009",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 9
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition010",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 10
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition011",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 11
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition012",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 12
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition014",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 14
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition015",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 15
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition016",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 16
                 },
                 {
@@ -5156,25 +5385,25 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition018",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 18
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition019",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 19
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition020",
-                    "crossfadeSeconds": 0.1,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState005_transitiongroup_transition021",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -5206,6 +5435,12 @@
                     "name": "AnimationState005_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState005_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -5223,67 +5458,67 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition001",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 1
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition002",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 2
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition004",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 4
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition005",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 5
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition006",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 6
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition007",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 7
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition008",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 8
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition009",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 9
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition010",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 10
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition011",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 11
                 },
                 {
@@ -5295,55 +5530,55 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition014",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 14
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition015",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 15
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition016",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 16
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition017",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 17
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition018",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 18
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition019",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 19
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition020",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 20
                 },
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState006_transitiongroup_transition021",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 21
                 },
                 {
@@ -5375,6 +5610,12 @@
                     "name": "AnimationState006_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState006_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -5404,7 +5645,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState007_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -5464,7 +5705,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState007_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.2,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -5544,6 +5785,12 @@
                     "name": "AnimationState007_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState007_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -5573,7 +5820,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState008_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -5633,7 +5880,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState008_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -5713,6 +5960,12 @@
                     "name": "AnimationState008_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState008_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -5742,7 +5995,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState009_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 3
                 },
                 {
@@ -5802,7 +6055,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState009_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.05,
                     "to": 13
                 },
                 {
@@ -5882,6 +6135,12 @@
                     "name": "AnimationState009_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState009_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -5911,7 +6170,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState010_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 3
                 },
                 {
@@ -5971,7 +6230,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState010_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 13
                 },
                 {
@@ -6051,6 +6310,12 @@
                     "name": "AnimationState010_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState010_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         },
@@ -6080,7 +6345,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState011_transitiongroup_transition003",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 3
                 },
                 {
@@ -6140,7 +6405,7 @@
                 {
                     "type": "AnimationTransitionItem",
                     "name": "AnimationState011_transitiongroup_transition013",
-                    "crossfadeSeconds": 0.01,
+                    "crossfadeSeconds": 0.2,
                     "to": 13
                 },
                 {
@@ -6220,6 +6485,187 @@
                     "name": "AnimationState011_transitiongroup_transition026",
                     "crossfadeSeconds": 0.2,
                     "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState011_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
+                }
+            ]
+        },
+        {
+            "type": "AnimationTransitionGroup",
+            "name": "AnimationState012_transitiongroup",
+            "from": 27,
+            "settings": [
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition",
+                    "crossfadeSeconds": 0.2,
+                    "to": 0
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition001",
+                    "crossfadeSeconds": 0.2,
+                    "to": 1
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition002",
+                    "crossfadeSeconds": 0.2,
+                    "to": 2
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition003",
+                    "crossfadeSeconds": 0.2,
+                    "to": 3
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition004",
+                    "crossfadeSeconds": 0.2,
+                    "to": 4
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition005",
+                    "crossfadeSeconds": 0.2,
+                    "to": 5
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition006",
+                    "crossfadeSeconds": 0.2,
+                    "to": 6
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition007",
+                    "crossfadeSeconds": 0.2,
+                    "to": 7
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition008",
+                    "crossfadeSeconds": 0.2,
+                    "to": 8
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition009",
+                    "crossfadeSeconds": 0.2,
+                    "to": 9
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition010",
+                    "crossfadeSeconds": 0.2,
+                    "to": 10
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition011",
+                    "crossfadeSeconds": 0.2,
+                    "to": 11
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition012",
+                    "crossfadeSeconds": 0.2,
+                    "to": 12
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition013",
+                    "crossfadeSeconds": 0.2,
+                    "to": 13
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition014",
+                    "crossfadeSeconds": 0.2,
+                    "to": 14
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition015",
+                    "crossfadeSeconds": 0.2,
+                    "to": 15
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition016",
+                    "crossfadeSeconds": 0.2,
+                    "to": 16
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition017",
+                    "crossfadeSeconds": 0.2,
+                    "to": 17
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition018",
+                    "crossfadeSeconds": 0.2,
+                    "to": 18
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition019",
+                    "crossfadeSeconds": 0.2,
+                    "to": 19
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition020",
+                    "crossfadeSeconds": 0.2,
+                    "to": 20
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition021",
+                    "crossfadeSeconds": 0.2,
+                    "to": 21
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition022",
+                    "crossfadeSeconds": 0.2,
+                    "to": 22
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition023",
+                    "crossfadeSeconds": 0.2,
+                    "to": 23
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition024",
+                    "crossfadeSeconds": 0.2,
+                    "to": 24
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition025",
+                    "crossfadeSeconds": 0.2,
+                    "to": 25
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition026",
+                    "crossfadeSeconds": 0.2,
+                    "to": 26
+                },
+                {
+                    "type": "AnimationTransitionItem",
+                    "name": "AnimationState012_transitiongroup_transition027",
+                    "crossfadeSeconds": 0.2,
+                    "to": 27
                 }
             ]
         }

@@ -208,7 +208,7 @@ twinfang	205																																																																				
 instawolf	206	3			1	1				1	1	1	1																											1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
 instabear	207	3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
 instarat	208	3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
-bloodmoon	209																																																																					0
+supernatural	209																																																																					0
 hitbymonster	210									1																																																												0
 enablehitbymonster	211																																																																					0
 retaliate	212																																																																					0
@@ -221,3 +221,7 @@ enchantedspear	218																																																														
 wrathofthewastes	219																																																																					0
 battlemeditation	220																																																																					0
 skewer	221																																																																					0
+ravage	222											1	1																													direwolfcharged	direwolfcharged																											0
+ferocity	223											1	1																														monfrenzy						skill_frenzy																					0
+werewolfpassive	224																																																																					0
+werebearpassive	225																																																																					0

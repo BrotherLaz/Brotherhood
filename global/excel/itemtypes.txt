@@ -427,8 +427,8 @@ Placeholder 423	423		p423			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 424	424		p424			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 425	425		p425			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 426	426		p426			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 427	427		p427			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 428	428		p428			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Slash Item	427	Required for passive, ID matters	slas			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Rend Item	428	Required for passive, ID matters	rend			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 429	429		p429			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 430	430		p430			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 431	431		p431			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
