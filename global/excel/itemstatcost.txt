@@ -380,5 +380,8 @@ placeholder377	377																	14	0																																0
 placeholder378	378																	14	0																																0
 item_healonstriking	379		1	7							1				81	49		6	0	9	0												domeleedamage	28	domissiledamage	28	17	19		ModLifeOnStriking	ModLifeOnStriking										0
 item_manaonstriking	380		1	7							1				81	49		6	0	9	0												domeleedamage	17	domissiledamage	17	17	19		ModManaOnStriking	ModManaOnStriking										0
-item_manaonstrikingmelee	381		1	7							1				81	49		6	0	9	0												domeleedamage	17																	0
-progressive_ferocity	382		1	5																																															0
+item_healonstrikingmelee	381		1	7							1				81	49		6	0	9	0												domeleedamage	28																	0
+item_manaonstrikingmelee	382		1	7							1				81	49		6	0	9	0												domeleedamage	17																	0
+progressive_ferocity	383		1	5																																															0
+stat_aura1	384		1	5							1												1																												0
+stat_aura2	385		1	5							1												1																												0

@@ -209,11 +209,11 @@ instawolf	206	3			1	1				1	1	1	1																											1							wolf_into	wol
 instabear	207	3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
 instarat	208	3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
 supernatural	209																																																																					0
-hitbymonster	210									1																																																												0
+ardor	210									1																																impregnated																			paladin_holyshield									0
 enablehitbymonster	211																																																																					0
 retaliate	212																																																																					0
-retribute	213																																																																					0
-revenge	214																																																																					0
+purifier	213																																																																					0
+banishment	214																																																	12																				0
 helldive	215						1	1														1																				defense_curse							skill_armor_percent																					0
 converter	216																																																																					0
 impalestate	217																																																																					0
@@ -225,3 +225,12 @@ ravage	222											1	1																													direwolfcharged	direwolfcha
 ferocity	223											1	1																														monfrenzy						skill_frenzy																					0
 werewolfpassive	224																																																																					0
 werebearpassive	225																																																																					0
+auraactive	226								1																																									9			Apply Aura 1																	0
+ardorongethit	227																																																																					0
+ardoronkill	228																																																																					0
+covenantaura	229					1																																				impregnated							damagepercent																					0
+aura2	230					1																																				sanctuaryback	spirit_of_barbs						damagepercent												paladin_aura_defiance									0
+aura3	231																																									charge	oak_sage						damagepercent	9											paladin_aura_defiance									0
+attackbuff1	232																																																																					0
+attackbuff2	233																																																																					0
+attackbuff3	234																																																																					0

@@ -706,8 +706,8 @@
     "gatheringstormmissile": "expansion_tornado",
     "gatheringstormsubmissile": "expansion_hurricane_swoosh",
     "turtlestrikecenter": "null",
-    "tigerstrikewave": "expansion_bladefury_b",
-    "tigerstrikewall": "expansion_bladefury_c",
+    "manticorestrikewave": "expansion_bladefury_b",
+    "manticorestrikewall": "expansion_bladefury_c",
     "rollingthunderwave": "electric_nova",
     "roarstuncenter": "null",
     "roarstunwave": "rock_large",
@@ -723,5 +723,8 @@
     "roarwave": "expansion_lightningpiece",
     "pouncecenter": "null",
     "pouncewave": "b_a_yell_shock_wave_01",
-    "stormbringermissile": "lightning_bolt"
+    "stormbringermissile": "lightning_bolt",
+    "hardinitiatecenter": "null",
+    "hardinitiatewave": "null",
+    "hardinitiatelightningstrike": "cairn_stones_bolt"
 }

@@ -385,7 +385,7 @@ Placeholder 381	381		p381			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 382	382		p382			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 383	383		p383			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 384	384		p384			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Hit by Monster Item	385	Required for passive, ID matters	hbmi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Ardor Item	385	Required for passive proc	ardo			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 386	386		p386			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 387	387		p387			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 388	388		p388			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -427,8 +427,8 @@ Placeholder 423	423		p423			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 424	424		p424			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 425	425		p425			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 426	426		p426			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Slash Item	427	Required for passive, ID matters	slas			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Rend Item	428	Required for passive, ID matters	rend			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 427	427		p427			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 428	428		p428			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 429	429		p429			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 430	430		p430			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 431	431		p431			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -449,4 +449,68 @@ Placeholder 445	445		p445			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 446	446		p446			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 447	447		p447			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 448	448		p448			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Wrath of the Wastes Item	449	Required for passive, ID matters	wwwi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Killed Monster Item	449	Required for passive proc	kmoi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 386	450		p386			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 387	451		p387			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 388	452		p388			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 389	453		p389			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 390	454		p390			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 391	455		p391			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 392	456		p392			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 393	457		p393			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 394	458		p394			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 395	459		p395			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 396	460		p396			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 397	461		p397			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 398	462		p398			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 399	463		p399			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 400	464		p400			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 401	465		p401			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 402	466		p402			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 403	467		p403			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 404	468		p404			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 405	469		p405			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 406	470		p406			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 407	471		p407			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 408	472		p408			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 409	473		p409			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 410	474		p410			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 411	475		p411			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 412	476		p412			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 413	477		p413			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 414	478		p414			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 415	479		p415			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 416	480		p416			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 417	481		p417			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 418	482		p418			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 419	483		p419			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 420	484		p420			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 421	485		p421			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 422	486		p422			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 423	487		p423			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 424	488		p424			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 425	489		p425			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 426	490		p426			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 427	491		p427			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 428	492		p428			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 429	493		p429			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 430	494		p430			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 431	495		p431			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 432	496		p432			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 433	497		p433			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 434	498		p434			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 435	499		p435			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 436	500		p436			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 437	501		p437			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 438	502		p438			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 439	503		p439			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 440	504		p440			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 441	505		p441			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 442	506		p442			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 443	507		p443			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 444	508		p444			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 445	509		p445			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 446	510		p446			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 447	511		p447			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 448	512		p448			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Aura 2 Item	513	Required for passive proc	au2i			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
