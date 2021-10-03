@@ -449,7 +449,7 @@ Placeholder 445	445		p445			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 446	446		p446			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 447	447		p447			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 448	448		p448			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Killed Monster Item	449	Required for passive proc	kmoi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Setup Item	449	Required for passive proc	setu			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 386	450		p386			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 387	451		p387			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 388	452		p388			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

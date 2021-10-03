@@ -36008,7 +36008,7 @@
   {
     "id": 36386,
     "Key": "SkillnameLaz429",
-    "enUS": "Widow Strike",
+    "enUS": "Scorpion Strike",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36365,7 +36365,7 @@
   {
     "id": 36407,
     "Key": "SetupSkillExplanation",
-    "enUS": "Activates Execute Skills while Blocking Others",
+    "enUS": "Activates Execute Skills while Deactivating Others",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36381,8 +36381,8 @@
   },
   {
     "id": 36408,
-    "Key": "SetupDuration",
-    "enUS": "Setup Duration: %d seconds",
+    "Key": "FollowUpDuration",
+    "enUS": "Follow-Up Duration: %d seconds",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36398,8 +36398,8 @@
   },
   {
     "id": 36409,
-    "Key": "ExecuteSkill",
-    "enUS": "Execute Skill",
+    "Key": "VengeanceSkill",
+    "enUS": "Pursuit Skill",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36415,8 +36415,8 @@
   },
   {
     "id": 36410,
-    "Key": "ExecuteSkillExplanation",
-    "enUS": "Activated by Setup Skills",
+    "Key": "VengeanceSkillExplanation",
+    "enUS": "Vengeance: Can Finish This Cooldown",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36518,7 +36518,7 @@
   {
     "id": 36416,
     "Key": "SkillnameLaz439",
-    "enUS": "Hissing Naja Strike",
+    "enUS": "Falling Spider",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36569,7 +36569,7 @@
   {
     "id": 36419,
     "Key": "SkilldescLaz440",
-    "enUS": "deploys trip bombs in a line",
+    "enUS": "throw a device that dispenses trip bombs\nalong its path",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36586,7 +36586,7 @@
   {
     "id": 36420,
     "Key": "SkillnameLaz441",
-    "enUS": "Hissing Naja Strike",
+    "enUS": "Trip Alarm",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36603,7 +36603,7 @@
   {
     "id": 36421,
     "Key": "SkilldescLaz441",
-    "enUS": "Main hand attack that scatters trip bombs behind the target",
+    "enUS": "place a sensor that grants the setup state when triggered",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36620,7 +36620,7 @@
   {
     "id": 36422,
     "Key": "SkillnameLaz442",
-    "enUS": "Hissing Naja Strike",
+    "enUS": "Thumper",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36654,7 +36654,7 @@
   {
     "id": 36424,
     "Key": "SkillnameLaz443",
-    "enUS": "Hissing Naja Strike",
+    "enUS": "Fan of Knives",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36671,7 +36671,7 @@
   {
     "id": 36425,
     "Key": "SkilldescLaz443",
-    "enUS": "Main hand attack that scatters trip bombs behind the target",
+    "enUS": "throw multiple knives at once",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36688,7 +36688,7 @@
   {
     "id": 36426,
     "Key": "SkillnameLaz444",
-    "enUS": "Thumper",
+    "enUS": "Naja Nest",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36705,7 +36705,7 @@
   {
     "id": 36427,
     "Key": "SkilldescLaz444",
-    "enUS": "Main hand attack that scatters trip bombs behind the target",
+    "enUS": "throw a trap that continuously ejects\ntrip bombs over a wide area",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -36824,7 +36824,7 @@
   {
     "id": 36434,
     "Key": "SkillnameLaz448",
-    "enUS": "Hissing Naja Strike",
+    "enUS": "Deathstrike",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -38405,7 +38405,7 @@
   {
     "id": 36537,
     "Key": "TimerDuration",
-    "enUS": "Cooldown: %d seconds",
+    "enUS": "Skill Cooldown: %d seconds",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -39170,7 +39170,7 @@
   {
     "id": 36582,
     "Key": "SkillnameLaz449",
-    "enUS": "Hissing Naja Strike",
+    "enUS": "Acrobatics",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -39187,7 +39187,7 @@
   {
     "id": 36583,
     "Key": "SkilldescLaz449",
-    "enUS": "Main hand attack that scatters trip bombs behind the target",
+    "enUS": "passive - increases movement speed",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -39204,7 +39204,7 @@
   {
     "id": 36584,
     "Key": "SkillnameLaz450",
-    "enUS": "Hissing Naja Strike",
+    "enUS": "Vengeance",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -39221,7 +39221,7 @@
   {
     "id": 36585,
     "Key": "SkilldescLaz450",
-    "enUS": "Main hand attack that scatters trip bombs behind the target",
+    "enUS": "passive - weapon hits have a chance\nto finish all active skill cooldowns",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -39476,7 +39476,7 @@
   {
     "id": 36600,
     "Key": "SkillnameLaz458",
-    "enUS": "Hissing Naja Strike",
+    "enUS": "Blur",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -39493,7 +39493,41 @@
   {
     "id": 36601,
     "Key": "SkilldescLaz458",
-    "enUS": "Main hand attack that scatters trip bombs behind the target",
+    "enUS": "passive - chance to ignore incoming\nattacks when moving",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 36602,
+    "Key": "BombCount",
+    "enUS": "%d bombs",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 36603,
+    "Key": "KnifeCount",
+    "enUS": "%d knives",
     "zhTW": "",
     "deDE": "",
     "esES": "",
