@@ -715,7 +715,7 @@
     "najastriketripbomb": "expansion_fire_spikes_ground",
     "thumperthrow": "expansion_throwing_star_missile",
     "thumpertrap": "expansion_shock_field",
-    "thumperwave": "expansion_lightningpiece",
+    "thumperwave": "electric_nova",
     "bearstrikecenter": "bighead_lightning_missile",
     "bearstrikewave": "bighead_lightning_missile",
     "revengecenter": "null",
@@ -751,9 +751,9 @@
     "najanestwave": "expansion_fire_spikes",
     "najanesttripbomb": "expansion_fire_spikes_ground",
     "najanestthrow": "expansion_throwing_star_missile",
-    "fallingspider": "spike_right",
+    "fallingspider": "laz_spidermissile",
     "fanofknivesbolt": "missile_dagger",
-    "novasubmissile": "electric_nova",
+    "novasubmissile": "expansion_hurricane_swoosh",
     "boltthrowerthrow": "expansion_throwing_star_missile",
     "boltthrowercenter": "laz_bladecreeper",
     "widowtripbomb": "mslgps",
@@ -762,5 +762,11 @@
     "serpentseggstripbomb": "sanctuary",
     "psychicscreamfear": "warcry_shockwave",
     "maelstromdebris": "expansion_hurricane_tree",
-    "somewave": "warcry_shockwave"
+    "spiderflaskthrow": "mslgpl",
+    "spiderflaskflyingspider": "laz_spidermissile",
+    "spiderflaskgroundedspider": "laz_spidermissile",
+    "spidercloud": "poison_sparks",
+    "spiderflaskimpactmissile": "null",
+    "spiderflaskimpact": "null",
+    "hiddenblade": "missile_dagger"
 }

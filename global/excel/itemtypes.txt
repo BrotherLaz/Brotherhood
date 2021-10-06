@@ -513,4 +513,4 @@ Placeholder 445	509		p445			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 446	510		p446			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 447	511		p447			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 448	512		p448			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Aura 2 Item	513	Required for passive proc	au2i			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Hidden Blade Item	513	Required for passive proc	hibl			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

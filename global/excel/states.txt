@@ -235,5 +235,5 @@ attackbuff1	232																																																																	
 attackbuff2	233																																																																						0
 attackbuff3	234																																																																						0
 cooldownresetonhit	235	Assassin passive																																																																					0
-acrobatics	236	Assassin passive																																																																					0
+hiddenblade	236	Assassin passive																																																																					0
 enableronhit3	237	Passives for Assassin Setup mechanic																																																																					0
