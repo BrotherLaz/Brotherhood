@@ -1616,12 +1616,12 @@
         {
             "type": "AnimationState",
             "name": "AnimationState023",
-            "_name": "Execute_Skill",
+            "_name": "Devour_Seq",
             "audioId": "",
             "loopCount": 1,
             "stateId": 28,
             "modeId": 14,
-            "skillIndex": 555,
+            "skillIndex": 530,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [

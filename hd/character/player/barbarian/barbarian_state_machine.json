@@ -6609,7 +6609,7 @@
             "loopCount": 1,
             "stateId": 75,
             "modeId": 18,
-            "skillIndex": 464,
+            "skillIndex": 457,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -6656,7 +6656,7 @@
             "loopCount": 0,
             "stateId": 76,
             "modeId": 18,
-            "skillIndex": 464,
+            "skillIndex": 457,
             "stepIndex": 1,
             "animationBindings": {
                 "hth": [],
@@ -6703,7 +6703,7 @@
             "loopCount": 1,
             "stateId": 77,
             "modeId": 18,
-            "skillIndex": 461,
+            "skillIndex": 462,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -6735,12 +6735,12 @@
         {
             "type": "AnimationState",
             "name": "AnimationState153",
-            "_name": "BloodEagleAttack",
+            "_name": "FerocityAttack",
             "audioId": "",
             "loopCount": 1,
             "stateId": 78,
             "modeId": 18,
-            "skillIndex": 465,
+            "skillIndex": 466,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -6777,7 +6777,7 @@
             "loopCount": 1,
             "stateId": 81,
             "modeId": 18,
-            "skillIndex": 462,
+            "skillIndex": 455,
             "stepIndex": 2,
             "animationBindings": {
                 "hth": [
@@ -6834,7 +6834,7 @@
             "loopCount": 1,
             "stateId": 82,
             "modeId": 18,
-            "skillIndex": 462,
+            "skillIndex": 455,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
@@ -6889,7 +6889,7 @@
             "loopCount": 0,
             "stateId": 19,
             "modeId": 18,
-            "skillIndex": 467,
+            "skillIndex": 459,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [

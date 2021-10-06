@@ -5314,12 +5314,12 @@
         {
             "type": "AnimationState",
             "name": "AnimationState032",
-            "_name": "Helldive_Attack",
+            "_name": "SplitTheHeavens_Seq",
             "audioId": "",
             "loopCount": 1,
             "stateId": 51,
             "modeId": 18,
-            "skillIndex": 528,
+            "skillIndex": 508,
             "stepIndex": 1,
             "animationBindings": {
                 "hth": [
@@ -5346,72 +5346,6 @@
                 "xbw": [
                     "xbw_attack1"
                 ],
-                "1js": [],
-                "1jt": [],
-                "1ss": [],
-                "1st": [],
-                "ht1": [],
-                "ht2": []
-            },
-            "enterEvents": [],
-            "exitEvents": []
-        },
-        {
-            "type": "AnimationState",
-            "name": "AnimationState033",
-            "_name": "BanishLoop",
-            "audioId": "",
-            "loopCount": 0,
-            "stateId": 52,
-            "modeId": 18,
-            "skillIndex": 532,
-            "stepIndex": 1,
-            "animationBindings": {
-                "hth": [],
-                "bow": [],
-                "1hs": [
-                    "1hs_sequence"
-                ],
-                "1ht": [],
-                "stf": [],
-                "2hs": [
-                    "2hs_sequence"
-                ],
-                "2ht": [],
-                "xbw": [],
-                "1js": [],
-                "1jt": [],
-                "1ss": [],
-                "1st": [],
-                "ht1": [],
-                "ht2": []
-            },
-            "enterEvents": [],
-            "exitEvents": []
-        },
-        {
-            "type": "AnimationState",
-            "name": "AnimationState034",
-            "_name": "BanishCast",
-            "audioId": "",
-            "loopCount": 1,
-            "stateId": 53,
-            "modeId": 18,
-            "skillIndex": 532,
-            "stepIndex": 0,
-            "animationBindings": {
-                "hth": [],
-                "bow": [],
-                "1hs": [
-                    "1hs_cast"
-                ],
-                "1ht": [],
-                "stf": [],
-                "2hs": [
-                    "2hs_attack1"
-                ],
-                "2ht": [],
-                "xbw": [],
                 "1js": [],
                 "1jt": [],
                 "1ss": [],

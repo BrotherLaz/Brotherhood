@@ -1698,13 +1698,13 @@
         },
         {
             "type": "AnimationState",
-            "name": "State_Ravage",
-            "_name": "Ravage",
+            "name": "AnimationState050",
+            "_name": "Ravage_Seq",
             "audioId": "",
             "loopCount": 1,
             "stateId": 28,
             "modeId": 4,
-            "skillIndex": 554,
+            "skillIndex": 527,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [

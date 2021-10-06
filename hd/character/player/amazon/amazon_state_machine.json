@@ -5449,7 +5449,7 @@
             "loopCount": 1,
             "stateId": 75,
             "modeId": 18,
-            "skillIndex": 490,
+            "skillIndex": 478,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -5482,7 +5482,7 @@
             "loopCount": 1,
             "stateId": 76,
             "modeId": 18,
-            "skillIndex": 493,
+            "skillIndex": 481,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -5511,47 +5511,13 @@
         },
         {
             "type": "AnimationState",
-            "name": "AnimationState152",
-            "_name": "Flurry_Seq",
-            "audioId": "",
-            "loopCount": 1,
-            "stateId": 77,
-            "modeId": 18,
-            "skillIndex": 480,
-            "stepIndex": 0,
-            "animationBindings": {
-                "hth": [],
-                "bow": [],
-                "1hs": [],
-                "1ht": [
-                    "1ht_attack1",
-                    "1ht_attack2"
-                ],
-                "stf": [],
-                "2hs": [],
-                "2ht": [
-                    "2ht_attack1"
-                ],
-                "xbw": [],
-                "1js": [],
-                "1jt": [],
-                "1ss": [],
-                "1st": [],
-                "ht1": [],
-                "ht2": []
-            },
-            "enterEvents": [],
-            "exitEvents": []
-        },
-        {
-            "type": "AnimationState",
             "name": "AnimationState153",
             "_name": "NewJab_Seq",
             "audioId": "",
             "loopCount": 0,
             "stateId": 78,
             "modeId": 18,
-            "skillIndex": 489,
+            "skillIndex": 477,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -5584,7 +5550,7 @@
             "loopCount": 0,
             "stateId": 79,
             "modeId": 18,
-            "skillIndex": 498,
+            "skillIndex": 484,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -5597,76 +5563,6 @@
                 "2hs": [],
                 "2ht": [
                     "2ht_jab"
-                ],
-                "xbw": [],
-                "1js": [],
-                "1jt": [],
-                "1ss": [],
-                "1st": [],
-                "ht1": [],
-                "ht2": []
-            },
-            "enterEvents": [],
-            "exitEvents": []
-        },
-        {
-            "type": "AnimationState",
-            "name": "AnimationState155",
-            "_name": "Fenad_FirstAttack",
-            "audioId": "",
-            "loopCount": 1,
-            "stateId": 80,
-            "modeId": 18,
-            "skillIndex": 483,
-            "stepIndex": 0,
-            "animationBindings": {
-                "hth": [],
-                "bow": [],
-                "1hs": [],
-                "1ht": [
-                    "1ht_attack1",
-                    "1ht_attack2"
-                ],
-                "stf": [],
-                "2hs": [],
-                "2ht": [
-                    "2ht_attack2",
-                    "2ht_attack1"
-                ],
-                "xbw": [],
-                "1js": [],
-                "1jt": [],
-                "1ss": [],
-                "1st": [],
-                "ht1": [],
-                "ht2": []
-            },
-            "enterEvents": [],
-            "exitEvents": []
-        },
-        {
-            "type": "AnimationState",
-            "name": "AnimationState156",
-            "_name": "Fenad_FollowUpAttack",
-            "audioId": "",
-            "loopCount": 1,
-            "stateId": 81,
-            "modeId": 18,
-            "skillIndex": 483,
-            "stepIndex": 1,
-            "animationBindings": {
-                "hth": [],
-                "bow": [],
-                "1hs": [],
-                "1ht": [
-                    "1ht_attack1",
-                    "1ht_attack2"
-                ],
-                "stf": [],
-                "2hs": [],
-                "2ht": [
-                    "2ht_attack1",
-                    "2ht_attack1"
                 ],
                 "xbw": [],
                 "1js": [],
