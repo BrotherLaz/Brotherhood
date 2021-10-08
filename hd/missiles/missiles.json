@@ -746,6 +746,8 @@
     "REDCLOUD": "redemption_ghost",
     "FIREWORKS": "yellow_ball_glow_intro",
     "CLOUD": "mist",
+    "ROCKTRAP": "explosion_spark",
+    "APOC": "potion_explode",
     "tripalarmwave": "expansion_throwing_star_missile",
     "najanestcenter": "laz_bladecreeper",
     "najanestwave": "expansion_fire_spikes",
@@ -768,5 +770,14 @@
     "spidercloud": "poison_sparks",
     "spiderflaskimpactmissile": "null",
     "spiderflaskimpact": "null",
-    "hiddenblade": "missile_dagger"
+    "hiddenblade": "missile_dagger",
+    "maelstromcenter": "expansion_mindblast",
+    "maelstromwave": "expansion_mindblast",
+    "bearclawthrow": "missile_hand_axe",
+    "boulderthrow": "rock_small",
+    "spinningaxethrow": "missile_hand_axe",
+    "spinningaxetwister": "expansion_twister",
+    "scatterthrow": "missile_hand_axe",
+    "scatterimpact": "null",
+    "scatterdust": "laz_dustproject"
 }
