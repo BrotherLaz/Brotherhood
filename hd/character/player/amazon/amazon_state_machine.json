@@ -5574,6 +5574,138 @@
             },
             "enterEvents": [],
             "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState155",
+            "_name": "NewStrafe_FirstAttack",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 80,
+            "modeId": 18,
+            "skillIndex": 489,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [],
+                "bow": [
+                    "bow_attack1"
+                ],
+                "1hs": [],
+                "1ht": [],
+                "stf": [],
+                "2hs": [],
+                "2ht": [],
+                "xbw": [
+                    "xbw_attack1"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState156",
+            "_name": "NewStrafe_FollowUpAttack",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 81,
+            "modeId": 18,
+            "skillIndex": 489,
+            "stepIndex": 1,
+            "animationBindings": {
+                "hth": [],
+                "bow": [
+                    "bow_attack1"
+                ],
+                "1hs": [],
+                "1ht": [],
+                "stf": [],
+                "2hs": [],
+                "2ht": [],
+                "xbw": [
+                    "xbw_attack1"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState157",
+            "_name": "Enfilade_FirstAttack",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 82,
+            "modeId": 18,
+            "skillIndex": 490,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [],
+                "bow": [
+                    "bow_attack1"
+                ],
+                "1hs": [],
+                "1ht": [],
+                "stf": [],
+                "2hs": [],
+                "2ht": [],
+                "xbw": [
+                    "xbw_attack1"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState158",
+            "_name": "Enfilade_FollowUpAttack",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 83,
+            "modeId": 18,
+            "skillIndex": 490,
+            "stepIndex": 1,
+            "animationBindings": {
+                "hth": [],
+                "bow": [
+                    "2hs_cast_loop"
+                ],
+                "1hs": [],
+                "1ht": [],
+                "stf": [],
+                "2hs": [],
+                "2ht": [],
+                "xbw": [
+                    "2hs_cast_loop"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
         }
     ],
     "transitions": [
