@@ -218,22 +218,32 @@ helldive	215							1	1														1																				defense_curse							ski
 converter	216																																																																						0
 impalestate	217																																																																						0
 enchantedspear	218																																																																						0
-wrathofthewastes	219																																																																						0
+wrathofthewastes	219	Barbarian passive																																																																					0
 battlemeditation	220																																																																						0
 skewer	221																																																																						0
 ravage	222												1	1																													direwolfcharged	direwolfcharged																											0
-ferocity	223												1	1																														monfrenzy						skill_frenzy																					0
+ferocity	223	Barbarian skill									1		1	1																														monfrenzy						skill_frenzy																					0
 werewolfpassive	224																																																																						0
 werebearpassive	225																																																																						0
 auraactive	226									1																																									9			Apply Aura 1																	0
 ardorongethit	227																																																																						0
 ardoronkill	228																																																																						0
-covenantaura	229						1																																				impregnated							damagepercent																					0
+attackspeed	229	Druid passive																																																																					0
 aura2	230						1																																				sanctuaryback	spirit_of_barbs						damagepercent												paladin_aura_defiance									0
 aura3	231																																										charge	oak_sage						damagepercent	9											paladin_aura_defiance									0
-attackbuff1	232																																																																						0
-attackbuff2	233																																																																						0
-attackbuff3	234																																																																						0
+attackbuff1	232	Druid passive																																																																					0
+attackbuff2	233	Druid passive																																																																					0
+attackbuff3	234	Druid passive																																																																					0
 cooldownresetonhit	235	Assassin passive																																																																					0
 hiddenblade	236	Assassin passive																																																																					0
 enableronhit3	237	Passives for Assassin Setup mechanic																																																																					0
+bruteforce	238	Barbarian passive																																																																					0
+deathorgloryaura	239	Barbarian passive					1																																											damagepercent																					0
+deathorglory	240	Barbarian passive																																																item_aura																					0
+passivestunattack	241	Barbarian passive																																																stunlength																					0
+arreatswail	242	Barbarian skill					1																																				shout					shoutstart		item_healonstriking																					0
+shout2	243	Barbarian skill					1																																				battlecommand					battlecommandcast																							0
+generalpassive1	244																																																																						0
+bandage	245	Barbarian skill																																														healing		hpregen												barbarian_findheart_1									0
+manapotion	246																																										receiving					healing																							0
+herbpotion	247																																										receiving					healing																							0

@@ -6771,7 +6771,7 @@
         },
         {
             "type": "AnimationState",
-            "name": "AnimationState155",
+            "name": "AnimationState154",
             "_name": "SKILL_LEAP_LAND_ATTACK",
             "audioId": "",
             "loopCount": 1,
@@ -6828,7 +6828,7 @@
         },
         {
             "type": "AnimationState",
-            "name": "AnimationState156",
+            "name": "AnimationState155",
             "_name": "SKILL_LEAP_WINDUP_ATTACK",
             "audioId": "",
             "loopCount": 1,
@@ -6883,13 +6883,99 @@
         },
         {
             "type": "AnimationState",
-            "name": "PMODE_SEQUENCE_WHIRLWIND",
+            "name": "AnimationState156",
             "_name": "SKILL_WHIRLWIND",
             "audioId": "",
             "loopCount": 0,
-            "stateId": 19,
+            "stateId": 83,
             "modeId": 18,
             "skillIndex": 459,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "hth_whirlwind"
+                ],
+                "bow": [],
+                "1hs": [
+                    "1hs_whirlwind"
+                ],
+                "1ht": [
+                    "1ht_whirlwind"
+                ],
+                "stf": [
+                    "stf_whirlwind"
+                ],
+                "2hs": [
+                    "2hs_whirlwind"
+                ],
+                "2ht": [
+                    "2ht_whirlwind"
+                ],
+                "xbw": [],
+                "1js": [
+                    "1js_whirlwind"
+                ],
+                "1jt": [
+                    "1jt_whirlwind"
+                ],
+                "1ss": [
+                    "1ss_whirlwind"
+                ],
+                "1st": [
+                    "1st_whirlwind"
+                ],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState157",
+            "_name": "SKILL_DOUBLETHROW",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 84,
+            "modeId": 18,
+            "skillIndex": 463,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [],
+                "bow": [],
+                "1hs": [],
+                "1ht": [],
+                "stf": [],
+                "2hs": [],
+                "2ht": [],
+                "xbw": [],
+                "1js": [
+                    "1js_doublethrow"
+                ],
+                "1jt": [
+                    "1jt_doublethrow"
+                ],
+                "1ss": [
+                    "1ss_doublethrow"
+                ],
+                "1st": [
+                    "1st_doublethrow"
+                ],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState158",
+            "_name": "SpinAttack",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 85,
+            "modeId": 18,
+            "skillIndex": 468,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
