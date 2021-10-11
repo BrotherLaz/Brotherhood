@@ -827,6 +827,15 @@
     "shockwavetrail": "expansion_throwing_star_missile",
     "timeshotdelay": "laz_safearrow",
     "timeshotarrow": "laz_arrow",
-    "huntressregular": "null",
-    "huntresshealthorb": "corpse_explode_guts"
+    "jungleremedycenter": "null",
+    "jungleremedyhealthorb": "yellow_ball_glow_2",
+    "cannibalizecenter": "null",
+    "cannibalizenovaemitter": "null",
+    "cannibalizewave": "warcry_shockwave",
+    "corpsegascenter": "poison_sparks",
+    "corpsegasnovaemitter": "null",
+    "corpsegaswave": "b_a_yell_shock_wave_01",
+    "snaketrapcenter": "gleam",
+    "snaketrapnovaemitter": "null",
+    "snaketrapwave": "laz_snaketrap"
 }

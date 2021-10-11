@@ -427,7 +427,7 @@ Placeholder 423	423		p423			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 424	424		p424			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 425	425		p425			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 426	426		p426			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 427	427		p427			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Slow Bleeding Item	427	Required for passive proc	slob			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Death or Glory Item	428	Required for passive proc	dogi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 429	429		p429			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 430	430		p430			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -897,7 +897,7 @@ Placeholder 893	893		p893			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 894	894		p894			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 895	895		p895			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 896	896		p896			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Phalanx Tactics Item	897	Required for passive proc	phat			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Jungle Remedy Item	897	Required for passive proc	phat			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 898	898		p898			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 899	899		p899			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 900	900		p900			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

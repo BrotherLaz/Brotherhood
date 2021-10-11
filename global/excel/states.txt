@@ -208,7 +208,7 @@ dragonclaws	205	Assassin skill																																																		
 instawolf	206		3			1	1				1	1	1	1																											1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
 instabear	207		3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
 instarat	208		3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
-huntressproc	204	Amazon proc																																																hpregen							70	100	255	255	255										0
+jungleremedyproc	204	Amazon proc																																																hpregen	18						71	102	255	255	255										0
 ardor	210										1																																impregnated																			paladin_holyshield									0
 enablehitbymonster	211																																																																						0
 retaliate	212																																																																						0
@@ -238,7 +238,7 @@ skillonhit1	235	Common passive																																																		
 skillonhit2	236	Common passive																																																																					0
 enableronhit3	237	Passives for Assassin Setup mechanic																																																																					0
 bruteforce	238	Barbarian passive																																																																					0
-deathorgloryaura	239	Barbarian passive					1																																											damagepercent																					0
+hiddenaura	239	Common passive					1																																											damagepercent																					0
 deathorglory	240	Barbarian passive																																																item_aura																					0
 passivestunattack	241	Barbarian passive																																																stunlength																					0
 arreatswail	242	Barbarian skill					1																																				shout					shoutstart		item_healonstriking																					0
