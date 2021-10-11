@@ -826,5 +826,7 @@
     "shockwavearrow": "arrow",
     "shockwavetrail": "expansion_throwing_star_missile",
     "timeshotdelay": "laz_safearrow",
-    "timeshotarrow": "laz_arrow"
+    "timeshotarrow": "laz_arrow",
+    "huntressregular": "null",
+    "huntresshealthorb": "corpse_explode_guts"
 }

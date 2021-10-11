@@ -120,7 +120,7 @@ maul	117		3											1																								1					maul1	maul5	maul1back	maul5
 corpse_noselect	118																												1	1	1			1																																					0
 shadowwarrior	119					1						1																				1		1																														2	6						0
 feralrage	120		3																																			1					feralrage1	feralrage5	feralrage1back	feralrage5back				attackrate	16	11																			0
-skilldelay	121		8																																																19	12																			0
+skilldelay	121																																																		19	12																			0
 progressive_damage	122																																				1										progressive_damage_1			progressive_damage	1	1																			0
 progressive_steal	123																																				1										progressive_steal_1			progressive_steal	1	1																			0
 progressive_other	124																																				1										progressive_other_1			progressive_other	1	1																			0
@@ -208,7 +208,7 @@ dragonclaws	205	Assassin skill																																																		
 instawolf	206		3			1	1				1	1	1	1																											1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
 instabear	207		3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
 instarat	208		3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
-cooldownresetshared	204	Amazon proc	8																																													cast_innersight														amazon_valkyrie_appear									0
+huntressproc	204	Amazon proc																																																hpregen							70	100	255	255	255										0
 ardor	210										1																																impregnated																			paladin_holyshield									0
 enablehitbymonster	211																																																																						0
 retaliate	212																																																																						0
@@ -247,5 +247,5 @@ generalpassive1	244																																																													
 bandage	245	Barbarian skill																																														healing		hpregen												barbarian_findheart_1									0
 manapotion	246																																										receiving					healing																							0
 herbpotion	247																																										receiving					healing																							0
-combinedarmsmtr	248	Amazon proc																																																																					0
+askariprayer	248	Amazon skill																																														receiving		hpregen												barbarian_findheart_1									0
 combinedarmsrtm	249	Amazon proc																																									sanctuaryback																												0
