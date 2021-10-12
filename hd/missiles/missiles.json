@@ -837,5 +837,6 @@
     "corpsegaswave": "b_a_yell_shock_wave_01",
     "snaketrapcenter": "gleam",
     "snaketrapnovaemitter": "null",
-    "snaketrapwave": "laz_snaketrap"
+    "snaketrapwave": "laz_snaketrap",
+    "prepareforglorycenter": "laz_dustproject"
 }
