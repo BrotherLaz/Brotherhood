@@ -214,7 +214,7 @@ enablehitbymonster	211																																																										
 retaliate	212																																																																						0
 purifier	213																																																																						0
 banishment	214																																																		12																				0
-martialcadenceproc	215	Amazon proc																			1																						itemgleam							item_tohit_percent																					0
+martialcadenceproc	215	Amazon proc																			1																						fingermageflames							item_tohit_percent																					0
 converter	216																																																																						0
 impalestate	217																																																																						0
 enchantedspear	218																																																																						0
@@ -249,3 +249,6 @@ manapotion	246																																										receiving					healing			
 herbpotion	247																																										receiving					healing																							0
 askariprayer	248	Amazon skill																																														receiving		hpregen												barbarian_findheart_1									0
 combinedarmsrtm	249	Amazon proc																																									sanctuaryback																												0
+druidfire	250	druid	3				1																																				progressive_fire_3																			assassin_chargeup_fire_3	assassin_chargeup_fire_3								0
+druidcold	251	druid	3				1																																				progressive_cold_3																			assassin_chargeup_ice_3	assassin_chargeup_ice_3								0
+druidlightning	252	druid	3				1																																				progressive_lightning_3																			assassin_chargeup_thunder_3	assassin_chargeup_thunder_3								0

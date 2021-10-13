@@ -804,7 +804,7 @@
     "parasiticshot": "arrow",
     "parasiticshotarrow": "laz_arrow",
     "bouldershotdust": "laz_dustproject",
-    "serpentineshot": "laz_arrow",
+    "rockshot": "laz_pebbleshot",
     "skyfallshot": "laz_bouldershot",
     "skyfallshotsubmissile": "rock_large",
     "skyfalldelay": "null",
@@ -838,5 +838,10 @@
     "snaketrapcenter": "gleam",
     "snaketrapnovaemitter": "null",
     "snaketrapwave": "laz_snaketrap",
-    "prepareforglorycenter": "laz_dustproject"
+    "prepareforglorycenter": "laz_dustproject",
+    "snakeshot": "laz_snakearrow",
+    "snakeshotcloud": "poison_sparks",
+    "serpentineshotcenter": "null",
+    "serpentineshot": "laz_snakearrow",
+    "serpentineshotcloud": "poison_sparks"
 }
