@@ -769,7 +769,7 @@ Placeholder 765	765		p765			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 766	766		p766			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 767	767		p767			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 768	768		p768			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Spirit of Frost Item	769	Druid proc	soci			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Spirit of Cold Item	769	Druid proc	soci			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 770	770		p770			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 771	771		p771			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 772	772		p772			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -833,7 +833,7 @@ Placeholder 829	829		p829			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 830	830		p830			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 831	831		p831			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 832	832		p832			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Spirit of Thunder Item	833	Druid proc	soli			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Spirit of Lightning Item	833	Druid proc	soli			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 834	834		p834			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 835	835		p835			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 836	836		p836			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

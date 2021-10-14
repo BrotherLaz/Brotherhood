@@ -19,3 +19,4 @@ placeholder16																																																																			
 placeholder17																																																																																											0
 placeholder18																																																																																											0
 generic																																																																																											0
+spiritanimal	fade			2	2																										fade			2	2																										fade			2	2																										0
