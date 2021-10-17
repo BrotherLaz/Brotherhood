@@ -209,7 +209,7 @@ instawolf	206		3			1	1				1	1	1	1																											1							wolf_into	wo
 instabear	207		3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
 instarat	208		3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
 jungleremedyproc	204	Amazon proc																																																hpregen	18						71	102	255	255	255										0
-ardor	210										1																																impregnated																			paladin_holyshield									0
+ardor	210	Paladin skill									1																																ardor_light							paladin_holyshield																					0
 enablehitbymonster	211																																																																						0
 retaliate	212																																																																						0
 purifier	213																																																																						0
