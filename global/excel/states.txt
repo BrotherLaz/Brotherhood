@@ -7,7 +7,7 @@ resistcold	4						1											1																									aura_resistcold					cast
 resistlight	5						1										1																										aura_resistlight					cast_resistlight		lightresist												paladin_aura_resistlightning									0
 resistmagic	6																																																																						0
 playerbody	7																																																																						0
-resistall	8						1									1	1	1																									aura_resistall_front	aura_resistall_back				cast_resistall		lightresist												paladin_aura_salvation									0
+resistall	8						1																																				aura_resistall_front	aura_resistall_back				cast_resistall		lightresist												paladin_aura_salvation									0
 amplifydamage	9							1	1																																		curseamplifydamage					curse_hit		damageresist												necromancer_amplifydamage									0
 frozenarmor	10		1												1																												frozenarmor							skill_armor_percent																					0
 cold	11							1																																										velocitypercent							100	108	150	215	255	impact_bluemotize_1									0
@@ -36,7 +36,7 @@ might	33						1							1																													aura_might_front	aura_might_
 prayer	34						1																																				aura_prayer_front	aura_prayer_back																		paladin_aura_prayer									0
 holyfire	35						1																																				aura_holyfire_front	aura_holyfire_back																		paladin_aura_holyfire									0
 thorns	36						1																																				aura_thorns_front	aura_thorns_back																		paladin_aura_thorns									0
-defiance	37						1								1																												aura_defiance_front	aura_defiance_back						skill_armor_percent												paladin_aura_defiance									0
+defiance	37						1																																				aura_defiance_front	aura_defiance_back						skill_armor_percent												paladin_aura_defiance									0
 thunderstorm	38																																											thunderstormback				thunderstormcast																							0
 lightningbolt	39																																																																						0
 blessedaim	40						1						1																														blessedaimfront	blessedaimback						item_tohit_percent												paladin_aura_blessedaim									0
@@ -205,12 +205,12 @@ breakthrough	202																																										breakthrough										
 intimidate	203								1																																																														0
 cooldownreset	204	Assassin proc	7																																													shadowwarriorappear														assassin_bladeshield									0
 dragonclaws	205	Assassin skill																																																																					0
-instawolf	206		3			1	1				1	1	1	1																											1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
-instabear	207		3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
-instarat	208		3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
+instawolf	206	druid skill	3			1	1				1	1	1	1																											1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
+instabear	207	druid skill	3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
+instarat	208	druid skill	3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
 jungleremedyproc	204	Amazon proc																																																hpregen	18						71	102	255	255	255										0
-ardor	210	Paladin skill									1																																ardor_light							paladin_holyshield																					0
-enablehitbymonster	211																																																																						0
+canconvert	210	paladin skill									1																																charge							paladin_holyshield																					0
+covenant	211	paladin skill											1	1																													bloodlust_state																												0
 retaliate	212																																																																						0
 purifier	213																																																																						0
 banishment	214																																																		12																				0
@@ -227,10 +227,10 @@ werewolfpassive	224																																																													
 werebearpassive	225																																																																						0
 auraactive	226									1																																									9			Apply Aura 1																	0
 ardorongethit	227																																																																						0
-ardoronkill	228																																																																						0
+enableconversion	228	DEPRECATED																																																																					0
 attackspeed	229	Druid passive																																																																					0
-aura2	230						1																																				sanctuaryback	spirit_of_barbs						damagepercent												paladin_aura_defiance									0
-aura3	231						1																																				charge	oak_sage						damagepercent	9											paladin_aura_defiance									0
+swordofthezakarum	230	paladin skill									1		1	1																													progressive_lightning_1							paladin_holyshield																					0
+bloodofthezakarum	231	paladin skill									1				1																												progressive_fire_1							paladin_holyshield																					0
 attackbuff1	232	Druid passive																																																																					0
 attackbuff2	233	Druid passive																																																																					0
 attackbuff3	234	Druid passive																																																																					0
@@ -244,12 +244,13 @@ passivestunattack	241	Barbarian passive																																									
 arreatswail	242	Barbarian skill					1																																				shout					shoutstart		item_healonstriking																					0
 shout2	243	Barbarian skill					1																																				battlecommand					battlecommandcast																							0
 generalpassive1	244	Common passive																																																																					0
-bandage	245	Barbarian skill																																														healing		hpregen												barbarian_findheart_1									0
-manapotion	246																																										receiving					healing																							0
-herbpotion	247																																										receiving					healing																							0
-askariprayer	248	Amazon skill																																														receiving		hpregen												barbarian_findheart_1									0
-combinedarmsrtm	249	Amazon proc																																									sanctuaryback																												0
-druidfire	250	druid	3				1																																				progressive_fire_3					cast_resistfire		skill_druidfire_active												assassin_chargeup_fire_3	assassin_chargeup_fire_3								0
-druidcold	251	druid	3				1																																				progressive_cold_3					cast_resistcold		skill_druidcold_active												assassin_chargeup_ice_3	assassin_chargeup_ice_3								0
-druidlightning	252	druid	3				1																																				progressive_lightning_3					cast_resistlight		skill_druidlightning_active												assassin_chargeup_thunder_3	assassin_chargeup_thunder_3								0
-spiritanimal	253	druid																																																							70	49	255	255	255										0
+generalpassive2	245	Common passive																																																																					0
+bandage	246	Barbarian skill																																														healing		hpregen												barbarian_findheart_1									0
+manapotion	247																																										receiving					healing																							0
+herbpotion	248																																										receiving					healing																							0
+askariprayer	249	Amazon skill																																														receiving		hpregen												barbarian_findheart_1									0
+combinedarmsrtm	250	Amazon proc																																									sanctuaryback																												0
+druidfire	251	druid	3				1																																				progressive_fire_3					cast_resistfire		skill_druidfire_active												assassin_chargeup_fire_3	assassin_chargeup_fire_3								0
+druidcold	252	druid	3				1																																				progressive_cold_3					cast_resistcold		skill_druidcold_active												assassin_chargeup_ice_3	assassin_chargeup_ice_3								0
+druidlightning	253	druid	3				1																																				progressive_lightning_3					cast_resistlight		skill_druidlightning_active												assassin_chargeup_thunder_3	assassin_chargeup_thunder_3								0
+spiritanimal	254	druid																																																							70	49	255	255	255										0
