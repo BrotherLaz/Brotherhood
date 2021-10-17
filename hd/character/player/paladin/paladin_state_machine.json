@@ -1110,6 +1110,30 @@
             },
             {
                 "path": "data/hd/character/player/paladin/animation/xbw_walk.animation"
+            },
+            {
+                "path": "data/hd/character/player/barbarian/animation/1hs_whirlwind.animation"
+            },
+            {
+                "path": "data/hd/character/player/barbarian/animation/1ht_whirlwind.animation"
+            },
+            {
+                "path": "data/hd/character/player/barbarian/animation/2hs_whirlwind.animation"
+            },
+            {
+                "path": "data/hd/character/player/barbarian/animation/2ht_whirlwind.animation"
+            },
+            {
+                "path": "data/hd/character/player/barbarian/animation/hth_whirlwind.animation"
+            },
+            {
+                "path": "data/hd/character/player/barbarian/animation/stf_whirlwind.animation"
+            },
+            {
+                "path": "data/hd/character/player/amazon/animation/1ht_jab.animation"
+            },
+            {
+                "path": "data/hd/character/player/amazon/animation/2ht_jab.animation"
             }
         ],
         "textures": [],
@@ -2967,6 +2991,51 @@
             "type": "AnimationItem",
             "name": "xbw_townfidget_03",
             "filename": "data/hd/character/player/paladin/animation/xbw_townfidget_03.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "hth_whirlwind",
+            "filename": "data/hd/character/player/barbarian/animation/hth_whirlwind.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "1hs_whirlwind",
+            "filename": "data/hd/character/player/barbarian/animation/1hs_whirlwind.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "1ht_whirlwind",
+            "filename": "data/hd/character/player/barbarian/animation/1ht_whirlwind.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "stf_whirlwind",
+            "filename": "data/hd/character/player/barbarian/animation/stf_whirlwind.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "2hs_whirlwind",
+            "filename": "data/hd/character/player/barbarian/animation/2hs_whirlwind.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "2ht_whirlwind",
+            "filename": "data/hd/character/player/barbarian/animation/2ht_whirlwind.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "1st_whirlwind",
+            "filename": "data/hd/character/player/barbarian/animation/1st_whirlwind.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "1ht_jab",
+            "filename": "data/hd/character/player/amazon/animation/1ht_jab.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "2ht_jab",
+            "filename": "data/hd/character/player/amazon/animation/2ht_jab.animation"
         }
     ],
     "states": [
@@ -5313,7 +5382,7 @@
         },
         {
             "type": "AnimationState",
-            "name": "AnimationState032",
+            "name": "AnimationState150",
             "_name": "SplitTheHeavens_Seq",
             "audioId": "",
             "loopCount": 1,
@@ -5346,6 +5415,88 @@
                 "xbw": [
                     "xbw_attack1"
                 ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState159",
+            "_name": "Dervish_Seq",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 52,
+            "modeId": 18,
+            "skillIndex": 999,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "hth_whirlwind"
+                ],
+                "bow": [],
+                "1hs": [
+                    "1hs_whirlwind"
+                ],
+                "1ht": [
+                    "1ht_whirlwind"
+                ],
+                "stf": [
+                    "stf_whirlwind"
+                ],
+                "2hs": [
+                    "2hs_whirlwind"
+                ],
+                "2ht": [
+                    "2ht_whirlwind"
+                ],
+                "xbw": [],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState160",
+            "name": "NewSacrifice_Seq",
+            "_name": "",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 53,
+            "modeId": 18,
+            "skillIndex": 10,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "1ht_jab"
+                ],
+                "bow": [],
+                "1hs": [
+                    "1ht_jab"
+                ],
+                "1ht": [
+                    "1ht_jab"
+                ],
+                "stf": [
+                    "2ht_jab"
+                ],
+                "2hs": [
+                    "2ht_jab"
+                ],
+                "2ht": [
+                    "2ht_jab"
+                ],
+                "xbw": [],
                 "1js": [],
                 "1jt": [],
                 "1ss": [],

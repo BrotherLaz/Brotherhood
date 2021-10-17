@@ -153,3 +153,4 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 fire weapon	1			0					2	weap,noe	hpot,qty=1						usetype,mag,suf=176	30		60																																																																																				0
 frost weapon	1			0					3	weap,noe	hpot,qty=2						usetype,mag,suf=183	30		60																																																																																				0
 power weapon	1			0					2	isc,qty=2							7ma	30		60																																																																																				0
+power boots	1			0					1	lbt							vbt																																																																																							0
