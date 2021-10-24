@@ -294,4 +294,4 @@ cobrastrike1	291	expansion\Cobra_Strike_A	100	16	assassin	0	1	0	0	0	0	0	0	16	0	3
 cobrastrike2	292	expansion\Cobra_Strike_B	100	16	assassin	0	1	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
 cobrastrike3	293	expansion\Cobra_Strike_C	100	16	assassin	0	1	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
 breakthrough	294	breakthrough	100	8	amazon	0	1	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
-ardor_light	295	HoradricLightBeam	100	21	object	0	1	0	0	0	0	0	0	5	0	3	0	0	0	0	0	1	0
+laz_malefic	295	Laz_Malefic	100	21	common	0	1	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0

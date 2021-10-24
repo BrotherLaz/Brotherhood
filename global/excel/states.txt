@@ -118,7 +118,7 @@ burning	115																																										burning																				
 dragonflight	116																																																																						0
 maul	117		3											1																								1					maul1	maul5	maul1back	maul5back				damagepercent	16	11																			0
 corpse_noselect	118																												1	1	1			1																																					0
-shadowwarrior	119					1						1																				1		1																														2	6						0
+shadowwarrior	119					1						1																				1		1																														2	2						0
 feralrage	120		3																																			1					feralrage1	feralrage5	feralrage1back	feralrage5back				attackrate	16	11																			0
 skilldelay	121																																																		19	12																			0
 progressive_damage	122																																				1										progressive_damage_1			progressive_damage	1	1																			0
@@ -212,7 +212,7 @@ jungleremedyproc	204	Amazon proc																																																
 canconvert	210	paladin skill									1																																charge							paladin_holyshield																					0
 covenant	211	paladin skill											1	1																													bloodlust_state																												0
 retaliate	212																																																																						0
-purifier	213																																																																						0
+haunt	213	necromancer																																									vulturedemonfeathers	warcry				frontkick		velocitypercent												necromancer_attract									0
 banishment	214																																																		12																				0
 martialcadenceproc	215	Amazon proc																			1																						fingermageflames							item_tohit_percent																					0
 converter	216																																																																						0
@@ -245,9 +245,9 @@ arreatswail	242	Barbarian skill					1																																				shout		
 shout2	243	Barbarian skill					1																																				battlecommand					battlecommandcast																							0
 generalpassive1	244	Common passive																																																																					0
 generalpassive2	245	Common passive																																																																					0
-bandage	246	Barbarian skill																																														healing		hpregen												barbarian_findheart_1									0
-manapotion	247																																										receiving					healing																							0
-herbpotion	248																																										receiving					healing																							0
+bandageheal	246	barbarian																																														healing		hpregen												barbarian_findheart_1									0
+grimsentinel	247	necromancer					1																																1				battlecommand							hpregen		11										barbarian_findheart_1									0
+grimwatcher	248	necromancer					1																																1				shout							hpregen		11										barbarian_findheart_1									0
 askariprayer	249	Amazon skill																																														receiving		hpregen												barbarian_findheart_1									0
 combinedarmsrtm	250	Amazon proc																																									sanctuaryback																												0
 druidfire	251	druid	3				1																																				progressive_fire_3					cast_resistfire		skill_druidfire_active												assassin_chargeup_fire_3	assassin_chargeup_fire_3								0

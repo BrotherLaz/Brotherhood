@@ -103,8 +103,8 @@ Ruby	99		gemr	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Sapphire	100		gems	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Topaz	101		gemt	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Skull	102		gemz	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Placeholder 103	103		p103			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 104	104		p104			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Scythe	103		scyh	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Necromancer Scythe	104		nscy	scyh	necr	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Placeholder 105	105		p105			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 106	106		p106			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 107	107		p107			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
