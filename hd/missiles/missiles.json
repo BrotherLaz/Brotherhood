@@ -893,5 +893,13 @@
     "grimswatchermediumstart": "grim_ward_medium_start",
     "grimwatcherlargestart": "grim_ward_large_start",
     "grimwatcherauracast": "laz_totem_mana_cast",
-    "grimwatcheraura": "laz_totem_mana"
+    "grimwatcheraura": "laz_totem_mana",
+    "necronovacenter": "null",
+    "necronovawave": "poison_smoke_puff",
+    "putridblast": "poison_sparks",
+    "putridexplosioncenter": "corpse_explode_guts_poison",
+    "putridexplosiondetonator": "null",
+    "putridexplosioncloud": "poison_sparks",
+    "corpselancecenter": "corpse_explode_guts",
+    "corpselancearrow": "laz_teeth_missile"
 }

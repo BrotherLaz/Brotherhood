@@ -426,9 +426,9 @@ Placeholder 422	422		p422			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 423	423		p423			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 424	424		p424			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 425	425		p425			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 426	426		p426			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Staunch Bleeding Item	427	Amazon aura	slob			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Death or Glory Item	428	Barbarian aura	dogi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Poisoned Weapon Item	426	necromancer	toxi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Staunch Bleeding Item	427	amazon	slob			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Death or Glory Item	428	barbarian	dogi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 429	429		p429			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 430	430		p430			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 431	431		p431			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

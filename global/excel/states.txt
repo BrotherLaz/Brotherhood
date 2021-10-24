@@ -211,8 +211,8 @@ instarat	208	druid skill	3			1	1				1	1																													1							bear
 jungleremedyproc	204	Amazon proc																																																hpregen	18						71	102	255	255	255										0
 canconvert	210	paladin skill									1																																charge							paladin_holyshield																					0
 covenant	211	paladin skill											1	1																													bloodlust_state																												0
-retaliate	212																																																																						0
-haunt	213	necromancer																																									vulturedemonfeathers	warcry				frontkick		velocitypercent												necromancer_attract									0
+zombietimer	212	necromancer																																																																					0
+haunt	213	necromancer						1																																			berserkfront					curse_hit														necromancer_dimvision									0
 banishment	214																																																		12																				0
 martialcadenceproc	215	Amazon proc																			1																						fingermageflames							item_tohit_percent																					0
 converter	216																																																																						0
@@ -227,7 +227,7 @@ werewolfpassive	224																																																													
 werebearpassive	225																																																																						0
 auraactive	226									1																																									9			Apply Aura 1																	0
 ardorongethit	227																																																																						0
-enableconversion	228	DEPRECATED																																																																					0
+poisonaura	228	necromancer																																																					mele	cgrn															0
 attackspeed	229	Druid passive																																																																					0
 swordofthezakarum	230	paladin skill									1		1	1																													progressive_lightning_1							paladin_holyshield																					0
 bloodofthezakarum	231	paladin skill									1				1																												progressive_fire_1							paladin_holyshield																					0
@@ -242,12 +242,12 @@ hiddenaura	239	Common passive					1																																											da
 deathorglory	240	Barbarian passive																																																item_aura																					0
 passivestunattack	241	Barbarian passive																																																stunlength																					0
 arreatswail	242	Barbarian skill					1																																				shout					shoutstart		item_healonstriking																					0
-shout2	243	Barbarian skill					1																																				battlecommand					battlecommandcast																							0
+grimtotem	243	necromancer					1																																				battlecommand					battlecommandcast		hpregen		11										barbarian_findheart_1									0
 generalpassive1	244	Common passive																																																																					0
 generalpassive2	245	Common passive																																																																					0
 bandageheal	246	barbarian																																														healing		hpregen												barbarian_findheart_1									0
-grimsentinel	247	necromancer					1																																1				battlecommand							hpregen		11										barbarian_findheart_1									0
-grimwatcher	248	necromancer					1																																1				shout							hpregen		11										barbarian_findheart_1									0
+grimsentinel	247	necromancer					1																																				shout					shoutstart		hpregen		11										barbarian_findheart_1									0
+grimwatcher	248	necromancer					1																																				battleorders					battleorderscast		manarecoveryrate		11										barbarian_findheart_1									0
 askariprayer	249	Amazon skill																																														receiving		hpregen												barbarian_findheart_1									0
 combinedarmsrtm	250	Amazon proc																																									sanctuaryback																												0
 druidfire	251	druid	3				1																																				progressive_fire_3					cast_resistfire		skill_druidfire_active												assassin_chargeup_fire_3	assassin_chargeup_fire_3								0
