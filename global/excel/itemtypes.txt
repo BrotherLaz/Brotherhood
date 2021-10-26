@@ -425,7 +425,7 @@ Placeholder 421	421		p421			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 422	422		p422			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 423	423		p423			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 424	424		p424			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 425	425		p425			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Flame Bolt Item	426	sorceress	boom			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Poisoned Weapon Item	426	necromancer	toxi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Staunch Bleeding Item	427	amazon	slob			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Death or Glory Item	428	barbarian	dogi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -897,7 +897,7 @@ Placeholder 893	893		p893			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 894	894		p894			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 895	895		p895			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 896	896		p896			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Jungle Remedy Item	897	Required for passive proc	phat			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Ice Armor Item	897	Required for passive proc	brrr			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 898	898		p898			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 899	899		p899			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 900	900		p900			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

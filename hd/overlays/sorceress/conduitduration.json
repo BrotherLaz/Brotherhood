@@ -1,0 +1,88 @@
+{
+    "dependencies": {
+        "particles": [
+            {
+                "path": "data/hd/vfx/particles/missiles/bighead_lightning_missile/bighead_lightning_missile.particles"
+            }
+        ],
+        "models": [],
+        "skeletons": [],
+        "animations": [],
+        "textures": [
+            {
+                "path": "data/hd/vfx/textures/gradient/T_FX_Mirror_Gradient_Correct.texture"
+            }
+        ],
+        "physics": [],
+        "json": [],
+        "variantdata": [],
+        "objecteffects": [],
+        "other": []
+    },
+    "type": "OverlayDefinition",
+    "name": "conduitduration",
+    "entities": [
+        {
+            "type": "Entity",
+            "name": "entity_root",
+            "id": 2941950687,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "entity_root_transformdefinition",
+                    "position": {
+                        "x": 0.0,
+                        "y": 3.25,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 4.0,
+                        "y": 4.0,
+                        "z": 4.0
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_vfx1",
+            "id": 515406984,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 0.0,
+                        "y": 3.25,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 4.0,
+                        "y": 4.0,
+                        "z": 4.0
+                    },
+                    "inheritOnlyPosition": true
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "entity_vfx1_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/bighead_lightning_missile/bighead_lightning_missile.particles",
+                    "hardKillOnDestroy": false
+                }
+            ]
+        }
+    ]
+}

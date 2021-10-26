@@ -6970,7 +6970,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState158",
-            "_name": "SpinAttack",
+            "_name": "SKILL_RIPANDTEAR_CAST",
             "audioId": "",
             "loopCount": 0,
             "stateId": 85,

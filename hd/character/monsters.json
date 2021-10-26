@@ -743,5 +743,6 @@
   "summonbear": "druidbear",
   "simulacrum": "simulacrum",
   "necrowraith": "wraith1",
-  "necrowallzombie": "zombie1"
+  "necrowallzombie": "zombie1",
+  "conduit": "invisospawner"
 }
