@@ -19,4 +19,6 @@ placeholder16																																																																			
 placeholder17																																																																																											0
 placeholder18																																																																																											0
 generic																																																																																											0
-spiritanimal	fade			2	2																										fade			2	2																										fade			2	2																										0
+summonraven	hit-skill		600	25	1																										hit-skill		600	25	1																										hit-skill		600	25	1																										0
+summonwolf	hit-skill		601	25	1																										hit-skill		601	25	1																										hit-skill		601	25	1																										0
+summonbear	hit-skill		602	100	1																										hit-skill		602	100	1																										hit-skill		602	100	1																										0

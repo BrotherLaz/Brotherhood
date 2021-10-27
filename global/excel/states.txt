@@ -12,7 +12,7 @@ amplifydamage	9							1	1																																		curseamplifydamage			
 frozenarmor	10		1												1																												frozenarmor							skill_armor_percent																					0
 cold	11							1																																										velocitypercent							100	108	150	215	255	impact_bluemotize_1									0
 inferno	12				1																																																																		0
-blaze	13	sorceress (Conduit)				1					1	1																															conduitduration	conduit						velocitypercent													lightninggenerator_launch_1	1	777						0
+blaze	13	sorceress (Conduit)				1					1	1																															conduitduration	conduit						velocitypercent													lightninggenerator_launch_1	1	778						0
 bonearmor	14		1																																			1	1				bonearmor_front	bonearmor_back	bonearmor_null1	bonearmor_null2		bonearmor_cast			6	3																			0
 concentrate	15														1																																			skill_armor_percent																					0
 enchant	16												1									1																										enchant		skill_enchant					weap	cred															0
@@ -88,7 +88,7 @@ nomanaregen	85				1																																																													
 justhit	86		1		1																																																																		0
 slowmissiles	87																																										innersight							skill_handofathena																					0
 shiverarmor	88		1							1					1																												shiverarmor							skill_armor_percent																		87			0
-battlecry	89								1					1	1																												battlecry							skill_armor_percent												barbarian_battlecry_state									0
+cursecripple	89	common curse						1	1												1	1																					battlecry							skill_armor_percent												barbarian_battlecry_state									0
 blue	90																																																								100	108	150	215	255										0
 red	91																																																								70	100	255	255	255										0
 death_delay	92																																																																						0
@@ -112,7 +112,7 @@ conversion_save	109																																																													
 pregnant	110																																										impregnated									10																			0
 golem_mastery	111				1																																																																		0
 rabies	112																																										rabiesplague																												0
-defense_curse	113							1	1														1																				defense_curse							skill_armor_percent																					0
+cursefrailty	113	common curse						1	1														1																				defense_curse							skill_armor_percent												necromancer_reversevampire									0
 blood_mana	114							1	1																																		blood_mana																												0
 burning	115																																										burning																												0
 dragonflight	116																																																																						0
@@ -205,10 +205,10 @@ breakthrough	202																																										breakthrough										
 intimidate	203								1																																																														0
 cooldownreset	204	Assassin proc	7																																													shadowwarriorappear														assassin_bladeshield									0
 dragonclaws	205	Assassin skill																																																																					0
-instawolf	206	druid skill	3			1	1				1	1	1	1																											1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
-instabear	207	druid skill	3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
-instarat	208	druid skill	3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
-jungleremedyproc	204	Amazon proc																																																hpregen	18						71	102	255	255	255										0
+instawolf	206	druid	3			1	1				1	1	1	1																											1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
+instabear	207	druid	3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
+instarat	208	druid	3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
+instaspirit	209	druid	3			1	1				1	1																													1							bear_into	bear_undo								70	108	255	255	255	druid_morph	druid_morph	1	770						0
 canconvert	210	paladin skill									1																																charge							paladin_holyshield																					0
 covenant	211	paladin skill											1	1																													bloodlust_state																												0
 zombietimer	212	necromancer																																																																					0
@@ -218,7 +218,7 @@ martialcadenceproc	215	Amazon proc																			1																						fing
 converter	216																																																																						0
 impalestate	217																																																																						0
 enchantedspear	218	wrathofthewastes																																																																					0
-sorcmulticastcold	219	sorc	1																																								shiverarmor							skill_sorcmulticast_cold																					0
+sorcmulticastcold	219	sorceress	1																																								shiverarmor							skill_sorcmulticast_cold																					0
 battlemeditation	220																																																																						0
 skewer	221																																																																						0
 ravage	222												1	1																													direwolfcharged	direwolfcharged																											0
@@ -229,7 +229,7 @@ auraactive	226									1																																									9			Apply Aura 
 ardorongethit	227																																																																						0
 poisonaura	228	necromancer																																																					mele	cgrn															0
 attackspeed	229	Druid passive																																																																					0
-devouringflames	230	sorceress							1																																		battlecry							damagepercent																					0
+cursecripplesilent	230	sorceress						1	1												1	1																					battlecry							damagepercent																					0
 bloodofthezakarum	231	paladin skill									1				1																												progressive_fire_1							paladin_holyshield																					0
 attackbuff1	232	Druid passive																																																																					0
 attackbuff2	233	Druid passive																																																																					0
@@ -250,7 +250,7 @@ grimsentinel	247	necromancer					1																																				shout					
 grimwatcher	248	necromancer					1																																				battleorders					battleorderscast		manarecoveryrate		11										barbarian_findheart_1									0
 askariprayer	249	Amazon skill																																														receiving		hpregen												barbarian_findheart_1									0
 combinedarmsrtm	250	Amazon proc																																									sanctuaryback																												0
-druidfire	251	druid	3				1																																				progressive_fire_3					cast_resistfire		skill_druidfire_active												assassin_chargeup_fire_3	assassin_chargeup_fire_3								0
-druidcold	252	druid	3				1																																				progressive_cold_3					cast_resistcold		skill_druidcold_active												assassin_chargeup_ice_3	assassin_chargeup_ice_3								0
-druidlightning	253	druid	3				1																																				progressive_lightning_3					cast_resistlight		skill_druidlightning_active												assassin_chargeup_thunder_3	assassin_chargeup_thunder_3								0
+druidfire	251	druid	3				1																																				progressive_fire_3					wolf_into	wolf_undo	skill_druidfire_active												druid_morph	druid_morph								0
+druidcold	252	druid	3				1																																				progressive_cold_3					wolf_into	wolf_undo	skill_druidcold_active												druid_morph	druid_morph								0
+druidlightning	253	druid	3				1																																				progressive_lightning_3					wolf_into	wolf_undo	skill_druidlightning_active												druid_morph	druid_morph								0
 spiritanimal	254	druid																																																							70	49	255	255	255										0

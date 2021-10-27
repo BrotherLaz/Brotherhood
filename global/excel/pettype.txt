@@ -19,9 +19,9 @@ shadowwarrior		0	1		1	1	1	UiShadowUI	1	1	shadowassassin									0
 assassintrap		0		1																0
 pettrap		0		1																0
 hydra		0		1																0
-laz_raven		0	1		1	1	1	strUI5		2	raven									0
-laz_wolf		0	1		1	1	1	strUI5		2	raven									0
-laz_bear		0	1		1	1	1	strUI5		2	raven									0
+druidraven		0	1		1	1	1	SummonKutkh		2	raven									0
+druidwolf		0	1		1	1	1	SummonAmarok		2	wolf									0
+druidbear		0	1		1	1	1	SummonNanuk		2	bear									0
 necrosimulacrum		0	1		1	1	1	SkillnameLaz555	1	1	necromancericon									0
 necroskeleton		0	1		1	1	1	StrUI1	1	2	skeletonicon									0
 necroskeletalmage		0	1		1	1	1	StrUI2	1	2	skeletonmageicon									0
