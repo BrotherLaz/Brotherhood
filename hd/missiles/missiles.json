@@ -964,5 +964,7 @@
     "apocalypsefire": "ground_fire_small",
     "moltenblast": "meteorlavadown",
     "incinerate": "null",
-    "flamebolt": "firebolt"
+    "flamebolt": "firebolt",
+    "druidicminionbuff": "expansion_b_ceiling_chunk_break",
+    "druidicenemydebuff": "expansion_hurricane_swoosh"
 }

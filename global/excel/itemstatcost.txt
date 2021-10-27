@@ -397,7 +397,9 @@ stat_aura2	394			1	5							1												1																												0
 item_skillonhitmelee	395	barbarian		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20																	0
 item_skillonhitranged	396	druid		1	7	16						1			2	281	309		21	0	7	0	16										1	domissiledamage	20																	0
 item_skillongethitmelee	397	sorceress		1	7	16						1			2	144	202		21	0	7	0	16											damagedinmelee	21																2	0
-stat_testbuff	398			1	5							1												1																												0
-skill_healoncast	399			1	9							1				972	404		9	0	9	0												doactive	28	damagedbymissile	28															0
-skill_sorcmulticast_cold	400	sorceress		1	2														2	0	2	0																														0
-skill_flamebolt_count	401	sorceress		1	5											492	282		5	0	5	0																														0
+skill_druid_iswolf	398	druid		1	2							1							2	0	2	0																														0
+skill_druid_isbear	399	druid		1	2							1							2	0	2	0																														0
+skill_druid_israt	400	druid		1	2							1							2	0	2	0																														0
+skill_healoncast	401			1	9							1				972	404		9	0	9	0												doactive	28	damagedbymissile	28															0
+skill_sorcmulticast_cold	402	sorceress		1	2														2	0	2	0																														0
+skill_flamebolt_count	403	sorceress		1	5											492	282		5	0	5	0																														0

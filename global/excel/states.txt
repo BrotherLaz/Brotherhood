@@ -200,7 +200,7 @@ placeholder197	197																																																														
 placeholder198	198																																																																						0
 placeholder199	199																																																																						0
 icearmor	200	sorceress																																														frozenarmor		skill_armor_percent																					0
-furystate	201																																																																						0
+furystate	201	common																																																																					0
 breakthrough	202																																										breakthrough																												0
 intimidate	203								1																																																														0
 cooldownreset	204	Assassin proc	7																																													shadowwarriorappear														assassin_bladeshield									0
@@ -208,7 +208,7 @@ dragonclaws	205	Assassin skill																																																		
 instawolf	206	druid	3			1	1				1	1	1	1																											1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
 instabear	207	druid	3			1	1				1	1	1		1																										1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
 instarat	208	druid	3			1	1				1	1																													1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
-instaspirit	209	druid	3			1	1				1	1																													1							bear_into	bear_undo								70	108	255	255	255	druid_morph	druid_morph	1	770						0
+instaspirit	209	druid	3			1	1				1	1																													1							bear_into	bear_undo								50	100	255	255	255	druid_morph	druid_morph	1	770						0
 canconvert	210	paladin skill									1																																charge							paladin_holyshield																					0
 covenant	211	paladin skill											1	1																													bloodlust_state																												0
 zombietimer	212	necromancer																																																																					0
@@ -239,13 +239,13 @@ skillonhit2	236	Common passive																																																		
 enableronhit3	237	Passives for Assassin Setup mechanic																																																																					0
 bruteforce	238	Barbarian passive																																																																					0
 hiddenaura	239	Common passive					1																																											damagepercent																					0
-deathorglory	240	Barbarian passive																																																item_aura																					0
+aurapassive	240	common																																																item_aura																					0
 passivestunattack	241	Barbarian passive																																																stunlength																					0
 arreatswail	242	Barbarian skill					1																																				shout					shoutstart		item_healonstriking																					0
 grimtotem	243	necromancer					1																																				battlecommand					battlecommandcast		hpregen		11										barbarian_findheart_1									0
 generalpassive1	244	Common passive																																																																					0
 generalpassive2	245	Common passive																																																																					0
-bandageheal	246	barbarian																																														healing		hpregen												barbarian_findheart_1									0
+bandageheal	246	barbarian/druid																																														healing		hpregen												barbarian_findheart_1									0
 grimsentinel	247	necromancer					1																																				shout					shoutstart		hpregen		11										barbarian_findheart_1									0
 grimwatcher	248	necromancer					1																																				battleorders					battleorderscast		manarecoveryrate		11										barbarian_findheart_1									0
 askariprayer	249	Amazon skill																																														receiving		hpregen												barbarian_findheart_1									0
@@ -253,4 +253,4 @@ combinedarmsrtm	250	Amazon proc																																									sanctuar
 druidfire	251	druid	3				1																																				progressive_fire_3					wolf_into	wolf_undo	skill_druidfire_active												druid_morph	druid_morph								0
 druidcold	252	druid	3				1																																				progressive_cold_3					wolf_into	wolf_undo	skill_druidcold_active												druid_morph	druid_morph								0
 druidlightning	253	druid	3				1																																				progressive_lightning_3					wolf_into	wolf_undo	skill_druidlightning_active												druid_morph	druid_morph								0
-spiritanimal	254	druid																																																							70	49	255	255	255										0
+naturalize	254	druid	3			1					1	1																																				teleport	teleport															1	556						0
