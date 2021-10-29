@@ -43,6 +43,23 @@ shadowmaster		0	7ar	rarm	3	7xf	rarm	3	7qr	rarm	3	0
 shadowmaster		0	7cs	larm	3	7tw	larm	3	7qr	larm	3	0
 shadowmaster		0		tors	3							0
 shadowmaster		0		head	3							0
-simulacrum		0	dgr	rarm	4							0
-simulacrum		0	lea	tors	6							0
+simulacrum		27	ci2	head	6							0
+simulacrum		25	amu	neck	6							0
+simulacrum		23	uhc	belt	6							0
+simulacrum		21	uhb	feet	6							0
+simulacrum		19	utg	glov	6							0
+simulacrum		17	dgr	rarm	6							0
+simulacrum		16	uar	tors	6							0
+simulacrum		14	ci0	head	4							0
+simulacrum		13	amu	neck	4							0
+simulacrum		12	zhb	belt	4							0
+simulacrum		11	xhb	feet	4							0
+simulacrum		10	xhg	glov	4							0
+simulacrum		8	9p9	rarm	6							0
+simulacrum		7	xul	tors	6							0
+simulacrum		5	hbl	belt	4							0
+simulacrum		4	hbt	feet	4							0
+simulacrum		2	hgl	glov	4							0
+simulacrum		0	dgr	rarm	6							0
+simulacrum		0	ful	tors	6							0
 *end*  do not remove												0

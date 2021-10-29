@@ -118,7 +118,7 @@ burning	115																																										burning																				
 dragonflight	116																																																																						0
 maul	117		3											1																								1					maul1	maul5	maul1back	maul5back				damagepercent	16	11																			0
 corpse_noselect	118																												1	1	1			1																																					0
-shadowwarrior	119	necromancer (Simulacrum)				1						1																				1		1																														2	2						0
+shadowwarrior	119	necromancer (Simulacrum)				1				1		1																	1	1	1	1		1																		2		Simulacrum			70	100	255	255	255			2	2			87			0
 feralrage	120		3																																			1					feralrage1	feralrage5	feralrage1back	feralrage5back				attackrate	16	11																		1	0
 skilldelay	121																																																		19	12																			0
 progressive_damage	122																																				1										progressive_damage_1			progressive_damage	1	1																			0
@@ -219,7 +219,7 @@ converter	216																																																																			
 impalestate	217																																																																						0
 enchantedspear	218	wrathofthewastes																																																																					0
 sorcmulticastcold	219	sorceress	1																																								shiverarmor							skill_sorcmulticast_cold																					0
-battlemeditation	220																																																																						0
+rathmaswill	220	necromancer											1																														bloodlust_state							skill_enchant					weap	blac						necromancer_curse_1									0
 skewer	221																																																																						0
 ravage	222												1	1																													direwolfcharged	direwolfcharged																											0
 ferocity	223	Barbarian skill									1		1	1																														monfrenzy						skill_frenzy																					0
@@ -243,11 +243,11 @@ aurapassive	240	common																																																item_aura	
 passivestunattack	241	Barbarian passive																																																stunlength																					0
 arreatswail	242	Barbarian skill					1																																				shout					shoutstart		item_healonstriking																					0
 grimtotem	243	necromancer					1																																				battlecommand					battlecommandcast		hpregen		11										barbarian_findheart_1									0
-generalpassive1	244	Common passive																																																																					0
-generalpassive2	245	Common passive																																																																					0
-bandageheal	246	barbarian/druid																																														healing		hpregen												barbarian_findheart_1									0
-grimsentinel	247	necromancer					1																																				shout					shoutstart		hpregen		11										barbarian_findheart_1									0
-grimwatcher	248	necromancer					1																																				battleorders					battleorderscast		manarecoveryrate		11										barbarian_findheart_1									0
+grimsentinel	244	necromancer					1																																				shout					shoutstart		hpregen		11										barbarian_findheart_1									0
+grimwatcher	245	necromancer					1																																				battleorders					battleorderscast		manarecoveryrate		11										barbarian_findheart_1									0
+generalpassive1	246	Common passive																																																																					0
+generalpassive2	247	Common passive																																																																					0
+bandageheal	248	barbarian/druid																																														healing		hpregen												barbarian_findheart_1									0
 askariprayer	249	Amazon skill																																														receiving		hpregen												barbarian_findheart_1									0
 combinedarmsrtm	250	Amazon proc																																									sanctuaryback																												0
 druidfire	251	druid	3				1																																				progressive_fire_3					wolf_into	wolf_undo	skill_druidfire_active												druid_morph	druid_morph								0

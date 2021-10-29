@@ -22,3 +22,5 @@ generic																																																																									
 summonraven	hit-skill		600	15	1																										hit-skill		600	15	1																										hit-skill		600	15	1																										0
 summonwolf	hit-skill		601	15	1																										hit-skill		601	15	1																										hit-skill		601	15	1																										0
 summonbear	hit-skill		602	30	1																										hit-skill		602	30	1																										hit-skill		602	30	1																										0
+necrowraith	hit-skill		15	10	1	state		red	1	1																					hit-skill		15	10	1	state		red	1	1																					hit-skill		15	10	1	state		red	1	1																					0
+necrowallzombie	state		104	1	1																										state		104	1	1																										state		104	1	1																										0

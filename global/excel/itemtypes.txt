@@ -385,7 +385,7 @@ Placeholder 381	381		p381			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 382	382		p382			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 383	383		p383			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 384	384		p384			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Conversion Item	385	Required for passive proc	love			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Conversion Item	385	paladin	love			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 386	386		p386			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 387	387		p387			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 388	388		p388			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -449,7 +449,7 @@ Placeholder 445	445		p445			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 446	446		p446			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 447	447		p447			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 448	448		p448			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Cold Blood Item	449	Assassin proc	setu			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Cold Blood Item	449	assassin	setu			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 386	450		p386			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 387	451		p387			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 388	452		p388			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -513,7 +513,7 @@ Placeholder 445	509		p445			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 446	510		p446			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 447	511		p447			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 448	512		p448			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Hidden Knives Item	513	Assassin proc	hibl			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Hidden Knives Item	513	assassin	hibl			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 514	514		p514			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 515	515		p515			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 516	516		p516			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -577,7 +577,7 @@ Placeholder 573	573		p573			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 574	574		p574			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 575	575		p575			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 576	576		p576			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Brute Force Item	577	Barbarian proc	bruf			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Brute Force Item	577	barbarian	bruf			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 578	578		p578			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 579	579		p579			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 580	580		p580			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -705,7 +705,7 @@ Placeholder 701	701		p701			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 702	702		p702			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 703	703		p703			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 704	704		p704			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Spirit of Fire Item	705	Druid proc	sofi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Spirit of Fire Item	705	druid	sofi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 706	706		p706			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 707	707		p707			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 708	708		p708			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -769,7 +769,7 @@ Placeholder 765	765		p765			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 766	766		p766			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 767	767		p767			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 768	768		p768			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Spirit of Cold Item	769	Druid proc	soci			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Spirit of Cold Item	769	druid	soci			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 770	770		p770			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 771	771		p771			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 772	772		p772			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -833,7 +833,7 @@ Placeholder 829	829		p829			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 830	830		p830			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 831	831		p831			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 832	832		p832			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Spirit of Lightning Item	833	Druid proc	soli			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Spirit of Lightning Item	833	druid	soli			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 834	834		p834			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 835	835		p835			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 836	836		p836			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -897,7 +897,7 @@ Placeholder 893	893		p893			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 894	894		p894			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 895	895		p895			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 896	896		p896			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Ice Armor Item	897	Required for passive proc	brrr			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Ice Armor Item	897	sorceress	brrr			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 898	898		p898			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 899	899		p899			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 900	900		p900			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -961,7 +961,7 @@ Placeholder 957	957		p957			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 958	958		p958			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 959	959		p959			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 960	960		p960			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Martial Cadence Item	961	Amazon proc	maca			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Interrogate the Dead Item	961	necromancer	dead			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 962	962		p962			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 963	963		p963			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 964	964		p964			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -1025,7 +1025,7 @@ Placeholder 1021	1021		q121			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 1022	1022		q122			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 1023	1023		q123			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 1024	1024		q124			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Prepare for Glory Item	1025	Amazon proc	preg			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Prepare for Glory Item	1025	amazon	preg			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 1026	1026		q126			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 1027	1027		q127			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 1028	1028		q128			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -1089,4 +1089,4 @@ Placeholder 1085	1085		q185			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 1086	1086		q186			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 1087	1087		q187			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 1088	1088		q188			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Covenant Item	1089	paladin skill	cult			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Covenant Item	1089	paladin	cult			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

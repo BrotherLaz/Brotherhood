@@ -1,0 +1,222 @@
+{
+    "dependencies": {
+        "particles": [
+            {
+                "path": "data/hd/vfx/particles/missiles/expansion_bladefury/bladefury_missile_1.particles"
+            }
+        ],
+        "models": [
+            {
+                "path": "data/hd/missiles/expansion_bladefury/expansion_bladefury.model"
+            }
+        ],
+        "skeletons": [],
+        "animations": [],
+        "textures": [
+            {
+                "path": "data/hd/vfx/textures/mask/T_FX_trailgradient_fromleft_mask_01.texture"
+            }
+        ],
+        "physics": [],
+        "json": [],
+        "variantdata": [],
+        "objecteffects": [],
+        "other": []
+    },
+    "type": "UnitDefinition",
+    "name": "laz_throwingspider",
+    "entities": [
+        {
+            "type": "Entity",
+            "name": "entity_root",
+            "id": 1373269324,
+            "components": [
+                {
+                    "type": "UnitRootComponent",
+                    "name": "component_root",
+                    "state_machine_filename": "",
+                    "doNotInheritRotation": false,
+                    "rotationOverride": {
+                        "x": 0.0,
+                        "y": 0.3826834,
+                        "z": 0.0,
+                        "w": 0.9238795
+                    },
+                    "doNotUseHDHeight": false,
+                    "hideAllMeshWhenInOpenedMode": false,
+                    "onCreateEventName": "",
+                    "animations": []
+                }
+            ],
+            "children": [ 
+                {
+                    "type": "Entity",
+                    "name": "entity_torso",
+                    "id": 2792979547,
+                    "components": [
+                        {
+                            "type": "UnitPartComponent",
+                            "name": "component_part_torso",
+                            "part": "torso",
+                            "variant": "lit"
+                        },
+                        {
+                            "type": "ModelDefinitionComponent",
+                            "name": "component_model_torso",
+                            "filename": "data/hd/character/enemy/minispider/torso.model",
+                            "visibleLayers": 1,
+                            "lightMask": 19,
+                            "shadowMask": 3,
+                            "ghostShadows": false,
+                            "floorModel": false,
+                            "terrainBlendEnableYUpBlend": false,
+                            "terrainBlendMode": 1
+                        },
+                        {
+                            "type": "PhysicsBodyDefinitionComponent",
+                            "name": "entity_torso_PhysicsBodyDefinition",
+                            "bodytype": "kinematic",
+                            "fixturedefs": [
+                                {
+                                    "type": "PhysicsFixtureDefinition",
+                                    "name": "entity_torso_PhysicsBodyDefinition_fixturedefs_0",
+                                    "shapetype": {
+                                        "type": "PhysicsSphereDefinition",
+                                        "name": "entity_torso_PhysicsBodyDefinition_fixturedefs_0_shapetype",
+                                        "center": {
+                                            "x": 0.0,
+                                            "y": 0.0,
+                                            "z": 0.0
+                                        },
+                                        "radius": 1.0
+                                    },
+                                    "friction": 0.6,
+                                    "restitution": 0.0,
+                                    "rollingresistance": 0.2,
+                                    "impulsefactor": 1.0,
+                                    "explosionfactor": 1.0,
+                                    "explosionliftfactor": 1.0,
+                                    "windfactor": 0.0,
+                                    "dragfactor": 0.0,
+                                    "liftfactor": 1.0,
+                                    "density": 37.5,
+                                    "boneindex": -1
+                                }
+                            ],
+                            "filter": "monster",
+                            "allowTransition": true,
+                            "removeOnDeath": true,
+                            "lineardamping": 0.0,
+                            "angulardamping": 0.0,
+                            "gravityscale": 1.0
+                        }
+                    ]
+                }
+              ]
+        },
+        {
+            "type": "Entity",
+            "name": "entity_vfx1",
+            "id": 2228592900,
+            "components": [
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 0.0,
+                        "y": 2.5,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "inheritOnlyPosition": false
+                },
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "entity_vfx1_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/expansion_bladefury/bladefury_missile_1.particles",
+                    "hardKillOnDestroy": false
+                },
+                {
+                    "type": "TrackReleasePointDefinitionComponent",
+                    "name": "entity_vfx1_TrackReleasePointDefinition",
+                    "transitionTime": 0.3
+                }
+            ],
+            "children": [ 
+                {
+                    "type": "Entity",
+                    "name": "entity_torso",
+                    "id": 2792979547,
+                    "components": [
+                        {
+                            "type": "UnitPartComponent",
+                            "name": "component_part_torso",
+                            "part": "torso",
+                            "variant": "lit"
+                        },
+                        {
+                            "type": "ModelDefinitionComponent",
+                            "name": "component_model_torso",
+                            "filename": "data/hd/character/enemy/minispider/torso.model",
+                            "visibleLayers": 1,
+                            "lightMask": 19,
+                            "shadowMask": 3,
+                            "ghostShadows": false,
+                            "floorModel": false,
+                            "terrainBlendEnableYUpBlend": false,
+                            "terrainBlendMode": 1
+                        },
+                        {
+                            "type": "PhysicsBodyDefinitionComponent",
+                            "name": "entity_torso_PhysicsBodyDefinition",
+                            "bodytype": "kinematic",
+                            "fixturedefs": [
+                                {
+                                    "type": "PhysicsFixtureDefinition",
+                                    "name": "entity_torso_PhysicsBodyDefinition_fixturedefs_0",
+                                    "shapetype": {
+                                        "type": "PhysicsSphereDefinition",
+                                        "name": "entity_torso_PhysicsBodyDefinition_fixturedefs_0_shapetype",
+                                        "center": {
+                                            "x": 0.0,
+                                            "y": 0.0,
+                                            "z": 0.0
+                                        },
+                                        "radius": 1.0
+                                    },
+                                    "friction": 0.6,
+                                    "restitution": 0.0,
+                                    "rollingresistance": 0.2,
+                                    "impulsefactor": 1.0,
+                                    "explosionfactor": 1.0,
+                                    "explosionliftfactor": 1.0,
+                                    "windfactor": 0.0,
+                                    "dragfactor": 0.0,
+                                    "liftfactor": 1.0,
+                                    "density": 37.5,
+                                    "boneindex": -1
+                                }
+                            ],
+                            "filter": "monster",
+                            "allowTransition": true,
+                            "removeOnDeath": true,
+                            "lineardamping": 0.0,
+                            "angulardamping": 0.0,
+                            "gravityscale": 1.0
+                        }
+                    ]
+                }
+              ]
+        }
+    ]
+}

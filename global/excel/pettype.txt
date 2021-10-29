@@ -25,5 +25,4 @@ druidbear		0	1		1	1	1	SummonNanuk	1	2	bear									0
 necrosimulacrum		0	1		1	1	1	SkillnameLaz555	1	1	necromancericon									0
 necroskeleton		0	1		1	1	1	StrUI1	1	2	skeletonicon									0
 necroskeletalmage		0	1		1	1	1	StrUI2	1	2	skeletonmageicon									0
-necroskeletalarcher		0	1		1	1	1	SkeletonArcher	1	2	skeletonicon									0
 necrozombie		0		1	1		1	Zombie		2	earthgolumicon									0
