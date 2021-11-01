@@ -1281,6 +1281,9 @@
             },
             {
                 "path": "data/hd/character/player/assassin/animation/xbw_walk.animation"
+            },
+            {
+                "path": "data/hd/character/player/sorceress/animation/1hs_cast.animation"
             }
         ],
         "textures": [],
@@ -3441,6 +3444,11 @@
             "type": "AnimationItem",
             "name": "1hs_dragontalon_start",
             "filename": "data/hd/character/player/assassin/animation/1hs_dragontalon_start.animation"
+        },
+        {
+            "type": "AnimationItem",
+            "name": "1hs_float",
+            "filename": "data/hd/character/player/sorceress/animation/1hs_cast.animation"
         }
     ],
     "states": [
@@ -6716,6 +6724,234 @@
                 ],
                 "ht2": [
                     "ht2_dragontalon_loop"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState156",
+            "_name": "SKILL_CHANNEL_START",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 81,
+            "modeId": 18,
+            "skillIndex": 445,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "2hs_blast_loop"
+                ],
+                "bow": [
+                    "2hs_blast_loop"
+                ],
+                "1hs": [
+                    "2hs_blast_loop"
+                ],
+                "1ht": [
+                    "2hs_blast_loop"
+                ],
+                "stf": [
+                    "2hs_blast_loop"
+                ],
+                "2hs": [
+                    "2hs_blast_loop"
+                ],
+                "2ht": [
+                    "2hs_blast_loop"
+                ],
+                "xbw": [
+                    "2hs_blast_loop"
+                ],
+                "1js": [
+                    "2hs_blast_loop"
+                ],
+                "1jt": [
+                    "2hs_blast_loop"
+                ],
+                "1ss": [
+                    "2hs_blast_loop"
+                ],
+                "1st": [
+                    "2hs_blast_loop"
+                ],
+                "ht1": [
+                    "2hs_blast_loop"
+                ],
+                "ht2": [
+                    "2hs_blast_loop"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState157",
+            "_name": "SKILL_CHANNEL_LOOP",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 82,
+            "modeId": 18,
+            "skillIndex": 445,
+            "stepIndex": 1,
+            "animationBindings": {
+                "hth": [
+                    "2hs_blast_loop"
+                ],
+                "bow": [
+                    "2hs_blast_loop"
+                ],
+                "1hs": [
+                    "2hs_blast_loop"
+                ],
+                "1ht": [
+                    "2hs_blast_loop"
+                ],
+                "stf": [
+                    "2hs_blast_loop"
+                ],
+                "2hs": [
+                    "2hs_blast_loop"
+                ],
+                "2ht": [
+                    "2hs_blast_loop"
+                ],
+                "xbw": [
+                    "2hs_blast_loop"
+                ],
+                "1js": [
+                    "2hs_blast_loop"
+                ],
+                "1jt": [
+                    "2hs_blast_loop"
+                ],
+                "1ss": [
+                    "2hs_blast_loop"
+                ],
+                "1st": [
+                    "2hs_blast_loop"
+                ],
+                "ht1": [
+                    "2hs_blast_loop"
+                ],
+                "ht2": [
+                    "2hs_blast_loop"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState158",
+            "_name": "SKILL_LEECH_START",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 83,
+            "modeId": 18,
+            "skillIndex": 447,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "2hs_blast_loop"
+                ],
+                "bow": [
+                    "2hs_blast_loop"
+                ],
+                "1hs": [
+                    "2hs_blast_loop"
+                ],
+                "1ht": [
+                    "2hs_blast_loop"
+                ],
+                "stf": [
+                    "2hs_blast_loop"
+                ],
+                "2hs": [
+                    "2hs_blast_loop"
+                ],
+                "2ht": [
+                    "2hs_blast_loop"
+                ],
+                "xbw": [
+                    "2hs_blast_loop"
+                ],
+                "1js": [
+                    "2hs_blast_loop"
+                ],
+                "1jt": [
+                    "2hs_blast_loop"
+                ],
+                "1ss": [
+                    "2hs_blast_loop"
+                ],
+                "1st": [
+                    "2hs_blast_loop"
+                ],
+                "ht1": [
+                    "2hs_blast_loop"
+                ],
+                "ht2": [
+                    "2hs_blast_loop"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState159",
+            "_name": "SKILL_LEECH_LOOP",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 84,
+            "modeId": 18,
+            "skillIndex": 447,
+            "stepIndex": 1,
+            "animationBindings": {
+                "hth": [
+                    "2hs_blast_loop"
+                ],
+                "bow": [
+                    "2hs_blast_loop"
+                ],
+                "1hs": [
+                    "2hs_blast_loop"
+                ],
+                "1ht": [
+                    "2hs_blast_loop"
+                ],
+                "stf": [
+                    "2hs_blast_loop"
+                ],
+                "2hs": [
+                    "2hs_blast_loop"
+                ],
+                "2ht": [
+                    "2hs_blast_loop"
+                ],
+                "xbw": [
+                    "2hs_blast_loop"
+                ],
+                "1js": [
+                    "2hs_blast_loop"
+                ],
+                "1jt": [
+                    "2hs_blast_loop"
+                ],
+                "1ss": [
+                    "2hs_blast_loop"
+                ],
+                "1st": [
+                    "2hs_blast_loop"
+                ],
+                "ht1": [
+                    "2hs_blast_loop"
+                ],
+                "ht2": [
+                    "2hs_blast_loop"
                 ]
             },
             "enterEvents": [],

@@ -388,18 +388,22 @@ item_healonstriking	385			1	9							1				1727	599		1	0	9	0												domeleedam
 item_manaonstriking	386			1	9							1				1250	505		1	0	9	0												domeleedamage	17	domissiledamage	17	17	19		ModManaOnStriking	ModManaOnStriking										0
 item_healonstrikingmelee	387			1	9							1				972	404		1	0	9	0												domeleedamage	28			16	19		ModLifeOnStrikingMelee	ModLifeOnStriking										0
 item_manaonstrikingmelee	388			1	9							1				728	392		1	0	9	0												domeleedamage	17			16	19		ModManaOnStrikingMelee	ModManaOnStriking										0
-item_necromancer_minions	389	necromancer		1	6														6	10	6	10																10	19		ModNecromancerMinions	ModNecromancerMinions										0
-item_coldspell_duration	390	common		1	8														6	50	8	50																10	19		ModColdSpellDuration	ModColdSpellDuration										0
-item_poisonspell_duration	391	common		1	8														6	50	8	50																10	19		ModPoisonSpellDuration	ModPoisonSpellDuration										0
-progressive_ferocity	392			1	5																																															0
-stat_aura1	393			1	5							1												1																												0
-stat_aura2	394			1	5							1												1																												0
-item_skillonhitmelee	395	barbarian		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20																	0
-item_skillonhitranged	396	druid		1	7	16						1			2	281	309		21	0	7	0	16										1	domissiledamage	20																	0
-item_skillongethitmelee	397	sorceress		1	7	16						1			2	144	202		21	0	7	0	16											damagedinmelee	21																2	0
-skill_druid_iswolf	398	druid		1	2							1							2	0	2	0																														0
-skill_druid_isbear	399	druid		1	2							1							2	0	2	0																														0
-skill_druid_israt	400	druid		1	2							1							2	0	2	0																														0
-skill_healoncast	401			1	9							1				972	404		9	0	9	0												doactive	28	damagedbymissile	28															0
-skill_sorcmulticast_cold	402	sorceress		1	2														2	0	2	0																														0
-skill_flamebolt_count	403	sorceress		1	5											492	282		5	0	5	0																														0
+item_healonstrikingranged	389	amazon		1	9							1				870	451		1	0	9	0												domissiledamage	28																	0
+item_manaonstrikingranged	390	amazon		1	9							1				848	400		1	0	9	0												domissiledamage	17																	0
+item_slowmelee	391			1	7							1				84	30		7	0	7	0											1	domeleedamage	19			77	19		ModSlowMelee	ModSlowMelee									2	0
+item_slowranged	392			1	7							1				92	35		7	0	7	0											1	domissiledamage	19			77	19		ModSlowRanged	ModSlowRanged									2	0
+item_necromancer_minions	393	necromancer		1	6														6	10	6	10																10	19		ModNecromancerMinions	ModNecromancerMinions										0
+item_coldspell_duration	394	common		1	8														6	50	8	50																10	19		ModColdSpellDuration	ModColdSpellDuration										0
+item_poisonspell_duration	395	common		1	8														6	50	8	50																10	19		ModPoisonSpellDuration	ModPoisonSpellDuration										0
+progressive_ferocity	396			1	5																																															0
+stat_aura1	397			1	5							1												1																												0
+stat_aura2	398			1	5							1												1																												0
+item_skillonhitmelee	399	common		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20																	0
+item_skillonhitranged	400	common		1	7	16						1			2	281	309		21	0	7	0	16										1	domissiledamage	20																	0
+item_skillongethitmelee	401	sorceress		1	7	16						1			2	144	202		21	0	7	0	16											damagedinmelee	21																2	0
+skill_druid_iswolf	402	druid		1	2							1							2	0	2	0																														0
+skill_druid_isbear	403	druid		1	2							1							2	0	2	0																														0
+skill_druid_israt	404	druid		1	2							1							2	0	2	0																														0
+skill_healoncast	405			1	9							1				972	404		9	0	9	0												doactive	28	damagedbymissile	28															0
+skill_sorcmulticast_cold	406	sorceress		1	2														2	0	2	0																														0
+skill_flamebolt_count	407	sorceress		1	5											492	282		5	0	5	0																														0

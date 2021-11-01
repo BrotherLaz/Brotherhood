@@ -982,5 +982,11 @@
     "delayedstrikecenter": "mist",
     "delayedstrikedamage": "laz_tower",
     "underworldpassagecenter": "null",
-    "underworldpassagewave": "corpse_explode_guts_poison"
+    "underworldpassagewave": "corpse_explode_guts_poison",
+    "limpet": "expansion_throwing_star_missile",
+    "breakarrow": "arrow",
+    "breakspike": "spike_fiend_missle",
+    "scattershotcenter": "null",
+    "scattershotbig": "laz_arrowrain",
+    "scattershotsmall": "laz_arrowrain"
 }

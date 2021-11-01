@@ -26,7 +26,7 @@ dimvision	23							1	1																																		cursedimvision					curse
 slowed	24																																																																						0
 fetishaura	25																																										fetish_aura							attackrate																					0
 shout	26						1								1																												shout					shoutstart		skill_armor_percent																					0
-taunt	27							1	1				1	1																													taunt																			barbarian_battlecry_state									0
+taunt	27							1	1				1	1																													taunt																			assassin_cloakofdarkness									0
 conviction	28						1																																				convictionfront	convictionback																		paladin_aura_purification									0
 convicted	29						1																1	1	1	1																	convictionfront	convictionback						skill_conviction																					0
 energyshield	30																																										energyshield																												0
@@ -225,8 +225,8 @@ ravage	222												1	1																													direwolfcharged	direwolfch
 ferocity	223	Barbarian skill									1		1	1																														monfrenzy						skill_frenzy																					0
 werewolfpassive	224																																																																						0
 werebearpassive	225																																																																						0
-auraactive	226									1																																									9			Apply Aura 1																	0
-ardorongethit	227																																																																						0
+meditatemana	244	assassin					1																																				battleorders							manarecoveryrate		11										barbarian_findheart_1									0
+meditatelife	245	assassin					1																																				shout							hpregen		11										barbarian_findheart_1									0
 poisonaura	228	necromancer																																																					mele	cgrn															0
 attackspeed	229	Druid passive																																																																					0
 cursecripplesilent	230	sorceress						1	1												1	1																					battlecry							damagepercent																					0
@@ -236,7 +236,7 @@ attackbuff2	233	Druid passive																																																			
 attackbuff3	234	Druid passive																																																																					0
 skillonhit1	235	Common passive																																																																					0
 skillonhit2	236	Common passive																																																																					0
-enableronhit3	237	Passives for Assassin Setup mechanic																																																																					0
+askarimanaheal	237	amazon																																														valkyriestart		manarecovery																					0
 bruteforce	238	Barbarian passive																																																																					0
 hiddenaura	239	Common passive					1																																											damagepercent																					0
 aurapassive	240	common																																																item_aura																					0
