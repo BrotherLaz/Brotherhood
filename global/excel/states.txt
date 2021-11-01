@@ -236,7 +236,7 @@ attackbuff2	233	Druid passive																																																			
 attackbuff3	234	Druid passive																																																																					0
 skillonhit1	235	Common passive																																																																					0
 skillonhit2	236	Common passive																																																																					0
-askarimanaheal	237	amazon																																														valkyriestart		manarecovery																					0
+askarimanaheal	237	amazon																																														valkyriestart		manarecovery												amazon_fistofares									0
 bruteforce	238	Barbarian passive																																																																					0
 hiddenaura	239	Common passive					1																																											damagepercent																					0
 aurapassive	240	common																																																item_aura																					0
