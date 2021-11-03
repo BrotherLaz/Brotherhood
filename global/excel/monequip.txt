@@ -62,4 +62,6 @@ simulacrum		4	hbt	feet	4							0
 simulacrum		2	hgl	glov	4							0
 simulacrum		0	dgr	rarm	6							0
 simulacrum		0	ful	tors	6							0
+berserkergang		0	tax	rarm	6							0
+berserkergang		0	tax	larm	6							0
 *end*  do not remove												0

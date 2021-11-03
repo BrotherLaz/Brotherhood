@@ -394,20 +394,22 @@ item_healonstrikingmelee	391			1	9							1				972	404		1	0	9	0												domele
 item_manaonstrikingmelee	392			1	9							1				728	392		1	0	9	0												domeleedamage	17			16	19		ModManaOnStrikingMelee	ModManaOnStriking										0
 item_healonstrikingranged	393	amazon		1	9							1				870	451		1	0	9	0												domissiledamage	28																	0
 item_manaonstrikingranged	394	amazon		1	9							1				848	400		1	0	9	0												domissiledamage	17																	0
-item_slowmelee	395			1	7							1				84	30		7	0	7	0											1	domeleedamage	19			77	19		ModSlowMelee	ModSlowMelee									2	0
-item_slowranged	396			1	7							1				92	35		7	0	7	0											1	domissiledamage	19			77	19		ModSlowRanged	ModSlowRanged									2	0
-item_necromancer_minions	397	necromancer		1	6														6	10	6	10																10	19		ModNecromancerMinions	ModNecromancerMinions										0
-item_coldspell_duration	398	common		1	8														6	50	8	50																10	19		ModColdSpellDuration	ModColdSpellDuration										0
-item_poisonspell_duration	399	common		1	8														6	50	8	50																10	19		ModPoisonSpellDuration	ModPoisonSpellDuration										0
-progressive_ferocity	400			1	5																																															0
-stat_aura1	401			1	5							1												1																												0
-stat_aura2	402			1	5							1												1																												0
-item_skillonhitmelee	403	common		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20																	0
-item_skillonhitranged	404	common		1	7	16						1			2	281	309		21	0	7	0	16										1	domissiledamage	20																	0
-item_skillongethitmelee	405	sorceress		1	7	16						1			2	144	202		21	0	7	0	16											damagedinmelee	21																2	0
-skill_druid_iswolf	406	druid		1	2							1							2	0	2	0																														0
-skill_druid_isbear	407	druid		1	2							1							2	0	2	0																														0
-skill_druid_israt	408	druid		1	2							1							2	0	2	0																														0
-skill_healoncast	409			1	9							1				972	404		9	0	9	0												doactive	28	damagedbymissile	28															0
-skill_sorcmulticast_cold	410	sorceress		1	2														2	0	2	0																														0
-skill_flamebolt_count	411	sorceress		1	5											492	282		5	0	5	0																														0
+item_healwhenstruck	395	barbarian		1	9							1				902	411		1	0	9	0												damagedinmelee	28	damagedbymissile	28	17	19		ModLifeWhenStruck	ModLifeWhenStruck										0
+item_manawhenstruck	396			1	9							1				641	300		1	0	9	0												damagedinmelee	17	damagedbymissile	17	17	19		ModManaWhenStruck	ModManaWhenStruck										0
+item_slowmelee	397			1	7							1				84	30		7	0	7	0											1	domeleedamage	19			77	19		ModSlowMelee	ModSlowMelee									2	0
+item_slowranged	398			1	7							1				92	35		7	0	7	0											1	domissiledamage	19			77	19		ModSlowRanged	ModSlowRanged									2	0
+item_necromancer_minions	399	necromancer		1	6														6	10	6	10																10	19		ModNecromancerMinions	ModNecromancerMinions										0
+item_coldspell_duration	400	common		1	8														6	50	8	50																10	19		ModColdSpellDuration	ModColdSpellDuration										0
+item_poisonspell_duration	401	common		1	8														6	50	8	50																10	19		ModPoisonSpellDuration	ModPoisonSpellDuration										0
+progressive_ferocity	402			1	5																																															0
+stat_aura1	403			1	5							1												1																												0
+stat_aura2	404			1	5							1												1																												0
+item_skillonhitmelee	405	common		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20																	0
+item_skillonhitranged	406	common		1	7	16						1			2	281	309		21	0	7	0	16										1	domissiledamage	20																	0
+item_skillongethitmelee	407	sorceress		1	7	16						1			2	144	202		21	0	7	0	16											damagedinmelee	21																2	0
+skill_druid_iswolf	408	druid		1	2							1							2	0	2	0																														0
+skill_druid_isbear	409	druid		1	2							1							2	0	2	0																														0
+skill_druid_israt	410	druid		1	2							1							2	0	2	0																														0
+skill_healoncast	411			1	9							1				972	404		9	0	9	0												doactive	28	damagedbymissile	28															0
+skill_sorcmulticast_cold	412	sorceress		1	2														2	0	2	0																														0
+skill_flamebolt_count	413	sorceress		1	5											492	282		5	0	5	0																														0

@@ -746,5 +746,6 @@
   "necrowraith": "wraith1",
   "necrowallzombie": "zombie1",
   "conduit": "invisospawner",
-  "necrocorpsespawner": "skeleton1"
+  "necrocorpsespawner": "skeleton1",
+  "berserkergang": "berserkergang"
 }

@@ -35481,7 +35481,7 @@
 {"id": 30187, "Key": "ChanceMelee", "enUS": "Melee: %d%% chance", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
 {"id": 30188, "Key": "ChanceRanged", "enUS": "Ranged: %d%% chance", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
 {"id": 30189, "Key": "AllAttributes", "enUS": "%+d%% to All Attributes", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
-{"id": 30190, "Key": "Desc30190", "enUS": "PlaceholderDesc30190", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+{"id": 30190, "Key": "HealWhenStruck", "enUS": "%+d Life when Struck", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
 {"id": 30191, "Key": "Desc30191", "enUS": "PlaceholderDesc30191", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
 {"id": 30192, "Key": "Desc30192", "enUS": "PlaceholderDesc30192", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
 {"id": 30193, "Key": "Desc30193", "enUS": "PlaceholderDesc30193", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
