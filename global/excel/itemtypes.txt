@@ -103,20 +103,20 @@ Ruby	99		gemr	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Sapphire	100		gems	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Topaz	101		gemt	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Skull	102		gemz	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Scythe	103		scyh	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Necromancer Scythe	104		nscy	scyh	necr	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Placeholder 105	105		p105			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 106	106		p106			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 107	107		p107			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 108	108		p108			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 109	109		p109			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 110	110		p110			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 111	111		p111			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 112	112		p112			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 113	113		p113			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 114	114		p114			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 115	115		p115			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 116	116		p116			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 103	103	placeholder	p103			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 104	104	placeholder	p104			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 105	105	placeholder	p105			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 106	106	placeholder	p106			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 107	107	placeholder	p107			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 108	108	placeholder	p108			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 109	109	placeholder	p109			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 110	110	placeholder	p110			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 111	111	placeholder	p111			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 112	112	placeholder	p112			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Scythe	113		scyh	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Necromancer Scythe	114		nscy	scyh	necr	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3	nec		0							weap	0
+Assassin Knife	115		atkn	assn	tkni	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3	ass		0							misc	0
+Barbarian Axe	116		btax	barb	taxe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3	bar		0							misc	0
 Placeholder 117	117		p117			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 118	118		p118			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 119	119		p119			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

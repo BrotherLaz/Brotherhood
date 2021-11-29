@@ -154,3 +154,19 @@ fire weapon	1			0					2	weap,noe	hpot,qty=1						usetype,mag,suf=176	30		60					
 frost weapon	1			0					3	weap,noe	hpot,qty=2						usetype,mag,suf=183	30		60																																																																																				0
 power weapon	1			0					2	isc,qty=2							7ma	30		60																																																																																				0
 power boots	1			0					1	lbt							vbt																																																																																							0
+test item	1			0					1	ax1							ax2																																																																																							0
+test item	1			0					1	ax2							ax3																																																																																							0
+test item	1			0					1	ax3							ax4																																																																																							0
+test item	1			0					1	ax4							ax5																																																																																							0
+test item	1			0					1	ax5							ax6																																																																																							0
+test item	1			0					1	ax6							ax7																																																																																							0
+test item	1			0					1	ax7							ax8																																																																																							0
+test item	1			0					1	ax8							at1																																																																																							0
+test item	1			0					1	at1							at2																																																																																							0
+test item	1			0					1	at2							at3																																																																																							0
+test item	1			0					1	at3							at4																																																																																							0
+test item	1			0					1	at4							at5																																																																																							0
+test item	1			0					1	at5							at6																																																																																							0
+test item	1			0					1	at6							at7																																																																																							0
+test item	1			0					1	at7							at8																																																																																							0
+test item	1			0					1	at8							at9																																																																																							0
