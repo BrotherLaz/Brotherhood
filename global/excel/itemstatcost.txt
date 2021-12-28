@@ -452,3 +452,5 @@ item_skillonhit_corpse	449		0	128		1	7	16						1			2	190	256		21	0	7	0	16							
 item_skillonhit_aoe	450		0	128		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20	domissiledamage	20	161	19		ModProcAoe	ModProcAoe										0
 item_randomres_aura	451	desc only					2														2	0	2	0																49	3		ModRandomResAura	ModRandomResAura										0
 item_randomspeed_aura	452	desc only					2														2	0	2	0																49	3		ModRandomSpeedAura	ModRandomSpeedAura										0
+automagic_str	453		0	256		1	8														8	0	8	0			2	3	strength	attackrate																								0
+automagic_werebeast	454					1	8														8	0	8	0																109	19		ModWerebeastAutomagic	ModWerebeastAutomagic										0

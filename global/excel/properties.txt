@@ -347,3 +347,5 @@ strbonus	1	17	item_str_bonus																																0
 dexbonus	1	17	item_dex_bonus																																0
 desc-randomres	1	1	item_randomres_aura																																0
 desc-randomspeed	1	1	item_randomspeed_aura																																0
+automagic-str	1	17	automagic_str																																0
+automagic-werebeast	1	1	automagic_werebeast																																0

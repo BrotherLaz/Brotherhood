@@ -132,7 +132,7 @@ Amazon Helm	128		ahlm	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	3	0	1	a
 Crusader Helm	129		chlm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	3	0	1	pal	pal	0							armo	0
 Sorceress Armor	130		stor	sorc	tors	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
 Barbarian Shield	131		bshi	barb	shie	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	3	40	4	0	3			0							armo	0
-Placeholder 132	132		p132			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Stun Hammer	132		sham	hamm		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
 Placeholder 133	133		p133			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 134	134		p134			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 135	135		p135			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
