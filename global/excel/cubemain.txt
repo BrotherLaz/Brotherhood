@@ -199,7 +199,7 @@ test item	1			0					1	po1							po2																																													
 test item	1			0					1	po2							po3																																																																																							0
 test item	1			0					1	po3							po4																																																																																							0
 test item	1			0					1	po4							sc1																																																																																							0
-test item	1			0					1	sc1							sc1																																																																																							0
+test item	1			0					1	sc1							sc2																																																																																							0
 test item	1			0					1	sc2							sc3																																																																																							0
 test item	1			0					1	sc3							wa1																																																																																							0
 test item	1			0					1	wa1							wa2																																																																																							0
@@ -246,11 +246,7 @@ test item	1			0					1	ka2							ka3																																													
 test item	1			0					1	ka3							ka4																																																																																							0
 test item	1			0					1	ka4							ka5																																																																																							0
 test item	1			0					1	ka5							ka6																																																																																							0
-test item	1			0					1	ka6							ka7																																																																																							0
-test item	1			0					1	ka7							ka8																																																																																							0
-test item	1			0					1	ka8							ka9																																																																																							0
-test item	1			0					1	ka9							ka0																																																																																							0
-test item	1			0					1	ka0							or1																																																																																							0
+test item	1			0					1	ka6							or1																																																																																							0
 test item	1			0					1	or1							or2																																																																																							0
 test item	1			0					1	or2							or3																																																																																							0
 test item	1			0					1	or3							or4																																																																																							0
@@ -349,12 +345,12 @@ test item	1			0					1	bp1							bp2																																													
 test item	1			0					1	bp2							bp3																																																																																							0
 test item	1			0					1	bp3							bp4																																																																																							0
 test item	1			0					1	bp4							bp5																																																																																							0
-test item	1			0					1	bp5							pk1																																																																																							0
-test item	1			0					1	pk1							pk2																																																																																							0
-test item	1			0					1	pk2							pk3																																																																																							0
-test item	1			0					1	pk3							pk4																																																																																							0
-test item	1			0					1	pk4							pk5																																																																																							0
-test item	1			0					1	pk5							nk1																																																																																							0
+test item	1			0					1	bp5							pl1																																																																																							0
+test item	1			0					1	pl1							pl2																																																																																							0
+test item	1			0					1	pl2							pl3																																																																																							0
+test item	1			0					1	pl3							pl4																																																																																							0
+test item	1			0					1	pl4							pl5																																																																																							0
+test item	1			0					1	pl5							nk1																																																																																							0
 test item	1			0					1	nk1							nk2																																																																																							0
 test item	1			0					1	nk2							nk3																																																																																							0
 test item	1			0					1	nk3							nk4																																																																																							0
@@ -382,5 +378,4 @@ test item	1			0					1	bn4							bn5																																													
 test item	1			0					1	bn5							ml1																																																																																							0
 test item	1			0					1	ml1							ml2																																																																																							0
 test item	1			0					1	ml2							ml3																																																																																							0
-test item	1			0					1	ml3							ml4																																																																																							0
-test item	1			0					1	ml4							ax1																																																																																							0
+test item	1			0					1	ml3							ax1																																																																																							0

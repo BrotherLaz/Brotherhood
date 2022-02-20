@@ -1,1092 +1,1092 @@
-ItemType	*Laz/Id	*Laz/Comment	Code	Equiv1	Equiv2	Repair	Body	BodyLoc1	BodyLoc2	Shoots	Quiver	Throwable	Reload	ReEquip	AutoStack	Magic	Rare	Normal	Beltable	MaxSockets1	MaxSocketsLevelThreshold1	MaxSockets2	MaxSocketsLevelThreshold2	MaxSockets3	TreasureClass	Rarity	StaffMods	Class	VarInvGfx	InvGfx1	InvGfx2	InvGfx3	InvGfx4	InvGfx5	InvGfx6	StorePage	*eol
-None	0					0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-None	1					0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Shield	2		shie	shld		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	3	40	4	0	3			0							armo	0
-Armor	3		tors	armo		1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
-Gold	4		gold	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0								0
-Bow Quiver	5		bowq	misl		0	1	rarm	larm		bow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Crossbow Quiver	6		xboq	misl		0	1	rarm	larm		xbow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Player Body Part	7		play	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Herb	8		herb	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0							misc	0
-Potion	9		poti	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Ring	10		ring	misc		0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
-Elixir	11		elix	misc		0	0					0	0	0	0			0	1	0	25	0	40	0	0	3			0							misc	0
-Amulet	12		amul	misc		0	1	neck	neck			0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			3	invamu1	invamu2	invamu3				misc	0
-Charm	13		char	misc		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
-Not Used	14					0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Boots	15		boot	armo		1	1	feet	feet			0	0	0	0		1	0	0	0	25	0	40	0	0	3			0							armo	0
-Gloves	16		glov	armo		1	1	glov	glov			0	0	0	0		1	0	0	0	25	0	40	0	0	3			0							armo	0
-Not Used	17					0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Book	18		book	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Belt	19		belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	0	25	0	40	0	0	3			0							armo	0
-Gem	20		gem	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Torch	21		torc	misc		0	1					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Scroll	22		scro	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Not Used	23					0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Scepter	24		scep	rod		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	5	40	6	0	1			0							weap	0
-Wand	25		wand	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	2	40	2	0	1			0							weap	0
-Staff	26		staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	1			0							weap	0
-Bow	27		bow	miss		0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	3			0							weap	0
-Axe	28		axe	mele		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
-Club	29		club	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Sword	30		swor	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Hammer	31		hamm	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Knife	32		knif	mele		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	3			0							weap	0
-Spear	33		spea	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Polearm	34		pole	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Crossbow	35		xbow	miss		1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Mace	36		mace	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Helm	37		helm	armo		1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0
-Missile Potion	38		tpot	thro		0	1	rarm	larm			1	1	1	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Quest	39		ques			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Body Part	40		body	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Key	41		key	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Throwing Knife	42		tkni	comb	knif	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	3			0							misc	0
-Throwing Axe	43		taxe	comb	axe	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	3			0							misc	0
-Javelin	44		jave	comb	spea	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	3			0							misc	0
-Weapon	45		weap			0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	3			0								0
-Melee Weapon	46		mele	weap		0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	3			0								0
-Missile Weapon	47		miss	weap		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Thrown Weapon	48		thro	weap		0	0					1	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Combo Weapon	49		comb	mele	thro	0	0					1	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Any Armor	50		armo			0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	3			0								0
-Any Shield	51		shld	armo	seco	0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Miscellaneous	52		misc			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Socket Filler	53		sock	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Second Hand	54		seco			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Staves And Rods	55		rod	blun		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Missile	56		misl	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Blunt	57		blun	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Expansion																																					
-Jewel	58		jewl	sock		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
-Class Specific	59		clas			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Amazon Item	60		amaz	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		ama	0								0
-Barbarian Item	61		barb	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		bar	0								0
-Necromancer Item	62		necr	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		nec	0								0
-Paladin Item	63		pala	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		pal	0								0
-Sorceress Item	64		sorc	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		sor	0								0
-Assassin Item	65		assn	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	2		ass	0								0
-Druid Item	66		drui	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		dru	0								0
-Hand to Hand	67		h2h	mele	assn	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	2		ass	0							weap	0
-Orb	68	staffmod item	orb	weap	sorc	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	1	sor	sor	0							weap	0
-Voodoo Heads	69		head	shld	necr	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	1	nec	nec	0							armo	0
-Auric Shields	70		ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	4	0	1		pal	0							armo	0
-Primal Helm	71		phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	3	0	1	bar	bar	0							armo	0
-Pelt	72		pelt	helm	drui	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	3	0	1	dru	dru	0							armo	0
-Cloak	73		cloa	tors	assn	1	1	tors	tors			0	0	0	0		1	0	0	0	25	0	40	0	0	1	ass	ass	0							armo	0
-Rune	74		rune	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Circlet	75		circ	helm		1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	3			0							armo	0
-Healing Potion	76		hpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Mana Potion	77		mpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Rejuv Potion	78		rpot	hpot	mpot	0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Stamina Potion	79		spot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Antidote Potion	80		apot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Thawing Potion	81		wpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Small Charm	82		scha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
-Medium Charm	83		mcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch2	invch5	invch8				misc	0
-Large Charm	84		lcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
-Amazon Bow	85		abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	5	1	1			0							weap	0
-Amazon Spear	86		aspe	spea	amaz	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	1			0							weap	0
-Amazon Javelin	87		ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	1			0							misc	0
-Hand to Hand 2	88		h2h2	h2h		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	2	ass	ass	0							weap	0
-Magic Bow Quiv	89		mboq	bowq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Magic Xbow Quiv	90		mxbq	xboq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Chipped Gem	91		gem0	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Flawed Gem	92		gem1	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Standard Gem	93		gem2	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Flawless Gem	94		gem3	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Perfect Gem	95		gem4	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Amethyst	96		gema	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Diamond	97		gemd	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Emerald	98		geme	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Ruby	99		gemr	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Sapphire	100		gems	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Topaz	101		gemt	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Skull	102		gemz	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Placeholder 103	103	placeholder	p103			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 104	104	placeholder	p104			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 105	105	placeholder	p105			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 106	106	placeholder	p106			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 107	107	placeholder	p107			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 108	108	placeholder	p108			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 109	109	placeholder	p109			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 110	110	placeholder	p110			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 111	111	placeholder	p111			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 112	112	placeholder	p112			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Scythe	113		scyh	pole		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Necromancer Scythe	114	nec	nscy	necr	scyh	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3	nec		0							weap	0
-Assassin Throwing Knife	115	ass	atkn	assn	tkni	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3	ass		0							misc	0
-Barbarian Throwing Axe	116	bar	btax	barb	taxe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3	bar		0							misc	0
-Druid Club	117	dru	dclu	drui	club	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Paladin Scepter	118	pal	pasc	pala	scep	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	5	40	6	0	1	pal		0							weap	0
-Barbarian 1h Axe	119	bar	boax	barb	axe	1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
-Barbarian 2h Axe	120	bar	bbax	barb	axe	1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
-Swashbuckler Blade	121		blad	swor		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
-Paladin 1h Sword	122	pal	pasd	pala	swor	1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
-Barbarian 2h Sword	123	bar	bats	barb	swor	1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
-Paladin Mace	124	pal	pama	pala	mace	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Assassin Naginata	125	ass	nagi	assn	pole	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Druid Bow	126	dru	dbow	drui	bow	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	3			0							weap	0
-Necromancer Crossbow	127	nec	nxbw	necr	xbow	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Amazon Helm	128		ahlm	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	3	0	1	ama	ama	0							armo	0
-Crusader Helm	129		chlm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	3	0	1	pal	pal	0							armo	0
-Sorceress Armor	130		stor	sorc	tors	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
-Barbarian Shield	131		bshi	barb	shie	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	3	40	4	0	3			0							armo	0
-Stun Hammer	132		sham	hamm		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Placeholder 133	133		p133			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 134	134		p134			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 135	135		p135			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 136	136		p136			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 137	137		p137			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 138	138		p138			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 139	139		p139			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 140	140		p140			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 141	141		p141			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 142	142		p142			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 143	143		p143			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 144	144		p144			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 145	145		p145			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 146	146		p146			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 147	147		p147			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 148	148		p148			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 149	149		p149			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 150	150		p150			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 151	151		p151			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 152	152		p152			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 153	153		p153			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 154	154		p154			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 155	155		p155			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 156	156		p156			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 157	157		p157			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 158	158		p158			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 159	159		p159			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 160	160		p160			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 161	161		p161			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 162	162		p162			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 163	163		p163			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 164	164		p164			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 165	165		p165			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 166	166		p166			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 167	167		p167			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 168	168		p168			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 169	169		p169			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 170	170		p170			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 171	171		p171			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 172	172		p172			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 173	173		p173			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 174	174		p174			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 175	175		p175			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 176	176		p176			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 177	177		p177			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 178	178		p178			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 179	179		p179			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 180	180		p180			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 181	181		p181			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 182	182		p182			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 183	183		p183			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 184	184		p184			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 185	185		p185			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 186	186		p186			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 187	187		p187			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 188	188		p188			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 189	189		p189			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 190	190		p190			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 191	191		p191			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 192	192		p192			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 193	193		p193			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 194	194		p194			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 195	195		p195			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 196	196		p196			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 197	197		p197			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 198	198		p198			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 199	199		p199			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 200	200		p200			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 201	201		p201			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 202	202		p202			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 203	203		p203			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 204	204		p204			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 205	205		p205			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 206	206		p206			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 207	207		p207			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 208	208		p208			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 209	209		p209			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 210	210		p210			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 211	211		p211			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 212	212		p212			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 213	213		p213			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 214	214		p214			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 215	215		p215			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 216	216		p216			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 217	217		p217			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 218	218		p218			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 219	219		p219			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 220	220		p220			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 221	221		p221			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 222	222		p222			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 223	223		p223			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 224	224		p224			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 225	225		p225			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 226	226		p226			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 227	227		p227			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 228	228		p228			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 229	229		p229			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 230	230		p230			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 231	231		p231			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 232	232		p232			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 233	233		p233			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 234	234		p234			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 235	235		p235			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 236	236		p236			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 237	237		p237			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 238	238		p238			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 239	239		p239			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 240	240		p240			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 241	241		p241			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 242	242		p242			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 243	243		p243			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 244	244		p244			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 245	245		p245			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 246	246		p246			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 247	247		p247			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 248	248		p248			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 249	249		p249			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 250	250		p250			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 251	251		p251			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 252	252		p252			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 253	253		p253			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 254	254		p254			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 255	255		p255			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 256	256		p256			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 257	257		p257			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 258	258		p258			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 259	259		p259			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 260	260		p260			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 261	261		p261			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 262	262		p262			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 263	263		p263			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 264	264		p264			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 265	265		p265			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 266	266		p266			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 267	267		p267			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 268	268		p268			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 269	269		p269			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 270	270		p270			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 271	271		p271			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 272	272		p272			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 273	273		p273			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 274	274		p274			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 275	275		p275			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 276	276		p276			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 277	277		p277			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 278	278		p278			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 279	279		p279			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 280	280		p280			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 281	281		p281			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 282	282		p282			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 283	283		p283			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 284	284		p284			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 285	285		p285			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 286	286		p286			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 287	287		p287			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 288	288		p288			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 289	289		p289			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 290	290		p290			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 291	291		p291			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 292	292		p292			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 293	293		p293			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 294	294		p294			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 295	295		p295			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 296	296		p296			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 297	297		p297			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 298	298		p298			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 299	299		p299			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 300	300		p300			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 301	301		p301			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 302	302		p302			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 303	303		p303			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 304	304		p304			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 305	305		p305			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 306	306		p306			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 307	307		p307			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 308	308		p308			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 309	309		p309			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 310	310		p310			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 311	311		p311			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 312	312		p312			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 313	313		p313			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 314	314		p314			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 315	315		p315			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 316	316		p316			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 317	317		p317			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 318	318		p318			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 319	319		p319			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 320	320		p320			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 321	321		p321			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 322	322		p322			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 323	323		p323			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 324	324		p324			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 325	325		p325			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 326	326		p326			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 327	327		p327			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 328	328		p328			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 329	329		p329			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 330	330		p330			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 331	331		p331			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 332	332		p332			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 333	333		p333			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 334	334		p334			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 335	335		p335			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 336	336		p336			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 337	337		p337			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 338	338		p338			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 339	339		p339			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 340	340		p340			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 341	341		p341			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 342	342		p342			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 343	343		p343			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 344	344		p344			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 345	345		p345			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 346	346		p346			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 347	347		p347			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 348	348		p348			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 349	349		p349			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 350	350		p350			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 351	351		p351			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 352	352		p352			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 353	353		p353			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 354	354		p354			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 355	355		p355			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 356	356		p356			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 357	357		p357			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 358	358		p358			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 359	359		p359			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 360	360		p360			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 361	361		p361			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 362	362		p362			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 363	363		p363			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 364	364		p364			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 365	365		p365			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 366	366		p366			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 367	367		p367			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 368	368		p368			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 369	369		p369			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 370	370		p370			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 371	371		p371			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 372	372		p372			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 373	373		p373			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 374	374		p374			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 375	375		p375			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 376	376		p376			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 377	377		p377			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 378	378		p378			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 379	379		p379			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 380	380		p380			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 381	381		p381			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 382	382		p382			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 383	383		p383			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 384	384		p384			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Conversion Item	385	paladin	love			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 386	386		p386			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 387	387		p387			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 388	388		p388			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 389	389		p389			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 390	390		p390			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 391	391		p391			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 392	392		p392			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 393	393		p393			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 394	394		p394			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 395	395		p395			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 396	396		p396			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 397	397		p397			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 398	398		p398			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 399	399		p399			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 400	400		p400			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 401	401		p401			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 402	402		p402			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 403	403		p403			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 404	404		p404			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 405	405		p405			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 406	406		p406			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 407	407		p407			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 408	408		p408			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 409	409		p409			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 410	410		p410			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 411	411		p411			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 412	412		p412			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 413	413		p413			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 414	414		p414			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 415	415		p415			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 416	416		p416			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 417	417		p417			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 418	418		p418			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 419	419		p419			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 420	420		p420			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 421	421		p421			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 422	422		p422			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 423	423		p423			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 424	424		p424			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Flame Bolt Item	426	sorceress	boom			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Poisoned Weapon Item	426	necromancer	toxi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Staunch Bleeding Item	427	amazon	slob			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Death or Glory Item	428	barbarian	dogi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 429	429		p429			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 430	430		p430			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 431	431		p431			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 432	432		p432			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 433	433		p433			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 434	434		p434			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 435	435		p435			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 436	436		p436			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 437	437		p437			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 438	438		p438			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 439	439		p439			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 440	440		p440			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 441	441		p441			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 442	442		p442			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 443	443		p443			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 444	444		p444			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 445	445		p445			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 446	446		p446			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 447	447		p447			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 448	448		p448			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Cold Blood Item	449	assassin	setu			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 386	450		p386			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 387	451		p387			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 388	452		p388			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 389	453		p389			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 390	454		p390			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 391	455		p391			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 392	456		p392			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 393	457		p393			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 394	458		p394			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 395	459		p395			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 396	460		p396			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 397	461		p397			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 398	462		p398			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 399	463		p399			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 400	464		p400			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 401	465		p401			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 402	466		p402			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 403	467		p403			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 404	468		p404			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 405	469		p405			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 406	470		p406			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 407	471		p407			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 408	472		p408			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 409	473		p409			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 410	474		p410			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 411	475		p411			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 412	476		p412			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 413	477		p413			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 414	478		p414			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 415	479		p415			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 416	480		p416			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 417	481		p417			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 418	482		p418			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 419	483		p419			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 420	484		p420			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 421	485		p421			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 422	486		p422			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 423	487		p423			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 424	488		p424			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 425	489		p425			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 426	490		p426			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 427	491		p427			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 428	492		p428			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 429	493		p429			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 430	494		p430			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 431	495		p431			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 432	496		p432			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 433	497		p433			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 434	498		p434			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 435	499		p435			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 436	500		p436			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 437	501		p437			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 438	502		p438			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 439	503		p439			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 440	504		p440			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 441	505		p441			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 442	506		p442			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 443	507		p443			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 444	508		p444			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 445	509		p445			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 446	510		p446			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 447	511		p447			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 448	512		p448			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Hidden Knives Item	513	assassin	hibl			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 514	514		p514			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 515	515		p515			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 516	516		p516			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 517	517		p517			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 518	518		p518			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 519	519		p519			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 520	520		p520			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 521	521		p521			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 522	522		p522			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 523	523		p523			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 524	524		p524			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 525	525		p525			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 526	526		p526			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 527	527		p527			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 528	528		p528			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 529	529		p529			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 530	530		p530			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 531	531		p531			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 532	532		p532			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 533	533		p533			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 534	534		p534			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 535	535		p535			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 536	536		p536			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 537	537		p537			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 538	538		p538			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 539	539		p539			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 540	540		p540			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 541	541		p541			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 542	542		p542			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 543	543		p543			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 544	544		p544			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 545	545		p545			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 546	546		p546			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 547	547		p547			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 548	548		p548			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 549	549		p549			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 550	550		p550			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 551	551		p551			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 552	552		p552			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 553	553		p553			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 554	554		p554			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 555	555		p555			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 556	556		p556			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 557	557		p557			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 558	558		p558			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 559	559		p559			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 560	560		p560			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 561	561		p561			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 562	562		p562			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 563	563		p563			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 564	564		p564			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 565	565		p565			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 566	566		p566			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 567	567		p567			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 568	568		p568			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 569	569		p569			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 570	570		p570			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 571	571		p571			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 572	572		p572			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 573	573		p573			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 574	574		p574			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 575	575		p575			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 576	576		p576			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Brute Force Item	577	barbarian	bruf			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 578	578		p578			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 579	579		p579			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 580	580		p580			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 581	581		p581			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 582	582		p582			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 583	583		p583			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 584	584		p584			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 585	585		p585			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 586	586		p586			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 587	587		p587			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 588	588		p588			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 589	589		p589			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 590	590		p590			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 591	591		p591			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 592	592		p592			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 593	593		p593			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 594	594		p594			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 595	595		p595			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 596	596		p596			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 597	597		p597			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 598	598		p598			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 599	599		p599			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 600	600		p600			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 601	601		p601			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 602	602		p602			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 603	603		p603			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 604	604		p604			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 605	605		p605			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 606	606		p606			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 607	607		p607			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 608	608		p608			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 609	609		p609			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 610	610		p610			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 611	611		p611			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 612	612		p612			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 613	613		p613			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 614	614		p614			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 615	615		p615			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 616	616		p616			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 617	617		p617			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 618	618		p618			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 619	619		p619			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 620	620		p620			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 621	621		p621			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 622	622		p622			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 623	623		p623			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 624	624		p624			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 625	625		p625			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 626	626		p626			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 627	627		p627			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 628	628		p628			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 629	629		p629			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 630	630		p630			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 631	631		p631			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 632	632		p632			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 633	633		p633			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 634	634		p634			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 635	635		p635			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 636	636		p636			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 637	637		p637			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 638	638		p638			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 639	639		p639			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 640	640		p640			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 641	641		p641			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 642	642		p642			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 643	643		p643			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 644	644		p644			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 645	645		p645			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 646	646		p646			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 647	647		p647			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 648	648		p648			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 649	649		p649			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 650	650		p650			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 651	651		p651			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 652	652		p652			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 653	653		p653			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 654	654		p654			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 655	655		p655			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 656	656		p656			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 657	657		p657			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 658	658		p658			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 659	659		p659			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 660	660		p660			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 661	661		p661			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 662	662		p662			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 663	663		p663			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 664	664		p664			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 665	665		p665			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 666	666		p666			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 667	667		p667			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 668	668		p668			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 669	669		p669			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 670	670		p670			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 671	671		p671			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 672	672		p672			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 673	673		p673			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 674	674		p674			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 675	675		p675			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 676	676		p676			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 677	677		p677			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 678	678		p678			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 679	679		p679			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 680	680		p680			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 681	681		p681			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 682	682		p682			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 683	683		p683			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 684	684		p684			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 685	685		p685			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 686	686		p686			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 687	687		p687			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 688	688		p688			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 689	689		p689			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 690	690		p690			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 691	691		p691			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 692	692		p692			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 693	693		p693			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 694	694		p694			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 695	695		p695			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 696	696		p696			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 697	697		p697			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 698	698		p698			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 699	699		p699			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 700	700		p700			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 701	701		p701			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 702	702		p702			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 703	703		p703			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 704	704		p704			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Spirit of Fire Item	705	druid	sofi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 706	706		p706			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 707	707		p707			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 708	708		p708			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 709	709		p709			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 710	710		p710			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 711	711		p711			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 712	712		p712			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 713	713		p713			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 714	714		p714			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 715	715		p715			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 716	716		p716			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 717	717		p717			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 718	718		p718			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 719	719		p719			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 720	720		p720			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 721	721		p721			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 722	722		p722			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 723	723		p723			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 724	724		p724			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 725	725		p725			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 726	726		p726			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 727	727		p727			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 728	728		p728			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 729	729		p729			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 730	730		p730			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 731	731		p731			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 732	732		p732			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 733	733		p733			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 734	734		p734			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 735	735		p735			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 736	736		p736			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 737	737		p737			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 738	738		p738			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 739	739		p739			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 740	740		p740			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 741	741		p741			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 742	742		p742			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 743	743		p743			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 744	744		p744			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 745	745		p745			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 746	746		p746			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 747	747		p747			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 748	748		p748			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 749	749		p749			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 750	750		p750			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 751	751		p751			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 752	752		p752			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 753	753		p753			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 754	754		p754			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 755	755		p755			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 756	756		p756			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 757	757		p757			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 758	758		p758			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 759	759		p759			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 760	760		p760			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 761	761		p761			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 762	762		p762			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 763	763		p763			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 764	764		p764			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 765	765		p765			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 766	766		p766			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 767	767		p767			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 768	768		p768			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Spirit of Cold Item	769	druid	soci			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 770	770		p770			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 771	771		p771			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 772	772		p772			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 773	773		p773			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 774	774		p774			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 775	775		p775			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 776	776		p776			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 777	777		p777			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 778	778		p778			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 779	779		p779			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 780	780		p780			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 781	781		p781			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 782	782		p782			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 783	783		p783			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 784	784		p784			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 785	785		p785			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 786	786		p786			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 787	787		p787			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 788	788		p788			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 789	789		p789			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 790	790		p790			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 791	791		p791			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 792	792		p792			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 793	793		p793			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 794	794		p794			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 795	795		p795			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 796	796		p796			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 797	797		p797			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 798	798		p798			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 799	799		p799			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 800	800		p800			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 801	801		p801			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 802	802		p802			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 803	803		p803			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 804	804		p804			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 805	805		p805			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 806	806		p806			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 807	807		p807			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 808	808		p808			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 809	809		p809			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 810	810		p810			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 811	811		p811			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 812	812		p812			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 813	813		p813			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 814	814		p814			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 815	815		p815			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 816	816		p816			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 817	817		p817			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 818	818		p818			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 819	819		p819			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 820	820		p820			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 821	821		p821			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 822	822		p822			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 823	823		p823			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 824	824		p824			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 825	825		p825			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 826	826		p826			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 827	827		p827			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 828	828		p828			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 829	829		p829			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 830	830		p830			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 831	831		p831			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 832	832		p832			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Spirit of Lightning Item	833	druid	soli			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 834	834		p834			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 835	835		p835			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 836	836		p836			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 837	837		p837			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 838	838		p838			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 839	839		p839			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 840	840		p840			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 841	841		p841			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 842	842		p842			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 843	843		p843			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 844	844		p844			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 845	845		p845			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 846	846		p846			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 847	847		p847			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 848	848		p848			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 849	849		p849			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 850	850		p850			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 851	851		p851			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 852	852		p852			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 853	853		p853			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 854	854		p854			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 855	855		p855			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 856	856		p856			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 857	857		p857			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 858	858		p858			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 859	859		p859			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 860	860		p860			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 861	861		p861			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 862	862		p862			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 863	863		p863			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 864	864		p864			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 865	865		p865			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 866	866		p866			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 867	867		p867			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 868	868		p868			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 869	869		p869			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 870	870		p870			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 871	871		p871			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 872	872		p872			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 873	873		p873			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 874	874		p874			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 875	875		p875			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 876	876		p876			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 877	877		p877			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 878	878		p878			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 879	879		p879			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 880	880		p880			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 881	881		p881			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 882	882		p882			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 883	883		p883			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 884	884		p884			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 885	885		p885			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 886	886		p886			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 887	887		p887			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 888	888		p888			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 889	889		p889			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 890	890		p890			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 891	891		p891			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 892	892		p892			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 893	893		p893			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 894	894		p894			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 895	895		p895			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 896	896		p896			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Ice Armor Item	897	sorceress	brrr			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 898	898		p898			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 899	899		p899			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 900	900		p900			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 901	901		p901			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 902	902		p902			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 903	903		p903			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 904	904		p904			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 905	905		p905			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 906	906		p906			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 907	907		p907			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 908	908		p908			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 909	909		p909			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 910	910		p910			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 911	911		p911			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 912	912		p912			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 913	913		p913			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 914	914		p914			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 915	915		p915			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 916	916		p916			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 917	917		p917			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 918	918		p918			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 919	919		p919			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 920	920		p920			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 921	921		p921			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 922	922		p922			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 923	923		p923			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 924	924		p924			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 925	925		p925			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 926	926		p926			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 927	927		p927			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 928	928		p928			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 929	929		p929			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 930	930		p930			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 931	931		p931			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 932	932		p932			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 933	933		p933			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 934	934		p934			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 935	935		p935			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 936	936		p936			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 937	937		p937			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 938	938		p938			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 939	939		p939			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 940	940		p940			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 941	941		p941			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 942	942		p942			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 943	943		p943			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 944	944		p944			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 945	945		p945			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 946	946		p946			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 947	947		p947			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 948	948		p948			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 949	949		p949			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 950	950		p950			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 951	951		p951			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 952	952		p952			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 953	953		p953			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 954	954		p954			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 955	955		p955			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 956	956		p956			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 957	957		p957			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 958	958		p958			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 959	959		p959			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 960	960		p960			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Interrogate the Dead Item	961	necromancer	dead			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 962	962		p962			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 963	963		p963			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 964	964		p964			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 965	965		p965			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 966	966		p966			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 967	967		p967			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 968	968		p968			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 969	969		p969			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 970	970		p970			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 971	971		p971			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 972	972		p972			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 973	973		p973			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 974	974		p974			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 975	975		p975			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 976	976		p976			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 977	977		p977			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 978	978		p978			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 979	979		p979			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 980	980		p980			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 981	981		p981			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 982	982		p982			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 983	983		p983			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 984	984		p984			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 985	985		p985			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 986	986		p986			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 987	987		p987			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 988	988		p988			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 989	989		p989			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 990	990		p990			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 991	991		p991			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 992	992		p992			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 993	993		p993			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 994	994		p994			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 995	995		p995			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 996	996		p996			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 997	997		p997			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 998	998		p998			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 999	999		p999			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1000	1000		q100			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1001	1001		q101			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1002	1002		q102			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1003	1003		q103			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1004	1004		q104			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1005	1005		q105			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1006	1006		q106			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1007	1007		q107			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1008	1008		q108			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1009	1009		q109			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1010	1010		q110			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1011	1011		q111			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1012	1012		q112			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1013	1013		q113			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1014	1014		q114			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1015	1015		q115			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1016	1016		q116			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1017	1017		q117			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1018	1018		q118			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1019	1019		q119			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1020	1020		q120			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1021	1021		q121			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1022	1022		q122			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1023	1023		q123			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1024	1024		q124			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Prepare for Glory Item	1025	amazon	preg			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1026	1026		q126			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1027	1027		q127			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1028	1028		q128			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1029	1029		q129			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1030	1030		q130			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1031	1031		q131			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1032	1032		q132			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1033	1033		q133			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1034	1034		q134			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1035	1035		q135			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1036	1036		q136			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1037	1037		q137			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1038	1038		q138			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1039	1039		q139			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1040	1040		q140			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1041	1041		q141			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1042	1042		q142			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1043	1043		q143			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1044	1044		q144			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1045	1045		q145			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1046	1046		q146			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1047	1047		q147			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1048	1048		q148			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1049	1049		q149			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1050	1050		q150			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1051	1051		q151			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1052	1052		q152			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1053	1053		q153			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1054	1054		q154			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1055	1055		q155			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1056	1056		q156			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1057	1057		q157			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1058	1058		q158			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1059	1059		q159			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1060	1060		q160			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1061	1061		q161			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1062	1062		q162			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1063	1063		q163			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1064	1064		q164			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1065	1065		q165			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1066	1066		q166			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1067	1067		q167			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1068	1068		q168			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1069	1069		q169			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1070	1070		q170			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1071	1071		q171			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1072	1072		q172			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1073	1073		q173			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1074	1074		q174			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1075	1075		q175			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1076	1076		q176			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1077	1077		q177			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1078	1078		q178			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1079	1079		q179			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1080	1080		q180			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1081	1081		q181			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1082	1082		q182			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1083	1083		q183			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1084	1084		q184			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1085	1085		q185			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1086	1086		q186			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1087	1087		q187			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 1088	1088		q188			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Covenant Item	1089	paladin	cult			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+ItemType	*Laz/Id	*Laz/Sockets	*Laz/Comment	Code	Equiv1	Equiv2	Repair	Body	BodyLoc1	BodyLoc2	Shoots	Quiver	Throwable	Reload	ReEquip	AutoStack	Magic	Rare	Normal	Beltable	MaxSockets1	MaxSocketsLevelThreshold1	MaxSockets2	MaxSocketsLevelThreshold2	MaxSockets3	TreasureClass	Rarity	StaffMods	Class	VarInvGfx	InvGfx1	InvGfx2	InvGfx3	InvGfx4	InvGfx5	InvGfx6	StorePage	*eol
+None	0						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+None	1						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Shield	2	6	Sockets	shie	shld		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
+Armor	3	6		tors	armo		1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
+Gold	4			gold	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0								0
+Bow Quiver	5			bowq	misl		0	1	rarm	larm		bow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Crossbow Quiver	6			xboq	misl		0	1	rarm	larm		xbow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Player Body Part	7			play	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Herb	8			herb	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0							misc	0
+Potion	9			poti	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
+Ring	10			ring	misc		0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
+Elixir	11			elix	misc		0	0					0	0	0	0			0	1	0	25	0	40	0	0	3			0							misc	0
+Amulet	12			amul	misc		0	1	neck	neck			0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			3	invamu1	invamu2	invamu3				misc	0
+Charm	13			char	misc		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
+Not Used	14						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Boots	15	2	Sockets	boot	armo		1	1	feet	feet			0	0	0	0		1	0	0	1	25	1	40	2	0	3			0							armo	0
+Gloves	16	2	Sockets	glov	armo		1	1	glov	glov			0	0	0	0		1	0	0	1	25	1	40	2	0	3			0							armo	0
+Not Used	17						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Book	18			book	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Belt	19	2	Sockets	belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	1	25	1	40	2	0	3			0							armo	0
+Gem	20			gem	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Torch	21			torc	misc		0	1					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Scroll	22			scro	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
+Not Used	23						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Scepter	24	6		scep	rod		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	5	40	6	0	1			0							weap	0
+Wand	25	2		wand	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	2	40	2	0	1			0							weap	0
+Staff	26	6		staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	1			0							weap	0
+Bow	27	6		bow	miss		0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	3			0							weap	0
+Axe	28	6		axe	mele		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
+Club	29	6		club	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Sword	30	6		swor	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Hammer	31	6		hamm	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Knife	32	3		knif	mele		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	3			0							weap	0
+Spear	33	6		spea	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Polearm	34	6		pole	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Crossbow	35	6		xbow	miss		1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Mace	36	6		mace	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Helm	37	4		helm	armo		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	3			0							armo	0
+Missile Potion	38			tpot	thro		0	1	rarm	larm			1	1	1	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Quest	39			ques			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Body Part	40			body	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Key	41			key	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Throwing Knife	42			tkni	comb	knif	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3			0							misc	0
+Throwing Axe	43			taxe	comb	axe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3			0							misc	0
+Javelin	44			jave	comb	spea	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	3			0							misc	0
+Weapon	45			weap			0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	3			0								0
+Melee Weapon	46			mele	weap		0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	3			0								0
+Missile Weapon	47			miss	weap		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Thrown Weapon	48			thro	weap		0	0					1	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Combo Weapon	49			comb	mele	thro	0	0					1	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Any Armor	50			armo			0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	3			0								0
+Any Shield	51			shld	armo	seco	0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Miscellaneous	52			misc			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Socket Filler	53			sock	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Second Hand	54			seco			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Staves And Rods	55			rod	blun		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Missile	56			misl	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Blunt	57			blun	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Expansion																																						
+Jewel	58			jewl	sock		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
+Class Specific	59			clas			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Amazon Item	60			amaz	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		ama	0								0
+Barbarian Item	61			barb	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		bar	0								0
+Necromancer Item	62			necr	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		nec	0								0
+Paladin Item	63			pala	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		pal	0								0
+Sorceress Item	64			sorc	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		sor	0								0
+Assassin Item	65			assn	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	2		ass	0								0
+Druid Item	66			drui	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		dru	0								0
+Hand to Hand	67	3		h2h	mele	assn	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	2			0							weap	0
+Orb	68	3	Remove staffmod	orb	weap		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	1			0							weap	0
+Voodoo Heads	69	6		head	shld	necr	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	1			0							armo	0
+Auric Shields	70	6		ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	1			0							armo	0
+Primal Helm	71	4		phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	1			0							armo	0
+Pelt	72	4		pelt	helm	drui	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	1			0							armo	0
+Cloak	73			cloa	tors	assn	1	1	tors	tors			0	0	0	0		1	0	0	0	25	0	40	0	0	1			0							armo	0
+Rune	74			rune	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Circlet	75			circ	helm		1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	3			0							armo	0
+Healing Potion	76			hpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
+Mana Potion	77			mpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
+Rejuv Potion	78			rpot	hpot	mpot	0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
+Stamina Potion	79			spot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
+Antidote Potion	80			apot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
+Thawing Potion	81			wpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
+Small Charm	82			scha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
+Medium Charm	83			mcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch2	invch5	invch8				misc	0
+Large Charm	84			lcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
+Amazon Bow	85	6		abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	1			0							weap	0
+Amazon Spear	86	6		aspe	spea	amaz	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	1			0							weap	0
+Amazon Javelin	87			ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	1			0							misc	0
+Hand to Hand 2	88			h2h2	h2h		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	2			0							weap	0
+Magic Bow Quiv	89		Enable	mboq	bowq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Magic Xbow Quiv	90		Enable	mxbq	xboq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Chipped Gem	91			gem0	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Flawed Gem	92			gem1	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Standard Gem	93			gem2	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Flawless Gem	94			gem3	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Perfect Gem	95			gem4	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Amethyst	96			gema	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Diamond	97			gemd	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Emerald	98			geme	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Ruby	99			gemr	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Sapphire	100			gems	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Topaz	101			gemt	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Skull	102			gemz	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
+Placeholder 103	103		placeholder	p103			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 104	104		placeholder	p104			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 105	105		placeholder	p105			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 106	106		placeholder	p106			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 107	107		placeholder	p107			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 108	108		placeholder	p108			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 109	109		placeholder	p109			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 110	110		placeholder	p110			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 111	111		placeholder	p111			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 112	112		placeholder	p112			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Scythe	113	6		scyh	pole		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Necromancer Scythe	114	6	nec	nscy	scyh		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Assassin Throwing Knife	115	2	ass	atkn	assn	tkni	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3			0							misc	0
+Barbarian Throwing Axe	116	2	bar	btax	barb	taxe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3			0							misc	0
+Druid Club	117	6	dru	dclu	drui	club	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Paladin Scepter	118	6	pal	pasc	pala	scep	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	1			0							weap	0
+Barbarian 1h Axe	119	6	bar	boax	barb	axe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Barbarian 2h Axe	120	6	bar	bbax	barb	axe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Swashbuckler Blade	121	3		blad	swor		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	3			0							weap	0
+Paladin 1h Sword	122	6	pal	pasd	pala	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Barbarian 2h Sword	123	6	bar	bats	barb	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Paladin Mace	124	6	pal	pama	pala	mace	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Assassin Naginata	125	6	ass	nagi	assn	pole	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Druid Bow	126	6	dru	dbow	drui	bow	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	3			0							weap	0
+Necromancer Crossbow	127	6	nec	nxbw	necr	xbow	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Amazon Helm	128	4		ahlm	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	1			0							armo	0
+Crusader Helm	129	4		chlm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	1			0							armo	0
+Sorceress Armor	130	6		stor	sorc	tors	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
+Barbarian Shield	131	6		bshi	barb	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
+Assassin Shield	132	6		ashi	assn	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
+Stun Hammer	133	6		sham	hamm		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Placeholder 134	134			p134			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 135	135			p135			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 136	136			p136			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 137	137			p137			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 138	138			p138			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 139	139			p139			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 140	140			p140			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 141	141			p141			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 142	142			p142			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 143	143			p143			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 144	144			p144			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 145	145			p145			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 146	146			p146			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 147	147			p147			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 148	148			p148			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 149	149			p149			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 150	150			p150			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 151	151			p151			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 152	152			p152			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 153	153			p153			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 154	154			p154			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 155	155			p155			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 156	156			p156			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 157	157			p157			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 158	158			p158			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 159	159			p159			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 160	160			p160			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 161	161			p161			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 162	162			p162			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 163	163			p163			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 164	164			p164			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 165	165			p165			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 166	166			p166			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 167	167			p167			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 168	168			p168			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 169	169			p169			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 170	170			p170			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 171	171			p171			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 172	172			p172			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 173	173			p173			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 174	174			p174			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 175	175			p175			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 176	176			p176			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 177	177			p177			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 178	178			p178			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 179	179			p179			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 180	180			p180			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 181	181			p181			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 182	182			p182			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 183	183			p183			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 184	184			p184			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 185	185			p185			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 186	186			p186			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 187	187			p187			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 188	188			p188			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 189	189			p189			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 190	190			p190			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 191	191			p191			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 192	192			p192			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 193	193			p193			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 194	194			p194			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 195	195			p195			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 196	196			p196			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 197	197			p197			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 198	198			p198			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 199	199			p199			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 200	200			p200			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 201	201			p201			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 202	202			p202			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 203	203			p203			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 204	204			p204			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 205	205			p205			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 206	206			p206			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 207	207			p207			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 208	208			p208			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 209	209			p209			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 210	210			p210			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 211	211			p211			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 212	212			p212			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 213	213			p213			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 214	214			p214			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 215	215			p215			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 216	216			p216			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 217	217			p217			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 218	218			p218			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 219	219			p219			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 220	220			p220			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 221	221			p221			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 222	222			p222			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 223	223			p223			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 224	224			p224			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 225	225			p225			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 226	226			p226			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 227	227			p227			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 228	228			p228			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 229	229			p229			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 230	230			p230			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 231	231			p231			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 232	232			p232			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 233	233			p233			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 234	234			p234			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 235	235			p235			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 236	236			p236			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 237	237			p237			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 238	238			p238			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 239	239			p239			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 240	240			p240			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 241	241			p241			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 242	242			p242			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 243	243			p243			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 244	244			p244			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 245	245			p245			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 246	246			p246			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 247	247			p247			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 248	248			p248			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 249	249			p249			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 250	250			p250			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 251	251			p251			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 252	252			p252			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 253	253			p253			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 254	254			p254			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 255	255			p255			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 256	256			p256			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 257	257			p257			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 258	258			p258			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 259	259			p259			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 260	260			p260			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 261	261			p261			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 262	262			p262			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 263	263			p263			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 264	264			p264			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 265	265			p265			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 266	266			p266			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 267	267			p267			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 268	268			p268			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 269	269			p269			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 270	270			p270			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 271	271			p271			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 272	272			p272			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 273	273			p273			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 274	274			p274			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 275	275			p275			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 276	276			p276			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 277	277			p277			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 278	278			p278			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 279	279			p279			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 280	280			p280			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 281	281			p281			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 282	282			p282			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 283	283			p283			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 284	284			p284			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 285	285			p285			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 286	286			p286			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 287	287			p287			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 288	288			p288			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 289	289			p289			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 290	290			p290			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 291	291			p291			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 292	292			p292			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 293	293			p293			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 294	294			p294			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 295	295			p295			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 296	296			p296			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 297	297			p297			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 298	298			p298			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 299	299			p299			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 300	300			p300			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 301	301			p301			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 302	302			p302			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 303	303			p303			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 304	304			p304			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 305	305			p305			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 306	306			p306			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 307	307			p307			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 308	308			p308			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 309	309			p309			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 310	310			p310			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 311	311			p311			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 312	312			p312			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 313	313			p313			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 314	314			p314			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 315	315			p315			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 316	316			p316			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 317	317			p317			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 318	318			p318			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 319	319			p319			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 320	320			p320			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 321	321			p321			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 322	322			p322			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 323	323			p323			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 324	324			p324			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 325	325			p325			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 326	326			p326			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 327	327			p327			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 328	328			p328			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 329	329			p329			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 330	330			p330			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 331	331			p331			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 332	332			p332			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 333	333			p333			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 334	334			p334			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 335	335			p335			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 336	336			p336			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 337	337			p337			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 338	338			p338			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 339	339			p339			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 340	340			p340			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 341	341			p341			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 342	342			p342			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 343	343			p343			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 344	344			p344			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 345	345			p345			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 346	346			p346			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 347	347			p347			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 348	348			p348			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 349	349			p349			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 350	350			p350			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 351	351			p351			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 352	352			p352			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 353	353			p353			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 354	354			p354			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 355	355			p355			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 356	356			p356			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 357	357			p357			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 358	358			p358			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 359	359			p359			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 360	360			p360			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 361	361			p361			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 362	362			p362			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 363	363			p363			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 364	364			p364			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 365	365			p365			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 366	366			p366			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 367	367			p367			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 368	368			p368			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 369	369			p369			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 370	370			p370			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 371	371			p371			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 372	372			p372			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 373	373			p373			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 374	374			p374			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 375	375			p375			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 376	376			p376			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 377	377			p377			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 378	378			p378			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 379	379			p379			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 380	380			p380			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 381	381			p381			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 382	382			p382			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 383	383			p383			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 384	384			p384			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Conversion Item	385		paladin	love			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 386	386			p386			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 387	387			p387			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 388	388			p388			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 389	389			p389			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 390	390			p390			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 391	391			p391			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 392	392			p392			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 393	393			p393			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 394	394			p394			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 395	395			p395			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 396	396			p396			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 397	397			p397			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 398	398			p398			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 399	399			p399			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 400	400			p400			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 401	401			p401			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 402	402			p402			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 403	403			p403			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 404	404			p404			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 405	405			p405			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 406	406			p406			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 407	407			p407			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 408	408			p408			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 409	409			p409			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 410	410			p410			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 411	411			p411			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 412	412			p412			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 413	413			p413			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 414	414			p414			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 415	415			p415			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 416	416			p416			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 417	417			p417			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 418	418			p418			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 419	419			p419			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 420	420			p420			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 421	421			p421			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 422	422			p422			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 423	423			p423			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 424	424			p424			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Flame Bolt Item	426		sorceress	boom			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Poisoned Weapon Item	426		necromancer	toxi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Staunch Bleeding Item	427		amazon	slob			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Death or Glory Item	428		barbarian	dogi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 429	429			p429			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 430	430			p430			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 431	431			p431			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 432	432			p432			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 433	433			p433			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 434	434			p434			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 435	435			p435			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 436	436			p436			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 437	437			p437			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 438	438			p438			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 439	439			p439			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 440	440			p440			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 441	441			p441			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 442	442			p442			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 443	443			p443			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 444	444			p444			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 445	445			p445			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 446	446			p446			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 447	447			p447			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 448	448			p448			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Cold Blood Item	449		assassin	setu			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 386	450			p386			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 387	451			p387			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 388	452			p388			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 389	453			p389			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 390	454			p390			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 391	455			p391			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 392	456			p392			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 393	457			p393			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 394	458			p394			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 395	459			p395			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 396	460			p396			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 397	461			p397			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 398	462			p398			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 399	463			p399			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 400	464			p400			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 401	465			p401			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 402	466			p402			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 403	467			p403			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 404	468			p404			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 405	469			p405			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 406	470			p406			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 407	471			p407			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 408	472			p408			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 409	473			p409			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 410	474			p410			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 411	475			p411			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 412	476			p412			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 413	477			p413			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 414	478			p414			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 415	479			p415			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 416	480			p416			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 417	481			p417			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 418	482			p418			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 419	483			p419			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 420	484			p420			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 421	485			p421			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 422	486			p422			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 423	487			p423			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 424	488			p424			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 425	489			p425			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 426	490			p426			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 427	491			p427			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 428	492			p428			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 429	493			p429			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 430	494			p430			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 431	495			p431			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 432	496			p432			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 433	497			p433			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 434	498			p434			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 435	499			p435			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 436	500			p436			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 437	501			p437			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 438	502			p438			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 439	503			p439			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 440	504			p440			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 441	505			p441			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 442	506			p442			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 443	507			p443			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 444	508			p444			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 445	509			p445			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 446	510			p446			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 447	511			p447			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 448	512			p448			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Hidden Knives Item	513		assassin	hibl			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 514	514			p514			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 515	515			p515			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 516	516			p516			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 517	517			p517			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 518	518			p518			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 519	519			p519			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 520	520			p520			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 521	521			p521			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 522	522			p522			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 523	523			p523			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 524	524			p524			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 525	525			p525			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 526	526			p526			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 527	527			p527			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 528	528			p528			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 529	529			p529			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 530	530			p530			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 531	531			p531			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 532	532			p532			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 533	533			p533			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 534	534			p534			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 535	535			p535			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 536	536			p536			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 537	537			p537			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 538	538			p538			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 539	539			p539			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 540	540			p540			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 541	541			p541			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 542	542			p542			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 543	543			p543			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 544	544			p544			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 545	545			p545			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 546	546			p546			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 547	547			p547			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 548	548			p548			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 549	549			p549			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 550	550			p550			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 551	551			p551			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 552	552			p552			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 553	553			p553			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 554	554			p554			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 555	555			p555			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 556	556			p556			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 557	557			p557			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 558	558			p558			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 559	559			p559			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 560	560			p560			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 561	561			p561			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 562	562			p562			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 563	563			p563			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 564	564			p564			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 565	565			p565			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 566	566			p566			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 567	567			p567			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 568	568			p568			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 569	569			p569			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 570	570			p570			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 571	571			p571			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 572	572			p572			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 573	573			p573			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 574	574			p574			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 575	575			p575			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 576	576			p576			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Brute Force Item	577		barbarian	bruf			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 578	578			p578			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 579	579			p579			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 580	580			p580			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 581	581			p581			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 582	582			p582			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 583	583			p583			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 584	584			p584			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 585	585			p585			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 586	586			p586			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 587	587			p587			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 588	588			p588			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 589	589			p589			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 590	590			p590			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 591	591			p591			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 592	592			p592			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 593	593			p593			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 594	594			p594			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 595	595			p595			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 596	596			p596			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 597	597			p597			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 598	598			p598			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 599	599			p599			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 600	600			p600			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 601	601			p601			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 602	602			p602			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 603	603			p603			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 604	604			p604			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 605	605			p605			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 606	606			p606			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 607	607			p607			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 608	608			p608			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 609	609			p609			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 610	610			p610			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 611	611			p611			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 612	612			p612			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 613	613			p613			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 614	614			p614			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 615	615			p615			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 616	616			p616			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 617	617			p617			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 618	618			p618			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 619	619			p619			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 620	620			p620			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 621	621			p621			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 622	622			p622			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 623	623			p623			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 624	624			p624			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 625	625			p625			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 626	626			p626			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 627	627			p627			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 628	628			p628			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 629	629			p629			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 630	630			p630			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 631	631			p631			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 632	632			p632			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 633	633			p633			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 634	634			p634			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 635	635			p635			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 636	636			p636			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 637	637			p637			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 638	638			p638			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 639	639			p639			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 640	640			p640			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 641	641			p641			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 642	642			p642			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 643	643			p643			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 644	644			p644			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 645	645			p645			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 646	646			p646			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 647	647			p647			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 648	648			p648			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 649	649			p649			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 650	650			p650			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 651	651			p651			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 652	652			p652			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 653	653			p653			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 654	654			p654			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 655	655			p655			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 656	656			p656			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 657	657			p657			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 658	658			p658			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 659	659			p659			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 660	660			p660			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 661	661			p661			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 662	662			p662			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 663	663			p663			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 664	664			p664			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 665	665			p665			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 666	666			p666			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 667	667			p667			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 668	668			p668			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 669	669			p669			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 670	670			p670			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 671	671			p671			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 672	672			p672			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 673	673			p673			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 674	674			p674			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 675	675			p675			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 676	676			p676			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 677	677			p677			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 678	678			p678			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 679	679			p679			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 680	680			p680			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 681	681			p681			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 682	682			p682			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 683	683			p683			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 684	684			p684			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 685	685			p685			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 686	686			p686			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 687	687			p687			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 688	688			p688			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 689	689			p689			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 690	690			p690			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 691	691			p691			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 692	692			p692			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 693	693			p693			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 694	694			p694			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 695	695			p695			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 696	696			p696			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 697	697			p697			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 698	698			p698			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 699	699			p699			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 700	700			p700			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 701	701			p701			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 702	702			p702			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 703	703			p703			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 704	704			p704			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Spirit of Fire Item	705		druid	sofi			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 706	706			p706			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 707	707			p707			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 708	708			p708			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 709	709			p709			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 710	710			p710			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 711	711			p711			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 712	712			p712			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 713	713			p713			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 714	714			p714			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 715	715			p715			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 716	716			p716			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 717	717			p717			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 718	718			p718			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 719	719			p719			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 720	720			p720			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 721	721			p721			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 722	722			p722			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 723	723			p723			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 724	724			p724			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 725	725			p725			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 726	726			p726			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 727	727			p727			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 728	728			p728			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 729	729			p729			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 730	730			p730			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 731	731			p731			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 732	732			p732			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 733	733			p733			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 734	734			p734			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 735	735			p735			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 736	736			p736			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 737	737			p737			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 738	738			p738			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 739	739			p739			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 740	740			p740			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 741	741			p741			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 742	742			p742			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 743	743			p743			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 744	744			p744			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 745	745			p745			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 746	746			p746			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 747	747			p747			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 748	748			p748			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 749	749			p749			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 750	750			p750			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 751	751			p751			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 752	752			p752			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 753	753			p753			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 754	754			p754			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 755	755			p755			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 756	756			p756			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 757	757			p757			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 758	758			p758			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 759	759			p759			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 760	760			p760			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 761	761			p761			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 762	762			p762			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 763	763			p763			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 764	764			p764			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 765	765			p765			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 766	766			p766			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 767	767			p767			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 768	768			p768			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Spirit of Cold Item	769		druid	soci			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 770	770			p770			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 771	771			p771			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 772	772			p772			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 773	773			p773			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 774	774			p774			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 775	775			p775			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 776	776			p776			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 777	777			p777			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 778	778			p778			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 779	779			p779			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 780	780			p780			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 781	781			p781			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 782	782			p782			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 783	783			p783			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 784	784			p784			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 785	785			p785			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 786	786			p786			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 787	787			p787			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 788	788			p788			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 789	789			p789			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 790	790			p790			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 791	791			p791			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 792	792			p792			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 793	793			p793			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 794	794			p794			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 795	795			p795			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 796	796			p796			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 797	797			p797			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 798	798			p798			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 799	799			p799			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 800	800			p800			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 801	801			p801			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 802	802			p802			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 803	803			p803			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 804	804			p804			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 805	805			p805			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 806	806			p806			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 807	807			p807			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 808	808			p808			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 809	809			p809			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 810	810			p810			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 811	811			p811			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 812	812			p812			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 813	813			p813			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 814	814			p814			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 815	815			p815			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 816	816			p816			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 817	817			p817			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 818	818			p818			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 819	819			p819			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 820	820			p820			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 821	821			p821			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 822	822			p822			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 823	823			p823			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 824	824			p824			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 825	825			p825			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 826	826			p826			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 827	827			p827			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 828	828			p828			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 829	829			p829			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 830	830			p830			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 831	831			p831			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 832	832			p832			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Spirit of Lightning Item	833		druid	soli			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 834	834			p834			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 835	835			p835			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 836	836			p836			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 837	837			p837			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 838	838			p838			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 839	839			p839			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 840	840			p840			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 841	841			p841			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 842	842			p842			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 843	843			p843			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 844	844			p844			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 845	845			p845			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 846	846			p846			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 847	847			p847			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 848	848			p848			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 849	849			p849			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 850	850			p850			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 851	851			p851			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 852	852			p852			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 853	853			p853			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 854	854			p854			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 855	855			p855			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 856	856			p856			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 857	857			p857			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 858	858			p858			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 859	859			p859			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 860	860			p860			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 861	861			p861			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 862	862			p862			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 863	863			p863			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 864	864			p864			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 865	865			p865			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 866	866			p866			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 867	867			p867			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 868	868			p868			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 869	869			p869			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 870	870			p870			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 871	871			p871			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 872	872			p872			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 873	873			p873			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 874	874			p874			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 875	875			p875			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 876	876			p876			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 877	877			p877			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 878	878			p878			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 879	879			p879			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 880	880			p880			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 881	881			p881			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 882	882			p882			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 883	883			p883			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 884	884			p884			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 885	885			p885			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 886	886			p886			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 887	887			p887			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 888	888			p888			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 889	889			p889			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 890	890			p890			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 891	891			p891			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 892	892			p892			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 893	893			p893			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 894	894			p894			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 895	895			p895			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 896	896			p896			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Ice Armor Item	897		sorceress	brrr			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 898	898			p898			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 899	899			p899			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 900	900			p900			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 901	901			p901			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 902	902			p902			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 903	903			p903			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 904	904			p904			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 905	905			p905			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 906	906			p906			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 907	907			p907			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 908	908			p908			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 909	909			p909			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 910	910			p910			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 911	911			p911			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 912	912			p912			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 913	913			p913			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 914	914			p914			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 915	915			p915			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 916	916			p916			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 917	917			p917			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 918	918			p918			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 919	919			p919			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 920	920			p920			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 921	921			p921			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 922	922			p922			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 923	923			p923			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 924	924			p924			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 925	925			p925			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 926	926			p926			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 927	927			p927			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 928	928			p928			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 929	929			p929			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 930	930			p930			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 931	931			p931			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 932	932			p932			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 933	933			p933			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 934	934			p934			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 935	935			p935			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 936	936			p936			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 937	937			p937			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 938	938			p938			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 939	939			p939			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 940	940			p940			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 941	941			p941			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 942	942			p942			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 943	943			p943			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 944	944			p944			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 945	945			p945			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 946	946			p946			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 947	947			p947			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 948	948			p948			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 949	949			p949			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 950	950			p950			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 951	951			p951			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 952	952			p952			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 953	953			p953			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 954	954			p954			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 955	955			p955			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 956	956			p956			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 957	957			p957			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 958	958			p958			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 959	959			p959			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 960	960			p960			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Interrogate the Dead Item	961		necromancer	dead			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 962	962			p962			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 963	963			p963			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 964	964			p964			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 965	965			p965			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 966	966			p966			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 967	967			p967			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 968	968			p968			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 969	969			p969			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 970	970			p970			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 971	971			p971			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 972	972			p972			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 973	973			p973			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 974	974			p974			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 975	975			p975			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 976	976			p976			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 977	977			p977			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 978	978			p978			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 979	979			p979			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 980	980			p980			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 981	981			p981			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 982	982			p982			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 983	983			p983			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 984	984			p984			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 985	985			p985			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 986	986			p986			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 987	987			p987			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 988	988			p988			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 989	989			p989			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 990	990			p990			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 991	991			p991			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 992	992			p992			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 993	993			p993			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 994	994			p994			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 995	995			p995			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 996	996			p996			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 997	997			p997			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 998	998			p998			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 999	999			p999			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1000	1000			q100			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1001	1001			q101			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1002	1002			q102			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1003	1003			q103			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1004	1004			q104			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1005	1005			q105			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1006	1006			q106			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1007	1007			q107			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1008	1008			q108			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1009	1009			q109			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1010	1010			q110			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1011	1011			q111			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1012	1012			q112			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1013	1013			q113			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1014	1014			q114			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1015	1015			q115			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1016	1016			q116			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1017	1017			q117			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1018	1018			q118			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1019	1019			q119			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1020	1020			q120			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1021	1021			q121			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1022	1022			q122			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1023	1023			q123			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1024	1024			q124			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Prepare for Glory Item	1025		amazon	preg			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1026	1026			q126			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1027	1027			q127			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1028	1028			q128			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1029	1029			q129			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1030	1030			q130			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1031	1031			q131			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1032	1032			q132			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1033	1033			q133			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1034	1034			q134			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1035	1035			q135			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1036	1036			q136			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1037	1037			q137			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1038	1038			q138			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1039	1039			q139			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1040	1040			q140			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1041	1041			q141			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1042	1042			q142			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1043	1043			q143			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1044	1044			q144			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1045	1045			q145			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1046	1046			q146			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1047	1047			q147			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1048	1048			q148			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1049	1049			q149			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1050	1050			q150			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1051	1051			q151			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1052	1052			q152			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1053	1053			q153			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1054	1054			q154			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1055	1055			q155			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1056	1056			q156			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1057	1057			q157			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1058	1058			q158			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1059	1059			q159			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1060	1060			q160			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1061	1061			q161			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1062	1062			q162			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1063	1063			q163			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1064	1064			q164			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1065	1065			q165			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1066	1066			q166			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1067	1067			q167			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1068	1068			q168			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1069	1069			q169			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1070	1070			q170			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1071	1071			q171			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1072	1072			q172			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1073	1073			q173			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1074	1074			q174			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1075	1075			q175			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1076	1076			q176			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1077	1077			q177			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1078	1078			q178			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1079	1079			q179			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1080	1080			q180			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1081	1081			q181			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1082	1082			q182			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1083	1083			q183			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1084	1084			q184			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1085	1085			q185			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1086	1086			q186			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1087	1087			q187			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Placeholder 1088	1088			q188			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Covenant Item	1089		paladin	cult			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
