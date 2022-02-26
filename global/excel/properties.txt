@@ -349,3 +349,8 @@ desc-randomres	1	1	item_randomres_aura																																0
 desc-randomspeed	1	1	item_randomspeed_aura																																0
 automagic-str	1	17	automagic_str																																0
 automagic-werebeast	1	1	automagic_werebeast																																0
+automagic-slowthorns	1	1	automagic_slowthorns																												ModSlowThorns				0
+automagic-weapsock	1	1	automagic_weapsockets																																0
+automagic-armosock	1	1	automagic_armosockets																																0
+automagic-shldsock	1	1	automagic_shldsockets																																0
+automagic-woundth	1	1	automagic_woundthorns																																0

@@ -68,7 +68,7 @@ Sorceress Item	64			sorc	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		sor	0				
 Assassin Item	65			assn	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	2		ass	0								0
 Druid Item	66			drui	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		dru	0								0
 Hand to Hand	67	3		h2h	mele	assn	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	2			0							weap	0
-Orb	68	3	Remove staffmod	orb	weap		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	1			0							weap	0
+Orb	68	3	Remove staffmod	orb	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	1			0							weap	0
 Voodoo Heads	69	6		head	shld	necr	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	1			0							armo	0
 Auric Shields	70	6		ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	1			0							armo	0
 Primal Helm	71	4		phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	1			0							armo	0
@@ -132,13 +132,13 @@ Amazon Helm	128	4		ahlm	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	1
 Crusader Helm	129	4		chlm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	1			0							armo	0
 Sorceress Armor	130	6		stor	sorc	tors	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
 Barbarian Shield	131	6		bshi	barb	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
-Assassin Shield	132	6		ashi	assn	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
+Mage Shield	132	6		ashi	shie		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
 Stun Hammer	133	6		sham	hamm		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Placeholder 134	134			p134			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 135	135			p135			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 136	136			p136			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 137	137			p137			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 138	138			p138			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Necromancer Shield	134	6		nxsh	necr	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
+Necromancer Helm	135	4		nxhm	necr	helm	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	3			0							armo	0
+Crystal Sword	136	6		crsx	sorc	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
+Spiked Shield	137	6	Sockets	sksd	shld		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
+Crown	138	4		cron	helm		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	3			0							armo	0
 Placeholder 139	139			p139			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 140	140			p140			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 141	141			p141			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
