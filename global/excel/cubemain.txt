@@ -146,14 +146,41 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Ral Rune + 1 Jewel + Magic Ring -> Tempered Ring				100					3	ring,mag	jew	r08					usetype,tmp				levelreq			3	3																																																																															0
 1 Ral Rune + 1 Jewel + 1 Magic Amulet -> Tempered Amulet				100					3	amu,mag	jew	r08					usetype,tmp				levelreq			5	5																																																																															0
 1 El Rune + 1 Chipped Gem (Any) + 1 Tempered Weapon -> Weapon With Extra Attack Rating				100					3	weap,tmp	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
-3 Chipped Gems (Any) + 1 Magic Weapon -> Socketed Magic Weapon	1			0					4	weap,mag	gem0,qty=3						usetype,mag	25		50	sock			1	2																																																																															0
-1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
-1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
-1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
+3 Chipped Gems (Any) + 1 Magic Weapon -> Socketed Magic Weapon				0					4	weap,mag	gem0,qty=3						usetype,mag	25		50	sock			1	2																																																																															0
+1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)				100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
+1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)				100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
+1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Token of Absolution				100					4	tes	ceh	bet	fed				toa																																																																																							0
+Weapon + Dust of Madness = reroll randomly	1			0					2	weap	du2						usetype,mag			100																																																																																				0
+Armor + Dust of Madness = reroll randomly	1			0					2	armo	du2						usetype,mag			100																																																																																				0
+Demon part - Any + Cube Jawbone = remove socket fillers	1			0					2	any,sock	cu3						useitem,rem																																																																																							0
+Demon part - Weapon + Cube Quill = reroll as magic at current level	1			0					2	weap	cu9						usetype,mag		100																																																																																					0
+Demon part - Armor + Cube Quill = reroll as magic at current level	1			0					2	armo	cu9						usetype,mag		100																																																																																					0
+Sword + Cube Soul = transfer affixes	1			0					2	swor	cu0						swor,mod			100																																																																																				0
+Axe + Cube Soul = transfer affixes	1			0					2	axe	cu0						axe,mod			100																																																																																				0
+Mace + Cube Soul = transfer affixes	1			0					2	mace	cu0						mace,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	hamm	cu0						hamm,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	scep	cu0						scep,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	wand	cu0						wand,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	staf	cu0						staf,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	orb	cu0						orb,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	spea	cu0						spea,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	pole	cu0						pole,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	h2h	cu0						h2h,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	bow	cu0						bow,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	xbow	cu0						xbow,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	tkni	cu0						tkni,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	taxe	cu0						taxe,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	shie	cu0						shie,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	helm	cu0						helm,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	tors	cu0						tors,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	boot	cu0						boot,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	glov	cu0						glov,mod			100																																																																																				0
+Item + Cube Soul = transfer affixes	1			0					2	belt	cu0						belt,mod			100																																																																																				0
 fire weapon	1			0					2	weap,noe	hpot,qty=1						usetype,mag,suf=176	30		60																																																																																				0
 frost weapon	1			0					3	weap,noe	hpot,qty=2						usetype,mag,suf=183	30		60																																																																																				0
 power weapon	1			0					2	isc,qty=2							7ma	30		60																																																																																				0
 power boots	1			0					1	lbt							vbt																																																																																							0
+test item	1			0					1	hpot							ax1																																																																																							0
 test item	1			0					1	ax1							ax2																																																																																							0
 test item	1			0					1	ax2							ax3																																																																																							0
 test item	1			0					1	ax3							ax4																																																																																							0
@@ -257,7 +284,7 @@ test item	1			0					1	ac2							ac3																																													
 test item	1			0					1	ac3							aw1																																																																																							0
 test item	1			0					1	aw1							aw2																																																																																							0
 test item	1			0					1	aw2							aw3																																																																																							0
-test item	1			0					1	aw3							aw4																																																																																							0
+test item	1			0					1	aw3							aw3																																																																																							0
 test item	1			0					1	aw4							by1																																																																																							0
 test item	1			0					1	by1							by2																																																																																							0
 test item	1			0					1	by2							by3																																																																																							0

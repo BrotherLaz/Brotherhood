@@ -354,3 +354,6 @@ automagic-weapsock	1	1	automagic_weapsockets																																0
 automagic-armosock	1	1	automagic_armosockets																																0
 automagic-shldsock	1	1	automagic_shldsockets																																0
 automagic-woundth	1	1	automagic_woundthorns																																0
+automagic-human%	1	1	automagic_humandmg_percent																																0
+automagic-insect%	1	1	automagic_insectdmg_percent																																0
+automagic-construct%	1	1	automagic_constructdmg_percent																																0

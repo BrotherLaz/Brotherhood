@@ -1,144 +1,144 @@
 ItemType	*Laz/Id	*Laz/Sockets	*Laz/Comment	Code	Equiv1	Equiv2	Repair	Body	BodyLoc1	BodyLoc2	Shoots	Quiver	Throwable	Reload	ReEquip	AutoStack	Magic	Rare	Normal	Beltable	MaxSockets1	MaxSocketsLevelThreshold1	MaxSockets2	MaxSocketsLevelThreshold2	MaxSockets3	TreasureClass	Rarity	StaffMods	Class	VarInvGfx	InvGfx1	InvGfx2	InvGfx3	InvGfx4	InvGfx5	InvGfx6	StorePage	*eol
 None	0						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 None	1						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Shield	2	6	Sockets	shie	shld		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
-Armor	3	6		tors	armo		1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
-Gold	4			gold	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0								0
-Bow Quiver	5			bowq	misl		0	1	rarm	larm		bow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Crossbow Quiver	6			xboq	misl		0	1	rarm	larm		xbow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Player Body Part	7			play	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Herb	8			herb	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0							misc	0
-Potion	9			poti	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Ring	10			ring	misc		0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
-Elixir	11			elix	misc		0	0					0	0	0	0			0	1	0	25	0	40	0	0	3			0							misc	0
-Amulet	12			amul	misc		0	1	neck	neck			0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			3	invamu1	invamu2	invamu3				misc	0
-Charm	13			char	misc		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
-Not Used	14						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Boots	15	2	Sockets	boot	armo		1	1	feet	feet			0	0	0	0		1	0	0	1	25	1	40	2	0	3			0							armo	0
-Gloves	16	2	Sockets	glov	armo		1	1	glov	glov			0	0	0	0		1	0	0	1	25	1	40	2	0	3			0							armo	0
-Not Used	17						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Book	18			book	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Belt	19	2	Sockets	belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	1	25	1	40	2	0	3			0							armo	0
-Gem	20			gem	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Torch	21			torc	misc		0	1					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Scroll	22			scro	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Not Used	23						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Scepter	24	6		scep	rod		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	5	40	6	0	1			0							weap	0
-Wand	25	2		wand	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	2	40	2	0	1			0							weap	0
-Staff	26	6		staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	1			0							weap	0
-Bow	27	6		bow	miss		0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	3			0							weap	0
-Axe	28	6		axe	mele		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	3			0							weap	0
-Club	29	6		club	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Sword	30	6		swor	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Hammer	31	6		hamm	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Knife	32	3		knif	mele		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	3			0							weap	0
-Spear	33	6		spea	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Polearm	34	6		pole	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Crossbow	35	6		xbow	miss		1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Mace	36	6		mace	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Helm	37	4		helm	armo		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	3			0							armo	0
-Missile Potion	38			tpot	thro		0	1	rarm	larm			1	1	1	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Quest	39			ques			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Body Part	40			body	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Key	41			key	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-Throwing Knife	42			tkni	comb	knif	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3			0							misc	0
-Throwing Axe	43			taxe	comb	axe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3			0							misc	0
-Javelin	44			jave	comb	spea	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	3			0							misc	0
-Weapon	45			weap			0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	3			0								0
-Melee Weapon	46			mele	weap		0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	3			0								0
-Missile Weapon	47			miss	weap		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Thrown Weapon	48			thro	weap		0	0					1	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Combo Weapon	49			comb	mele	thro	0	0					1	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Any Armor	50			armo			0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	3			0								0
-Any Shield	51			shld	armo	seco	0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Miscellaneous	52			misc			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Socket Filler	53			sock	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Second Hand	54			seco			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Staves And Rods	55			rod	blun		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Missile	56			misl	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Blunt	57			blun	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
+Shield	2	6	Sockets	shie	shld		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
+Armor	3	6		tors	armo		1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							armo	0
+Gold	4			gold	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0								0
+Bow Quiver	5			bowq	misl		0	1	rarm	larm		bow	0	1	0	1			1	0	0	25	0	40	0	0	4			0							misc	0
+Crossbow Quiver	6			xboq	misl		0	1	rarm	larm		xbow	0	1	0	1			1	0	0	25	0	40	0	0	4			0							misc	0
+Player Body Part	7			play	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Herb	8			herb	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Potion	9			poti	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
+Ring	10			ring	misc		0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
+Elixir	11			elix	misc		0	0					0	0	0	0			0	1	0	25	0	40	0	0	4			0							misc	0
+Amulet	12			amul	misc		0	1	neck	neck			0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			3	invamu1	invamu2	invamu3				misc	0
+Charm	13			char	misc		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	4			3	invch1	invch4	invch7				misc	0
+Not Used	14						0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Boots	15	2	Sockets	boot	armo		1	1	feet	feet			0	0	0	0		1	0	0	1	25	1	40	2	0	4			0							armo	0
+Gloves	16	2	Sockets	glov	armo		1	1	glov	glov			0	0	0	0		1	0	0	1	25	1	40	2	0	4			0							armo	0
+Not Used	17						0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Book	18			book	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Belt	19	2	Sockets	belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	1	25	1	40	2	0	4			0							armo	0
+Gem	20			gem	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Torch	21			torc	misc		0	1					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Scroll	22			scro	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
+Not Used	23						0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Scepter	24	6		scep	rod		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	5	40	6	0	4			0							weap	0
+Wand	25	2		wand	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	2	40	2	0	4			0							weap	0
+Staff	26	6		staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	4			0							weap	0
+Bow	27	6		bow	miss		0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	4			0							weap	0
+Axe	28	6		axe	mele		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	4			0							weap	0
+Club	29	6		club	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Sword	30	6		swor	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Hammer	31	6		hamm	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Knife	32	3		knif	mele		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	4			0							weap	0
+Spear	33	6		spea	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Polearm	34	6		pole	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Crossbow	35	6		xbow	miss		1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Mace	36	6		mace	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Helm	37	4		helm	armo		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Missile Potion	38			tpot	thro		0	1	rarm	larm			1	1	1	1			1	0	0	25	0	40	0	0	4			0							misc	0
+Quest	39			ques			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Body Part	40			body	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Key	41			key	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	4			0							misc	0
+Throwing Knife	42			tkni	comb	knif	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
+Throwing Axe	43			taxe	comb	axe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
+Javelin	44			jave	comb	spea	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	4			0							misc	0
+Weapon	45			weap			0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	4			0								0
+Melee Weapon	46			mele	weap		0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	4			0								0
+Missile Weapon	47			miss	weap		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
+Thrown Weapon	48			thro	weap		0	0					1	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
+Combo Weapon	49			comb	mele	thro	0	0					1	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
+Any Armor	50			armo			0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	4			0								0
+Any Shield	51			shld	armo	seco	0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
+Miscellaneous	52			misc			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
+Socket Filler	53			sock	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Second Hand	54			seco			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
+Staves And Rods	55			rod	blun		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
+Missile	56			misl	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Blunt	57			blun	mele		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
 Expansion																																						
-Jewel	58			jewl	sock		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
-Class Specific	59			clas			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	3			0								0
-Amazon Item	60			amaz	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		ama	0								0
-Barbarian Item	61			barb	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		bar	0								0
-Necromancer Item	62			necr	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		nec	0								0
-Paladin Item	63			pala	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		pal	0								0
-Sorceress Item	64			sorc	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		sor	0								0
-Assassin Item	65			assn	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	2		ass	0								0
-Druid Item	66			drui	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	1		dru	0								0
-Hand to Hand	67	3		h2h	mele	assn	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	2			0							weap	0
-Orb	68	3	Remove staffmod	orb	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	1			0							weap	0
-Voodoo Heads	69	6		head	shld	necr	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	1			0							armo	0
-Auric Shields	70	6		ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	1			0							armo	0
-Primal Helm	71	4		phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	1			0							armo	0
-Pelt	72	4		pelt	helm	drui	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	1			0							armo	0
-Cloak	73			cloa	tors	assn	1	1	tors	tors			0	0	0	0		1	0	0	0	25	0	40	0	0	1			0							armo	0
-Rune	74			rune	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Circlet	75			circ	helm		1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	3			0							armo	0
-Healing Potion	76			hpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Mana Potion	77			mpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Rejuv Potion	78			rpot	hpot	mpot	0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Stamina Potion	79			spot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Antidote Potion	80			apot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Thawing Potion	81			wpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Small Charm	82			scha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
-Medium Charm	83			mcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch2	invch5	invch8				misc	0
-Large Charm	84			lcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	3			3	invch3	invch6	invch9				misc	0
-Amazon Bow	85	6		abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	1			0							weap	0
-Amazon Spear	86	6		aspe	spea	amaz	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	1			0							weap	0
-Amazon Javelin	87			ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	1			0							misc	0
-Hand to Hand 2	88			h2h2	h2h		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	2			0							weap	0
-Magic Bow Quiv	89		Enable	mboq	bowq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Magic Xbow Quiv	90		Enable	mxbq	xboq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Chipped Gem	91			gem0	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Flawed Gem	92			gem1	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Standard Gem	93			gem2	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Flawless Gem	94			gem3	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Perfect Gem	95			gem4	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Amethyst	96			gema	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Diamond	97			gemd	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Emerald	98			geme	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Ruby	99			gemr	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Sapphire	100			gems	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Topaz	101			gemt	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Skull	102			gemz	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
-Placeholder 103	103		placeholder	p103			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 104	104		placeholder	p104			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 105	105		placeholder	p105			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 106	106		placeholder	p106			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 107	107		placeholder	p107			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 108	108		placeholder	p108			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 109	109		placeholder	p109			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 110	110		placeholder	p110			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 111	111		placeholder	p111			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 112	112		placeholder	p112			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Scythe	113	6		scyh	pole		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Necromancer Scythe	114	6	nec	nscy	scyh		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Assassin Throwing Knife	115	2	ass	atkn	assn	tkni	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3			0							misc	0
-Barbarian Throwing Axe	116	2	bar	btax	barb	taxe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	3			0							misc	0
-Druid Club	117	6	dru	dclu	drui	club	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Paladin Scepter	118	6	pal	pasc	pala	scep	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	1			0							weap	0
-Barbarian 1h Axe	119	6	bar	boax	barb	axe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Barbarian 2h Axe	120	6	bar	bbax	barb	axe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Swashbuckler Blade	121	3		blad	swor		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	3			0							weap	0
-Paladin 1h Sword	122	6	pal	pasd	pala	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Barbarian 2h Sword	123	6	bar	bats	barb	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Paladin Mace	124	6	pal	pama	pala	mace	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Assassin Naginata	125	6	ass	nagi	assn	pole	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Druid Bow	126	6	dru	dbow	drui	bow	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	3			0							weap	0
-Necromancer Crossbow	127	6	nec	nxbw	necr	xbow	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Amazon Helm	128	4		ahlm	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	1			0							armo	0
-Crusader Helm	129	4		chlm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	1			0							armo	0
-Sorceress Armor	130	6		stor	sorc	tors	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							armo	0
-Barbarian Shield	131	6		bshi	barb	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
-Mage Shield	132	6		ashi	shie		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
-Stun Hammer	133	6		sham	hamm		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Necromancer Shield	134	6		nxsh	necr	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
-Necromancer Helm	135	4		nxhm	necr	helm	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	3			0							armo	0
-Crystal Sword	136	6		crsx	sorc	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	3			0							weap	0
-Spiked Shield	137	6	Sockets	sksd	shld		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	3			0							armo	0
-Crown	138	4		cron	helm		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	3			0							armo	0
+Jewel	58			jewl	sock		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
+Class Specific	59			clas			0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
+Amazon Item	60			amaz	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4		ama	0								0
+Barbarian Item	61			barb	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4		bar	0								0
+Necromancer Item	62			necr	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4		nec	0								0
+Paladin Item	63			pala	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4		pal	0								0
+Sorceress Item	64			sorc	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4		sor	0								0
+Assassin Item	65			assn	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4		ass	0								0
+Druid Item	66			drui	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4		dru	0								0
+Hand to Hand	67	3		h2h	mele	assn	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	4		ass	0							weap	0
+Orb	68	3	Remove staffmod	orb	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	4			0							weap	0
+Voodoo Heads	69	6		head	shld	necr	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
+Auric Shields	70	6		ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
+Primal Helm	71	4		phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Pelt	72	4		pelt	helm	drui	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Cloak	73			cloa	tors	assn	1	1	tors	tors			0	0	0	0		1	0	0	0	25	0	40	0	0	4			0							armo	0
+Rune	74			rune	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Circlet	75			circ	helm		1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
+Healing Potion	76			hpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
+Mana Potion	77			mpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
+Rejuv Potion	78			rpot	hpot	mpot	0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
+Stamina Potion	79			spot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
+Antidote Potion	80			apot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
+Thawing Potion	81			wpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
+Small Charm	82			scha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	4			3	invch1	invch4	invch7				misc	0
+Medium Charm	83			mcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	4			3	invch2	invch5	invch8				misc	0
+Large Charm	84			lcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	4			3	invch3	invch6	invch9				misc	0
+Amazon Bow	85	6		abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	4			0							weap	0
+Amazon Spear	86	6		aspe	spea	amaz	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Amazon Javelin	87			ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	4			0							misc	0
+Hand to Hand 2	88			h2h2	h2h		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	4			0							weap	0
+Magic Bow Quiv	89		Enable	mboq	bowq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Magic Xbow Quiv	90		Enable	mxbq	xboq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Chipped Gem	91			gem0	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Flawed Gem	92			gem1	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Standard Gem	93			gem2	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Flawless Gem	94			gem3	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Perfect Gem	95			gem4	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Amethyst	96			gema	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Diamond	97			gemd	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Emerald	98			geme	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Ruby	99			gemr	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Sapphire	100			gems	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Topaz	101			gemt	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Skull	102			gemz	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
+Placeholder 103	103		placeholder	p103			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Placeholder 104	104		placeholder	p104			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Placeholder 105	105		placeholder	p105			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Placeholder 106	106		placeholder	p106			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Placeholder 107	107		placeholder	p107			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Placeholder 108	108		placeholder	p108			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Placeholder 109	109		placeholder	p109			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Placeholder 110	110		placeholder	p110			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Placeholder 111	111		placeholder	p111			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
+Trinket	112			trin	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Scythe	113	6		scyh	pole		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Necromancer Scythe	114	6	nec	nscy	scyh		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Assassin Throwing Knife	115	2	ass	atkn	assn	tkni	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
+Barbarian Throwing Axe	116	2	bar	btax	barb	taxe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
+Druid Club	117	6	dru	dclu	drui	club	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Paladin Scepter	118	6	pal	pasc	pala	scep	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Barbarian 1h Axe	119	6	bar	boax	barb	axe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Barbarian 2h Axe	120	6	bar	bbax	barb	axe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Swashbuckler Blade	121	3		blad	swor		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
+Paladin 1h Sword	122	6	pal	pasd	pala	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Barbarian 2h Sword	123	6	bar	bats	barb	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Paladin Mace	124	6	pal	pama	pala	mace	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Assassin Naginata	125	6	ass	nagi	assn	pole	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Druid Bow	126	6	dru	dbow	drui	bow	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	4			0							weap	0
+Necromancer Crossbow	127	6	nec	nxbw	necr	xbow	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Amazon Helm	128	4		ahlm	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Crusader Helm	129	4		chlm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Sorceress Armor	130	6		stor	sorc	tors	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							armo	0
+Barbarian Shield	131	6		bshi	barb	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
+Mage Shield	132	6		ashi	shie		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
+Stun Hammer	133	6		sham	hamm		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Necromancer Shield	134	6		nxsh	necr	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
+Necromancer Helm	135	4		nxhm	necr	helm	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Crystal Sword	136	6		crsx	sorc	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Spiked Shield	137	6	Sockets	sksd	shld		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
+Crown	138	4		cron	helm		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
 Placeholder 139	139			p139			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 140	140			p140			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 141	141			p141			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

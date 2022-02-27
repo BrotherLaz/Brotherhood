@@ -56,8 +56,8 @@ magicmaxdam	53		0	512		1	16											183	20		7	0	9	0											1					103	19		st
 coldmindam	54		0	256		1	16											451	512		6	0	8	0											1					96	19		ModStr1t	ModStr1t										0
 coldmaxdam	55		0	512		1	16											128	340		8	0	9	0											1					95	19		ModStr1s	ModStr1s										0
 coldlength	56		0	512		1	16											77	4		8	0	9	0											1																			0
-poisonmindam	57		0	1024		1	19											12	28		9	0	10	0											1					92	19		ModStr4i	ModStr4i										0
-poisonmaxdam	58		0	1024		1	19											11	34		9	0	10	0											1					91	19		ModStr4h	ModStr4h										0
+poisonmindam	57		0	1024		1	19											12	28		9	0	13	0											1					92	19		ModStr4i	ModStr4i										0
+poisonmaxdam	58		0	1024		1	19											11	34		9	0	13	0											1					91	19		ModStr4h	ModStr4h										0
 poisonlength	59		0	512		1	16											0	4		8	0	9	0											1																			0
 lifedrainmindam	60		0	128		1	16											1044	341		7	0	7	0											1					88	19		ModStr2z	ModStr2z									2	0
 lifedrainmaxdam	61					1	16																												1																			0
@@ -179,7 +179,7 @@ conversion_level	176						8																																															0
 conversion_maxhp	177						16																																															0
 unit_dooverlay	178						16																																															0
 attack_vs_montype	179		0	512			9	10										19	14		3	0	9		10										1					108	22		ModitemAttratvsM	ModitemAttratvsM										0
-damage_vs_montype	180		0	512			9	10										27	17		3	0	9		10										1					106	22		Moditemdamvsm	Moditemdamvsm										0
+damage_vs_montype	180		0	512			9	10										27	17		3	0	9		10										1																			0
 fade	181				1		7														14	0	3																															0
 armor_override_percent	182				1	1	8														14	0																																0
 unused183	183																				14	0																																0
@@ -459,3 +459,6 @@ automagic_weapsockets	456					1	2														8	0	2	0																109	19		Mo
 automagic_armosockets	457					1	2														8	0	2	0																109	19		ModArmoSocketsAutomagic	ModArmoSocketsAutomagic										0
 automagic_shldsockets	458					1	2														8	0	2	0																109	19		ModShldSocketsAutomagic	ModShldSocketsAutomagic										0
 automagic_woundthorns	459		0	128		1	7							1				23	10		7	0	7	0											1	damagedinmelee	15			83	19		ModWoundThorns	ModWoundThorns									2	0
+automagic_humandmg_percent	460		-50	462		1	12											19	12		9	20	9	50											1					112	19		ModDmgVsHumans	ModDmgVsHumans									2	0
+automagic_insectdmg_percent	461		-50	462		1	12											13	12		9	20	9	50											1					111	19		ModDmgVsInsects	ModDmgVsInsects									2	0
+automagic_constructdmg_percent	462		-50	462		1	12											13	12		9	20	9	50											1					110	19		ModDmgVsConstructs	ModDmgVsConstructs									2	0
