@@ -82,9 +82,9 @@ Rejuv Potion	78			rpot	hpot	mpot	0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0						
 Stamina Potion	79			spot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
 Antidote Potion	80			apot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
 Thawing Potion	81			wpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
-Small Charm	82			scha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	4			3	invch1	invch4	invch7				misc	0
-Medium Charm	83			mcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	4			3	invch2	invch5	invch8				misc	0
-Large Charm	84			lcha	char		0	0					0	0	0	0	1		0	0	0	25	0	40	0	0	4			3	invch3	invch6	invch9				misc	0
+Small Charm	82			scha	char		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			3	invch1	invch4	invch7				misc	0
+Medium Charm	83			mcha	char		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			3	invch2	invch5	invch8				misc	0
+Large Charm	84			lcha	char		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			3	invch3	invch6	invch9				misc	0
 Amazon Bow	85	6		abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	4			0							weap	0
 Amazon Spear	86	6		aspe	spea	amaz	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
 Amazon Javelin	87			ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	4			0							misc	0
@@ -144,7 +144,7 @@ Trinket	140			trin	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Any Jewelry	141			anyj			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Any Weapon or Armor	142			anyx			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Ashes	143			dust			0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
-Trophy	144			ggwp	scha	ques	0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Trophy	144			ggwp	char		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Placeholder 145	145			p145			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 146	146			p146			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 147	147			p147			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
