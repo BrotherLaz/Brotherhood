@@ -91,7 +91,7 @@ item_doubleherbduration	88					1	2														1	0	1	0																									
 item_lightradius	89		-4	12		1	5							1				15	51		4	4	4	4																6	19		ModStr3f	ModStr3f									2	0
 item_lightcolor	90					1	24							1				155	0		5	0	24	0																														0
 item_req_percent	91		-100	412		1	9											26	-34		8	100	9	100																0	19		ModStr3h	ModStr3h										0
-item_levelreq	92																				6	20	7	50																0	19		ModStr3h	ModStr3h										0
+item_levelreq	92																				6	20	7	50																														0
 item_fasterattackrate	93		-20	108	1	1	9											1042	156		7	20	7	20											1					145	19		ModStr4m	ModStr4m									2	0
 item_levelreqpct	94		-64	64		1	8														7	20	7	64			13			item_levelreq										1	19		ModLevelReq	ModLevelReq										0
 lastblockframe	95																				6	20																																0
@@ -396,10 +396,10 @@ flag_gem	393	itemstatcost.txt				1	2														1	0	1	0																							
 flag_rune	394	itemstatcost.txt				1	2														1	0	1	0																														0
 flag_unique	395	uniques.txt				1	2														1	0	1	0																														0
 flag_set	396	setitems.txt				1	2														1	0	1	0																														0
-item_strength_percent	397		-50	78		1	8											250	110		7	0	7	50			11			strength										74	2	1	ModStrPercent	ModStrPercent		3	2	1	ModAllPercents					0
-item_dexterity_percent	398		-50	78		1	8											200	110		7	0	7	50			11			dexterity										74	2	1	ModDexPercent	ModDexPercent		3	2	1	ModAllPercents					0
-item_energy_percent	399		-50	78		1	8											250	110		7	0	7	50			11			energy										74	2	1	ModEnrPercent	ModEnrPercent		3	2	1	ModAllPercents					0
-item_vitality_percent	400		-50	78		1	8											200	110		7	0	7	50			11			vitality										74	2	1	ModVitPercent	ModVitPercent		3	2	1	ModAllPercents					0
+item_strength_percent	397		-50	78		1	8											250	110		7	0	7	50			11			strength										74	19		ModStrPercent	ModStrPercent		3	2	1	ModAllPercents					0
+item_dexterity_percent	398		-50	78		1	8											200	110		7	0	7	50			11			dexterity										74	19		ModDexPercent	ModDexPercent		3	2	1	ModAllPercents					0
+item_energy_percent	399		-50	78		1	8											250	110		7	0	7	50			11			energy										74	19		ModEnrPercent	ModEnrPercent		3	2	1	ModAllPercents					0
+item_vitality_percent	400		-50	78		1	8											200	110		7	0	7	50			11			vitality										74	19		ModVitPercent	ModVitPercent		3	2	1	ModAllPercents					0
 item_potion_effectiveness	401		-50	206		1	8											21	25		1	0	8	50																40	19		ModPotionEffectiveness	ModPotionEffectiveness									2	0
 item_healonstriking	402		0	32		1	6							1				1727	599		1	0	5	0												domeleedamage	28	domissiledamage	28	17	19		ModLifeOnStriking	ModLifeOnStriking									2	0
 item_manaonstriking	403		0	32		1	6							1				1250	505		1	0	5	0												domeleedamage	17	domissiledamage	17	17	19		ModManaOnStriking	ModManaOnStriking									2	0
