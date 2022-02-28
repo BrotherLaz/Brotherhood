@@ -1893,5 +1893,10 @@
   "normal": "body_part/flag",
   "uber": "body_part/flag",
   "ultra": "body_part/flag"
+} },
+{ "trophybase_1": {
+  "normal": "body_part/flag",
+  "uber": "body_part/flag",
+  "ultra": "body_part/flag"
 } }
 ]
