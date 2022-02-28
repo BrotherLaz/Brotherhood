@@ -150,6 +150,17 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)				100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
 1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)				100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
 1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Token of Absolution				100					4	tes	ceh	bet	fed				toa																																																																																							0
+Ashes - Ashes + Trophy 1 = update trophy	1			0					2	dust	rf1						rf1,mod																																																																																							0
+Ashes - Ashes + Trophy 2 = update trophy	1			0					2	dust	rf2						rf2,mod																																																																																							0
+Ashes - Ashes + Trophy 3 = update trophy	1			0					2	dust	rf3						rf3,mod																																																																																							0
+Ashes - Ashes + Trophy 4 = update trophy	1			0					2	dust	rf4						rf4,mod																																																																																							0
+Demon part - Any + Cube Jawbone = remove socket fillers	1			0					2	anyx,sock	cuu						useitem,rem																																																																																							0
+Demon part - Any + Cube Horn = randomize	1			0					2	anyx	cu5						usetype			95																																																																																				0
+Demon part - Any + Cube Tail = randomize as different item	1			0					2	anyx	cu6						anyx			95																																																																																				0
+Demon part - Any + Cube Soul = reroll as crafted	1			0					2	anyx	cu0						usetype,crf			95	levelreq			-19	-19																																																																															0
+Tempering - Temper Stats + Weapon	1			0					1	weap							du1,rar				ease			-5	-5	levelreq%			-5	-5																																																																										0
+Tempering - Temper Stats + Armor	1			0					1	armo							Trophy1																																																																																							0
+Hidden - Rare jewel = 2 magic jewels	1			0	3	12	20		1	jewl,rar							jewl,mag			95																										jewl,mag			95																																																							0
 Dust - Magic + Dust 1 = reroll as caster friendly				0					2	staf	du1						useitem,tmp			95	cast3	33		5	15	regen-mana	33		5	40	mana	33		5	50						enr%	33		2	15																																																											0
 Dust - Magic + Dust 1 = reroll as caster friendly				0					2	wand	du1						useitem,tmp			95	cast3	33		5	15	regen-mana	33		5	40	mana	33		5	50						enr%	33		2	15																																																											0
 Dust - Magic + Dust 1 = reroll as caster friendly				0					2	orb	du1						useitem,tmp			95	cast3	33		5	15	regen-mana	33		5	25	mana	33		5	30						enr%	33		2	15																																																											0
@@ -404,14 +415,6 @@ Ashes + ml1 = ml1 with ashes modifiers and intrinsic modifiers				0					2	dust	m
 Ashes + ml2 = ml2 with ashes modifiers and intrinsic modifiers				0					2	dust	ml2,hiq						ml2,mod			100	dur%	50		5	50	ac%	50		5	50	automagic-armosock			1	1																																																																					0
 Ashes + ml3 = ml3 with ashes modifiers and intrinsic modifiers				0					2	dust	ml3,hiq						ml3,mod			100	dur%	50		5	50	ac%	50		5	50	automagic-armosock			1	1																																																																					0
 Ashes + ml4 = ml4 with ashes modifiers and intrinsic modifiers				0					2	dust	ml4,hiq						ml4,mod			100	dur%	50		5	50	ac%	50		5	50	automagic-armosock			1	1																																																																					0
-Ashes + Banner = update banner	1			0					2	dust	Trophy1						Trophy1,mod																																																																																							0
-Demon part - Any + Cube Jawbone = remove socket fillers	1			0					2	anyx,sock	cuu						useitem,rem																																																																																							0
-Demon part - Any + Cube Horn = randomize	1			0					2	anyx	cu5						usetype			95																																																																																				0
-Demon part - Any + Cube Tail = randomize as different item	1			0					2	anyx	cu6						anyx			95																																																																																				0
-Demon part - Any + Cube Soul = reroll as crafted	1			0					2	anyx	cu0						usetype,crf			95	levelreq			-19	-19																																																																															0
-Tempering - Temper Stats + Weapon	1			0					1	weap							du1,mag				ease			-5	-5	levelreq%			-5	-5																																																																										0
-Tempering - Temper Stats + Armor	1			0					1	armo							Trophy1																																																																																							0
-Rare jewel = 2 magic jewels	1			0	3	12	20		1	jewl,rar							jewl,mag			95																										jewl,mag			95																																																							0
 Jewel + ax1 = ax1 with jewel modifiers and intrinsic modifiers				0	3	12	30		2	jewl	ax1,hiq						ax1,mod			100	dur%			5	50	dmg%			5	50																																																																										0
 Jewel + ax2 = ax2 with jewel modifiers and intrinsic modifiers				0	3	12	30		2	jewl	ax2,hiq						ax2,mod			100	dur%			5	50	dmg%			5	50																																																																										0
 Jewel + ax3 = ax3 with jewel modifiers and intrinsic modifiers				0	3	12	30		2	jewl	ax3,hiq						ax3,mod			100	dur%			5	50	dmg%			5	50																																																																										0
