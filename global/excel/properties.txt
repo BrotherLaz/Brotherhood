@@ -358,3 +358,6 @@ automagic-human%	1	1	automagic_humandmg_percent																																0
 automagic-insect%	1	1	automagic_insectdmg_percent																																0
 automagic-construct%	1	1	automagic_constructdmg_percent																																0
 levelreq%	1	1	item_levelreqpct																											Required Level: #		Min #	Max #		0
+levelreq-display	1	1	misc_levelreqstring																											Required Level: #		Min #	Max #		0
+unique-torch	1	1	misc_uniquetorchstring																											Required Level: #		Min #	Max #		0
+socket-torch	1	1	misc_torchsocketstring																											Required Level: #		Min #	Max #		0

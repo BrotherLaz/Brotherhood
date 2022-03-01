@@ -1890,13 +1890,88 @@
   "ultra": "torch/torch"
 } },
 { "trophy_1": {
-  "normal": "body_part/flag",
-  "uber": "body_part/flag",
-  "ultra": "body_part/flag"
+  "normal": "body_part/soul",
+  "uber": "body_part/soul",
+  "ultra": "body_part/soul"
+} },
+{ "trophy_2": {
+  "normal": "body_part/soul",
+  "uber": "body_part/soul",
+  "ultra": "body_part/soul"
+} },
+{ "trophy_3": {
+  "normal": "body_part/soul",
+  "uber": "body_part/soul",
+  "ultra": "body_part/soul"
+} },
+{ "trophy_4": {
+  "normal": "body_part/soul",
+  "uber": "body_part/soul",
+  "ultra": "body_part/soul"
 } },
 { "trophybase_1": {
-  "normal": "body_part/flag",
-  "uber": "body_part/flag",
-  "ultra": "body_part/flag"
+  "normal": "body_part/soul",
+  "uber": "body_part/soul",
+  "ultra": "body_part/soul"
+} },
+{ "trophybase_2": {
+  "normal": "body_part/soul",
+  "uber": "body_part/soul",
+  "ultra": "body_part/soul"
+} },
+{ "trophybase_3": {
+  "normal": "body_part/soul",
+  "uber": "body_part/soul",
+  "ultra": "body_part/soul"
+} },
+{ "trophybase_4": {
+  "normal": "body_part/soul",
+  "uber": "body_part/soul",
+  "ultra": "body_part/soul"
+} },
+{ "supertorch_1": {
+  "normal": "torch/torch",
+  "uber": "torch/torch",
+  "ultra": "torch/torch"
+} },
+{ "supertorch_2": {
+  "normal": "torch/torch",
+  "uber": "torch/torch",
+  "ultra": "torch/torch"
+} },
+{ "supertorch_3": {
+  "normal": "torch/torch",
+  "uber": "torch/torch",
+  "ultra": "torch/torch"
+} },
+{ "supertorch_4": {
+  "normal": "torch/torch",
+  "uber": "torch/torch",
+  "ultra": "torch/torch"
+} },
+{ "supertorch_5": {
+  "normal": "torch/torch",
+  "uber": "torch/torch",
+  "ultra": "torch/torch"
+} },
+{ "supertorch_6": {
+  "normal": "torch/torch",
+  "uber": "torch/torch",
+  "ultra": "torch/torch"
+} },
+{ "supertorch_7": {
+  "normal": "torch/torch",
+  "uber": "torch/torch",
+  "ultra": "torch/torch"
+} },
+{ "supertorch_8": {
+  "normal": "torch/torch",
+  "uber": "torch/torch",
+  "ultra": "torch/torch"
+} },
+{ "supertorch_9": {
+  "normal": "torch/torch",
+  "uber": "torch/torch",
+  "ultra": "torch/torch"
 } }
 ]

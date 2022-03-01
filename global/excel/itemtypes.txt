@@ -28,14 +28,14 @@ Wand	25	2		wand	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	2	40	2	0	4			0							we
 Staff	26	6		staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	4			0							weap	0
 Bow	27	6		bow	miss		0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	4			0							weap	0
 Axe	28	6		axe	mele		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	4			0							weap	0
-Club	29	6		club	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Club	29	6		club	blun	bonk	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
 Sword	30	6		swor	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Hammer	31	6		hamm	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Hammer	31	6		hamm	blun	bonk	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
 Knife	32	3		knif	mele		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	4			0							weap	0
 Spear	33	6		spea	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
 Polearm	34	6		pole	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
 Crossbow	35	6		xbow	miss		1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Mace	36	6		mace	blun		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Mace	36	6		mace	blun	bonk	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
 Helm	37	4		helm	armo		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
 Missile Potion	38			tpot	thro		0	1	rarm	larm			1	1	1	1			1	0	0	25	0	40	0	0	4			0							misc	0
 Quest	39			ques			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
@@ -139,50 +139,50 @@ Necromancer Helm	135	4		nxhm	necr	helm	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	
 Crystal Sword	136	6		crsx	sorc	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
 Spiked Shield	137	6	Sockets	sksd	shld		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
 Crown	138	4		cron	helm		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
-New Axe	139		axe is a base item	aaxe	axe		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	4			0							weap	0
-Trinket	140			trin	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Any Jewelry	141			anyj			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Any Weapon or Armor	142			anyx			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Ashes	143			dust			0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
-Trophy	144			ggwp	char		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Placeholder 145	145			p145			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 146	146			p146			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 147	147			p147			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 148	148			p148			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 149	149			p149			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 150	150			p150			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 151	151			p151			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 152	152			p152			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 153	153			p153			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 154	154			p154			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 155	155			p155			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 156	156			p156			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 157	157			p157			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 158	158			p158			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 159	159			p159			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 160	160			p160			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 161	161			p161			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 162	162			p162			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 163	163			p163			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 164	164			p164			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 165	165			p165			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 166	166			p166			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 167	167			p167			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 168	168			p168			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 169	169			p169			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 170	170			p170			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 171	171			p171			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 172	172			p172			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 173	173			p173			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 174	174			p174			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 175	175			p175			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 176	176			p176			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 177	177			p177			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 178	178			p178			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 179	179			p179			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 180	180			p180			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 181	181			p181			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 182	182			p182			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Melee Axe	139		axe is a base item	aaxe	axe		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	4			0							weap	0
+Crushing Weapon	140		contains maces and hammers	bonk	blun		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
+Trinket	141			trin	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Any Jewelry	142			anyj			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Any Weapon or Armor	143			anyx			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Ashes Magical	144			dusm	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Ashes Combat	145			dusc	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Ashes Physical	146			dusp	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Ashes Elemental	147			duse	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Ashes	148			dust			0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Trophy	149			ggwp	char		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Transcript Throwing Knife	150		tkni	trtk	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Transcript Throwing Axe	151		taxe	trta	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Staff	152		staf	trst	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Wand	153		wand	trwa	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Orb	154		orb	tror	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Scepter	155		scep	trsc	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Sword	156		sword	trsd	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Axe	157		axe	trax	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Crushing	158		bonk	trbo	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Spear	159		spear	trsp	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Scythe	160		scythe	trsc	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Polearm	161		polearm	trpo	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Knife	162		knif	trkn	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Xbow	163		xbow	trxb	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Bow	164		bow	trbw	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Helm	165		helm	trhe	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Shield	166		shld	trsh	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Torso	167		tors	trto	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Belt	168		belt	trbe	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Boot	169		boot	trbo	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Glove	170		glov	trgl	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript Claw	171		h2h	trcl	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Transcript	172			tran	trin		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch	173			heka	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 1	174			wtoa	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 2	175			wtob	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 3	176			wtoc	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 4	177			wtod	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 5	178			wtoe	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 6	179			wtof	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 7	180			wtog	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 8	181			wtoh	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 9	182			wtoi	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Placeholder 183	183			p183			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 184	184			p184			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 185	185			p185			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
