@@ -113,114 +113,114 @@ Placeholder 109	109		placeholder	p109			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			
 Placeholder 110	110		placeholder	p110			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
 Placeholder 111	111		placeholder	p111			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
 Placeholder 112	112		placeholder	p112			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
-Scythe	113	6		scyh	pole		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Necromancer Scythe	114	6	nec	nscy	scyh		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Assassin Throwing Knife	115	2	ass	atkn	assn	tkni	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
-Barbarian Throwing Axe	116	2	bar	btax	barb	taxe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
-Druid Club	117	6	dru	dclu	drui	club	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Paladin Scepter	118	6	pal	pasc	pala	scep	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Barbarian 1h Axe	119	6	bar	boax	barb	aaxe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Barbarian 2h Axe	120	6	bar	bbax	barb	aaxe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Swashbuckler Blade	121	3		blad	swor		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
-Paladin 1h Sword	122	6	pal	pasd	pala	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Barbarian 2h Sword	123	6	bar	bats	barb	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Paladin Mace	124	6	pal	pama	pala	mace	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Assassin Naginata	125	6	ass	nagi	assn	pole	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Druid Bow	126	6	dru	dbow	drui	bow	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	4			0							weap	0
-Necromancer Crossbow	127	6	nec	nxbw	necr	xbow	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Amazon Helm	128	4		ahlm	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
-Crusader Helm	129	4		chlm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
-Sorceress Armor	130	6		stor	sorc	tors	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							armo	0
-Barbarian Shield	131	6		bshi	barb	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
-Mage Shield	132	6		ashi	shie		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
-Stun Hammer	133	6		sham	hamm		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Necromancer Shield	134	6		nxsh	necr	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
-Necromancer Helm	135	4		nxhm	necr	helm	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
-Crystal Sword	136	6		crsx	sorc	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Spiked Shield	137	6	Sockets	sksd	shld		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
-Crown	138	4		cron	helm		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
-Melee Axe	139		axe is a base item	aaxe	axe		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	4			0							weap	0
-Crushing Weapon	140		contains maces and hammers	bonk	blun		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
-Trinket	141			trin	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Any Jewelry	142			anyj			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Any Weapon or Armor	143			anyx			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Ashes Magical	144			dusm	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
-Ashes Combat	145			dusc	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
-Ashes Physical	146			dusp	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
-Ashes Elemental	147			duse	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
-Ashes	148			dust			0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
-Trophy	149			ggwp	char		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Transcript Throwing Knife	150		tkni	trtk	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
-Transcript Throwing Axe	151		taxe	trta	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Staff	152		staf	trst	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Wand	153		wand	trwa	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Orb	154		orb	tror	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Scepter	155		scep	trsc	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Sword	156		sword	trsd	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Axe	157		axe	trax	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Crushing	158		bonk	trbo	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Spear	159		spear	trsp	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Scythe	160		scythe	trsc	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Polearm	161		polearm	trpo	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Knife	162		knif	trkn	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Xbow	163		xbow	trxb	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Bow	164		bow	trbw	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Helm	165		helm	trhe	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Shield	166		shld	trsh	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Torso	167		tors	trto	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Belt	168		belt	trbe	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Boot	169		boot	trbo	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Glove	170		glov	trgl	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript Claw	171		h2h	trcl	tran		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
-Transcript	172			tran	trin		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch	173			heka	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 1	174			wtoa	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 2	175			wtob	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 3	176			wtoc	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 4	177			wtod	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 5	178			wtoe	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 6	179			wtof	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 7	180			wtog	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 8	181			wtoh	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 9	182			wtoi	heka		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Placeholder 183	183			p183			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 184	184			p184			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 185	185			p185			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 186	186			p186			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 187	187			p187			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 188	188			p188			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 189	189			p189			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 190	190			p190			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 191	191			p191			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 192	192			p192			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 193	193			p193			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 194	194			p194			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 195	195			p195			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 196	196			p196			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 197	197			p197			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 198	198			p198			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 199	199			p199			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 200	200			p200			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 201	201			p201			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 202	202			p202			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 203	203			p203			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 204	204			p204			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 205	205			p205			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 206	206			p206			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 207	207			p207			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 208	208			p208			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 209	209			p209			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 210	210			p210			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 211	211			p211			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 212	212			p212			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 213	213			p213			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 214	214			p214			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 215	215			p215			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 216	216			p216			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 217	217			p217			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 218	218			p218			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 219	219			p219			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 220	220			p220			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Scythe	113	6	New item class	scyh	pole		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Necromancer Scythe	114	6	New item class	nscy	scyh		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Assassin Throwing Knife	115	2	New item class	atkn	assn	tkni	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
+Barbarian Throwing Axe	116	2	New item class	btax	barb	taxe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
+Druid Club	117	6	New item class	dclu	drui	club	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Paladin Scepter	118	6	New item class	pasc	pala	scep	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Barbarian 1h Axe	119	6	New item class	boax	barb	aaxe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Barbarian 2h Axe	120	6	New item class	bbax	barb	aaxe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Swashbuckler Blade	121	3	New item class	blad	swor		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
+Paladin 1h Sword	122	6	New item class	pasd	pala	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Barbarian 2h Sword	123	6	New item class	bats	barb	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Paladin Mace	124	6	New item class	pama	pala	mace	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Assassin Naginata	125	6	New item class	nagi	assn	pole	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Druid Bow	126	6	New item class	dbow	drui	bow	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	4			0							weap	0
+Necromancer Crossbow	127	6	New item class	nxbw	necr	xbow	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Amazon Helm	128	4	New item class	ahlm	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Crusader Helm	129	4	New item class	chlm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Sorceress Armor	130	6	New item class	stor	sorc	tors	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							armo	0
+Barbarian Shield	131	6	New item class	bshi	barb	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
+Mage Shield	132	6	New item class	ashi	shie		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
+Stun Hammer	133	6	Unused	sham	hamm		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Necromancer Shield	134	6	New item class	nxsh	necr	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
+Necromancer Helm	135	4	New item class	nxhm	necr	helm	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Crystal Sword	136	6	New item class	crsx	sorc	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Spiked Shield	137	6	New item class	sksd	shld		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
+Crown	138	4	New item class	cron	helm		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Melee Axe	139		Because axe is also a base item	aaxe	axe		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	4			0							weap	0
+Crushing Weapon	140		Contains maces and hammers	bonk	blun		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
+Trinket	141		Most ingredients	trin	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Any Jewelry	142		Amulets and rings	anyj			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Any Weapon or Armor	143		Weapons and armor	anyx			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Ashes Magical	144		Ashes	dusm	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Ashes Combat	145		Ashes	dusc	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Ashes Physical	146		Ashes	dusp	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Ashes Elemental	147		Ashes	duse	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Ashes	148		Ashes base type	dust			0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Trophy	149		All charm type items	ggwp	char		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Enchantment Throwing Knife	150		Enchantment	trtk	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Enchantment Throwing Axe	151		Enchantment	trta	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Staff	152		Enchantment	trst	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Wand	153		Enchantment	trwa	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Orb	154		Enchantment	tror	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Scepter	155		Enchantment	trsc	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Sword	156		Enchantment	trsd	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Axe	157		Enchantment	trax	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Crushing	158		Enchantment	trbo	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Spear	159		Enchantment	trsp	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Scythe	160		Enchantment	trsx	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Polearm	161		Enchantment	trpo	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Knife	162		Enchantment	trkn	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Xbow	163		Enchantment	trxb	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Bow	164		Enchantment	trbw	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Helm	165		Enchantment	trhe	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Shield	166		Enchantment	trsh	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Torso	167		Enchantment	trto	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Belt	168		Enchantment	trbe	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Boot	169		Enchantment	trbo	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Glove	170		Enchantment	trgl	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment Claw	171		Enchantment	trcl	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
+Enchantment	172		Enchantment base type	ench	trin		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 1	173		Witches torch	wtoa	wtor		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 2	174		Witches torch	wtob	wtor		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 3	175		Witches torch	wtoc	wtor		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch 4	176		Witches torch	wtod	wtor		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Witches Torch	177		Witches torch base type	wtor	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Ingredient Fang	178		Automagic for Fang	dfan	trin		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Crafting Incant	179		Automagic for Crafting Incant	crai	trin		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb1	180		Crafting herb	wd01	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb2	181		Crafting herb	wd02	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb3	182		Crafting herb	wd03	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb4	183		Crafting herb	wd04	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb5	184		Crafting herb	wd05	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb6	185		Crafting herb	wd06	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb7	186		Crafting herb	wd07	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb8	187		Crafting herb	wd08	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb9	188		Crafting herb	wd09	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb10	189		Crafting herb	wd10	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb11	190		Crafting herb	wd11	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb12	191		Crafting herb	wd12	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb13	192		Crafting herb	wd13	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb14	193		Crafting herb	wd14	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb15	194		Crafting herb	wd15	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb16	195		Crafting herb	wd16	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb17	196		Crafting herb	wd17	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb18	197		Crafting herb	wd18	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb19	198		Crafting herb	wd19	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb20	199		Crafting herb	wd20	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb21	200		Crafting herb	wd21	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb22	201		Crafting herb	wd22	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb23	202		Crafting herb	wd23	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb24	203		Crafting herb	wd24	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb25	204		Crafting herb	wd25	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb26	205		Crafting herb	wd26	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb27	206		Crafting herb	wd27	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb28	207		Crafting herb	wd28	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb29	208		Crafting herb	wd29	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb30	209		Crafting herb	wd30	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb31	210		Crafting herb	wd31	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb32	211		Crafting herb	wd32	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb33	212		Crafting herb	wd33	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb34	213		Crafting herb	wd34	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb35	214		Crafting herb	wd35	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb36	215		Crafting herb	wd36	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb37	216		Crafting herb	wd37	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb38	217		Crafting herb	wd38	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb39	218		Crafting herb	wd39	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Herb40	219		Crafting herb	wd40	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Crafting Herb	220		Crafting herb base type	cher			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Placeholder 221	221			p221			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 222	222			p222			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 223	223			p223			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

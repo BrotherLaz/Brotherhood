@@ -3,15 +3,10 @@ Trophy1	0	0	1		1		1	1	rf1	TrophyBase1	1	0	0	cred	cred		invflag																		
 Trophy2	1	0	1		1		1	1	rf2	TrophyBase2	1	0	0	cred	cred		invflag																																																					0
 Trophy3	2	0	1		1		1	1	rf3	TrophyBase3	1	0	0	cred	cred		invflag																																																					0
 Trophy4	3	0	1		1		1	1	rf4	TrophyBase4	1	0	0	cred	cred		invflag																																																					0
-Supertorch1	0	0	1		1		1	1	wt1	TranscriptTorch1		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10	allskills		1	1																																		0
-Supertorch2	0	0	1		1		1	1	wt2	TranscriptTorch2		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10	allskills		1	1																																		0
-Supertorch3	0	0	1		1		1	1	wt3	TranscriptTorch3		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10	allskills		1	1																																		0
-Supertorch4	0	0	1		1		1	1	wt4	TranscriptTorch4		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10	allskills		1	1																																		0
-Supertorch5	0	0	1		1		1	1	wt5	TranscriptTorch5		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10	allskills		1	1																																		0
-Supertorch6	0	0	1		1		1	1	wt6	TranscriptTorch6		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10	allskills		1	1																																		0
-Supertorch7	0	0	1		1		1	1	wt7	TranscriptTorch7		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10	allskills		1	1																																		0
-Supertorch8	0	0	1		1		1	1	wt8	TranscriptTorch8		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10	allskills		1	1																																		0
-Supertorch9	0	0	1		1		1	1	wt9	TranscriptTorch9		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10	allskills		1	1																																		0
+Supertorch1	0	0	1		1		1	1	wt1	TranscriptTorch1		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10																																						0
+Supertorch2	0	0	1		1		1	1	wt2	TranscriptTorch2		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10																																						0
+Supertorch3	0	0	1		1		1	1	wt3	TranscriptTorch3		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10																																						0
+Supertorch4	0	0	1		1		1	1	wt4	TranscriptTorch4		0	0				invtrch				levelreq-display		50	50	unique-torch		25	25	all-stats		10	10																																						0
 The Gnasher	0	0	1		1		7	5	hax	Hand Axe		5	5000	dyel			invhaxu				str		8	8	openwounds		50	50	crush		20	20	dmg%		60	70																																		0
 Deathspade	1	0	1		1		12	9	axe	Axe		5	5000	dgld			invaxeu				stupidity		1	1	dmg-min		8	8	att%		15	15	mana-kill		4	4	dmg%		60	70																														0
 Bladebone	2	0	1		1		20	15	2ax	Double Axe		5	5000	lgry	lgry						dmg-undead		100	100	att-undead		40	40	swing2		20	20	ac		20	20	fire-min		8	8	fire-max		12	12	dmg%		30	50																						0

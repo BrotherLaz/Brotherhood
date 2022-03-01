@@ -1028,6 +1028,7 @@ Durielq (H)	Deprecated									5					0	tsc	1	Durielq (H) - Base	2															
 Duriel	Deprecated									5					0	tsc	1	Duriel - Base	2																				0
 Duriel (N)	Deprecated									5					0	tsc	1	Duriel (N) - Base	2																				0
 Duriel (H)	Deprecated									5					0	tsc	1	Duriel (H) - Base	2																				0
+Drop Trophy 1	Drops Trophy 1									-2	1024	1024	1024	1024	0	rf1	1	Act 5 Uitem A	1																				0
 ROP										1	1024				0	Diablo	1																						0
 ROP (N)										1	1024				0	Diablo (N)	4	Annihilus	1																				0
 ROP (H)										1	1024				0	Annihilus	1																						0

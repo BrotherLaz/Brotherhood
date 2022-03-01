@@ -1948,30 +1948,5 @@
   "normal": "torch/torch",
   "uber": "torch/torch",
   "ultra": "torch/torch"
-} },
-{ "supertorch_5": {
-  "normal": "torch/torch",
-  "uber": "torch/torch",
-  "ultra": "torch/torch"
-} },
-{ "supertorch_6": {
-  "normal": "torch/torch",
-  "uber": "torch/torch",
-  "ultra": "torch/torch"
-} },
-{ "supertorch_7": {
-  "normal": "torch/torch",
-  "uber": "torch/torch",
-  "ultra": "torch/torch"
-} },
-{ "supertorch_8": {
-  "normal": "torch/torch",
-  "uber": "torch/torch",
-  "ultra": "torch/torch"
-} },
-{ "supertorch_9": {
-  "normal": "torch/torch",
-  "uber": "torch/torch",
-  "ultra": "torch/torch"
 } }
 ]

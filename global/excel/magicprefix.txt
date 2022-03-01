@@ -584,12 +584,12 @@ Bloated	1	1		1		0				2	637	stack		-10	-50										thro												0	0
 Compact	1	1	1	1		0				4	637	stack		10	25										thro												0	0
 Miniature	1	1	1	11		5				4	637	stack		26	50										thro												0	0
 Unbreakable	1	1	1	33		16				4	637	indestruct		1	1										weap	armo						miss	thro				0	0
-Disappointing	1			15		0				2	638	levelreq%		3	15										weap	armo											0	0
-Interesting	1		1	15		0				4	638	levelreq%		-3	-10										weap	armo											0	0
-Intriguing	1		1	35		0				4	638	levelreq%		-11	-15										weap	armo											0	0
-Compelling	1		1	55		0				4	638	levelreq%		-16	-20										weap	armo											0	0
-Captivating	1		1	75		0				4	638	levelreq%		-21	-50										weap	armo											0	0
-Interesting	1		1	40		0				4	638	levelreq%		-2	-5										jewl												0	0
+Disappointing	1	1		15		0				2	638	levelreq		2	2	levelreq-display		2	2						weap	armo											0	0
+Interesting	1	1	1	15		0				4	638	levelreq		-2	-2	levelreq-display		-2	-2						weap	armo											0	0
+Intriguing	1	1	1	35		0				4	638	levelreq		-3	-3	levelreq-display		-3	-3						weap	armo											0	0
+Compelling	1	1	1	55		0				4	638	levelreq		-4	-4	levelreq-display		-4	-4						weap	armo											0	0
+Captivating	1	1	1	75		0				4	638	levelreq		-5	-5	levelreq-display		-5	-5						weap	armo											0	0
+Interesting	1	1	1	40		0				4	638	levelreq		-1	-1	levelreq-display		-1	-1						jewl												0	0
 Faithless	1			15		0				2	639	pal-aurarange		-1	-2										ashd	pasc	chlm										0	0
 Lustrous	1		1	15		0				2	639	pal-aurarange		1	1										ashd	pasc	chlm										0	0
 Luminous	1		1	25		0				4	639	pal-aurarange		2	3										ashd	pasc	chlm										0	0

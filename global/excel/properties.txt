@@ -360,4 +360,9 @@ automagic-construct%	1	1	automagic_constructdmg_percent																									
 levelreq%	1	1	item_levelreqpct																											Required Level: #		Min #	Max #		0
 levelreq-display	1	1	misc_levelreqstring																											Required Level: #		Min #	Max #		0
 unique-torch	1	1	misc_uniquetorchstring																											Required Level: #		Min #	Max #		0
-socket-torch	1	1	misc_torchsocketstring																											Required Level: #		Min #	Max #		0
+inherent-staff	1	1	inherent_staff																																0
+inherent-wand	1	1	inherent_wand																																0
+inherent-orb	1	1	inherent_orb																																0
+inherent-scepter	1	1	inherent_scepter																																0
+random-mods	1	1	desc_randommods																																0
+is-upgradable	1	1	desc_isupgradable																																0

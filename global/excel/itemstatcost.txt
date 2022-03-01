@@ -90,8 +90,8 @@ item_reducedprices	87		0	128			8											18957	203		3	0	7	0																8	1
 item_doubleherbduration	88					1	2														1	0	1	0																														0
 item_lightradius	89		-4	12		1	5							1				15	51		4	4	4	4																6	19		ModStr3f	ModStr3f									2	0
 item_lightcolor	90					1	24							1				155	0		5	0	24	0																														0
-item_req_percent	91		-100	412		1	9											26	-34		8	100	9	100																0	19		ModStr3h	ModStr3h										0
-item_levelreq	92																				6	20	7	50																														0
+item_req_percent	91		-100	412		1	9											26	-34		8	100	9	100																1	19		ModStr3h	ModStr3h										0
+item_levelreq	92																				6	20	8	50																														0
 item_fasterattackrate	93		-20	108	1	1	9											1042	156		7	20	7	20											1					145	19		ModStr4m	ModStr4m									2	0
 item_levelreqpct	94		-64	64		1	8														7	20	7	64			13			item_levelreq										1	19		ModLevelReq	ModLevelReq										0
 lastblockframe	95																				6	20																																0
@@ -106,7 +106,7 @@ skill_bypass_undead	103		0	2			1											50525	250		7	20	1	0																14
 skill_bypass_demons	104		0	2			1											50525	250		6	20	1	0																15	19		ModIgnoreDemons	ModIgnoreDemons										0
 item_fastercastrate	105		-30	98	1	1	9											3876	156		7	20	7	30																142	19		ModStr4v	ModStr4v									2	0
 skill_bypass_beasts	106		0	2			1											50525	250		7	20	1	0																16	19		ModIgnoreBeasts	ModIgnoreBeasts										0
-item_singleskill	107		0	8		1	15	10						1			1	181	256		14	0	3	0	10															81	27		ItemModifierClassSkill	ItemModifierClassSkill										0
+item_singleskill	107		0	8		1	16	10						1			1	181	256		14	0	4	0	10															81	27		ItemModifierClassSkill	ItemModifierClassSkill										0
 item_restinpeace	108		0	2			1							1				1987	0		14	0	1	0											1	kill	29			81	19		ModitemSMRIP	ModitemSMRIP									2	0
 curse_resistance	109		-20	236			9											159	33		14	0	8	20																19	19		ModCurseResist	ModCurseResistNeg										0
 item_poisonlengthresist	110		-20	236		1	9											27	10		8	20	8	20																18	19		ModStr3r	ModPoisonResistNeg									2	0
@@ -462,15 +462,13 @@ automagic_woundthorns	459		0	128		1	7							1				23	10		7	0	7	0											1	dama
 automagic_humandmg_percent	460		-50	462		1	12											19	12		9	20	9	50											1					112	19		ModDmgVsHumans	ModDmgVsHumans									2	0
 automagic_insectdmg_percent	461		-50	462		1	12											13	12		9	20	9	50											1					111	19		ModDmgVsInsects	ModDmgVsInsects									2	0
 automagic_constructdmg_percent	462		-50	462		1	12											13	12		9	20	9	50											1					110	19		ModDmgVsConstructs	ModDmgVsConstructs									2	0
-misc_levelreqstring	463		-64	64		1	8														7	20	7	64																1	19		ModLevelReqTorch	ModLevelReqTorch										0
-misc_uniquetorchstring	464		-64	64		1	5														5	0	5	0																1	19		ModUniqueTorch	ModUniqueTorch										0
-misc_torchsocketstring	465		-64	64		1	5														5	0	5	0																1	19		Socketable	Socketable										0
-misc_magictorchhack_a	466	must have multiple DIFFERENT magic suffixes	-64	64		1	2														2	0	2	0																														0
-misc_magictorchhack_b	467	must have multiple DIFFERENT magic suffixes	-64	64		1	2														2	0	2	0																														0
-misc_magictorchhack_c	468	must have multiple DIFFERENT magic suffixes	-64	64		1	2														2	0	2	0																														0
-misc_magictorchhack_d	469	must have multiple DIFFERENT magic suffixes	-64	64		1	2														2	0	2	0																														0
-misc_magictorchhack_e	470	must have multiple DIFFERENT magic suffixes	-64	64		1	2														2	0	2	0																														0
-misc_magictorchhack_f	471	must have multiple DIFFERENT magic suffixes	-64	64		1	2														2	0	2	0																														0
-misc_magictorchhack_g	472	must have multiple DIFFERENT magic suffixes	-64	64		1	2														2	0	2	0																														0
-misc_magictorchhack_h	473	must have multiple DIFFERENT magic suffixes	-64	64		1	2														2	0	2	0																														0
-misc_magictorchhack_i	474	must have multiple DIFFERENT magic suffixes	-64	64		1	2														2	0	2	0																														0
+inherent_staff	463	invisible automod				1	8											19	12		7	0	7	0																														0
+inherent_wand	464	invisible automod				1	8											19	12		7	0	7	0																														0
+inherent_orb	465	invisible automod				1	8											19	12		7	0	7	0																														0
+inherent_scepter	466	invisible automod				1	8											19	12		7	0	7	0																														0
+inherent_misc1	467	invisible automod				1	8											19	12		7	0	7	0																														0
+inherent_misc2	468	invisible automod				1	8											19	12		7	0	7	0																														0
+misc_levelreqstring	469		-64	64		1	8														7	20	7	64																0	19		ModLevelReqTorch	ModLevelReqTorch										0
+misc_uniquetorchstring	470		-64	64		1	5														5	0	5	0																160	19		ModUniqueTorch	ModUniqueTorch										0
+desc_randommods	471					1	2														2	0	2	0																170	19		DescRandomMods	DescRandomMods										0
+desc_isupgradable	472					1	2														2	0	2	0																170	19		DescIsUpgradable	DescIsUpgradable										0
