@@ -49,20 +49,20 @@ of Blocking	1	1	1	14		0				8	703	block		1	2										jewl												0	0
 of Deflecting	1	1	1	74		37				8	703	block		3	5										jewl												0	0
 of the Pit	1	1		1		0				2	704	dmg-max		-1	-4										bbax	bats											0	0
 of Craftsmanship	1	1	1	1		0				12	704	dmg-max		1	3										bbax	bats											0	0
-of Quality	1	1	1	14		7				12	704	dmg-max		4	6										bbax	bats											0	0
-of Maiming	1	1	1	27		13				12	704	dmg-max		7	10										bbax	bats											0	0
-of Slaying	1	1	1	41		20				12	704	dmg-max		11	16										bbax	bats											0	0
-of Gore	1	1	1	54		27				12	704	dmg-max		17	25										bbax	bats											0	0
-of Carnage	1	1	1	67		33				12	704	dmg-max		26	35										bbax	bats											0	0
-of Slaughter	1	1	1	80		40				12	704	dmg-max		36	50										bbax	bats											0	0
+of Quality	1	1	1	14		7				12	704	dmg-max		4	7										bbax	bats											0	0
+of Maiming	1	1	1	27		13				12	704	dmg-max		8	13										bbax	bats											0	0
+of Slaying	1	1	1	41		20				12	704	dmg-max		14	20										bbax	bats											0	0
+of Gore	1	1	1	54		27				12	704	dmg-max		21	30										bbax	bats											0	0
+of Carnage	1	1	1	67		33				12	704	dmg-max		31	45										bbax	bats											0	0
+of Slaughter	1	1	1	80		40				12	704	dmg-max		46	60										bbax	bats											0	0
 of the Pit	1	1		1		0				2	704	dmg-max		-1	-4										weap							staf	wand	orb	bbax	bats	0	0
 of Craftsmanship	1	1	1	1		0				12	704	dmg-max		1	2										weap							staf	wand	orb	bbax	bats	0	0
-of Quality	1	1	1	14		7				12	704	dmg-max		3	4										weap							staf	wand	orb	bbax	bats	0	0
-of Maiming	1	1	1	27		13				12	704	dmg-max		5	7										weap							staf	wand	orb	bbax	bats	0	0
-of Slaying	1	1	1	41		20				12	704	dmg-max		8	10										weap							staf	wand	orb	bbax	bats	0	0
-of Gore	1	1	1	54		27				12	704	dmg-max		11	14										weap							staf	wand	orb	bbax	bats	0	0
-of Carnage	1	1	1	67		33				12	704	dmg-max		15	20										weap							staf	wand	orb	bbax	bats	0	0
-of Slaughter	1	1	1	80		40				12	704	dmg-max		21	30										weap							staf	wand	orb	bbax	bats	0	0
+of Quality	1	1	1	14		7				12	704	dmg-max		3	5										weap							staf	wand	orb	bbax	bats	0	0
+of Maiming	1	1	1	27		13				12	704	dmg-max		6	10										weap							staf	wand	orb	bbax	bats	0	0
+of Slaying	1	1	1	41		20				12	704	dmg-max		11	15										weap							staf	wand	orb	bbax	bats	0	0
+of Gore	1	1	1	54		27				12	704	dmg-max		16	25										weap							staf	wand	orb	bbax	bats	0	0
+of Carnage	1	1	1	67		33				12	704	dmg-max		26	40										weap							staf	wand	orb	bbax	bats	0	0
+of Slaughter	1	1	1	80		40				12	704	dmg-max		41	50										weap							staf	wand	orb	bbax	bats	0	0
 of the Pit	1	1		3		1				2	704	dmg-max		-1	-4										sksd												0	0
 of Craftsmanship	1	1	1	3		1				8	704	dmg-max		1	2										sksd												0	0
 of Quality	1	1	1	18		9				8	704	dmg-max		3	4										sksd												0	0
@@ -84,7 +84,8 @@ of Slaying	1	1	1	54		26				8	704	dmg-max		8	10										dusc												0	0
 of Gore	1	1	1	72		35				8	704	dmg-max		11	14										dusc												0	0
 of Carnage	1	1	1	88		44				8	704	dmg-max		15	20										dusc												0	0
 of Craftsmanship	1	1	1	1		0				4	704	dmg-max		1	2										jewl												0	0
-of Quality	1	1	1	33		16				4	704	dmg-max		3	5										jewl												0	0
+of Quality	1	1	1	33		16				4	704	dmg-max		3	6										jewl												0	0
+of Maiming	1	1	1	77		39				4	704	dmg-max		7	10										jewl												0	0
 of Worth	1	1	1	19		9				8	704	dmg-min		1	1	dmg-max		3	4		4	5			weap							staf	wand	orb	knif		0	0
 of Measure	1	1	1	35		17				8	704	dmg-min		2	2	dmg-max		5	7		7	9			weap							staf	wand	orb	knif		0	0
 of Excellence	1	1	1	50		25				8	704	dmg-min		3	3	dmg-max		8	10		11	13			weap							staf	wand	orb	knif		0	0

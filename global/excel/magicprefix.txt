@@ -151,8 +151,8 @@ Cobalt	1	1	1	32		16				6	609	res-cold		16	20										helm	belt	boot	ring				ahl
 Aquamarine	1	1	1	46		23				6	609	res-cold		21	25										helm	belt	boot	ring				ahlm					0	0
 Tourmaline	1	1	1	60		30				6	609	res-cold		26	30										helm	belt	boot	ring				ahlm					0	0
 Sapphire	1	1	1	74		37				6	609	res-cold		31	40										helm	belt	boot	ring				ahlm					0	0
-Azure	1	1	1	8		4				4	609	res-cold		5	10										jewl												0	0
-Lapis	1	1	1	27		13				4	609	res-cold		11	15										jewl												0	0
+Azure	1	1	1	8		4				4	609	res-cold		5	15										jewl												0	0
+Lapis	1	1	1	27		13				4	609	res-cold		16	25										jewl												0	0
 Flammable	1	1		2		1				6	610	res-fire		-5	-15										tors	shld	staf	amul									0	0
 Crimson	1	1	1	2		1				6	610	res-fire		5	15										tors	shld	staf	amul									0	0
 Burgundy	1	1	1	16		8				6	610	res-fire		16	25										tors	shld	staf	amul									0	0
@@ -173,8 +173,8 @@ Garnet	1	1	1	32		16				6	610	res-fire		16	20										helm	belt	boot	ring				ahl
 Opal	1	1	1	46		23				6	610	res-fire		21	25										helm	belt	boot	ring				ahlm					0	0
 Zircon	1	1	1	60		30				6	610	res-fire		26	30										helm	belt	boot	ring				ahlm					0	0
 Ruby	1	1	1	74		37				6	610	res-fire		31	40										helm	belt	boot	ring				ahlm					0	0
-Azure	1	1	1	8		4				4	610	res-fire		5	10										jewl												0	0
-Lapis	1	1	1	27		13				4	610	res-fire		11	15										jewl												0	0
+Azure	1	1	1	8		4				4	610	res-fire		5	15										jewl												0	0
+Lapis	1	1	1	27		13				4	610	res-fire		16	25										jewl												0	0
 Accursed	1	1		2		1				6	611	res-ltng		-5	-15										tors	shld	staf	amul									0	0
 Ocher	1	1	1	2		1				6	611	res-ltng		5	15										tors	shld	staf	amul									0	0
 Tangerine	1	1	1	16		8				6	611	res-ltng		16	25										tors	shld	staf	amul									0	0
@@ -195,8 +195,8 @@ Coral	1	1	1	32		16				6	611	res-ltng		16	20										helm	belt	boot	ring				ahlm
 Amber	1	1	1	46		23				6	611	res-ltng		21	25										helm	belt	boot	ring				ahlm					0	0
 Citrine	1	1	1	60		30				6	611	res-ltng		26	30										helm	belt	boot	ring				ahlm					0	0
 Heliodor	1	1	1	74		37				6	611	res-ltng		31	40										helm	belt	boot	ring				ahlm					0	0
-Azure	1	1	1	8		4				4	611	res-ltng		5	10										jewl												0	0
-Lapis	1	1	1	27		13				4	611	res-ltng		11	15										jewl												0	0
+Azure	1	1	1	8		4				4	611	res-ltng		5	15										jewl												0	0
+Lapis	1	1	1	27		13				4	611	res-ltng		16	25										jewl												0	0
 Drooling	1	1		2		1				6	612	res-pois		-5	-15										tors	shld	staf	amul									0	0
 Beryl	1	1	1	2		1				6	612	res-pois		5	15										tors	shld	staf	amul									0	0
 Jade	1	1	1	16		8				6	612	res-pois		16	25										tors	shld	staf	amul									0	0
@@ -217,8 +217,8 @@ Viridian	1	1	1	32		16				6	612	res-pois		16	20										helm	belt	boot	ring				a
 Malachite	1	1	1	46		23				6	612	res-pois		21	25										helm	belt	boot	ring				ahlm					0	0
 Turquoise	1	1	1	60		30				6	612	res-pois		26	30										helm	belt	boot	ring				ahlm					0	0
 Emerald	1	1	1	74		37				6	612	res-pois		31	40										helm	belt	boot	ring				ahlm					0	0
-Azure	1	1	1	8		4				4	612	res-pois		5	10										jewl												0	0
-Lapis	1	1	1	27		13				4	612	res-pois		11	15										jewl												0	0
+Azure	1	1	1	8		4				4	612	res-pois		5	15										jewl												0	0
+Lapis	1	1	1	27		13				4	612	res-pois		16	25										jewl												0	0
 Bleak	1	1		5		2				4	612	res-curse		-5	-15										pala	amul											0	0
 Soothing	1	1	1	5		2				4	612	res-curse		5	10										pala	amul											0	0
 Vibrant	1	1	1	14		7				4	612	res-curse		11	15										pala	amul											0	0
@@ -721,6 +721,7 @@ Stinging	1	1	1	5		2				4	634	extra-pois		1	2										jewl												0	0
 Putrid	1	1	1	36		18				4	634	extra-pois		3	5										jewl												0	0
 Spiked	1	1	1	1		0				4	635	thorns		1	4										tors	shld						stor					0	0
 Barbed	1	1	1	14		7				4	635	thorns		5	15										tors	shld						stor					0	0
+Barbed	1	1	1	28		14				4	635	thorns		16	30										tors	shld						stor					0	0
 Edged	1	1	1	19		9				8	635	thorns%		30	50										sksd												0	0
 Jagged	1	1	1	38		19				8	635	thorns%		51	150										sksd												0	0
 Serrated	1	1	1	57		28				8	635	thorns%		151	250										sksd												0	0
