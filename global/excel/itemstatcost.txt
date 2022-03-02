@@ -39,13 +39,13 @@ damageresist	36		-100	156		1	9											152	68		8	0	8	100																22	19	
 magicresist	37		-50	206		1	9											164	68		8	0	8	50																41	19		ModStr1m	ModStr1m									2	0
 maxmagicresist	38		-5	27		1	9											1091	409		5	0	5	5																46	19		ModStr5x	ModStr5x									2	0
 fireresist	39		-50	206		1	9											43	20		8	0	8	50																36	19		ModStr1j	ModStr1j		2	19		ModAllResistsNew	ModAllResistsNew				0
-maxfireresist	40		-5	27		1	9											584	256		5	0	5	5																42	19		ModStr5u	ModStr5u										0
+maxfireresist	40		-5	27		1	9											584	256		5	0	5	5																42	19		ModStr5u	ModStr5u		8	19		ModAllMaxResistsNew	ModAllMaxResistsNew				0
 lightresist	41		-50	206		1	9											43	20		8	0	8	50																38	19		ModStr1l	ModStr1l		2	19		ModAllResistsNew	ModAllResistsNew				0
-maxlightresist	42		-5	27		1	9											584	256		5	0	5	5																43	19		ModStr5w	ModStr5w										0
+maxlightresist	42		-5	27		1	9											584	256		5	0	5	5																43	19		ModStr5w	ModStr5w		8	19		ModAllMaxResistsNew	ModAllMaxResistsNew				0
 coldresist	43		-50	206		1	9											43	20		8	0	8	50																40	19		ModStr1k	ModStr1k		2	19		ModAllResistsNew	ModAllResistsNew				0
-maxcoldresist	44		-5	27		1	9											584	256		5	0	5	5																44	19		ModStr5v	ModStr5v										0
+maxcoldresist	44		-5	27		1	9											584	256		5	0	5	5																44	19		ModStr5v	ModStr5v		8	19		ModAllMaxResistsNew	ModAllMaxResistsNew				0
 poisonresist	45		-50	206		1	9											43	20		8	0	8	50																34	19		ModStr1n	ModStr1n		2	19		ModAllResistsNew	ModAllResistsNew				0
-maxpoisonresist	46		-5	27		1	9											526	256		5	0	5	5																45	19		ModStr5y	ModStr5y										0
+maxpoisonresist	46		-5	27		1	9											526	256		5	0	5	5																45	19		ModStr5y	ModStr5y		8	19		ModAllMaxResistsNew	ModAllMaxResistsNew				0
 damageaura	47					1	16																																															0
 firemindam	48		0	256		1	16											11	10		8	0	8	0											1					102	19		ModStr1p	ModStr1p										0
 firemaxdam	49		0	512		1	16											19	10		8	0	9	0											1					101	19		ModStr1o	ModStr1o										0
@@ -435,7 +435,7 @@ item_maxhp_pergold	432					1	11											89	99		6	0	11	0			2	10	gold	maxhp					
 item_maxdamage_pertohit	433					1	6											59	244		6	0	6	0			4	3	tohit	maxdamage	secondary_maxdamage	item_throw_maxdamage			1					125	19		ModStr1f	ModStr1f	ModScalingTohit									0
 item_find_magic_perfindgold	434					1	6											814	1024		6	0	6	0			2	3	item_goldbonus	item_magicbonus										7	19		ModStr1x	ModStr1x	ModScalingGoldFind								2	0
 item_healingskill_percent	435		0	128		1	7											902	411		6	0	7	0																53	19		ModHealingSkillPct	ModHealingSkillPct									2	0
-item_assassin_timer_percent	436	assassin	-100	28		1	8											577	102		1	0	7	100																119	19		ModAssassinTimerPct	ModAssassinTimerPctNeg	AssOnly								2	0
+item_assassin_timer_percent	436	assassin	-100	28		1	8											577	102		1	0	7	100																90	19		ModAssassinTimerPct	ModAssassinTimerPctNeg	AssOnly								2	0
 item_assassin_knives	437	assassin	0	4		1	2											44828	1421		1	0	2	0																80	19		ModAssassinKnives	ModAssassinKnives	AssOnly								2	0
 item_assassin_kicks	438	assassin	0	8		1	3											10442	481		1	0	3	0																80	19		ModAssassinKicks	ModAssassinKicks	AssOnly								2	0
 item_assassin_eggs	439	assassin	0	8		1	3											15282	506		1	0	3	0																80	19		ModAssassinEggs	ModAssassinEggs	AssOnly								2	0
@@ -472,4 +472,6 @@ misc_levelreqstring	469		-64	64		1	8														7	20	7	64																0	19	
 misc_dmgacstring	470		-64	64		1	5														5	0	5	0																160	19		ModDmgAcDisplay	ModDmgAcDisplay										0
 desc_randommods	471					1	2														2	0	2	0																170	19		ModRandomMods	ModRandomMods										0
 desc_isupgradable	472					1	2														2	0	2	0																170	19		ModIsUpgradable	ModIsUpgradable										0
-special_upgradetracker	473	trophy 2 upgrade tracker				1	5														5	0	5	0																1	19		ModDmgVsInsects	ModDmgVsInsects										0
+special_upgradetracker	473	trophy 2 upgrade tracker				1	5														5	0	5	0																														0
+item_skillatt_percent	474	additional item modifiers				1	9											577	102		1	0	8	100																116	19		ModSkillTohit	ModSkillTohit									2	0
+item_timer_percent	475	additional item modifiers				1	8											577	102		1	0	7	100																91	19		ModTimerPct	ModTimerPct									2	0

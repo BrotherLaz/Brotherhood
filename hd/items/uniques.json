@@ -1930,23 +1930,23 @@
   "ultra": "quest/mephisto_soul_stone"
 } },
 { "superdisenchant_1": {
-  "normal": "scroll/deciphered_bark_scroll",
-  "uber": "scroll/deciphered_bark_scroll",
-  "ultra": "scroll/deciphered_bark_scroll"
+  "normal": "scroll/disenchant_scroll",
+  "uber": "scroll/disenchant_scroll",
+  "ultra": "scroll/disenchant_scroll"
 } },
 { "superdisenchant_2": {
-  "normal": "scroll/deciphered_bark_scroll",
-  "uber": "scroll/deciphered_bark_scroll",
-  "ultra": "scroll/deciphered_bark_scroll"
+  "normal": "scroll/disenchant_scroll",
+  "uber": "scroll/disenchant_scroll",
+  "ultra": "scroll/disenchant_scroll"
 } },
 { "superdisenchant_3": {
-  "normal": "scroll/deciphered_bark_scroll",
-  "uber": "scroll/deciphered_bark_scroll",
-  "ultra": "scroll/deciphered_bark_scroll"
+  "normal": "scroll/disenchant_scroll",
+  "uber": "scroll/disenchant_scroll",
+  "ultra": "scroll/disenchant_scroll"
 } },
 { "superdisenchant_4": {
-  "normal": "scroll/deciphered_bark_scroll",
-  "uber": "scroll/deciphered_bark_scroll",
-  "ultra": "scroll/deciphered_bark_scroll"
+  "normal": "scroll/disenchant_scroll",
+  "uber": "scroll/disenchant_scroll",
+  "ultra": "scroll/disenchant_scroll"
 } }
 ]

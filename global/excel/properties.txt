@@ -328,6 +328,8 @@ hp/gold	1	17	item_maxhp_pergold																												ModStr1u				0
 dmg-max/tohit	1	17	item_maxdamage_pertohit																												ModStr1f				0
 mag%/gold%	1	17	item_find_magic_perfindgold																												ModStr1x				0
 healskill	1	1	item_healingskill_percent																												ModHealingSkillPct				0
+skill-att%	1	1	item_skillatt_percent																																0
+timer%	1	1	item_timer_percent																												ModAssassinTimerPct				0
 ass-timer%	1	1	item_assassin_timer_percent																												ModAssassinTimerPct				0
 ass-knives	1	1	item_assassin_knives																												ModAssassinKnives				0
 ass-kicks	1	1	item_assassin_kicks																												ModAssassinKicks				0

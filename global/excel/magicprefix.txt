@@ -113,7 +113,7 @@ Robust	1	1	1	17		8				4	604	stam		51	100										boot												0	0
 Rugged	1	1	1	1		0				4	604	stam		10	20										dusc	dusp	duse										0	0
 Hardy	1	1	1	6		2				4	604	stam		21	50										dusc	dusp	duse										0	0
 Robust	1	1	1	19		9				4	604	stam		51	100										dusc	dusp	duse										0	0
-Rugged	1	1	1	1		0				4	604	stam		5	10										jewl												0	0
+Rugged	1	1	1	1		0				4	604	stam		10	20										jewl												0	0
 Screaming	1	1	1	11		5				4	605	howl		14	14										weap												0	0
 Howling	1	1	1	33		16				4	605	howl		20	20										weap												0	0
 Wailing	1	1	1	55		27				4	605	howl		32	32										weap												0	0
@@ -497,8 +497,8 @@ Balanced	1	1	1	24		12				4	627	balance3		4	6										shld	stor	helm	ring	belt	b
 Graceful	1	1	1	40		20				4	627	balance3		7	10										shld	stor	helm	ring	belt	boot		ashd	circ	nxhm			0	0
 Dignified	1	1	1	56		28				4	627	balance3		11	15										shld	stor	helm	ring	belt	boot		ashd	circ	nxhm			0	0
 Imposing	1	1	1	72		36				4	627	balance3		16	20										shld	stor	helm	ring	belt	boot		ashd	circ	nxhm			0	0
-Stable	1	1	1	10		5				4	627	balance3		1	3										jewl												0	0
-Balanced	1	1	1	59		29				4	627	balance3		4	5										jewl												0	0
+Stable	1	1	1	10		5				4	627	balance3		1	4										jewl												0	0
+Balanced	1	1	1	59		29				4	627	balance3		5	8										jewl												0	0
 Wobbly	1	1		1		0				2	628	block3		-5	-15										ashd												0	0
 Squire's	1	1	1	1		0				4	628	block3		7	12										ashd												0	0
 Knight's	1	1	1	16		8				4	628	block3		13	20										ashd												0	0
@@ -522,8 +522,8 @@ Knight's	1	1	1	24		12				4	628	block3		4	6										glov	pama	pasc	chlm	bshi	nxs
 Champion's	1	1	1	40		20				4	628	block3		7	10										glov	pama	pasc	chlm	bshi	nxsh							0	0
 King's	1	1	1	56		28				4	628	block3		11	15										glov	pama	pasc	chlm	bshi	nxsh							0	0
 Dragon's	1	1	1	72		36				4	628	block3		16	20										glov	pama	pasc	chlm	bshi	nxsh							0	0
-Squire's	1	1	1	10		5				4	628	block3		1	3										jewl												0	0
-Knight's	1	1	1	59		29				4	628	block3		4	5										jewl												0	0
+Squire's	1	1	1	10		5				4	628	block3		1	4										jewl												0	0
+Knight's	1	1	1	59		29				4	628	block3		5	8										jewl												0	0
 Shaky	1	1		1		0				2	629	cast3		-5	-15										staf	wand	orb	pasc	ring	amul							0	0
 Cryptic	1	1	1	1		0				4	629	cast3		5	10										staf	wand	orb	pasc	ring	amul							0	0
 Stellar	1	1	1	16		8				4	629	cast3		11	15										staf	wand	orb	pasc	ring	amul							0	0
@@ -547,8 +547,8 @@ Stellar	1	1	1	31		15				4	629	cast3		4	6										ashi	nxsh	head										0	0
 Cosmic	1	1	1	47		23				4	629	cast3		7	10										ashi	nxsh	head										0	0
 Astral	1	1	1	63		31				4	629	cast3		11	15										ashi	nxsh	head										0	0
 Brilliant	1	1	1	79		39				4	629	cast3		16	20										ashi	nxsh	head										0	0
-Cryptic	1	1	1	10		5				4	629	cast3		1	3										jewl												0	0
-Stellar	1	1	1	59		29				4	629	cast3		4	5										jewl												0	0
+Cryptic	1	1	1	10		5				4	629	cast3		1	4										jewl												0	0
+Stellar	1	1	1	59		29				4	629	cast3		5	8										jewl												0	0
 Clumsy	1	1		1		0				2	629	swing3		-5	-15										weap	ring	amul					staf	wand	orb	nscy		0	0
 Wild	1	1	1	1		0				4	629	swing3		5	10										weap	ring	amul					staf	wand	orb	nscy		0	0
 Furious	1	1	1	16		8				4	629	swing3		11	15										weap	ring	amul					staf	wand	orb	nscy		0	0
@@ -566,8 +566,8 @@ Furious	1	1	1	24		12				4	629	swing3		4	6										phlm	ahlm	glov	bshi									0
 Feral	1	1	1	40		20				4	629	swing3		7	10										phlm	ahlm	glov	bshi									0	0
 Ferocious	1	1	1	56		28				4	629	swing3		11	15										phlm	ahlm	glov	bshi									0	0
 Bestial	1	1	1	72		36				4	629	swing3		16	20										phlm	ahlm	glov	bshi									0	0
-Wild	1	1	1	10		5				4	629	swing3		1	3										jewl												0	0
-Furious	1	1	1	59		29				4	629	swing3		4	5										jewl												0	0
+Wild	1	1	1	10		5				4	629	swing3		1	4										jewl												0	0
+Furious	1	1	1	59		29				4	629	swing3		5	8										jewl												0	0
 Slow	1	1		1		0				2	630	move3		-5	-15										boot												0	0
 Quick	1	1	1	1		0				8	630	move3		5	10										boot												0	0
 Fast	1	1	1	16		8				8	630	move3		11	15										boot												0	0
@@ -585,8 +585,8 @@ Fast	1	1	1	26		13				4	630	move3		3	4										dust												0	0
 Swift	1	1	1	44		22				4	630	move3		5	7										dust												0	0
 Speedy	1	1	1	62		31				4	630	move3		8	11										dust												0	0
 Flying	1	1	1	79		40				4	630	move3		12	15										dust												0	0
-Quick	1	1	1	10		5				4	630	move3		1	3										jewl												0	0
-Fast	1	1	1	59		29				4	630	move3		4	5										jewl												0	0
+Quick	1	1	1	10		5				4	630	move3		1	2										jewl												0	0
+Fast	1	1	1	59		29				4	630	move3		3	5										jewl												0	0
 Boring	1	1		1		0				2	631	extra-fire		-5	-20										staf	dbow											0	0
 Fiery	1	1	1	1		0				6	631	extra-fire		5	10										staf	dbow											0	0
 Burning	1	1	1	11		5				6	631	extra-fire		10	20										staf	dbow											0	0
@@ -734,6 +734,7 @@ Jagged	1	1	1	42		21				4	635	thorns%		31	50										dusc	dusp											0	0
 Serrated	1	1	1	63		31				4	635	thorns%		51	75										dusc	dusp											0	0
 Bladed	1	1	1	84		42				4	635	thorns%		76	100										dusc	dusp											0	0
 Spiked	1	1	1	5		2				4	635	thorns		1	4										jewl												0	0
+Spiked	1	1	1	20		10				4	635	thorns%		15	30										jewl												0	0
 Ridiculous	1	1		1		0				2	636	pot-rate		-15	-40										helm	amul	belt					chlm	nxhm				0	0
 Healing	1	1	1	1		0				4	636	pot-rate		10	15										helm	amul	belt					chlm	nxhm				0	0
 Medicinal	1	1	1	13		6				4	636	pot-rate		16	20										helm	amul	belt					chlm	nxhm				0	0
@@ -777,3 +778,7 @@ Moonlight	1		1	35		0				4	639	pal-aurarange		4	5										ashd	pasc	chlm								
 Starlight	1		1	45		0				4	639	pal-aurarange		6	8										ashd	pasc	chlm										0	0
 Coruscating	1		1	55		0				4	639	pal-aurarange		9	11										ashd	pasc	chlm										0	0
 Incandescent	1		1	65		0				4	639	pal-aurarange		12	15										ashd	pasc	chlm										0	0
+Unbinding	1	1		1		0				4	645	levelreq-display		-1	-1										disa												0	0
+Unraveling	1	1		1		0				4	645	levelreq-display		-2	-2										disb												0	0
+Disjoining	1	1		1		0				4	645	levelreq-display		-3	-3										disc												0	0
+Unfolding	1	1		1		0				4	645	levelreq-display		-4	-4										disd												0	0

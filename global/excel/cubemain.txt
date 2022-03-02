@@ -1234,6 +1234,54 @@ Test - Loop disenchantment scroll	1			0					1	disi							disi	10																
 Test - Create Trophy 1	1			0					1	isc							Trophy1	10																																																																																						0
 Test - Create Trophy 2	1			0					2	isc,qty=2							Trophy2	10																																																																																						0
 Test - Create random crafting herb	1			0					1	wms							cher																																																																																							0
+Test - Runes	1			0					3	hpt,qty=3							r01																																																																																							0
+Test - Runes	1			0					1	r01							r02																																																																																							0
+Test - Runes	1			0					1	r02							r03																																																																																							0
+Test - Runes	1			0					1	r03							r04																																																																																							0
+Test - Runes	1			0					1	r04							r05																																																																																							0
+Test - Runes	1			0					1	r05							r06																																																																																							0
+Test - Runes	1			0					1	r06							r07																																																																																							0
+Test - Runes	1			0					1	r07							r08																																																																																							0
+Test - Runes	1			0					1	r08							r09																																																																																							0
+Test - Runes	1			0					1	r09							r10																																																																																							0
+Test - Runes	1			0					1	r10							r11																																																																																							0
+Test - Runes	1			0					1	r11							r12																																																																																							0
+Test - Runes	1			0					1	r12							r13																																																																																							0
+Test - Runes	1			0					1	r13							r14																																																																																							0
+Test - Runes	1			0					1	r14							r15																																																																																							0
+Test - Runes	1			0					1	r15							r16																																																																																							0
+Test - Runes	1			0					1	r16							r17																																																																																							0
+Test - Runes	1			0					1	r17							r18																																																																																							0
+Test - Runes	1			0					1	r18							r19																																																																																							0
+Test - Runes	1			0					1	r19							r20																																																																																							0
+Test - Runes	1			0					1	r20							r21																																																																																							0
+Test - Runes	1			0					1	r21							r22																																																																																							0
+Test - Runes	1			0					1	r22							r23																																																																																							0
+Test - Runes	1			0					1	r23							r24																																																																																							0
+Test - Runes	1			0					1	r24							r25																																																																																							0
+Test - Runes	1			0					1	r25							r26																																																																																							0
+Test - Runes	1			0					1	r26							r27																																																																																							0
+Test - Runes	1			0					1	r27							r28																																																																																							0
+Test - Runes	1			0					1	r28							r29																																																																																							0
+Test - Runes	1			0					1	r29							r30																																																																																							0
+Test - Runes	1			0					1	r30							r31																																																																																							0
+Test - Runes	1			0					1	r31							r32																																																																																							0
+Test - Runes	1			0					1	r32							r33																																																																																							0
+Test - Runes	1			0					1	r33							r34																																																																																							0
+Test - Runes	1			0					1	r34							r35																																																																																							0
+Test - Runes	1			0					1	r35							r36																																																																																							0
+Test - Runes	1			0					1	r36							r37																																																																																							0
+Test - Runes	1			0					1	r37							r38																																																																																							0
+Test - Runes	1			0					1	r38							r39																																																																																							0
+Test - Runes	1			0					1	r39							r40																																																																																							0
+Test - Runes	1			0					1	r40							r41																																																																																							0
+Test - Runes	1			0					1	r41							r42																																																																																							0
+Test - Runes	1			0					1	r42							r43																																																																																							0
+Test - Runes	1			0					1	r43							r44																																																																																							0
+Test - Runes	1			0					1	r44							r45																																																																																							0
+Test - Runes	1			0					1	r45							r46																																																																																							0
+Test - Runes	1			0					1	r46							r47																																																																																							0
+Test - Runes	1			0					1	r47							r01																																																																																							0
 test recipe				0					1	armo							Trophy1																																																																																							0
 test recipe				0					2	tsc,qty=2							pole,rar	90																																																																																						0
 test recipe				0					1	tsc							pp2,eth	90																																																																																						0
