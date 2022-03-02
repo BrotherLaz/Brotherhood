@@ -80,6 +80,33 @@ Act 2 (H) Junk	Pots/Tpots/Keys/Scrolls/Ammo									1						Potion 6	8	Misc 2	4	A
 Act 3 (H) Junk	Pots/Tpots/Keys/Scrolls/Ammo									1						Potion 6	8	Misc 2	4	Ammo	4	Act 2 (H) Junk	2																0
 Act 4 (H) Junk	Pots/Tpots/Keys/Scrolls/Ammo									1						Potion 6	8	Misc 2	4	Ammo	4	Act 3 (H) Junk	2																0
 Act 5 (H) Junk	Pots/Tpots/Keys/Scrolls/Ammo									1						Potion 6	8	Misc 2	4	Ammo	4	Act 4 (H) Junk	2																0
+Crafting Junk	Crafting pieces									1						cuu	1	cu5	1	cu6	1	cu8	1	cu9	1														0
+Act 3 Crafting Good	Crafting Good pieces									1						cu0	8	wt1	4	dust	6															18			0
+Act 4 Crafting Good	Crafting Good pieces									1						cu0	8	wt1	4	dust	6	cher	4													22			0
+Act 5 Crafting Good	Crafting Good pieces									1						cu0	8	wt1	4	dust	6	cher	4													22			0
+Act 1 (N) Crafting Good	Crafting Good pieces									1						cu0	8	wt1	3	wt2	1	dust	6	cher	4											22			0
+Act 2 (N) Crafting Good	Crafting Good pieces									1						cu0	8	wt1	3	wt2	1	dust	6	cher	4											22			0
+Act 3 (N) Crafting Good	Crafting Good pieces									1						cu0	8	wt1	3	wt2	1	dust	6	cher	4											22			0
+Act 4 (N) Crafting Good	Crafting Good pieces									1						cu0	8	wt1	3	wt2	1	dust	6	cher	4											22			0
+Act 5 (N) Crafting Good	Crafting Good pieces									1						cu0	8	wt1	3	wt2	1	dust	6	cher	4											22			0
+Act 1 (H) Crafting Good	Crafting Good pieces									1						cu0	8	wt1	2	wt2	1	wt3	1	dust	6	cher	4									22			0
+Act 2 (H) Crafting Good	Crafting Good pieces									1						cu0	8	wt1	2	wt2	1	wt3	1	dust	6	cher	4									22			0
+Act 3 (H) Crafting Good	Crafting Good pieces									1						cu0	8	wt1	2	wt2	1	wt3	1	dust	6	cher	4									22			0
+Act 4 (H) Crafting Good	Crafting Good pieces									1						cu0	8	wt1	1	wt2	1	wt3	1	wt4	1	dust	6	cher	4							22			0
+Act 5 (H) Crafting Good	Crafting Good pieces									1						cu0	8	wt1	1	wt2	1	wt3	1	wt4	1	dust	6	cher	4							22			0
+Act 3 Crafting	Crafting pieces									1						Act 3 Crafting Good	18	Crafting Junk	22																	#VERW!			0
+Act 4 Crafting	Crafting pieces									1						Act 4 Crafting Good	22	Crafting Junk	18																	#VERW!			0
+Act 5 Crafting	Crafting pieces									1						Act 5 Crafting Good	22	Crafting Junk	18																	#VERW!			0
+Act 1 (N) Crafting	Crafting pieces									1						Act 1 (N) Crafting Good	22	Crafting Junk	18																	#VERW!			0
+Act 2 (N) Crafting	Crafting pieces									1						Act 2 (N) Crafting Good	22	Crafting Junk	18																	#VERW!			0
+Act 3 (N) Crafting	Crafting pieces									1						Act 3 (N) Crafting Good	22	Crafting Junk	18																	#VERW!			0
+Act 4 (N) Crafting	Crafting pieces									1						Act 4 (N) Crafting Good	22	Crafting Junk	18																	#VERW!			0
+Act 5 (N) Crafting	Crafting pieces									1						Act 5 (N) Crafting Good	22	Crafting Junk	18																	#VERW!			0
+Act 1 (H) Crafting	Crafting pieces									1						Act 1 (H) Crafting Good	22	Crafting Junk	18																	#VERW!			0
+Act 2 (H) Crafting	Crafting pieces									1						Act 2 (H) Crafting Good	22	Crafting Junk	18																	#VERW!			0
+Act 3 (H) Crafting	Crafting pieces									1						Act 3 (H) Crafting Good	22	Crafting Junk	18																	#VERW!			0
+Act 4 (H) Crafting	Crafting pieces									1						Act 4 (H) Crafting Good	22	Crafting Junk	18																	#VERW!			0
+Act 5 (H) Crafting	Crafting pieces									1						Act 5 (H) Crafting Good	22	Crafting Junk	18																	#VERW!			0
 Act 1 Equip A	Base classes							1	0	1						weap3	7	armo3	7																				0
 Act 1 Equip B	Base classes							1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																0
 Act 1 Equip C	Base classes							1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
@@ -289,87 +316,87 @@ Act 1 Chest C	Chests	104,23%	26,06%	1,04%	2,60%	5,33%	42,86%	6	9	4	433	433	640	8
 Act 2 Chest A	Chests	105,34%	26,33%	1,04%	2,60%	5,33%	42,86%	6	12	4	433	433	640	800	47	gld,mul=1280	15	Act 2 Equip A	37	Act 2 Good	3	Act 2 Junk	39																0
 Act 2 Chest B	Chests	106,47%	26,62%	1,04%	2,60%	5,33%	42,86%	6	15	4	433	433	640	800	46	gld,mul=1280	15	Act 2 Equip B	37	Act 2 Good	3	Act 2 Junk	38																0
 Act 2 Chest C	Chests	107,25%	26,81%	1,04%	2,60%	5,33%	42,86%	6	18	4	433	433	640	800	45	gld,mul=1280	15	Act 2 Equip C	37	Act 2 Good	3	Act 2 Junk	28	Act 3 Junk	10														0
-Act 3 Chest A	Chests	108,82%	27,21%	1,04%	2,60%	5,33%	42,86%	6	20	4	433	433	640	800	44	gld,mul=1280	15	Act 3 Equip A	37	Act 3 Good	3	Act 3 Junk	37																0
-Act 3 Chest B	Chests	110,04%	27,51%	1,04%	2,60%	5,33%	42,86%	6	22	4	433	433	640	800	43	gld,mul=1280	15	Act 3 Equip B	37	Act 3 Good	3	Act 3 Junk	37																0
-Act 3 Chest C	Chests	111,28%	27,82%	1,04%	2,60%	5,33%	42,86%	6	24	4	433	433	640	800	42	gld,mul=1280	15	Act 3 Equip C	37	Act 3 Good	3	Act 3 Junk	36																0
-Act 4 Chest A	Chests	112,55%	28,14%	1,04%	2,60%	5,33%	42,86%	6	26	4	433	433	640	800	41	gld,mul=1280	15	Act 4 Equip A	37	Act 4 Good	3	Act 4 Junk	36																0
-Act 4 Chest B	Chests	113,85%	28,46%	1,04%	2,60%	5,33%	42,86%	6	28	4	433	433	640	800	40	gld,mul=1280	15	Act 4 Equip B	37	Act 4 Good	3	Act 4 Junk	35																0
-Act 4 Chest C	Chests	115,18%	28,79%	1,04%	2,60%	5,33%	42,86%	6	30	4	433	433	640	800	39	gld,mul=1280	15	Act 4 Equip B	37	Act 4 Good	3	Act 4 Junk	35																0
-Act 5 Chest A	Chests	116,54%	29,13%	1,04%	2,60%	5,33%	42,86%	6	32	4	433	433	640	800	38	gld,mul=1280	15	Act 5 Equip A	37	Act 5 Good	3	Act 5 Junk	34																0
-Act 5 Chest B	Chests	117,93%	29,48%	1,04%	2,60%	5,33%	42,86%	6	34	4	433	433	640	800	37	gld,mul=1280	15	Act 5 Equip B	37	Act 5 Good	3	Act 5 Junk	34																0
-Act 5 Chest C	Chests	119,35%	29,84%	1,04%	2,60%	5,33%	42,86%	6	36	4	433	433	640	800	36	gld,mul=1280	15	Act 5 Equip B	37	Act 5 Good	3	Act 5 Junk	33																0
-Act 1 (N) Chest A	Chests	120,82%	30,20%	1,04%	2,60%	5,33%	42,86%	6	38	4	433	433	640	800	35	gld,mul=1536	15	Act 1 (N) Equip A	37	Act 1 (N) Good	3	Act 1 (N) Junk	33																0
-Act 1 (N) Chest B	Chests	122,31%	30,58%	1,04%	2,60%	5,33%	42,86%	6	40	4	433	433	640	800	34	gld,mul=1536	15	Act 1 (N) Equip B	37	Act 1 (N) Good	3	Act 1 (N) Junk	32																0
-Act 1 (N) Chest C	Chests	123,85%	30,96%	1,04%	2,60%	5,33%	42,86%	6	42	4	433	433	640	800	33	gld,mul=1536	15	Act 1 (N) Equip B	37	Act 1 (N) Good	3	Act 1 (N) Junk	32																0
-Act 2 (N) Chest A	Chests	125,42%	31,36%	1,04%	2,60%	5,33%	42,86%	6	44	4	433	433	640	800	32	gld,mul=1536	15	Act 2 (N) Equip A	37	Act 2 (N) Good	3	Act 2 (N) Junk	31																0
-Act 2 (N) Chest B	Chests	127,04%	31,76%	1,04%	2,60%	5,33%	42,86%	6	46	4	433	433	640	800	31	gld,mul=1536	15	Act 2 (N) Equip B	37	Act 2 (N) Good	3	Act 2 (N) Junk	31																0
-Act 2 (N) Chest C	Chests	128,70%	32,17%	1,04%	2,60%	5,33%	42,86%	6	48	4	433	433	640	800	30	gld,mul=1536	15	Act 2 (N) Equip B	37	Act 2 (N) Good	3	Act 2 (N) Junk	30																0
-Act 3 (N) Chest A	Chests	130,40%	32,60%	1,04%	2,60%	5,33%	42,86%	6	50	4	433	433	640	800	29	gld,mul=1536	15	Act 3 (N) Equip A	37	Act 3 (N) Good	3	Act 3 (N) Junk	30																0
-Act 3 (N) Chest B	Chests	132,14%	33,04%	1,04%	2,60%	5,33%	42,86%	6	52	4	433	433	640	800	28	gld,mul=1536	15	Act 3 (N) Equip B	37	Act 3 (N) Good	3	Act 3 (N) Junk	29																0
-Act 3 (N) Chest C	Chests	133,94%	33,48%	1,04%	2,60%	5,33%	42,86%	6	54	4	433	433	640	800	27	gld,mul=1536	15	Act 3 (N) Equip B	37	Act 3 (N) Good	3	Act 3 (N) Junk	29																0
-Act 4 (N) Chest A	Chests	135,78%	33,94%	1,04%	2,60%	5,33%	42,86%	6	56	4	433	433	640	800	26	gld,mul=1536	15	Act 4 (N) Equip A	37	Act 4 (N) Good	3	Act 4 (N) Junk	28																0
-Act 4 (N) Chest B	Chests	137,67%	34,42%	1,04%	2,60%	5,33%	42,86%	6	58	4	433	433	640	800	25	gld,mul=1536	15	Act 4 (N) Equip B	37	Act 4 (N) Good	3	Act 4 (N) Junk	28																0
-Act 4 (N) Chest C	Chests	139,62%	34,91%	1,04%	2,60%	5,33%	42,86%	6	60	4	433	433	640	800	24	gld,mul=1536	15	Act 4 (N) Equip C	37	Act 4 (N) Good	3	Act 4 (N) Junk	27																0
-Act 5 (N) Chest A	Chests	141,63%	35,41%	1,04%	2,60%	5,33%	42,86%	6	62	4	433	433	640	800	23	gld,mul=1536	15	Act 5 (N) Equip A	37	Act 5 (N) Good	3	Act 5 (N) Junk	27																0
-Act 5 (N) Chest B	Chests	143,69%	35,92%	1,04%	2,60%	5,33%	42,86%	6	64	4	433	433	640	800	22	gld,mul=1536	15	Act 5 (N) Equip B	37	Act 5 (N) Good	3	Act 5 (N) Junk	26																0
-Act 5 (N) Chest C	Chests	145,81%	36,45%	1,04%	2,60%	5,33%	42,86%	6	66	4	433	433	640	800	21	gld,mul=1536	15	Act 5 (N) Equip B	37	Act 5 (N) Good	3	Act 5 (N) Junk	26																0
-Act 1 (H) Chest A	Chests	148,00%	37,00%	1,04%	2,60%	5,33%	42,86%	6	68	4	433	433	640	800	20	gld,mul=2048	15	Act 1 (H) Equip A	37	Act 1 (H) Good	3	Act 1 (H) Junk	25																0
-Act 1 (H) Chest B	Chests	150,25%	37,56%	1,04%	2,60%	5,33%	42,86%	6	70	4	433	433	640	800	19	gld,mul=2048	15	Act 1 (H) Equip B	37	Act 1 (H) Good	3	Act 1 (H) Junk	25																0
-Act 1 (H) Chest C	Chests	152,58%	38,14%	1,04%	2,60%	5,33%	42,86%	6	71	4	433	433	640	800	18	gld,mul=2048	15	Act 1 (H) Equip B	37	Act 1 (H) Good	3	Act 1 (H) Junk	24																0
-Act 2 (H) Chest A	Chests	154,97%	38,74%	1,04%	2,60%	5,33%	42,86%	6	72	4	433	433	640	800	17	gld,mul=2048	15	Act 2 (H) Equip A	37	Act 2 (H) Good	3	Act 2 (H) Junk	24																0
-Act 2 (H) Chest B	Chests	157,45%	39,36%	1,04%	2,60%	5,33%	42,86%	6	74	4	433	433	640	800	16	gld,mul=2048	15	Act 2 (H) Equip B	37	Act 2 (H) Good	3	Act 2 (H) Junk	23																0
-Act 2 (H) Chest C	Chests	160,00%	40,00%	1,04%	2,60%	5,33%	42,86%	6	75	4	433	433	640	800	15	gld,mul=2048	15	Act 2 (H) Equip B	37	Act 2 (H) Good	3	Act 2 (H) Junk	23																0
-Act 3 (H) Chest A	Chests	162,64%	40,66%	1,04%	2,60%	5,33%	42,86%	6	76	4	433	433	640	800	14	gld,mul=2048	15	Act 3 (H) Equip A	37	Act 3 (H) Good	3	Act 3 (H) Junk	22																0
-Act 3 (H) Chest B	Chests	165,36%	41,34%	1,04%	2,60%	5,33%	42,86%	6	78	4	433	433	640	800	13	gld,mul=2048	15	Act 3 (H) Equip B	37	Act 3 (H) Good	3	Act 3 (H) Junk	22																0
-Act 3 (H) Chest C	Chests	168,18%	42,05%	1,04%	2,60%	5,33%	42,86%	6	79	4	433	433	640	800	12	gld,mul=2048	15	Act 3 (H) Equip B	37	Act 3 (H) Good	3	Act 3 (H) Junk	21																0
-Act 4 (H) Chest A	Chests	171,10%	42,77%	1,04%	2,60%	5,33%	42,86%	6	80	4	433	433	640	800	11	gld,mul=2048	15	Act 4 (H) Equip A	37	Act 4 (H) Good	3	Act 4 (H) Junk	21																0
-Act 4 (H) Chest B	Chests	174,12%	43,53%	1,04%	2,60%	5,33%	42,86%	6	81	4	433	433	640	800	10	gld,mul=2048	15	Act 4 (H) Equip B	37	Act 4 (H) Good	3	Act 4 (H) Junk	20																0
-Act 4 (H) Chest C	Chests	178,31%	44,58%	1,04%	2,60%	5,33%	42,86%	6	82	4	433	433	640	800	9	gld,mul=2048	15	Act 4 (H) Equip B	37	Act 4 (H) Good	3	Act 4 (H) Junk	19																0
-Act 5 (H) Chest A	Chests	182,72%	45,68%	1,04%	2,60%	5,33%	42,86%	6	83	4	433	433	640	800	8	gld,mul=2048	15	Act 5 (H) Equip A	37	Act 5 (H) Good	3	Act 5 (H) Junk	18																0
-Act 5 (H) Chest B	Chests	187,34%	46,84%	1,04%	2,60%	5,33%	42,86%	6	84	4	433	433	640	800	7	gld,mul=2048	15	Act 5 (H) Equip B	37	Act 5 (H) Good	3	Act 5 (H) Junk	17																0
-Act 5 (H) Chest C	Chests	192,21%	48,05%	1,04%	2,60%	5,33%	42,86%	6	85	4	433	433	640	800	6	gld,mul=2048	15	Act 5 (H) Equip B	37	Act 5 (H) Good	3	Act 5 (H) Junk	16																0
+Act 3 Chest A	Chests	108,82%	27,21%	1,04%	2,60%	5,33%	42,86%	6	20	4	433	433	640	800	44	gld,mul=1280	15	Act 3 Equip A	37	Act 3 Good	3	Act 3 Junk	34	Act 3 Crafting	3														0
+Act 3 Chest B	Chests	110,04%	27,51%	1,04%	2,60%	5,33%	42,86%	6	22	4	433	433	640	800	43	gld,mul=1280	15	Act 3 Equip B	37	Act 3 Good	3	Act 3 Junk	31	Act 3 Crafting	6														0
+Act 3 Chest C	Chests	111,28%	27,82%	1,04%	2,60%	5,33%	42,86%	6	24	4	433	433	640	800	42	gld,mul=1280	15	Act 3 Equip C	37	Act 3 Good	3	Act 3 Junk	30	Act 3 Crafting	6														0
+Act 4 Chest A	Chests	112,55%	28,14%	1,04%	2,60%	5,33%	42,86%	6	26	4	433	433	640	800	41	gld,mul=1280	15	Act 4 Equip A	37	Act 4 Good	3	Act 4 Junk	30	Act 4 Crafting	6														0
+Act 4 Chest B	Chests	113,85%	28,46%	1,04%	2,60%	5,33%	42,86%	6	28	4	433	433	640	800	40	gld,mul=1280	15	Act 4 Equip B	37	Act 4 Good	3	Act 4 Junk	29	Act 4 Crafting	6														0
+Act 4 Chest C	Chests	115,18%	28,79%	1,04%	2,60%	5,33%	42,86%	6	30	4	433	433	640	800	39	gld,mul=1280	15	Act 4 Equip B	37	Act 4 Good	3	Act 4 Junk	29	Act 4 Crafting	6														0
+Act 5 Chest A	Chests	116,54%	29,13%	1,04%	2,60%	5,33%	42,86%	6	32	4	433	433	640	800	38	gld,mul=1280	15	Act 5 Equip A	37	Act 5 Good	3	Act 5 Junk	28	Act 5 Crafting	6														0
+Act 5 Chest B	Chests	117,93%	29,48%	1,04%	2,60%	5,33%	42,86%	6	34	4	433	433	640	800	37	gld,mul=1280	15	Act 5 Equip B	37	Act 5 Good	3	Act 5 Junk	28	Act 5 Crafting	6														0
+Act 5 Chest C	Chests	119,35%	29,84%	1,04%	2,60%	5,33%	42,86%	6	36	4	433	433	640	800	36	gld,mul=1280	15	Act 5 Equip B	37	Act 5 Good	3	Act 5 Junk	27	Act 5 Crafting	6														0
+Act 1 (N) Chest A	Chests	120,82%	30,20%	1,04%	2,60%	5,33%	42,86%	6	38	4	433	433	640	800	35	gld,mul=1536	15	Act 1 (N) Equip A	37	Act 1 (N) Good	3	Act 1 (N) Junk	27	Act 1 (N) Crafting	6														0
+Act 1 (N) Chest B	Chests	122,31%	30,58%	1,04%	2,60%	5,33%	42,86%	6	40	4	433	433	640	800	34	gld,mul=1536	15	Act 1 (N) Equip B	37	Act 1 (N) Good	3	Act 1 (N) Junk	26	Act 1 (N) Crafting	6														0
+Act 1 (N) Chest C	Chests	123,85%	30,96%	1,04%	2,60%	5,33%	42,86%	6	42	4	433	433	640	800	33	gld,mul=1536	15	Act 1 (N) Equip B	37	Act 1 (N) Good	3	Act 1 (N) Junk	26	Act 1 (N) Crafting	6														0
+Act 2 (N) Chest A	Chests	125,42%	31,36%	1,04%	2,60%	5,33%	42,86%	6	44	4	433	433	640	800	32	gld,mul=1536	15	Act 2 (N) Equip A	37	Act 2 (N) Good	3	Act 2 (N) Junk	25	Act 2 (N) Crafting	6														0
+Act 2 (N) Chest B	Chests	127,04%	31,76%	1,04%	2,60%	5,33%	42,86%	6	46	4	433	433	640	800	31	gld,mul=1536	15	Act 2 (N) Equip B	37	Act 2 (N) Good	3	Act 2 (N) Junk	25	Act 2 (N) Crafting	6														0
+Act 2 (N) Chest C	Chests	128,70%	32,17%	1,04%	2,60%	5,33%	42,86%	6	48	4	433	433	640	800	30	gld,mul=1536	15	Act 2 (N) Equip B	37	Act 2 (N) Good	3	Act 2 (N) Junk	24	Act 2 (N) Crafting	6														0
+Act 3 (N) Chest A	Chests	130,40%	32,60%	1,04%	2,60%	5,33%	42,86%	6	50	4	433	433	640	800	29	gld,mul=1536	15	Act 3 (N) Equip A	37	Act 3 (N) Good	3	Act 3 (N) Junk	24	Act 3 (N) Crafting	6														0
+Act 3 (N) Chest B	Chests	132,14%	33,04%	1,04%	2,60%	5,33%	42,86%	6	52	4	433	433	640	800	28	gld,mul=1536	15	Act 3 (N) Equip B	37	Act 3 (N) Good	3	Act 3 (N) Junk	23	Act 3 (N) Crafting	6														0
+Act 3 (N) Chest C	Chests	133,94%	33,48%	1,04%	2,60%	5,33%	42,86%	6	54	4	433	433	640	800	27	gld,mul=1536	15	Act 3 (N) Equip B	37	Act 3 (N) Good	3	Act 3 (N) Junk	23	Act 3 (N) Crafting	6														0
+Act 4 (N) Chest A	Chests	135,78%	33,94%	1,04%	2,60%	5,33%	42,86%	6	56	4	433	433	640	800	26	gld,mul=1536	15	Act 4 (N) Equip A	37	Act 4 (N) Good	3	Act 4 (N) Junk	22	Act 4 (N) Crafting	6														0
+Act 4 (N) Chest B	Chests	137,67%	34,42%	1,04%	2,60%	5,33%	42,86%	6	58	4	433	433	640	800	25	gld,mul=1536	15	Act 4 (N) Equip B	37	Act 4 (N) Good	3	Act 4 (N) Junk	22	Act 4 (N) Crafting	6														0
+Act 4 (N) Chest C	Chests	139,62%	34,91%	1,04%	2,60%	5,33%	42,86%	6	60	4	433	433	640	800	24	gld,mul=1536	15	Act 4 (N) Equip C	37	Act 4 (N) Good	3	Act 4 (N) Junk	21	Act 4 (N) Crafting	6														0
+Act 5 (N) Chest A	Chests	141,63%	35,41%	1,04%	2,60%	5,33%	42,86%	6	62	4	433	433	640	800	23	gld,mul=1536	15	Act 5 (N) Equip A	37	Act 5 (N) Good	3	Act 5 (N) Junk	21	Act 5 (N) Crafting	6														0
+Act 5 (N) Chest B	Chests	143,69%	35,92%	1,04%	2,60%	5,33%	42,86%	6	64	4	433	433	640	800	22	gld,mul=1536	15	Act 5 (N) Equip B	37	Act 5 (N) Good	3	Act 5 (N) Junk	20	Act 5 (N) Crafting	6														0
+Act 5 (N) Chest C	Chests	145,81%	36,45%	1,04%	2,60%	5,33%	42,86%	6	66	4	433	433	640	800	21	gld,mul=1536	15	Act 5 (N) Equip B	37	Act 5 (N) Good	3	Act 5 (N) Junk	20	Act 5 (N) Crafting	6														0
+Act 1 (H) Chest A	Chests	148,00%	37,00%	1,04%	2,60%	5,33%	42,86%	6	68	4	433	433	640	800	20	gld,mul=2048	15	Act 1 (H) Equip A	37	Act 1 (H) Good	3	Act 1 (H) Junk	19	Act 1 (H) Crafting	6														0
+Act 1 (H) Chest B	Chests	150,25%	37,56%	1,04%	2,60%	5,33%	42,86%	6	70	4	433	433	640	800	19	gld,mul=2048	15	Act 1 (H) Equip B	37	Act 1 (H) Good	3	Act 1 (H) Junk	19	Act 1 (H) Crafting	6														0
+Act 1 (H) Chest C	Chests	152,58%	38,14%	1,04%	2,60%	5,33%	42,86%	6	71	4	433	433	640	800	18	gld,mul=2048	15	Act 1 (H) Equip B	37	Act 1 (H) Good	3	Act 1 (H) Junk	18	Act 1 (H) Crafting	6														0
+Act 2 (H) Chest A	Chests	154,97%	38,74%	1,04%	2,60%	5,33%	42,86%	6	72	4	433	433	640	800	17	gld,mul=2048	15	Act 2 (H) Equip A	37	Act 2 (H) Good	3	Act 2 (H) Junk	18	Act 2 (H) Crafting	6														0
+Act 2 (H) Chest B	Chests	157,45%	39,36%	1,04%	2,60%	5,33%	42,86%	6	74	4	433	433	640	800	16	gld,mul=2048	15	Act 2 (H) Equip B	37	Act 2 (H) Good	3	Act 2 (H) Junk	17	Act 2 (H) Crafting	6														0
+Act 2 (H) Chest C	Chests	160,00%	40,00%	1,04%	2,60%	5,33%	42,86%	6	75	4	433	433	640	800	15	gld,mul=2048	15	Act 2 (H) Equip B	37	Act 2 (H) Good	3	Act 2 (H) Junk	17	Act 2 (H) Crafting	6														0
+Act 3 (H) Chest A	Chests	162,64%	40,66%	1,04%	2,60%	5,33%	42,86%	6	76	4	433	433	640	800	14	gld,mul=2048	15	Act 3 (H) Equip A	37	Act 3 (H) Good	3	Act 3 (H) Junk	16	Act 3 (H) Crafting	6														0
+Act 3 (H) Chest B	Chests	165,36%	41,34%	1,04%	2,60%	5,33%	42,86%	6	78	4	433	433	640	800	13	gld,mul=2048	15	Act 3 (H) Equip B	37	Act 3 (H) Good	3	Act 3 (H) Junk	16	Act 3 (H) Crafting	6														0
+Act 3 (H) Chest C	Chests	168,18%	42,05%	1,04%	2,60%	5,33%	42,86%	6	79	4	433	433	640	800	12	gld,mul=2048	15	Act 3 (H) Equip B	37	Act 3 (H) Good	3	Act 3 (H) Junk	15	Act 3 (H) Crafting	6														0
+Act 4 (H) Chest A	Chests	171,10%	42,77%	1,04%	2,60%	5,33%	42,86%	6	80	4	433	433	640	800	11	gld,mul=2048	15	Act 4 (H) Equip A	37	Act 4 (H) Good	3	Act 4 (H) Junk	15	Act 4 (H) Crafting	6														0
+Act 4 (H) Chest B	Chests	174,12%	43,53%	1,04%	2,60%	5,33%	42,86%	6	81	4	433	433	640	800	10	gld,mul=2048	15	Act 4 (H) Equip B	37	Act 4 (H) Good	3	Act 4 (H) Junk	14	Act 4 (H) Crafting	6														0
+Act 4 (H) Chest C	Chests	178,31%	44,58%	1,04%	2,60%	5,33%	42,86%	6	82	4	433	433	640	800	9	gld,mul=2048	15	Act 4 (H) Equip B	37	Act 4 (H) Good	3	Act 4 (H) Junk	13	Act 4 (H) Crafting	6														0
+Act 5 (H) Chest A	Chests	182,72%	45,68%	1,04%	2,60%	5,33%	42,86%	6	83	4	433	433	640	800	8	gld,mul=2048	15	Act 5 (H) Equip A	37	Act 5 (H) Good	3	Act 5 (H) Junk	12	Act 5 (H) Crafting	6														0
+Act 5 (H) Chest B	Chests	187,34%	46,84%	1,04%	2,60%	5,33%	42,86%	6	84	4	433	433	640	800	7	gld,mul=2048	15	Act 5 (H) Equip B	37	Act 5 (H) Good	3	Act 5 (H) Junk	11	Act 5 (H) Crafting	6														0
+Act 5 (H) Chest C	Chests	192,21%	48,05%	1,04%	2,60%	5,33%	42,86%	6	85	4	433	433	640	800	6	gld,mul=2048	15	Act 5 (H) Equip B	37	Act 5 (H) Good	3	Act 5 (H) Junk	10	Act 5 (H) Crafting	6														0
 Act 1 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	0	1					100	gld	21	Act 1 Equip A	16	Act 1 Junk	15	Act 1 Good	2	Act 1 Melee A	4	Act 1 Healing A	2												0
 Act 1 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	5	1					100	gld	21	Act 1 Equip B	16	Act 1 Junk	15	Act 1 Good	2	Act 1 Melee B	4	Act 1 Healing B	2												0
 Act 1 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	9	1					100	gld	21	Act 1 Equip C	16	Act 1 Junk	15	Act 1 Good	2	Act 1 Melee C	4	Act 1 Healing C	2												0
 Act 2 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	12	1					100	gld	21	Act 2 Equip A	16	Act 2 Junk	15	Act 2 Good	2	Act 2 Melee A	4	Act 2 Healing A	2												0
 Act 2 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	15	1					100	gld	21	Act 2 Equip B	16	Act 2 Junk	15	Act 2 Good	2	Act 2 Melee B	4	Act 2 Healing B	2												0
-Act 2 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	18	1					100	gld	21	Act 2 Equip C	16	Act 2 Junk	15	Act 3 Good	2	Act 2 Melee C	4	Act 2 Healing C	2												0
-Act 3 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	20	1					100	gld	21	Act 3 Equip A	16	Act 3 Junk	15	Act 3 Good	2	Act 3 Melee A	4	Act 3 Healing A	2												0
-Act 3 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	22	1					100	gld	21	Act 3 Equip B	16	Act 3 Junk	15	Act 3 Good	2	Act 3 Melee B	4	Act 3 Healing B	2												0
-Act 3 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	24	1					100	gld	21	Act 3 Equip C	16	Act 3 Junk	15	Act 3 Good	2	Act 3 Melee C	4	Act 3 Healing C	2												0
-Act 4 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	26	1					100	gld	21	Act 4 Equip A	16	Act 4 Junk	15	Act 4 Good	2	Act 4 Melee A	4	Act 4 Healing A	2												0
-Act 4 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	29	1					100	gld	21	Act 4 Equip B	16	Act 4 Junk	15	Act 4 Good	2	Act 4 Melee B	4	Act 4 Healing B	2												0
-Act 5 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	32	1					100	gld	21	Act 5 Equip A	16	Act 5 Junk	15	Act 5 Good	2	Act 5 Melee A	4	Act 5 Healing A	2												0
-Act 5 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	34	1					100	gld	21	Act 5 Equip B	16	Act 5 Junk	15	Act 5 Good	2	Act 5 Melee B	4	Act 5 Healing B	2												0
-Act 5 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	36	1					100	gld	21	Act 5 Equip C	16	Act 5 Junk	15	Act 5 Good	2	Act 5 Melee C	4	Act 5 Healing C	2												0
-Act 1 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	38	1					100	gld	21	Act 1 (N) Equip A	16	Act 1 (N) Junk	15	Act 1 (N) Good	2	Act 1 (N) Melee A	4	Act 1 (N) Healing A	2												0
-Act 1 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	40	1					100	gld	21	Act 1 (N) Equip B	16	Act 1 (N) Junk	15	Act 1 (N) Good	2	Act 1 (N) Melee B	4	Act 1 (N) Healing B	2												0
-Act 1 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	41	1					100	gld	21	Act 1 (N) Equip B	16	Act 1 (N) Junk	15	Act 1 (N) Good	2	Act 1 (N) Melee B	4	Act 1 (N) Healing B	2												0
-Act 2 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	42	1					100	gld	21	Act 2 (N) Equip A	16	Act 2 (N) Junk	15	Act 2 (N) Good	2	Act 2 (N) Melee A	4	Act 2 (N) Healing A	2												0
-Act 2 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	44	1					100	gld	21	Act 2 (N) Equip B	16	Act 2 (N) Junk	15	Act 2 (N) Good	2	Act 2 (N) Melee B	4	Act 2 (N) Healing B	2												0
-Act 2 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	45	1					100	gld	21	Act 2 (N) Equip B	16	Act 2 (N) Junk	15	Act 2 (N) Good	2	Act 2 (N) Melee B	4	Act 2 (N) Healing B	2												0
-Act 3 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	46	1					100	gld	21	Act 3 (N) Equip A	16	Act 3 (N) Junk	15	Act 3 (N) Good	2	Act 3 (N) Melee A	4	Act 3 (N) Healing A	2												0
-Act 3 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	48	1					100	gld	21	Act 3 (N) Equip B	16	Act 3 (N) Junk	15	Act 3 (N) Good	2	Act 3 (N) Melee B	4	Act 3 (N) Healing B	2												0
-Act 3 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	50	1					100	gld	21	Act 3 (N) Equip B	16	Act 3 (N) Junk	15	Act 3 (N) Good	2	Act 3 (N) Melee B	4	Act 3 (N) Healing B	2												0
-Act 4 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	51	1					100	gld	21	Act 4 (N) Equip A	16	Act 4 (N) Junk	15	Act 4 (N) Good	2	Act 4 (N) Melee A	4	Act 4 (N) Healing A	2												0
-Act 4 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	54	1					100	gld	21	Act 4 (N) Equip B	16	Act 4 (N) Junk	15	Act 4 (N) Good	2	Act 4 (N) Melee B	4	Act 4 (N) Healing B	2												0
-Act 5 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	57	1					100	gld	21	Act 5 (N) Equip A	16	Act 5 (N) Junk	15	Act 5 (N) Good	2	Act 5 (N) Melee A	4	Act 5 (N) Healing A	2												0
-Act 5 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	60	1					100	gld	21	Act 5 (N) Equip B	16	Act 5 (N) Junk	15	Act 5 (N) Good	2	Act 5 (N) Melee B	4	Act 5 (N) Healing B	2												0
-Act 5 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	62	1					100	gld	21	Act 5 (N) Equip C	16	Act 5 (N) Junk	15	Act 5 (N) Good	2	Act 5 (N) Melee C	4	Act 5 (N) Healing C	2												0
-Act 1 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	63	1					100	gld	21	Act 1 (H) Equip A	16	Act 1 (H) Junk	15	Act 1 (H) Good	2	Act 1 (H) Melee A	4	Act 1 (H) Healing A	2												0
-Act 1 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	66	1					100	gld	21	Act 1 (H) Equip B	16	Act 1 (H) Junk	15	Act 1 (H) Good	2	Act 1 (H) Melee B	4	Act 1 (H) Healing B	2												0
-Act 1 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	68	1					100	gld	21	Act 1 (H) Equip B	16	Act 1 (H) Junk	15	Act 1 (H) Good	2	Act 1 (H) Melee B	4	Act 1 (H) Healing B	2												0
-Act 2 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	69	1					100	gld	21	Act 2 (H) Equip A	16	Act 1 (H) Junk	15	Act 2 (H) Good	2	Act 2 (H) Melee A	4	Act 2 (H) Healing A	2												0
-Act 2 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	71	1					100	gld	21	Act 2 (H) Equip B	16	Act 1 (H) Junk	15	Act 2 (H) Good	2	Act 2 (H) Melee B	4	Act 2 (H) Healing B	2												0
-Act 2 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	73	1					100	gld	21	Act 2 (H) Equip B	16	Act 1 (H) Junk	15	Act 2 (H) Good	2	Act 2 (H) Melee B	4	Act 2 (H) Healing B	2												0
-Act 3 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	74	1					100	gld	21	Act 3 (H) Equip A	16	Act 1 (H) Junk	15	Act 3 (H) Good	2	Act 3 (H) Melee A	4	Act 3 (H) Healing A	2												0
-Act 3 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	76	1					100	gld	21	Act 3 (H) Equip B	16	Act 1 (H) Junk	15	Act 3 (H) Good	2	Act 3 (H) Melee B	4	Act 3 (H) Healing B	2												0
-Act 3 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	77	1					100	gld	21	Act 3 (H) Equip B	16	Act 1 (H) Junk	15	Act 3 (H) Good	2	Act 3 (H) Melee B	4	Act 3 (H) Healing B	2												0
-Act 4 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	79	1					100	gld	21	Act 4 (H) Equip A	16	Act 1 (H) Junk	15	Act 4 (H) Good	2	Act 4 (H) Melee A	4	Act 4 (H) Healing A	2												0
-Act 4 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	80	1					100	gld	21	Act 4 (H) Equip B	16	Act 1 (H) Junk	15	Act 4 (H) Good	2	Act 4 (H) Melee B	4	Act 4 (H) Healing B	2												0
-Act 5 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	82	1					100	gld	21	Act 5 (H) Equip A	16	Act 1 (H) Junk	15	Act 5 (H) Good	2	Act 5 (H) Melee A	4	Act 5 (H) Healing A	2												0
-Act 5 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	83	1					100	gld	21	Act 5 (H) Equip B	16	Act 1 (H) Junk	15	Act 5 (H) Good	2	Act 5 (H) Melee B	4	Act 5 (H) Healing B	2												0
-Act 5 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	85	1					100	gld	21	Act 5 (H) Equip C	16	Act 1 (H) Junk	15	Act 5 (H) Good	2	Act 5 (H) Melee C	4	Act 5 (H) Healing C	2												0
+Act 2 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	18	1					100	gld	21	Act 2 Equip C	16	Act 2 Junk	13	Act 3 Good	2	Act 2 Melee C	4	Act 3 Crafting	2	Act 2 Healing C	2										0
+Act 3 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	20	1					100	gld	21	Act 3 Equip A	16	Act 3 Junk	11	Act 3 Good	2	Act 3 Melee A	4	Act 3 Crafting	4	Act 3 Healing A	2										0
+Act 3 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	22	1					100	gld	21	Act 3 Equip B	16	Act 3 Junk	11	Act 3 Good	2	Act 3 Melee B	4	Act 3 Crafting	4	Act 3 Healing B	2										0
+Act 3 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	24	1					100	gld	21	Act 3 Equip C	16	Act 3 Junk	11	Act 3 Good	2	Act 3 Melee C	4	Act 3 Crafting	4	Act 3 Healing C	2										0
+Act 4 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	26	1					100	gld	21	Act 4 Equip A	16	Act 4 Junk	11	Act 4 Good	2	Act 4 Melee A	4	Act 4 Crafting	4	Act 4 Healing A	2										0
+Act 4 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	29	1					100	gld	21	Act 4 Equip B	16	Act 4 Junk	11	Act 4 Good	2	Act 4 Melee B	4	Act 4 Crafting	4	Act 4 Healing B	2										0
+Act 5 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	32	1					100	gld	21	Act 5 Equip A	16	Act 5 Junk	11	Act 5 Good	2	Act 5 Melee A	4	Act 5 Crafting	4	Act 5 Healing A	2										0
+Act 5 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	34	1					100	gld	21	Act 5 Equip B	16	Act 5 Junk	11	Act 5 Good	2	Act 5 Melee B	4	Act 5 Crafting	4	Act 5 Healing B	2										0
+Act 5 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	36	1					100	gld	21	Act 5 Equip C	16	Act 5 Junk	11	Act 5 Good	2	Act 5 Melee C	4	Act 5 Crafting	4	Act 5 Healing C	2										0
+Act 1 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	38	1					100	gld	21	Act 1 (N) Equip A	16	Act 1 (N) Junk	11	Act 1 (N) Good	2	Act 1 (N) Melee A	4	Act 1 (N) Crafting	4	Act 1 (N) Healing A	2										0
+Act 1 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	40	1					100	gld	21	Act 1 (N) Equip B	16	Act 1 (N) Junk	11	Act 1 (N) Good	2	Act 1 (N) Melee B	4	Act 1 (N) Crafting	4	Act 1 (N) Healing B	2										0
+Act 1 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	41	1					100	gld	21	Act 1 (N) Equip B	16	Act 1 (N) Junk	11	Act 1 (N) Good	2	Act 1 (N) Melee B	4	Act 1 (N) Crafting	4	Act 1 (N) Healing B	2										0
+Act 2 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	42	1					100	gld	21	Act 2 (N) Equip A	16	Act 2 (N) Junk	11	Act 2 (N) Good	2	Act 2 (N) Melee A	4	Act 2 (N) Crafting	4	Act 2 (N) Healing A	2										0
+Act 2 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	44	1					100	gld	21	Act 2 (N) Equip B	16	Act 2 (N) Junk	11	Act 2 (N) Good	2	Act 2 (N) Melee B	4	Act 2 (N) Crafting	4	Act 2 (N) Healing B	2										0
+Act 2 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	45	1					100	gld	21	Act 2 (N) Equip B	16	Act 2 (N) Junk	11	Act 2 (N) Good	2	Act 2 (N) Melee B	4	Act 2 (N) Crafting	4	Act 2 (N) Healing B	2										0
+Act 3 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	46	1					100	gld	21	Act 3 (N) Equip A	16	Act 3 (N) Junk	11	Act 3 (N) Good	2	Act 3 (N) Melee A	4	Act 3 (N) Crafting	4	Act 3 (N) Healing A	2										0
+Act 3 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	48	1					100	gld	21	Act 3 (N) Equip B	16	Act 3 (N) Junk	11	Act 3 (N) Good	2	Act 3 (N) Melee B	4	Act 3 (N) Crafting	4	Act 3 (N) Healing B	2										0
+Act 3 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	50	1					100	gld	21	Act 3 (N) Equip B	16	Act 3 (N) Junk	11	Act 3 (N) Good	2	Act 3 (N) Melee B	4	Act 3 (N) Crafting	4	Act 3 (N) Healing B	2										0
+Act 4 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	51	1					100	gld	21	Act 4 (N) Equip A	16	Act 4 (N) Junk	11	Act 4 (N) Good	2	Act 4 (N) Melee A	4	Act 4 (N) Crafting	4	Act 4 (N) Healing A	2										0
+Act 4 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	54	1					100	gld	21	Act 4 (N) Equip B	16	Act 4 (N) Junk	11	Act 4 (N) Good	2	Act 4 (N) Melee B	4	Act 4 (N) Crafting	4	Act 4 (N) Healing B	2										0
+Act 5 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	57	1					100	gld	21	Act 5 (N) Equip A	16	Act 5 (N) Junk	11	Act 5 (N) Good	2	Act 5 (N) Melee A	4	Act 5 (N) Crafting	4	Act 5 (N) Healing A	2										0
+Act 5 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	60	1					100	gld	21	Act 5 (N) Equip B	16	Act 5 (N) Junk	11	Act 5 (N) Good	2	Act 5 (N) Melee B	4	Act 5 (N) Crafting	4	Act 5 (N) Healing B	2										0
+Act 5 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	62	1					100	gld	21	Act 5 (N) Equip C	16	Act 5 (N) Junk	11	Act 5 (N) Good	2	Act 5 (N) Melee C	4	Act 5 (N) Crafting	4	Act 5 (N) Healing C	2										0
+Act 1 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	63	1					100	gld	21	Act 1 (H) Equip A	16	Act 1 (H) Junk	11	Act 1 (H) Good	2	Act 1 (H) Melee A	4	Act 1 (H) Crafting	4	Act 1 (H) Healing A	2										0
+Act 1 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	66	1					100	gld	21	Act 1 (H) Equip B	16	Act 1 (H) Junk	11	Act 1 (H) Good	2	Act 1 (H) Melee B	4	Act 1 (H) Crafting	4	Act 1 (H) Healing B	2										0
+Act 1 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	68	1					100	gld	21	Act 1 (H) Equip B	16	Act 1 (H) Junk	11	Act 1 (H) Good	2	Act 1 (H) Melee B	4	Act 1 (H) Crafting	4	Act 1 (H) Healing B	2										0
+Act 2 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	69	1					100	gld	21	Act 2 (H) Equip A	16	Act 1 (H) Junk	11	Act 2 (H) Good	2	Act 2 (H) Melee A	4	Act 2 (H) Crafting	4	Act 2 (H) Healing A	2										0
+Act 2 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	71	1					100	gld	21	Act 2 (H) Equip B	16	Act 1 (H) Junk	11	Act 2 (H) Good	2	Act 2 (H) Melee B	4	Act 2 (H) Crafting	4	Act 2 (H) Healing B	2										0
+Act 2 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	73	1					100	gld	21	Act 2 (H) Equip B	16	Act 1 (H) Junk	11	Act 2 (H) Good	2	Act 2 (H) Melee B	4	Act 2 (H) Crafting	4	Act 2 (H) Healing B	2										0
+Act 3 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	74	1					100	gld	21	Act 3 (H) Equip A	16	Act 1 (H) Junk	11	Act 3 (H) Good	2	Act 3 (H) Melee A	4	Act 3 (H) Crafting	4	Act 3 (H) Healing A	2										0
+Act 3 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	76	1					100	gld	21	Act 3 (H) Equip B	16	Act 1 (H) Junk	11	Act 3 (H) Good	2	Act 3 (H) Melee B	4	Act 3 (H) Crafting	4	Act 3 (H) Healing B	2										0
+Act 3 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	77	1					100	gld	21	Act 3 (H) Equip B	16	Act 1 (H) Junk	11	Act 3 (H) Good	2	Act 3 (H) Melee B	4	Act 3 (H) Crafting	4	Act 3 (H) Healing B	2										0
+Act 4 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	79	1					100	gld	21	Act 4 (H) Equip A	16	Act 1 (H) Junk	11	Act 4 (H) Good	2	Act 4 (H) Melee A	4	Act 4 (H) Crafting	4	Act 4 (H) Healing A	2										0
+Act 4 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	80	1					100	gld	21	Act 4 (H) Equip B	16	Act 1 (H) Junk	11	Act 4 (H) Good	2	Act 4 (H) Melee B	4	Act 4 (H) Crafting	4	Act 4 (H) Healing B	2										0
+Act 5 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	82	1					100	gld	21	Act 5 (H) Equip A	16	Act 1 (H) Junk	11	Act 5 (H) Good	2	Act 5 (H) Melee A	4	Act 5 (H) Crafting	4	Act 5 (H) Healing A	2										0
+Act 5 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	83	1					100	gld	21	Act 5 (H) Equip B	16	Act 1 (H) Junk	11	Act 5 (H) Good	2	Act 5 (H) Melee B	4	Act 5 (H) Crafting	4	Act 5 (H) Healing B	2										0
+Act 5 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	85	1					100	gld	21	Act 5 (H) Equip C	16	Act 1 (H) Junk	11	Act 5 (H) Good	2	Act 5 (H) Melee C	4	Act 5 (H) Crafting	4	Act 5 (H) Healing C	2										0
 Act 1 H2H Big A	Monster classes							7	0	-2					0	Act 1 H2H A	2																						0
 Act 1 H2H Big B	Monster classes							7	5	-2					0	Act 1 H2H B	2																						0
 Act 1 H2H Big C	Monster classes							7	9	-2					0	Act 1 H2H C	2																						0
@@ -417,43 +444,43 @@ Act 1 Cast B	Monster classes	1,25%	10,00%	160				8	5	1					100	gld	18	Act 1 Equi
 Act 1 Cast C	Monster classes	1,25%	10,00%	160				8	9	1					100	gld	18	Act 1 Equip C	16	Act 1 Junk	16	Act 1 Good	2	Act 1 Magic C	7	Jewelry C	1												0
 Act 2 Cast A	Monster classes	1,25%	10,00%	160				8	12	1					100	gld	18	Act 2 Equip A	16	Act 2 Junk	16	Act 2 Good	2	Act 2 Magic A	7	Jewelry C	1												0
 Act 2 Cast B	Monster classes	1,25%	10,00%	160				8	15	1					100	gld	18	Act 2 Equip B	16	Act 2 Junk	16	Act 2 Good	2	Act 2 Magic B	7	Jewelry C	1												0
-Act 2 Cast C	Monster classes	1,25%	10,00%	160				8	18	1					100	gld	18	Act 2 Equip C	16	Act 2 Junk	16	Act 3 Good	2	Act 2 Magic C	7	Jewelry C	1												0
-Act 3 Cast A	Monster classes	1,25%	10,00%	160				8	20	1					100	gld	18	Act 3 Equip A	16	Act 3 Junk	16	Act 3 Good	2	Act 3 Magic A	7	Jewelry C	1												0
-Act 3 Cast B	Monster classes	1,25%	10,00%	160				8	22	1					100	gld	18	Act 3 Equip B	16	Act 3 Junk	16	Act 3 Good	2	Act 3 Magic B	7	Jewelry C	1												0
-Act 3 Cast C	Monster classes	1,25%	10,00%	160				8	24	1					100	gld	18	Act 3 Equip C	16	Act 3 Junk	16	Act 3 Good	2	Act 3 Magic C	7	Jewelry C	1												0
-Act 4 Cast A	Monster classes	1,25%	10,00%	160				8	26	1					100	gld	18	Act 4 Equip A	16	Act 4 Junk	16	Act 4 Good	2	Act 4 Magic A	7	Jewelry C	1												0
-Act 4 Cast B	Monster classes	1,25%	10,00%	160				8	29	1					100	gld	18	Act 4 Equip B	16	Act 4 Junk	16	Act 4 Good	2	Act 4 Magic B	7	Jewelry C	1												0
-Act 5 Cast A	Monster classes	1,25%	10,00%	160				8	32	1					100	gld	18	Act 5 Equip A	16	Act 5 Junk	16	Act 5 Good	2	Act 5 Magic A	7	Jewelry C	1												0
-Act 5 Cast B	Monster classes	1,25%	10,00%	160				8	34	1					100	gld	18	Act 5 Equip B	16	Act 5 Junk	16	Act 5 Good	2	Act 5 Magic B	7	Jewelry C	1												0
-Act 5 Cast C	Monster classes	1,25%	10,00%	160				8	36	1					100	gld	18	Act 5 Equip C	16	Act 5 Junk	16	Act 5 Good	2	Act 5 Magic C	7	Jewelry C	1												0
-Act 1 (N) Cast A	Monster classes	1,25%	10,00%	160				8	38	1					100	gld	18	Act 1 (N) Equip A	16	Act 1 (N) Junk	16	Act 1 (N) Good	2	Act 1 (N) Magic A	7	Jewelry C	1												0
-Act 1 (N) Cast B	Monster classes	1,25%	10,00%	160				8	40	1					100	gld	18	Act 1 (N) Equip B	16	Act 1 (N) Junk	16	Act 1 (N) Good	2	Act 1 (N) Magic B	7	Jewelry C	1												0
-Act 1 (N) Cast C	Monster classes	1,25%	10,00%	160				8	41	1					100	gld	18	Act 1 (N) Equip B	16	Act 1 (N) Junk	16	Act 1 (N) Good	2	Act 1 (N) Magic B	7	Jewelry C	1												0
-Act 2 (N) Cast A	Monster classes	1,25%	10,00%	160				8	42	1					100	gld	18	Act 2 (N) Equip A	16	Act 2 (N) Junk	16	Act 2 (N) Good	2	Act 2 (N) Magic A	7	Jewelry C	1												0
-Act 2 (N) Cast B	Monster classes	1,25%	10,00%	160				8	44	1					100	gld	18	Act 2 (N) Equip B	16	Act 2 (N) Junk	16	Act 2 (N) Good	2	Act 2 (N) Magic B	7	Jewelry C	1												0
-Act 2 (N) Cast C	Monster classes	1,25%	10,00%	160				8	45	1					100	gld	18	Act 2 (N) Equip B	16	Act 2 (N) Junk	16	Act 2 (N) Good	2	Act 2 (N) Magic B	7	Jewelry C	1												0
-Act 3 (N) Cast A	Monster classes	1,25%	10,00%	160				8	46	1					100	gld	18	Act 3 (N) Equip A	16	Act 3 (N) Junk	16	Act 3 (N) Good	2	Act 3 (N) Magic A	7	Jewelry C	1												0
-Act 3 (N) Cast B	Monster classes	1,25%	10,00%	160				8	48	1					100	gld	18	Act 3 (N) Equip B	16	Act 3 (N) Junk	16	Act 3 (N) Good	2	Act 3 (N) Magic B	7	Jewelry C	1												0
-Act 3 (N) Cast C	Monster classes	1,25%	10,00%	160				8	50	1					100	gld	18	Act 3 (N) Equip B	16	Act 3 (N) Junk	16	Act 3 (N) Good	2	Act 3 (N) Magic B	7	Jewelry C	1												0
-Act 4 (N) Cast A	Monster classes	1,25%	10,00%	160				8	51	1					100	gld	18	Act 4 (N) Equip A	16	Act 4 (N) Junk	16	Act 4 (N) Good	2	Act 4 (N) Magic A	7	Jewelry C	1												0
-Act 4 (N) Cast B	Monster classes	1,25%	10,00%	160				8	54	1					100	gld	18	Act 4 (N) Equip B	16	Act 4 (N) Junk	16	Act 4 (N) Good	2	Act 4 (N) Magic B	7	Jewelry C	1												0
-Act 5 (N) Cast A	Monster classes	1,25%	10,00%	160				8	57	1					100	gld	18	Act 5 (N) Equip A	16	Act 5 (N) Junk	16	Act 5 (N) Good	2	Act 5 (N) Magic A	7	Jewelry C	1												0
-Act 5 (N) Cast B	Monster classes	1,25%	10,00%	160				8	60	1					100	gld	18	Act 5 (N) Equip B	16	Act 5 (N) Junk	16	Act 5 (N) Good	2	Act 5 (N) Magic B	7	Jewelry C	1												0
-Act 5 (N) Cast C	Monster classes	1,25%	10,00%	160				8	62	1					100	gld	18	Act 5 (N) Equip C	16	Act 5 (N) Junk	16	Act 5 (N) Good	2	Act 5 (N) Magic B	7	Jewelry C	1												0
-Act 1 (H) Cast A	Monster classes	1,25%	10,00%	160				8	63	1					100	gld	18	Act 1 (H) Equip A	16	Act 1 (H) Junk	16	Act 1 (H) Good	2	Act 1 (H) Magic A	7	Jewelry C	1												0
-Act 1 (H) Cast B	Monster classes	1,25%	10,00%	160				8	66	1					100	gld	18	Act 1 (H) Equip B	16	Act 1 (H) Junk	16	Act 1 (H) Good	2	Act 1 (H) Magic B	7	Jewelry C	1												0
-Act 1 (H) Cast C	Monster classes	1,25%	10,00%	160				8	68	1					100	gld	18	Act 1 (H) Equip B	16	Act 1 (H) Junk	16	Act 1 (H) Good	2	Act 1 (H) Magic B	7	Jewelry C	1												0
-Act 2 (H) Cast A	Monster classes	1,25%	10,00%	160				8	69	1					100	gld	18	Act 2 (H) Equip A	16	Act 1 (H) Junk	16	Act 2 (H) Good	2	Act 2 (H) Magic A	7	Jewelry C	1												0
-Act 2 (H) Cast B	Monster classes	1,25%	10,00%	160				8	71	1					100	gld	18	Act 2 (H) Equip B	16	Act 1 (H) Junk	16	Act 2 (H) Good	2	Act 2 (H) Magic B	7	Jewelry C	1												0
-Act 2 (H) Cast C	Monster classes	1,25%	10,00%	160				8	72	1					100	gld	18	Act 2 (H) Equip B	16	Act 1 (H) Junk	16	Act 2 (H) Good	2	Act 2 (H) Magic B	7	Jewelry C	1												0
-Act 3 (H) Cast A	Monster classes	1,25%	10,00%	160				8	74	1					100	gld	18	Act 3 (H) Equip A	16	Act 1 (H) Junk	16	Act 3 (H) Good	2	Act 3 (H) Magic A	7	Jewelry C	1												0
-Act 3 (H) Cast B	Monster classes	1,25%	10,00%	160				8	75	1					100	gld	18	Act 3 (H) Equip B	16	Act 1 (H) Junk	16	Act 3 (H) Good	2	Act 3 (H) Magic B	7	Jewelry C	1												0
-Act 3 (H) Cast C	Monster classes	1,25%	10,00%	160				8	77	1					100	gld	18	Act 3 (H) Equip B	16	Act 1 (H) Junk	16	Act 3 (H) Good	2	Act 3 (H) Magic B	7	Jewelry C	1												0
-Act 4 (H) Cast A	Monster classes	1,25%	10,00%	160				8	78	1					100	gld	18	Act 4 (H) Equip A	16	Act 1 (H) Junk	16	Act 4 (H) Good	2	Act 4 (H) Magic A	7	Jewelry C	1												0
-Act 4 (H) Cast B	Monster classes	1,25%	10,00%	160				8	80	1					100	gld	18	Act 4 (H) Equip B	16	Act 1 (H) Junk	16	Act 4 (H) Good	2	Act 4 (H) Magic B	7	Jewelry C	1												0
-Act 5 (H) Cast A	Monster classes	1,25%	10,00%	160				8	81	1					100	gld	18	Act 5 (H) Equip A	16	Act 1 (H) Junk	16	Act 5 (H) Good	2	Act 5 (H) Magic A	7	Jewelry C	1												0
-Act 5 (H) Cast B	Monster classes	1,25%	10,00%	160				8	83	1					100	gld	18	Act 5 (H) Equip B	16	Act 1 (H) Junk	16	Act 5 (H) Good	2	Act 5 (H) Magic B	7	Jewelry C	1												0
-Act 5 (H) Cast C	Monster classes	1,25%	10,00%	160				8	85	1					100	gld	18	Act 5 (H) Equip C	16	Act 1 (H) Junk	16	Act 5 (H) Good	2	Act 5 (H) Magic B	7	Jewelry C	1												0
+Act 2 Cast C	Monster classes	1,25%	10,00%	160				8	18	1					100	gld	18	Act 2 Equip C	16	Act 2 Junk	14	Act 3 Good	2	Act 2 Magic C	7	Act 3 Crafting	2	Jewelry C	1										0
+Act 3 Cast A	Monster classes	1,25%	10,00%	160				8	20	1					100	gld	18	Act 3 Equip A	16	Act 3 Junk	12	Act 3 Good	2	Act 3 Magic A	7	Act 3 Crafting	4	Jewelry C	1										0
+Act 3 Cast B	Monster classes	1,25%	10,00%	160				8	22	1					100	gld	18	Act 3 Equip B	16	Act 3 Junk	12	Act 3 Good	2	Act 3 Magic B	7	Act 3 Crafting	4	Jewelry C	1										0
+Act 3 Cast C	Monster classes	1,25%	10,00%	160				8	24	1					100	gld	18	Act 3 Equip C	16	Act 3 Junk	12	Act 3 Good	2	Act 3 Magic C	7	Act 3 Crafting	4	Jewelry C	1										0
+Act 4 Cast A	Monster classes	1,25%	10,00%	160				8	26	1					100	gld	18	Act 4 Equip A	16	Act 4 Junk	12	Act 4 Good	2	Act 4 Magic A	7	Act 4 Crafting	4	Jewelry C	1										0
+Act 4 Cast B	Monster classes	1,25%	10,00%	160				8	29	1					100	gld	18	Act 4 Equip B	16	Act 4 Junk	12	Act 4 Good	2	Act 4 Magic B	7	Act 4 Crafting	4	Jewelry C	1										0
+Act 5 Cast A	Monster classes	1,25%	10,00%	160				8	32	1					100	gld	18	Act 5 Equip A	16	Act 5 Junk	12	Act 5 Good	2	Act 5 Magic A	7	Act 5 Crafting	4	Jewelry C	1										0
+Act 5 Cast B	Monster classes	1,25%	10,00%	160				8	34	1					100	gld	18	Act 5 Equip B	16	Act 5 Junk	12	Act 5 Good	2	Act 5 Magic B	7	Act 5 Crafting	4	Jewelry C	1										0
+Act 5 Cast C	Monster classes	1,25%	10,00%	160				8	36	1					100	gld	18	Act 5 Equip C	16	Act 5 Junk	12	Act 5 Good	2	Act 5 Magic C	7	Act 5 Crafting	4	Jewelry C	1										0
+Act 1 (N) Cast A	Monster classes	1,25%	10,00%	160				8	38	1					100	gld	18	Act 1 (N) Equip A	16	Act 1 (N) Junk	12	Act 1 (N) Good	2	Act 1 (N) Magic A	7	Act 1 (N) Crafting	4	Jewelry C	1										0
+Act 1 (N) Cast B	Monster classes	1,25%	10,00%	160				8	40	1					100	gld	18	Act 1 (N) Equip B	16	Act 1 (N) Junk	12	Act 1 (N) Good	2	Act 1 (N) Magic B	7	Act 1 (N) Crafting	4	Jewelry C	1										0
+Act 1 (N) Cast C	Monster classes	1,25%	10,00%	160				8	41	1					100	gld	18	Act 1 (N) Equip B	16	Act 1 (N) Junk	12	Act 1 (N) Good	2	Act 1 (N) Magic B	7	Act 1 (N) Crafting	4	Jewelry C	1										0
+Act 2 (N) Cast A	Monster classes	1,25%	10,00%	160				8	42	1					100	gld	18	Act 2 (N) Equip A	16	Act 2 (N) Junk	12	Act 2 (N) Good	2	Act 2 (N) Magic A	7	Act 2 (N) Crafting	4	Jewelry C	1										0
+Act 2 (N) Cast B	Monster classes	1,25%	10,00%	160				8	44	1					100	gld	18	Act 2 (N) Equip B	16	Act 2 (N) Junk	12	Act 2 (N) Good	2	Act 2 (N) Magic B	7	Act 2 (N) Crafting	4	Jewelry C	1										0
+Act 2 (N) Cast C	Monster classes	1,25%	10,00%	160				8	45	1					100	gld	18	Act 2 (N) Equip B	16	Act 2 (N) Junk	12	Act 2 (N) Good	2	Act 2 (N) Magic B	7	Act 2 (N) Crafting	4	Jewelry C	1										0
+Act 3 (N) Cast A	Monster classes	1,25%	10,00%	160				8	46	1					100	gld	18	Act 3 (N) Equip A	16	Act 3 (N) Junk	12	Act 3 (N) Good	2	Act 3 (N) Magic A	7	Act 3 (N) Crafting	4	Jewelry C	1										0
+Act 3 (N) Cast B	Monster classes	1,25%	10,00%	160				8	48	1					100	gld	18	Act 3 (N) Equip B	16	Act 3 (N) Junk	12	Act 3 (N) Good	2	Act 3 (N) Magic B	7	Act 3 (N) Crafting	4	Jewelry C	1										0
+Act 3 (N) Cast C	Monster classes	1,25%	10,00%	160				8	50	1					100	gld	18	Act 3 (N) Equip B	16	Act 3 (N) Junk	12	Act 3 (N) Good	2	Act 3 (N) Magic B	7	Act 3 (N) Crafting	4	Jewelry C	1										0
+Act 4 (N) Cast A	Monster classes	1,25%	10,00%	160				8	51	1					100	gld	18	Act 4 (N) Equip A	16	Act 4 (N) Junk	12	Act 4 (N) Good	2	Act 4 (N) Magic A	7	Act 4 (N) Crafting	4	Jewelry C	1										0
+Act 4 (N) Cast B	Monster classes	1,25%	10,00%	160				8	54	1					100	gld	18	Act 4 (N) Equip B	16	Act 4 (N) Junk	12	Act 4 (N) Good	2	Act 4 (N) Magic B	7	Act 4 (N) Crafting	4	Jewelry C	1										0
+Act 5 (N) Cast A	Monster classes	1,25%	10,00%	160				8	57	1					100	gld	18	Act 5 (N) Equip A	16	Act 5 (N) Junk	12	Act 5 (N) Good	2	Act 5 (N) Magic A	7	Act 5 (N) Crafting	4	Jewelry C	1										0
+Act 5 (N) Cast B	Monster classes	1,25%	10,00%	160				8	60	1					100	gld	18	Act 5 (N) Equip B	16	Act 5 (N) Junk	12	Act 5 (N) Good	2	Act 5 (N) Magic B	7	Act 5 (N) Crafting	4	Jewelry C	1										0
+Act 5 (N) Cast C	Monster classes	1,25%	10,00%	160				8	62	1					100	gld	18	Act 5 (N) Equip C	16	Act 5 (N) Junk	12	Act 5 (N) Good	2	Act 5 (N) Magic B	7	Act 5 (N) Crafting	4	Jewelry C	1										0
+Act 1 (H) Cast A	Monster classes	1,25%	10,00%	160				8	63	1					100	gld	18	Act 1 (H) Equip A	16	Act 1 (H) Junk	12	Act 1 (H) Good	2	Act 1 (H) Magic A	7	Act 1 (H) Crafting	4	Jewelry C	1										0
+Act 1 (H) Cast B	Monster classes	1,25%	10,00%	160				8	66	1					100	gld	18	Act 1 (H) Equip B	16	Act 1 (H) Junk	12	Act 1 (H) Good	2	Act 1 (H) Magic B	7	Act 1 (H) Crafting	4	Jewelry C	1										0
+Act 1 (H) Cast C	Monster classes	1,25%	10,00%	160				8	68	1					100	gld	18	Act 1 (H) Equip B	16	Act 1 (H) Junk	12	Act 1 (H) Good	2	Act 1 (H) Magic B	7	Act 1 (H) Crafting	4	Jewelry C	1										0
+Act 2 (H) Cast A	Monster classes	1,25%	10,00%	160				8	69	1					100	gld	18	Act 2 (H) Equip A	16	Act 1 (H) Junk	12	Act 2 (H) Good	2	Act 2 (H) Magic A	7	Act 2 (H) Crafting	4	Jewelry C	1										0
+Act 2 (H) Cast B	Monster classes	1,25%	10,00%	160				8	71	1					100	gld	18	Act 2 (H) Equip B	16	Act 1 (H) Junk	12	Act 2 (H) Good	2	Act 2 (H) Magic B	7	Act 2 (H) Crafting	4	Jewelry C	1										0
+Act 2 (H) Cast C	Monster classes	1,25%	10,00%	160				8	72	1					100	gld	18	Act 2 (H) Equip B	16	Act 1 (H) Junk	12	Act 2 (H) Good	2	Act 2 (H) Magic B	7	Act 2 (H) Crafting	4	Jewelry C	1										0
+Act 3 (H) Cast A	Monster classes	1,25%	10,00%	160				8	74	1					100	gld	18	Act 3 (H) Equip A	16	Act 1 (H) Junk	12	Act 3 (H) Good	2	Act 3 (H) Magic A	7	Act 3 (H) Crafting	4	Jewelry C	1										0
+Act 3 (H) Cast B	Monster classes	1,25%	10,00%	160				8	75	1					100	gld	18	Act 3 (H) Equip B	16	Act 1 (H) Junk	12	Act 3 (H) Good	2	Act 3 (H) Magic B	7	Act 3 (H) Crafting	4	Jewelry C	1										0
+Act 3 (H) Cast C	Monster classes	1,25%	10,00%	160				8	77	1					100	gld	18	Act 3 (H) Equip B	16	Act 1 (H) Junk	12	Act 3 (H) Good	2	Act 3 (H) Magic B	7	Act 3 (H) Crafting	4	Jewelry C	1										0
+Act 4 (H) Cast A	Monster classes	1,25%	10,00%	160				8	78	1					100	gld	18	Act 4 (H) Equip A	16	Act 1 (H) Junk	12	Act 4 (H) Good	2	Act 4 (H) Magic A	7	Act 4 (H) Crafting	4	Jewelry C	1										0
+Act 4 (H) Cast B	Monster classes	1,25%	10,00%	160				8	80	1					100	gld	18	Act 4 (H) Equip B	16	Act 1 (H) Junk	12	Act 4 (H) Good	2	Act 4 (H) Magic B	7	Act 4 (H) Crafting	4	Jewelry C	1										0
+Act 5 (H) Cast A	Monster classes	1,25%	10,00%	160				8	81	1					100	gld	18	Act 5 (H) Equip A	16	Act 1 (H) Junk	12	Act 5 (H) Good	2	Act 5 (H) Magic A	7	Act 5 (H) Crafting	4	Jewelry C	1										0
+Act 5 (H) Cast B	Monster classes	1,25%	10,00%	160				8	83	1					100	gld	18	Act 5 (H) Equip B	16	Act 1 (H) Junk	12	Act 5 (H) Good	2	Act 5 (H) Magic B	7	Act 5 (H) Crafting	4	Jewelry C	1										0
+Act 5 (H) Cast C	Monster classes	1,25%	10,00%	160				8	85	1					100	gld	18	Act 5 (H) Equip C	16	Act 1 (H) Junk	12	Act 5 (H) Good	2	Act 5 (H) Magic B	7	Act 5 (H) Crafting	4	Jewelry C	1										0
 Act 1 Cast Big A	Monster classes							8	0	-2					0	Act 1 Cast A	2																						0
 Act 1 Cast Big B	Monster classes							8	5	-2					0	Act 1 Cast B	2																						0
 Act 1 Cast Big C	Monster classes							8	9	-2					0	Act 1 Cast C	2																						0
@@ -501,43 +528,43 @@ Act 1 Miss B	Monster classes	1,25%	10,00%					9	5	1					100	gld	18	Act 1 Equip B
 Act 1 Miss C	Monster classes	1,25%	10,00%					9	9	1					100	gld	18	Act 1 Equip C	16	Act 1 Junk	16	Act 1 Good	2	Act 1 Bow C	4	Ammo	4												0
 Act 2 Miss A	Monster classes	1,25%	10,00%					9	12	1					100	gld	18	Act 2 Equip A	16	Act 2 Junk	16	Act 2 Good	2	Act 2 Bow A	4	Ammo	4												0
 Act 2 Miss B	Monster classes	1,25%	10,00%					9	15	1					100	gld	18	Act 2 Equip B	16	Act 2 Junk	16	Act 2 Good	2	Act 2 Bow B	4	Ammo	4												0
-Act 2 Miss C	Monster classes	1,25%	10,00%					9	18	1					100	gld	18	Act 2 Equip C	16	Act 2 Junk	16	Act 3 Good	2	Act 2 Bow C	4	Ammo	4												0
-Act 3 Miss A	Monster classes	1,25%	10,00%					9	20	1					100	gld	18	Act 3 Equip A	16	Act 3 Junk	16	Act 3 Good	2	Act 3 Bow A	4	Ammo	4												0
-Act 3 Miss B	Monster classes	1,25%	10,00%					9	22	1					100	gld	18	Act 3 Equip B	16	Act 3 Junk	16	Act 3 Good	2	Act 3 Bow B	4	Ammo	4												0
-Act 3 Miss C	Monster classes	1,25%	10,00%					9	24	1					100	gld	18	Act 3 Equip C	16	Act 3 Junk	16	Act 3 Good	2	Act 3 Bow C	4	Ammo	4												0
-Act 4 Miss A	Monster classes	1,25%	10,00%					9	26	1					100	gld	18	Act 4 Equip A	16	Act 4 Junk	16	Act 4 Good	2	Act 4 Bow A	4	Ammo	4												0
-Act 4 Miss B	Monster classes	1,25%	10,00%					9	29	1					100	gld	18	Act 4 Equip B	16	Act 4 Junk	16	Act 4 Good	2	Act 4 Bow B	4	Ammo	4												0
-Act 5 Miss A	Monster classes	1,25%	10,00%					9	32	1					100	gld	18	Act 5 Equip A	16	Act 5 Junk	16	Act 5 Good	2	Act 5 Bow A	4	Ammo	4												0
-Act 5 Miss B	Monster classes	1,25%	10,00%					9	34	1					100	gld	18	Act 5 Equip B	16	Act 5 Junk	16	Act 5 Good	2	Act 5 Bow B	4	Ammo	4												0
-Act 5 Miss C	Monster classes	1,25%	10,00%					9	36	1					100	gld	18	Act 5 Equip C	16	Act 5 Junk	16	Act 5 Good	2	Act 5 Bow B	4	Ammo	4												0
-Act 1 (N) Miss A	Monster classes	1,25%	10,00%					9	38	1					100	gld	18	Act 1 (N) Equip A	16	Act 1 (N) Junk	16	Act 1 (N) Good	2	Act 1 (N) Bow A	4	Ammo	4												0
-Act 1 (N) Miss B	Monster classes	1,25%	10,00%					9	40	1					100	gld	18	Act 1 (N) Equip B	16	Act 1 (N) Junk	16	Act 1 (N) Good	2	Act 1 (N) Bow B	4	Ammo	4												0
-Act 1 (N) Miss C	Monster classes	1,25%	10,00%					9	41	1					100	gld	18	Act 1 (N) Equip B	16	Act 1 (N) Junk	16	Act 1 (N) Good	2	Act 1 (N) Bow B	4	Ammo	4												0
-Act 2 (N) Miss A	Monster classes	1,25%	10,00%					9	42	1					100	gld	18	Act 2 (N) Equip A	16	Act 2 (N) Junk	16	Act 2 (N) Good	2	Act 2 (N) Bow A	4	Ammo	4												0
-Act 2 (N) Miss B	Monster classes	1,25%	10,00%					9	44	1					100	gld	18	Act 2 (N) Equip B	16	Act 2 (N) Junk	16	Act 2 (N) Good	2	Act 2 (N) Bow B	4	Ammo	4												0
-Act 2 (N) Miss C	Monster classes	1,25%	10,00%					9	45	1					100	gld	18	Act 2 (N) Equip B	16	Act 2 (N) Junk	16	Act 2 (N) Good	2	Act 2 (N) Bow B	4	Ammo	4												0
-Act 3 (N) Miss A	Monster classes	1,25%	10,00%					9	46	1					100	gld	18	Act 3 (N) Equip A	16	Act 3 (N) Junk	16	Act 3 (N) Good	2	Act 3 (N) Bow A	4	Ammo	4												0
-Act 3 (N) Miss B	Monster classes	1,25%	10,00%					9	48	1					100	gld	18	Act 3 (N) Equip B	16	Act 3 (N) Junk	16	Act 3 (N) Good	2	Act 3 (N) Bow B	4	Ammo	4												0
-Act 3 (N) Miss C	Monster classes	1,25%	10,00%					9	50	1					100	gld	18	Act 3 (N) Equip B	16	Act 3 (N) Junk	16	Act 3 (N) Good	2	Act 3 (N) Bow B	4	Ammo	4												0
-Act 4 (N) Miss A	Monster classes	1,25%	10,00%					9	51	1					100	gld	18	Act 4 (N) Equip A	16	Act 4 (N) Junk	16	Act 4 (N) Good	2	Act 4 (N) Bow A	4	Ammo	4												0
-Act 4 (N) Miss B	Monster classes	1,25%	10,00%					9	54	1					100	gld	18	Act 4 (N) Equip B	16	Act 4 (N) Junk	16	Act 4 (N) Good	2	Act 4 (N) Bow B	4	Ammo	4												0
-Act 5 (N) Miss A	Monster classes	1,25%	10,00%					9	57	1					100	gld	18	Act 5 (N) Equip A	16	Act 5 (N) Junk	16	Act 5 (N) Good	2	Act 5 (N) Bow A	4	Ammo	4												0
-Act 5 (N) Miss B	Monster classes	1,25%	10,00%					9	60	1					100	gld	18	Act 5 (N) Equip B	16	Act 5 (N) Junk	16	Act 5 (N) Good	2	Act 5 (N) Bow B	4	Ammo	4												0
-Act 5 (N) Miss C	Monster classes	1,25%	10,00%					9	62	1					100	gld	18	Act 5 (N) Equip C	16	Act 5 (N) Junk	16	Act 5 (N) Good	2	Act 5 (N) Bow B	4	Ammo	4												0
-Act 1 (H) Miss A	Monster classes	1,25%	10,00%					9	63	1					100	gld	18	Act 1 (H) Equip A	16	Act 1 (H) Junk	16	Act 1 (H) Good	2	Act 1 (H) Bow A	4	Ammo	4												0
-Act 1 (H) Miss B	Monster classes	1,25%	10,00%					9	66	1					100	gld	18	Act 1 (H) Equip B	16	Act 1 (H) Junk	16	Act 1 (H) Good	2	Act 1 (H) Bow B	4	Ammo	4												0
-Act 1 (H) Miss C	Monster classes	1,25%	10,00%					9	68	1					100	gld	18	Act 1 (H) Equip B	16	Act 1 (H) Junk	16	Act 1 (H) Good	2	Act 1 (H) Bow B	4	Ammo	4												0
-Act 2 (H) Miss A	Monster classes	1,25%	10,00%					9	69	1					100	gld	18	Act 2 (H) Equip A	16	Act 1 (H) Junk	16	Act 2 (H) Good	2	Act 2 (H) Bow A	4	Ammo	4												0
-Act 2 (H) Miss B	Monster classes	1,25%	10,00%					9	71	1					100	gld	18	Act 2 (H) Equip B	16	Act 1 (H) Junk	16	Act 2 (H) Good	2	Act 2 (H) Bow B	4	Ammo	4												0
-Act 2 (H) Miss C	Monster classes	1,25%	10,00%					9	72	1					100	gld	18	Act 2 (H) Equip B	16	Act 1 (H) Junk	16	Act 2 (H) Good	2	Act 2 (H) Bow B	4	Ammo	4												0
-Act 3 (H) Miss A	Monster classes	1,25%	10,00%					9	74	1					100	gld	18	Act 3 (H) Equip A	16	Act 1 (H) Junk	16	Act 3 (H) Good	2	Act 3 (H) Bow A	4	Ammo	4												0
-Act 3 (H) Miss B	Monster classes	1,25%	10,00%					9	75	1					100	gld	18	Act 3 (H) Equip B	16	Act 1 (H) Junk	16	Act 3 (H) Good	2	Act 3 (H) Bow B	4	Ammo	4												0
-Act 3 (H) Miss C	Monster classes	1,25%	10,00%					9	77	1					100	gld	18	Act 3 (H) Equip B	16	Act 1 (H) Junk	16	Act 3 (H) Good	2	Act 3 (H) Bow B	4	Ammo	4												0
-Act 4 (H) Miss A	Monster classes	1,25%	10,00%					9	78	1					100	gld	18	Act 4 (H) Equip A	16	Act 1 (H) Junk	16	Act 4 (H) Good	2	Act 4 (H) Bow A	4	Ammo	4												0
-Act 4 (H) Miss B	Monster classes	1,25%	10,00%					9	80	1					100	gld	18	Act 4 (H) Equip B	16	Act 1 (H) Junk	16	Act 4 (H) Good	2	Act 4 (H) Bow B	4	Ammo	4												0
-Act 5 (H) Miss A	Monster classes	1,25%	10,00%					9	81	1					100	gld	18	Act 5 (H) Equip A	16	Act 1 (H) Junk	16	Act 5 (H) Good	2	Act 5 (H) Bow A	4	Ammo	4												0
-Act 5 (H) Miss B	Monster classes	1,25%	10,00%					9	83	1					100	gld	18	Act 5 (H) Equip B	16	Act 1 (H) Junk	16	Act 5 (H) Good	2	Act 5 (H) Bow B	4	Ammo	4												0
-Act 5 (H) Miss C	Monster classes	1,25%	10,00%					9	85	1					100	gld	18	Act 5 (H) Equip C	16	Act 1 (H) Junk	16	Act 5 (H) Good	2	Act 5 (H) Bow B	4	Ammo	4												0
+Act 2 Miss C	Monster classes	1,25%	10,00%					9	18	1					100	gld	18	Act 2 Equip C	16	Act 2 Junk	14	Act 3 Good	2	Act 2 Bow C	4	Act 3 Crafting	2	Ammo	4										0
+Act 3 Miss A	Monster classes	1,25%	10,00%					9	20	1					100	gld	18	Act 3 Equip A	16	Act 3 Junk	12	Act 3 Good	2	Act 3 Bow A	4	Act 3 Crafting	4	Ammo	4										0
+Act 3 Miss B	Monster classes	1,25%	10,00%					9	22	1					100	gld	18	Act 3 Equip B	16	Act 3 Junk	12	Act 3 Good	2	Act 3 Bow B	4	Act 3 Crafting	4	Ammo	4										0
+Act 3 Miss C	Monster classes	1,25%	10,00%					9	24	1					100	gld	18	Act 3 Equip C	16	Act 3 Junk	12	Act 3 Good	2	Act 3 Bow C	4	Act 3 Crafting	4	Ammo	4										0
+Act 4 Miss A	Monster classes	1,25%	10,00%					9	26	1					100	gld	18	Act 4 Equip A	16	Act 4 Junk	12	Act 4 Good	2	Act 4 Bow A	4	Act 4 Crafting	4	Ammo	4										0
+Act 4 Miss B	Monster classes	1,25%	10,00%					9	29	1					100	gld	18	Act 4 Equip B	16	Act 4 Junk	12	Act 4 Good	2	Act 4 Bow B	4	Act 4 Crafting	4	Ammo	4										0
+Act 5 Miss A	Monster classes	1,25%	10,00%					9	32	1					100	gld	18	Act 5 Equip A	16	Act 5 Junk	12	Act 5 Good	2	Act 5 Bow A	4	Act 5 Crafting	4	Ammo	4										0
+Act 5 Miss B	Monster classes	1,25%	10,00%					9	34	1					100	gld	18	Act 5 Equip B	16	Act 5 Junk	12	Act 5 Good	2	Act 5 Bow B	4	Act 5 Crafting	4	Ammo	4										0
+Act 5 Miss C	Monster classes	1,25%	10,00%					9	36	1					100	gld	18	Act 5 Equip C	16	Act 5 Junk	12	Act 5 Good	2	Act 5 Bow B	4	Act 5 Crafting	4	Ammo	4										0
+Act 1 (N) Miss A	Monster classes	1,25%	10,00%					9	38	1					100	gld	18	Act 1 (N) Equip A	16	Act 1 (N) Junk	12	Act 1 (N) Good	2	Act 1 (N) Bow A	4	Act 1 (N) Crafting	4	Ammo	4										0
+Act 1 (N) Miss B	Monster classes	1,25%	10,00%					9	40	1					100	gld	18	Act 1 (N) Equip B	16	Act 1 (N) Junk	12	Act 1 (N) Good	2	Act 1 (N) Bow B	4	Act 1 (N) Crafting	4	Ammo	4										0
+Act 1 (N) Miss C	Monster classes	1,25%	10,00%					9	41	1					100	gld	18	Act 1 (N) Equip B	16	Act 1 (N) Junk	12	Act 1 (N) Good	2	Act 1 (N) Bow B	4	Act 1 (N) Crafting	4	Ammo	4										0
+Act 2 (N) Miss A	Monster classes	1,25%	10,00%					9	42	1					100	gld	18	Act 2 (N) Equip A	16	Act 2 (N) Junk	12	Act 2 (N) Good	2	Act 2 (N) Bow A	4	Act 2 (N) Crafting	4	Ammo	4										0
+Act 2 (N) Miss B	Monster classes	1,25%	10,00%					9	44	1					100	gld	18	Act 2 (N) Equip B	16	Act 2 (N) Junk	12	Act 2 (N) Good	2	Act 2 (N) Bow B	4	Act 2 (N) Crafting	4	Ammo	4										0
+Act 2 (N) Miss C	Monster classes	1,25%	10,00%					9	45	1					100	gld	18	Act 2 (N) Equip B	16	Act 2 (N) Junk	12	Act 2 (N) Good	2	Act 2 (N) Bow B	4	Act 2 (N) Crafting	4	Ammo	4										0
+Act 3 (N) Miss A	Monster classes	1,25%	10,00%					9	46	1					100	gld	18	Act 3 (N) Equip A	16	Act 3 (N) Junk	12	Act 3 (N) Good	2	Act 3 (N) Bow A	4	Act 3 (N) Crafting	4	Ammo	4										0
+Act 3 (N) Miss B	Monster classes	1,25%	10,00%					9	48	1					100	gld	18	Act 3 (N) Equip B	16	Act 3 (N) Junk	12	Act 3 (N) Good	2	Act 3 (N) Bow B	4	Act 3 (N) Crafting	4	Ammo	4										0
+Act 3 (N) Miss C	Monster classes	1,25%	10,00%					9	50	1					100	gld	18	Act 3 (N) Equip B	16	Act 3 (N) Junk	12	Act 3 (N) Good	2	Act 3 (N) Bow B	4	Act 3 (N) Crafting	4	Ammo	4										0
+Act 4 (N) Miss A	Monster classes	1,25%	10,00%					9	51	1					100	gld	18	Act 4 (N) Equip A	16	Act 4 (N) Junk	12	Act 4 (N) Good	2	Act 4 (N) Bow A	4	Act 4 (N) Crafting	4	Ammo	4										0
+Act 4 (N) Miss B	Monster classes	1,25%	10,00%					9	54	1					100	gld	18	Act 4 (N) Equip B	16	Act 4 (N) Junk	12	Act 4 (N) Good	2	Act 4 (N) Bow B	4	Act 4 (N) Crafting	4	Ammo	4										0
+Act 5 (N) Miss A	Monster classes	1,25%	10,00%					9	57	1					100	gld	18	Act 5 (N) Equip A	16	Act 5 (N) Junk	12	Act 5 (N) Good	2	Act 5 (N) Bow A	4	Act 5 (N) Crafting	4	Ammo	4										0
+Act 5 (N) Miss B	Monster classes	1,25%	10,00%					9	60	1					100	gld	18	Act 5 (N) Equip B	16	Act 5 (N) Junk	12	Act 5 (N) Good	2	Act 5 (N) Bow B	4	Act 5 (N) Crafting	4	Ammo	4										0
+Act 5 (N) Miss C	Monster classes	1,25%	10,00%					9	62	1					100	gld	18	Act 5 (N) Equip C	16	Act 5 (N) Junk	12	Act 5 (N) Good	2	Act 5 (N) Bow B	4	Act 5 (N) Crafting	4	Ammo	4										0
+Act 1 (H) Miss A	Monster classes	1,25%	10,00%					9	63	1					100	gld	18	Act 1 (H) Equip A	16	Act 1 (H) Junk	12	Act 1 (H) Good	2	Act 1 (H) Bow A	4	Act 1 (H) Crafting	4	Ammo	4										0
+Act 1 (H) Miss B	Monster classes	1,25%	10,00%					9	66	1					100	gld	18	Act 1 (H) Equip B	16	Act 1 (H) Junk	12	Act 1 (H) Good	2	Act 1 (H) Bow B	4	Act 1 (H) Crafting	4	Ammo	4										0
+Act 1 (H) Miss C	Monster classes	1,25%	10,00%					9	68	1					100	gld	18	Act 1 (H) Equip B	16	Act 1 (H) Junk	12	Act 1 (H) Good	2	Act 1 (H) Bow B	4	Act 1 (H) Crafting	4	Ammo	4										0
+Act 2 (H) Miss A	Monster classes	1,25%	10,00%					9	69	1					100	gld	18	Act 2 (H) Equip A	16	Act 1 (H) Junk	12	Act 2 (H) Good	2	Act 2 (H) Bow A	4	Act 2 (H) Crafting	4	Ammo	4										0
+Act 2 (H) Miss B	Monster classes	1,25%	10,00%					9	71	1					100	gld	18	Act 2 (H) Equip B	16	Act 1 (H) Junk	12	Act 2 (H) Good	2	Act 2 (H) Bow B	4	Act 2 (H) Crafting	4	Ammo	4										0
+Act 2 (H) Miss C	Monster classes	1,25%	10,00%					9	72	1					100	gld	18	Act 2 (H) Equip B	16	Act 1 (H) Junk	12	Act 2 (H) Good	2	Act 2 (H) Bow B	4	Act 2 (H) Crafting	4	Ammo	4										0
+Act 3 (H) Miss A	Monster classes	1,25%	10,00%					9	74	1					100	gld	18	Act 3 (H) Equip A	16	Act 1 (H) Junk	12	Act 3 (H) Good	2	Act 3 (H) Bow A	4	Act 3 (H) Crafting	4	Ammo	4										0
+Act 3 (H) Miss B	Monster classes	1,25%	10,00%					9	75	1					100	gld	18	Act 3 (H) Equip B	16	Act 1 (H) Junk	12	Act 3 (H) Good	2	Act 3 (H) Bow B	4	Act 3 (H) Crafting	4	Ammo	4										0
+Act 3 (H) Miss C	Monster classes	1,25%	10,00%					9	77	1					100	gld	18	Act 3 (H) Equip B	16	Act 1 (H) Junk	12	Act 3 (H) Good	2	Act 3 (H) Bow B	4	Act 3 (H) Crafting	4	Ammo	4										0
+Act 4 (H) Miss A	Monster classes	1,25%	10,00%					9	78	1					100	gld	18	Act 4 (H) Equip A	16	Act 1 (H) Junk	12	Act 4 (H) Good	2	Act 4 (H) Bow A	4	Act 4 (H) Crafting	4	Ammo	4										0
+Act 4 (H) Miss B	Monster classes	1,25%	10,00%					9	80	1					100	gld	18	Act 4 (H) Equip B	16	Act 1 (H) Junk	12	Act 4 (H) Good	2	Act 4 (H) Bow B	4	Act 4 (H) Crafting	4	Ammo	4										0
+Act 5 (H) Miss A	Monster classes	1,25%	10,00%					9	81	1					100	gld	18	Act 5 (H) Equip A	16	Act 1 (H) Junk	12	Act 5 (H) Good	2	Act 5 (H) Bow A	4	Act 5 (H) Crafting	4	Ammo	4										0
+Act 5 (H) Miss B	Monster classes	1,25%	10,00%					9	83	1					100	gld	18	Act 5 (H) Equip B	16	Act 1 (H) Junk	12	Act 5 (H) Good	2	Act 5 (H) Bow B	4	Act 5 (H) Crafting	4	Ammo	4										0
+Act 5 (H) Miss C	Monster classes	1,25%	10,00%					9	85	1					100	gld	18	Act 5 (H) Equip C	16	Act 1 (H) Junk	12	Act 5 (H) Good	2	Act 5 (H) Bow B	4	Act 5 (H) Crafting	4	Ammo	4										0
 Act 1 Miss Big A	Monster classes							9	0	-2					0	Act 1 Miss A	2																						0
 Act 1 Miss Big B	Monster classes							9	5	-2					0	Act 1 Miss B	2																						0
 Act 1 Miss Big C	Monster classes							9	9	-2					0	Act 1 Miss C	2																						0
@@ -649,9 +676,9 @@ Flying Scimitar (H)	Special Drops									1					100	Act 2 (H) Good	3	scm	7	9sm	1
 Trapped Soul	Special Drops									1					100	gld	19	Act 4 Equip A	8	Act 4 Junk	33																		0
 Trapped Soul (N)	Special Drops									1					100	gld	19	Act 4 (N) Equip A	8	Act 4 (N) Junk	33																		0
 Trapped Soul (H)	Special Drops									1					100	gld	19	Act 4 (H) Equip A	8	Act 4 (H) Junk	33																		0
-Cow	Special Drops									1					100	gld	19	Act 5 Equip A	19	Act 5 Junk	19	Act 5 Good	3																0
-Cow (N)	Special Drops									1					100	gld	19	Act 5 (N) Equip A	19	Act 5 (N) Junk	19	Act 5 (N) Good	3																0
-Cow (H)	Special Drops									1					100	gld	19	Act 5 (H) Equip B	19	Act 5 (H) Junk	19	Act 5 (H) Good	3																0
+Cow	Special Drops									1					100	gld	19	Act 5 Equip A	19	Act 5 Junk	19	Act 5 Good	3	Act 5 Crafting	6														0
+Cow (N)	Special Drops									1					100	gld	19	Act 5 (N) Equip A	19	Act 5 (N) Junk	19	Act 5 (N) Good	3	Act 5 (N) Crafting	6														0
+Cow (H)	Special Drops									1					100	gld	19	Act 5 (H) Equip B	19	Act 5 (H) Junk	19	Act 5 (H) Good	3	Act 5 (H) Crafting	6														0
 Act 1 Cpot A	Deprecated							12	0	2					0	Hpotion 1	1																						0
 Act 1 Cpot B	Deprecated							12	5	2					0	Hpotion 1	1																						0
 Act 1 Cpot C	Deprecated							12	9	2					0	Hpotion 1	1																						0
@@ -701,41 +728,41 @@ Act 2 Citem A	Champions		68,03%					11	12	1					19	Act 2 Equip A	37	Act 2 Good	3
 Act 2 Citem B	Champions		68,49%					11	15	1					18	Act 2 Equip B	37	Act 2 Good	3																				0
 Act 2 Citem C	Champions		68,97%					11	18	1					18	Act 2 Equip C	37	Act 3 Good	3																				0
 Act 3 Citem A	Champions		69,44%					11	20	1					18	Act 3 Equip A	37	Act 3 Good	3																				0
-Act 3 Citem B	Champions		69,93%					11	22	1					17	Act 3 Equip B	37	Act 3 Good	3																				0
-Act 3 Citem C	Champions		70,42%					11	24	1					17	Act 3 Equip C	37	Act 3 Good	3																				0
-Act 4 Citem A	Champions		70,92%					11	26	1					16	Act 4 Equip A	37	Act 4 Good	3																				0
-Act 4 Citem B	Champions		71,43%					11	29	1					16	Act 4 Equip B	37	Act 4 Good	3																				0
-Act 5 Citem A	Champions		71,94%					11	32	1					16	Act 5 Equip A	37	Act 5 Good	3																				0
-Act 5 Citem B	Champions		72,46%					11	34	1					15	Act 5 Equip B	37	Act 5 Good	3																				0
-Act 5 Citem C	Champions		72,99%					11	36	1					15	Act 5 Equip C	37	Act 5 Good	3																				0
-Act 1 (N) Citem A	Champions		73,53%					11	38	1					14	Act 1 (N) Equip A	37	Act 1 (N) Good	3																				0
-Act 1 (N) Citem B	Champions		74,07%					11	40	1					14	Act 1 (N) Equip B	37	Act 1 (N) Good	3																				0
-Act 1 (N) Citem C	Champions		74,63%					11	41	1					14	Act 1 (N) Equip B	37	Act 1 (N) Good	3																				0
-Act 2 (N) Citem A	Champions		75,19%					11	42	1					13	Act 2 (N) Equip A	37	Act 2 (N) Good	3																				0
-Act 2 (N) Citem B	Champions		75,76%					11	44	1					13	Act 2 (N) Equip B	37	Act 2 (N) Good	3																				0
-Act 2 (N) Citem C	Champions		76,34%					11	45	1					12	Act 2 (N) Equip B	37	Act 2 (N) Good	3																				0
-Act 3 (N) Citem A	Champions		76,92%					11	46	1					12	Act 3 (N) Equip A	37	Act 3 (N) Good	3																				0
-Act 3 (N) Citem B	Champions		77,52%					11	48	1					12	Act 3 (N) Equip B	37	Act 3 (N) Good	3																				0
-Act 3 (N) Citem C	Champions		78,13%					11	50	1					11	Act 3 (N) Equip B	37	Act 3 (N) Good	3																				0
-Act 4 (N) Citem A	Champions		78,74%					11	51	1					11	Act 4 (N) Equip A	37	Act 4 (N) Good	3																				0
-Act 4 (N) Citem B	Champions		79,37%					11	54	1					10	Act 4 (N) Equip B	37	Act 4 (N) Good	3																				0
-Act 5 (N) Citem A	Champions		80,00%					11	57	1					10	Act 5 (N) Equip A	37	Act 5 (N) Good	3																				0
-Act 5 (N) Citem B	Champions		80,65%					11	60	1					10	Act 5 (N) Equip B	37	Act 5 (N) Good	3																				0
-Act 5 (N) Citem C	Champions		81,30%					11	62	1					9	Act 5 (N) Equip C	37	Act 5 (N) Good	3																				0
-Act 1 (H) Citem A	Champions		81,97%					11	63	1					9	Act 1 (H) Equip A	37	Act 1 (H) Good	3																				0
-Act 1 (H) Citem B	Champions		82,64%					11	66	1					8	Act 1 (H) Equip B	37	Act 1 (H) Good	3																				0
-Act 1 (H) Citem C	Champions		83,33%					11	68	1					8	Act 1 (H) Equip B	37	Act 1 (H) Good	3																				0
-Act 2 (H) Citem A	Champions		84,03%					11	69	1					8	Act 2 (H) Equip A	37	Act 2 (H) Good	3																				0
-Act 2 (H) Citem B	Champions		84,75%					11	71	1					7	Act 2 (H) Equip B	37	Act 2 (H) Good	3																				0
-Act 2 (H) Citem C	Champions		85,47%					11	72	1					7	Act 2 (H) Equip B	37	Act 2 (H) Good	3																				0
-Act 3 (H) Citem A	Champions		86,21%					11	74	1					6	Act 3 (H) Equip A	37	Act 3 (H) Good	3																				0
-Act 3 (H) Citem B	Champions		86,96%					11	75	1					6	Act 3 (H) Equip B	37	Act 3 (H) Good	3																				0
-Act 3 (H) Citem C	Champions		87,72%					11	77	1					6	Act 3 (H) Equip B	37	Act 3 (H) Good	3																				0
-Act 4 (H) Citem A	Champions		88,50%					11	78	1					5	Act 4 (H) Equip A	37	Act 4 (H) Good	3																				0
-Act 4 (H) Citem B	Champions		89,29%					11	80	1					5	Act 4 (H) Equip B	37	Act 4 (H) Good	3																				0
-Act 5 (H) Citem A	Champions		90,09%					11	81	1					4	Act 5 (H) Equip A	37	Act 5 (H) Good	3																				0
-Act 5 (H) Citem B	Champions		90,91%					11	83	1					4	Act 5 (H) Equip B	37	Act 5 (H) Good	3																				0
-Act 5 (H) Citem C	Champions		91,74%					11	85	1					4	Act 5 (H) Equip C	37	Act 5 (H) Good	3																				0
+Act 3 Citem B	Champions		69,93%					11	22	1					17	Act 3 Equip B	36	Act 3 Good	3	Act 3 Crafting Good	1																		0
+Act 3 Citem C	Champions		70,42%					11	24	1					17	Act 3 Equip C	35	Act 3 Good	3	Act 3 Crafting Good	2																		0
+Act 4 Citem A	Champions		70,92%					11	26	1					16	Act 4 Equip A	34	Act 4 Good	3	Act 4 Crafting Good	3																		0
+Act 4 Citem B	Champions		71,43%					11	29	1					16	Act 4 Equip B	34	Act 4 Good	3	Act 4 Crafting Good	3																		0
+Act 5 Citem A	Champions		71,94%					11	32	1					16	Act 5 Equip A	34	Act 5 Good	3	Act 5 Crafting Good	3																		0
+Act 5 Citem B	Champions		72,46%					11	34	1					15	Act 5 Equip B	34	Act 5 Good	3	Act 5 Crafting Good	3																		0
+Act 5 Citem C	Champions		72,99%					11	36	1					15	Act 5 Equip C	34	Act 5 Good	3	Act 5 Crafting Good	3																		0
+Act 1 (N) Citem A	Champions		73,53%					11	38	1					14	Act 1 (N) Equip A	34	Act 1 (N) Good	3	Act 1 (N) Crafting Good	3																		0
+Act 1 (N) Citem B	Champions		74,07%					11	40	1					14	Act 1 (N) Equip B	34	Act 1 (N) Good	3	Act 1 (N) Crafting Good	3																		0
+Act 1 (N) Citem C	Champions		74,63%					11	41	1					14	Act 1 (N) Equip B	34	Act 1 (N) Good	3	Act 1 (N) Crafting Good	3																		0
+Act 2 (N) Citem A	Champions		75,19%					11	42	1					13	Act 2 (N) Equip A	34	Act 2 (N) Good	3	Act 2 (N) Crafting Good	3																		0
+Act 2 (N) Citem B	Champions		75,76%					11	44	1					13	Act 2 (N) Equip B	34	Act 2 (N) Good	3	Act 2 (N) Crafting Good	3																		0
+Act 2 (N) Citem C	Champions		76,34%					11	45	1					12	Act 2 (N) Equip B	34	Act 2 (N) Good	3	Act 2 (N) Crafting Good	3																		0
+Act 3 (N) Citem A	Champions		76,92%					11	46	1					12	Act 3 (N) Equip A	34	Act 3 (N) Good	3	Act 3 (N) Crafting Good	3																		0
+Act 3 (N) Citem B	Champions		77,52%					11	48	1					12	Act 3 (N) Equip B	34	Act 3 (N) Good	3	Act 3 (N) Crafting Good	3																		0
+Act 3 (N) Citem C	Champions		78,13%					11	50	1					11	Act 3 (N) Equip B	34	Act 3 (N) Good	3	Act 3 (N) Crafting Good	3																		0
+Act 4 (N) Citem A	Champions		78,74%					11	51	1					11	Act 4 (N) Equip A	34	Act 4 (N) Good	3	Act 4 (N) Crafting Good	3																		0
+Act 4 (N) Citem B	Champions		79,37%					11	54	1					10	Act 4 (N) Equip B	34	Act 4 (N) Good	3	Act 4 (N) Crafting Good	3																		0
+Act 5 (N) Citem A	Champions		80,00%					11	57	1					10	Act 5 (N) Equip A	34	Act 5 (N) Good	3	Act 5 (N) Crafting Good	3																		0
+Act 5 (N) Citem B	Champions		80,65%					11	60	1					10	Act 5 (N) Equip B	34	Act 5 (N) Good	3	Act 5 (N) Crafting Good	3																		0
+Act 5 (N) Citem C	Champions		81,30%					11	62	1					9	Act 5 (N) Equip C	34	Act 5 (N) Good	3	Act 5 (N) Crafting Good	3																		0
+Act 1 (H) Citem A	Champions		81,97%					11	63	1					9	Act 1 (H) Equip A	34	Act 1 (H) Good	3	Act 1 (H) Crafting Good	3																		0
+Act 1 (H) Citem B	Champions		82,64%					11	66	1					8	Act 1 (H) Equip B	34	Act 1 (H) Good	3	Act 1 (H) Crafting Good	3																		0
+Act 1 (H) Citem C	Champions		83,33%					11	68	1					8	Act 1 (H) Equip B	34	Act 1 (H) Good	3	Act 1 (H) Crafting Good	3																		0
+Act 2 (H) Citem A	Champions		84,03%					11	69	1					8	Act 2 (H) Equip A	34	Act 2 (H) Good	3	Act 2 (H) Crafting Good	3																		0
+Act 2 (H) Citem B	Champions		84,75%					11	71	1					7	Act 2 (H) Equip B	34	Act 2 (H) Good	3	Act 2 (H) Crafting Good	3																		0
+Act 2 (H) Citem C	Champions		85,47%					11	72	1					7	Act 2 (H) Equip B	34	Act 2 (H) Good	3	Act 2 (H) Crafting Good	3																		0
+Act 3 (H) Citem A	Champions		86,21%					11	74	1					6	Act 3 (H) Equip A	34	Act 3 (H) Good	3	Act 3 (H) Crafting Good	3																		0
+Act 3 (H) Citem B	Champions		86,96%					11	75	1					6	Act 3 (H) Equip B	34	Act 3 (H) Good	3	Act 3 (H) Crafting Good	3																		0
+Act 3 (H) Citem C	Champions		87,72%					11	77	1					6	Act 3 (H) Equip B	34	Act 3 (H) Good	3	Act 3 (H) Crafting Good	3																		0
+Act 4 (H) Citem A	Champions		88,50%					11	78	1					5	Act 4 (H) Equip A	34	Act 4 (H) Good	3	Act 4 (H) Crafting Good	3																		0
+Act 4 (H) Citem B	Champions		89,29%					11	80	1					5	Act 4 (H) Equip B	34	Act 4 (H) Good	3	Act 4 (H) Crafting Good	3																		0
+Act 5 (H) Citem A	Champions		90,09%					11	81	1					4	Act 5 (H) Equip A	34	Act 5 (H) Good	3	Act 5 (H) Crafting Good	3																		0
+Act 5 (H) Citem B	Champions		90,91%					11	83	1					4	Act 5 (H) Equip B	34	Act 5 (H) Good	3	Act 5 (H) Crafting Good	3																		0
+Act 5 (H) Citem C	Champions		91,74%					11	85	1					4	Act 5 (H) Equip C	34	Act 5 (H) Good	3	Act 5 (H) Crafting Good	3																		0
 Act 1 Uitem A	Uniques		100% item					14	0	1					0	Act 1 Equip A	37	Act 1 Good	3																				0
 Act 1 Uitem B	Uniques		100% item					14	5	1					0	Act 1 Equip B	37	Act 1 Good	3																				0
 Act 1 Uitem C	Uniques		100% item					14	9	1					0	Act 1 Equip C	37	Act 1 Good	3																				0
@@ -743,41 +770,41 @@ Act 2 Uitem A	Uniques		100% item					14	12	1					0	Act 2 Equip A	37	Act 2 Good	3
 Act 2 Uitem B	Uniques		100% item					14	15	1					0	Act 2 Equip B	37	Act 2 Good	3																				0
 Act 2 Uitem C	Uniques		100% item					14	18	1					0	Act 2 Equip C	37	Act 3 Good	3																				0
 Act 3 Uitem A	Uniques		100% item					14	20	1					0	Act 3 Equip A	37	Act 3 Good	3																				0
-Act 3 Uitem B	Uniques		100% item					14	22	1					0	Act 3 Equip B	37	Act 3 Good	3																				0
-Act 3 Uitem C	Uniques		100% item					14	24	1					0	Act 3 Equip C	37	Act 3 Good	3																				0
-Act 4 Uitem A	Uniques		100% item					14	26	1					0	Act 4 Equip A	37	Act 4 Good	3																				0
-Act 4 Uitem B	Uniques		100% item					14	29	1					0	Act 4 Equip B	37	Act 4 Good	3																				0
-Act 5 Uitem A	Uniques		100% item					14	32	1					0	Act 5 Equip A	37	Act 5 Good	3																				0
-Act 5 Uitem B	Uniques		100% item					14	34	1					0	Act 5 Equip B	37	Act 5 Good	3																				0
-Act 5 Uitem C	Uniques		100% item					14	36	1					0	Act 5 Equip C	37	Act 5 Good	3																				0
-Act 1 (N) Uitem A	Uniques		100% item					14	38	1					0	Act 1 (N) Equip A	37	Act 1 (N) Good	3																				0
-Act 1 (N) Uitem B	Uniques		100% item					14	40	1					0	Act 1 (N) Equip B	37	Act 1 (N) Good	3																				0
-Act 1 (N) Uitem C	Uniques		100% item					14	41	1					0	Act 1 (N) Equip B	37	Act 1 (N) Good	3																				0
-Act 2 (N) Uitem A	Uniques		100% item					14	42	1					0	Act 2 (N) Equip A	37	Act 2 (N) Good	3																				0
-Act 2 (N) Uitem B	Uniques		100% item					14	44	1					0	Act 2 (N) Equip B	37	Act 2 (N) Good	3																				0
-Act 2 (N) Uitem C	Uniques		100% item					14	45	1					0	Act 2 (N) Equip B	37	Act 2 (N) Good	3																				0
-Act 3 (N) Uitem A	Uniques		100% item					14	46	1					0	Act 3 (N) Equip A	37	Act 3 (N) Good	3																				0
-Act 3 (N) Uitem B	Uniques		100% item					14	48	1					0	Act 3 (N) Equip B	37	Act 3 (N) Good	3																				0
-Act 3 (N) Uitem C	Uniques		100% item					14	50	1					0	Act 3 (N) Equip B	37	Act 3 (N) Good	3																				0
-Act 4 (N) Uitem A	Uniques		100% item					14	51	1					0	Act 4 (N) Equip A	37	Act 4 (N) Good	3																				0
-Act 4 (N) Uitem B	Uniques		100% item					14	54	1					0	Act 4 (N) Equip B	37	Act 4 (N) Good	3																				0
-Act 5 (N) Uitem A	Uniques		100% item					14	57	1					0	Act 5 (N) Equip A	37	Act 5 (N) Good	3																				0
-Act 5 (N) Uitem B	Uniques		100% item					14	60	1					0	Act 5 (N) Equip B	37	Act 5 (N) Good	3																				0
-Act 5 (N) Uitem C	Uniques		100% item					14	62	1					0	Act 5 (N) Equip C	37	Act 5 (N) Good	3																				0
-Act 1 (H) Uitem A	Uniques		100% item					14	63	1					0	Act 1 (H) Equip A	37	Act 1 (H) Good	3																				0
-Act 1 (H) Uitem B	Uniques		100% item					14	66	1					0	Act 1 (H) Equip B	37	Act 1 (H) Good	3																				0
-Act 1 (H) Uitem C	Uniques		100% item					14	68	1					0	Act 1 (H) Equip B	37	Act 1 (H) Good	3																				0
-Act 2 (H) Uitem A	Uniques		100% item					14	69	1					0	Act 2 (H) Equip A	37	Act 2 (H) Good	3																				0
-Act 2 (H) Uitem B	Uniques		100% item					14	71	1					0	Act 2 (H) Equip B	37	Act 2 (H) Good	3																				0
-Act 2 (H) Uitem C	Uniques		100% item					14	72	1					0	Act 2 (H) Equip B	37	Act 2 (H) Good	3																				0
-Act 3 (H) Uitem A	Uniques		100% item					14	74	1					0	Act 3 (H) Equip A	37	Act 3 (H) Good	3																				0
-Act 3 (H) Uitem B	Uniques		100% item					14	75	1					0	Act 3 (H) Equip B	37	Act 3 (H) Good	3																				0
-Act 3 (H) Uitem C	Uniques		100% item					14	77	1					0	Act 3 (H) Equip B	37	Act 3 (H) Good	3																				0
-Act 4 (H) Uitem A	Uniques		100% item					14	78	1					0	Act 4 (H) Equip A	37	Act 4 (H) Good	3																				0
-Act 4 (H) Uitem B	Uniques		100% item					14	80	1					0	Act 4 (H) Equip B	37	Act 4 (H) Good	3																				0
-Act 5 (H) Uitem A	Uniques		100% item					14	81	1					0	Act 5 (H) Equip A	37	Act 5 (H) Good	3																				0
-Act 5 (H) Uitem B	Uniques		100% item					14	83	1					0	Act 5 (H) Equip B	37	Act 5 (H) Good	3																				0
-Act 5 (H) Uitem C	Uniques		100% item					14	85	1					0	Act 5 (H) Equip C	37	Act 5 (H) Good	1																				0
+Act 3 Uitem B	Uniques		100% item					14	22	1					0	Act 3 Equip B	36	Act 3 Good	3	Act 3 Crafting Good	1																		0
+Act 3 Uitem C	Uniques		100% item					14	24	1					0	Act 3 Equip C	35	Act 3 Good	3	Act 3 Crafting Good	2																		0
+Act 4 Uitem A	Uniques		100% item					14	26	1					0	Act 4 Equip A	34	Act 4 Good	3	Act 4 Crafting Good	3																		0
+Act 4 Uitem B	Uniques		100% item					14	29	1					0	Act 4 Equip B	34	Act 4 Good	3	Act 4 Crafting Good	3																		0
+Act 5 Uitem A	Uniques		100% item					14	32	1					0	Act 5 Equip A	34	Act 5 Good	3	Act 5 Crafting Good	3																		0
+Act 5 Uitem B	Uniques		100% item					14	34	1					0	Act 5 Equip B	34	Act 5 Good	3	Act 5 Crafting Good	3																		0
+Act 5 Uitem C	Uniques		100% item					14	36	1					0	Act 5 Equip C	34	Act 5 Good	3	Act 5 Crafting Good	3																		0
+Act 1 (N) Uitem A	Uniques		100% item					14	38	1					0	Act 1 (N) Equip A	34	Act 1 (N) Good	3	Act 1 (N) Crafting Good	3																		0
+Act 1 (N) Uitem B	Uniques		100% item					14	40	1					0	Act 1 (N) Equip B	34	Act 1 (N) Good	3	Act 1 (N) Crafting Good	3																		0
+Act 1 (N) Uitem C	Uniques		100% item					14	41	1					0	Act 1 (N) Equip B	34	Act 1 (N) Good	3	Act 1 (N) Crafting Good	3																		0
+Act 2 (N) Uitem A	Uniques		100% item					14	42	1					0	Act 2 (N) Equip A	34	Act 2 (N) Good	3	Act 2 (N) Crafting Good	3																		0
+Act 2 (N) Uitem B	Uniques		100% item					14	44	1					0	Act 2 (N) Equip B	34	Act 2 (N) Good	3	Act 2 (N) Crafting Good	3																		0
+Act 2 (N) Uitem C	Uniques		100% item					14	45	1					0	Act 2 (N) Equip B	34	Act 2 (N) Good	3	Act 2 (N) Crafting Good	3																		0
+Act 3 (N) Uitem A	Uniques		100% item					14	46	1					0	Act 3 (N) Equip A	34	Act 3 (N) Good	3	Act 3 (N) Crafting Good	3																		0
+Act 3 (N) Uitem B	Uniques		100% item					14	48	1					0	Act 3 (N) Equip B	34	Act 3 (N) Good	3	Act 3 (N) Crafting Good	3																		0
+Act 3 (N) Uitem C	Uniques		100% item					14	50	1					0	Act 3 (N) Equip B	34	Act 3 (N) Good	3	Act 3 (N) Crafting Good	3																		0
+Act 4 (N) Uitem A	Uniques		100% item					14	51	1					0	Act 4 (N) Equip A	34	Act 4 (N) Good	3	Act 4 (N) Crafting Good	3																		0
+Act 4 (N) Uitem B	Uniques		100% item					14	54	1					0	Act 4 (N) Equip B	34	Act 4 (N) Good	3	Act 4 (N) Crafting Good	3																		0
+Act 5 (N) Uitem A	Uniques		100% item					14	57	1					0	Act 5 (N) Equip A	34	Act 5 (N) Good	3	Act 5 (N) Crafting Good	3																		0
+Act 5 (N) Uitem B	Uniques		100% item					14	60	1					0	Act 5 (N) Equip B	34	Act 5 (N) Good	3	Act 5 (N) Crafting Good	3																		0
+Act 5 (N) Uitem C	Uniques		100% item					14	62	1					0	Act 5 (N) Equip C	34	Act 5 (N) Good	3	Act 5 (N) Crafting Good	3																		0
+Act 1 (H) Uitem A	Uniques		100% item					14	63	1					0	Act 1 (H) Equip A	34	Act 1 (H) Good	3	Act 1 (H) Crafting Good	3																		0
+Act 1 (H) Uitem B	Uniques		100% item					14	66	1					0	Act 1 (H) Equip B	34	Act 1 (H) Good	3	Act 1 (H) Crafting Good	3																		0
+Act 1 (H) Uitem C	Uniques		100% item					14	68	1					0	Act 1 (H) Equip B	34	Act 1 (H) Good	3	Act 1 (H) Crafting Good	3																		0
+Act 2 (H) Uitem A	Uniques		100% item					14	69	1					0	Act 2 (H) Equip A	34	Act 2 (H) Good	3	Act 2 (H) Crafting Good	3																		0
+Act 2 (H) Uitem B	Uniques		100% item					14	71	1					0	Act 2 (H) Equip B	34	Act 2 (H) Good	3	Act 2 (H) Crafting Good	3																		0
+Act 2 (H) Uitem C	Uniques		100% item					14	72	1					0	Act 2 (H) Equip B	34	Act 2 (H) Good	3	Act 2 (H) Crafting Good	3																		0
+Act 3 (H) Uitem A	Uniques		100% item					14	74	1					0	Act 3 (H) Equip A	34	Act 3 (H) Good	3	Act 3 (H) Crafting Good	3																		0
+Act 3 (H) Uitem B	Uniques		100% item					14	75	1					0	Act 3 (H) Equip B	34	Act 3 (H) Good	3	Act 3 (H) Crafting Good	3																		0
+Act 3 (H) Uitem C	Uniques		100% item					14	77	1					0	Act 3 (H) Equip B	34	Act 3 (H) Good	3	Act 3 (H) Crafting Good	3																		0
+Act 4 (H) Uitem A	Uniques		100% item					14	78	1					0	Act 4 (H) Equip A	34	Act 4 (H) Good	3	Act 4 (H) Crafting Good	3																		0
+Act 4 (H) Uitem B	Uniques		100% item					14	80	1					0	Act 4 (H) Equip B	34	Act 4 (H) Good	3	Act 4 (H) Crafting Good	3																		0
+Act 5 (H) Uitem A	Uniques		100% item					14	81	1					0	Act 5 (H) Equip A	34	Act 5 (H) Good	3	Act 5 (H) Crafting Good	3																		0
+Act 5 (H) Uitem B	Uniques		100% item					14	83	1					0	Act 5 (H) Equip B	34	Act 5 (H) Good	3	Act 5 (H) Crafting Good	3																		0
+Act 5 (H) Uitem C	Uniques		100% item					14	85	1					0	Act 5 (H) Equip C	34	Act 5 (H) Good	3	Act 5 (H) Crafting Good	3																		0
 Act 1 Champ A	Champions		66,67%	3,22%	8,04%	27,68%	100,00%	13	0	-3	833	833	950	1024	0	Act 1 Citem A	1	Potion 2	2																				0
 Act 1 Champ B	Champions		67,11%	3,22%	8,04%	27,68%	100,00%	13	5	-3	833	833	950	1024	0	Act 1 Citem B	1	Potion 4	2																				0
 Act 1 Champ C	Champions		67,57%	3,22%	8,04%	27,68%	100,00%	13	9	-3	833	833	950	1024	0	Act 1 Citem C	1	Potion 6	2																				0
