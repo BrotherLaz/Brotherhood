@@ -953,6 +953,12 @@ Act 4 (H) Super Cx	Nerfed Superunique		189,29%	1,04%	3,00%	10,72%	100,00%	18	87	
 Act 5 (H) Super Ax	Nerfed Superunique		190,09%	1,04%	3,00%	10,72%	100,00%	18	90	-4	433	512	833	1024	0	Act 5 (H) Citem A	1	Act 5 (H) Uitem A	1	Potion 6 Special	2																		0
 Act 5 (H) Super Bx	Nerfed Superunique		190,91%	1,04%	3,00%	10,72%	100,00%	18	93	-4	433	512	833	1024	0	Act 5 (H) Citem B	1	Act 5 (H) Uitem B	1	Potion 6 Special	2																		0
 Act 5 (H) Super Cx	Nerfed Superunique		191,74%	1,04%	3,00%	10,72%	100,00%	18	96	-4	433	512	833	1024	0	Act 5 (H) Citem C	1	Act 5 (H) Uitem C	1	Potion 6 Special	2																		0
+Drop Trophy 1	Boss drops for new items									-2	1024	1024	1024	1024	0	rf1	1																						0
+Drop Trophy 1 (N)	Boss drops for new items									-2	1024	1024	1024	1024	0	rf1	1																						0
+Drop Trophy 1 (H)	Boss drops for new items									-2	1024	1024	1024	1024	0	rf1	1																						0
+Drop Trophy 2	Boss drops for new items									-2	1024	1024	1024	1024	0	rf2	1																						0
+Drop Trophy 2 (N)	Boss drops for new items									-2	1024	1024	1024	1024	0	rf2	1																						0
+Drop Trophy 2 (H)	Boss drops for new items									-2	1024	1024	1024	1024	0	rf2	1																						0
 Blood Raven	Mini Boss	2 items + 1 gem + 2 potions	234,23%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 Citem B	2	Act 1 Uitem B	1	Potion 2	2																		0
 Blood Raven (N)	Mini Boss	2 items + 1 gem + 2 potions	248,15%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 (N) Citem B	2	Act 1 (N) Uitem B	1	Potion 6 Special	2																		0
 Blood Raven (H)	Mini Boss	2 items + 1 gem + 2 potions	265,29%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 (H) Citem B	2	Act 1 (H) Uitem B	1	Potion 6 Special	2																		0
@@ -974,9 +980,9 @@ Smith (H)	Mini Boss	2 items + 1 gem + 2 potions	266,67%	1,20%	4,00%	12,96%	100,0
 Radament	Mini Boss	2 items + 1 gem + 2 potions	236,99%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 Citem B	2	Act 2 Uitem B	1	Potion 6 Special	2																		0
 Radament (N)	Mini Boss	2 items + 1 gem + 2 potions	269,49%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 (H) Citem B	2	Act 2 (H) Uitem B	1	Potion 6 Special	2																		0
 Radament (H)	Mini Boss	2 items + 1 gem + 2 potions	269,49%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 (H) Citem B	2	Act 2 (H) Uitem B	1	Potion 6 Special	2																		0
-Summoner	Mini Boss	2 items + 1 gem + 2 potions	237,93%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 Citem C	2	Act 2 Uitem C	1	Potion 6 Special	2																		0
-Summoner (N)	Mini Boss	2 items + 1 gem + 2 potions	252,67%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 (N) Citem C	2	Act 2 (N) Uitem C	1	Potion 6 Special	2																		0
-Summoner (H)	Mini Boss	2 items + 1 gem + 2 potions	270,94%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 (H) Citem C	2	Act 2 (H) Uitem C	1	Potion 6 Special	2																		0
+Summoner	Mini Boss	2 items + 1 gem + 2 potions	237,93%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 Citem C	2	Act 2 Uitem C	1	Potion 6 Special	1	Drop Trophy 1	1																0
+Summoner (N)	Mini Boss	2 items + 1 gem + 2 potions	252,67%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 (N) Citem C	2	Act 2 (N) Uitem C	1	Potion 6 Special	1	Drop Trophy 1 (N)	1																0
+Summoner (H)	Mini Boss	2 items + 1 gem + 2 potions	270,94%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 (H) Citem C	2	Act 2 (H) Uitem C	1	Potion 6 Special	1	Drop Trophy 1 (H)	1																0
 Council	Mini Boss	2 items + 1 gem + 2 potions	241,84%	2,11%	6,86%	22,51%	100,00%			-5	733	800	933	1024	0	Act 4 Citem A	2	Act 4 Uitem A	1	Potion 6 Special	2																		0
 Council (N)	Mini Boss	2 items + 1 gem + 2 potions	257,48%	2,11%	6,86%	22,51%	100,00%			-5	733	800	933	1024	0	Act 4 (N) Citem A	2	Act 4 (N) Uitem A	1	Potion 6 Special	2																		0
 Council (H)	Mini Boss	2 items + 1 gem + 2 potions	276,99%	2,11%	6,86%	22,51%	100,00%			-5	733	800	933	1024	0	Act 4 (H) Citem A	2	Act 4 (H) Uitem A	1	Potion 6 Special	2																		0
@@ -1028,7 +1034,6 @@ Durielq (H)	Deprecated									5					0	tsc	1	Durielq (H) - Base	2															
 Duriel	Deprecated									5					0	tsc	1	Duriel - Base	2																				0
 Duriel (N)	Deprecated									5					0	tsc	1	Duriel (N) - Base	2																				0
 Duriel (H)	Deprecated									5					0	tsc	1	Duriel (H) - Base	2																				0
-Drop Trophy 1	Drops Trophy 1									-2	1024	1024	1024	1024	0	rf1	1	Act 5 Uitem A	1																				0
 ROP										1	1024				0	Diablo	1																						0
 ROP (N)										1	1024				0	Diablo (N)	4	Annihilus	1																				0
 ROP (H)										1	1024				0	Annihilus	1																						0

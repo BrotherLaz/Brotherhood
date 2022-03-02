@@ -14,46 +14,46 @@ Necro Crossbow	100				1	1	1		0				4	371	automagic-str	4												armo	weap				
 Druid Club	100				1	1	1		0				4	372	automagic-werebeast		100	100										armo	weap											0	0
 Spiked Shield	100				1	1	1		0				4	373	automagic-woundth		20	20										armo	weap											0	0
 Polearm	100				1	1	1		0				4	374	dmg-demon		50	50										armo	weap											0	0
-Bull Thistle	1				1	1	1		0				4	300	str		2	2	levelreq-display		5	5					dgrn	wd01												0	0
-Caper Grass	1				1	1	1		0				4	301	dex		2	2	levelreq-display		5	5					lyel	wd02												0	0
-Witches' Sage	1				1	1	1		0				4	302	enr		2	2	levelreq-display		5	5					lblu	wd03												0	0
-Rosemary	1				1	1	1		0				4	303	vit		2	2	levelreq-display		5	5					dgry	wd04												0	0
-Hammer Thyme	1				1	1	1		0				4	304	dmg-max		1	1	levelreq-display		5	5					lgry	wd05												0	0
-Toad Ivy	1				1	1	1		0				4	305	healskill		2	2	levelreq-display		5	5					dblu	wd06												0	0
-Crimson Briar	1				1	1	1		0				4	306	res-fire		3	3	levelreq-display		5	5					cred	wd07												0	0
-Bul Kathos' Crown	1				1	1	1		0				4	307	res-cold		3	3	levelreq-display		5	5					cblu	wd08												0	0
-Goldfern	1				1	1	1		0				4	308	res-ltng		3	3	levelreq-display		5	5					dgld	wd09												0	0
-Bitterblossom	1				1	1	1		0				4	309	res-pois		3	3	levelreq-display		5	5					cgrn	wd10												0	0
-Helldaisy	1				1	1	1		0				4	310	extra-fire		2	1	levelreq-display		5	5					cred	wd11												0	0
+Bull Thistle	1				1	1	1		0				4	300	str		5	5	levelreq-display		5	5					dgrn	wd01												0	0
+Caper Grass	1				1	1	1		0				4	301	dex		5	5	levelreq-display		5	5					lyel	wd02												0	0
+Witches' Sage	1				1	1	1		0				4	302	enr		5	5	levelreq-display		5	5					lblu	wd03												0	0
+Rosemary	1				1	1	1		0				4	303	vit		5	5	levelreq-display		5	5					dgry	wd04												0	0
+Hammer Thyme	1				1	1	1		0				4	304	dmg-max		3	3	levelreq-display		5	5					lgry	wd05												0	0
+Toad Ivy	1				1	1	1		0				4	305	healskill		4	4	levelreq-display		5	5					dblu	wd06												0	0
+Crimson Briar	1				1	1	1		0				4	306	res-fire		12	12	levelreq-display		5	5					cred	wd07												0	0
+Bul Kathos' Crown	1				1	1	1		0				4	307	res-cold		12	12	levelreq-display		5	5					cblu	wd08												0	0
+Goldfern	1				1	1	1		0				4	308	res-ltng		12	12	levelreq-display		5	5					dgld	wd09												0	0
+Bitterblossom	1				1	1	1		0				4	309	res-pois		12	12	levelreq-display		5	5					cgrn	wd10												0	0
+Helldaisy	1				1	1	1		0				4	310	extra-fire		2	2	levelreq-display		5	5					cred	wd11												0	0
 Moon Clover	1				1	1	1		0				4	311	extra-cold		2	2	levelreq-display		5	5					cblu	wd12												0	0
 Glowberry	1				1	1	1		0				4	312	extra-ltng		2	2	levelreq-display		5	5					dgld	wd13												0	0
 Carrion Bloom	1				1	1	1		0				4	313	extra-pois		2	2	levelreq-display		5	5					cgrn	wd14												0	0
-Meadow Bulb	1				1	1	1		0				4	314	ac		6	6	levelreq-display		5	5					whit	wd15												0	0
-Queen's Cress	1				1	1	1		0				4	315	swing3		2	2	levelreq-display		5	5					oran	wd16												0	0
-Monk's Hood	1				1	1	1		0				4	316	cast3		2	2	levelreq-display		5	5					dgry	wd17												0	0
-Pigsbane	1				1	1	1		0				4	317	block3		2	2	levelreq-display		5	5					blac	wd18												0	0
-Silverclover	1				1	1	1		0				4	318	balance3		2	2	levelreq-display		5	5					lgry	wd19												0	0
-Wild Redberry	1				1	1	1		0				4	319	dmg-fire		3	7	levelreq-display		5	5					cred	wd20												0	0
-Rime Mirriam	1				1	1	1		0				4	320	dmg-cold		4	6	levelreq-display		5	5					cblu	wd21												0	0
-Stormweed	1				1	1	1		0				4	321	dmg-ltng		1	9	levelreq-display		5	5					dgld	wd22												0	0
-Nightcress	1				1	1	1		0				4	322	dmg-pois	50	20	40	levelreq-display		5	5					cgrn	wd23												0	0
-Water Nettle	1				1	1	1		0				4	323	thorns%		12	12	levelreq-display		5	5					dgry	wd24												0	0
-Deeproot	1				1	1	1		0				4	324	gold%		10	10	levelreq-display		5	5					lpur	wd25												0	0
-Sunseeker	1				1	1	1		0				4	325	mag%		2	2	levelreq-display		5	5					dpur	wd26												0	0
-Dawnblossom	1				1	1	1		0				4	326	regen		3	3	levelreq-display		5	5					lred	wd27												0	0
-Bluebonnet	1				1	1	1		0				4	327	regen-mana		2	2	levelreq-display		5	5					lblu	wd28												0	0
-Slave's Savior	1				1	1	1		0				4	328	summon-dmg%		1	1	levelreq-display		5	5					blac	wd29												0	0
-Paleweed	1				1	1	1		0				4	329	summon-res%		1	1	levelreq-display		5	5					lgry	wd30												0	0
-Mother's Rose	1				1	1	1		0				4	330	summon-ac%		1	1	levelreq-display		5	5					dred	wd31												0	0
-Flybane	1				1	1	1		0				4	331	heal-kill		1	1	levelreq-display		5	5					lgrn	wd32												0	0
-Snapleaf	1				1	1	1		0				4	332	mana-kill		1	1	levelreq-display		5	5					lblu	wd33												0	0
+Meadow Bulb	1				1	1	1		0				4	314	ac		8	8	levelreq-display		5	5					whit	wd15												0	0
+Queen's Cress	1				1	1	1		0				4	315	swing3		4	4	levelreq-display		5	5					oran	wd16												0	0
+Monk's Hood	1				1	1	1		0				4	316	cast3		4	4	levelreq-display		5	5					dgry	wd17												0	0
+Pigsbane	1				1	1	1		0				4	317	block3		4	4	levelreq-display		5	5					blac	wd18												0	0
+Silverclover	1				1	1	1		0				4	318	balance3		4	4	levelreq-display		5	5					lgry	wd19												0	0
+Wild Redberry	1				1	1	1		0				4	319	dmg-fire		4	12	levelreq-display		5	5					cred	wd20												0	0
+Rime Mirriam	1				1	1	1		0				4	320	dmg-cold		7	9	levelreq-display		5	5					cblu	wd21												0	0
+Stormweed	1				1	1	1		0				4	321	dmg-ltng		1	15	levelreq-display		5	5					dgld	wd22												0	0
+Nightcress	1				1	1	1		0				4	322	dmg-pois	25	40	80	levelreq-display		5	5					cgrn	wd23												0	0
+Water Nettle	1				1	1	1		0				4	323	thorns%		20	20	levelreq-display		5	5					dgry	wd24												0	0
+Deeproot	1				1	1	1		0				4	324	gold%		30	30	levelreq-display		5	5					lpur	wd25												0	0
+Sunseeker	1				1	1	1		0				4	325	mag%		4	4	levelreq-display		5	5					dpur	wd26												0	0
+Dawnblossom	1				1	1	1		0				4	326	regen		5	5	levelreq-display		5	5					lred	wd27												0	0
+Bluebonnet	1				1	1	1		0				4	327	regen-mana		4	4	levelreq-display		5	5					lblu	wd28												0	0
+Slave's Savior	1				1	1	1		0				4	328	summon-dmg%		3	3	levelreq-display		5	5					blac	wd29												0	0
+Paleweed	1				1	1	1		0				4	329	summon-res%		3	3	levelreq-display		5	5					lgry	wd30												0	0
+Mother's Rose	1				1	1	1		0				4	330	summon-ac%		3	3	levelreq-display		5	5					dred	wd31												0	0
+Flybane	1				1	1	1		0				4	331	heal-kill		2	2	levelreq-display		5	5					lgrn	wd32												0	0
+Snapleaf	1				1	1	1		0				4	332	mana-kill		2	2	levelreq-display		5	5					lblu	wd33												0	0
 Gloryflower	1				1	1	1		0				4	333	addxp		1	1	levelreq-display		5	5					lgld	wd34												0	0
-Thornroot	1				1	1	1		0				4	334	kick		1	1	levelreq-display		5	5					blac	wd35												0	0
-Sun Lily	1				1	1	1		0				4	335	pot-rate		3	3	levelreq-display		5	5					dyel	wd36												0	0
-Snakebreath	1				1	1	1		0				4	336	att%		5	5	levelreq-display		5	5					lgry	wd37												0	0
-Skartara Bluethorn	1				1	1	1		0				4	337	pierce		2	2	levelreq-display		5	5					lblu	wd38												0	0
-Fey Sage	1				1	1	1		0				4	338	mana%		1	1	levelreq-display		5	5					dblu	wd39												0	0
-Blood Myrtle	1				1	1	1		0				4	339	hp%		1	1	levelreq-display		5	5					dred	wd40												0	0
+Thornroot	1				1	1	1		0				4	334	kick		2	2	levelreq-display		5	5					blac	wd35												0	0
+Sun Lily	1				1	1	1		0				4	335	pot-rate		5	5	levelreq-display		5	5					dyel	wd36												0	0
+Snakebreath	1				1	1	1		0				4	336	att%		9	9	levelreq-display		5	5					lgry	wd37												0	0
+Skartara Bluethorn	1				1	1	1		0				4	337	pierce		5	5	levelreq-display		5	5					lblu	wd38												0	0
+Fey Sage	1				1	1	1		0				4	338	mana%		2	2	levelreq-display		5	5					dblu	wd39												0	0
+Blood Myrtle	1				1	1	1		0				4	339	hp%		2	2	levelreq-display		5	5					dred	wd40												0	0
 Boots 1	100				1	1	1		0				4	375	move3		5	5										armo	weap											0	0
 Boots 2	100				1	1	1		0				4	376	move3		8	8										armo	weap											0	0
 Boots 3	100				1	1	1		0				4	377	move3		10	10										armo	weap											0	0
