@@ -1,0 +1,459 @@
+Name	version	*Laz/Items	*Laz/MinID	*Laz/MaxID	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	multiply	add
+Disenchanting Scroll Automod	100				1	1	1		0				4	350	levelreq-display		5	5									dgld	disi												0	0
+Fang Automod	100				1	1	1		0				4	351	levelreq-display		5	5	is-upgradable		1	1						dfan												0	0
+Crafting Scroll Automod	100				1	1	1		0				4	352	dmg%-ac%-display		15	15	levelreq-display		-10	-10	random-mods-display		1	1	oran	crai												0	0
+Paladin Mace	100				1	1	1		0				4	361	dmg-undead		50	50										armo	weap											0	0
+Paladin Sword	100				1	1	1		0				4	362	dmg-demon		100	100										armo	weap											0	0
+Paladin Scepter	100				1	1	1		0				4	363	dmg-demon		50	50										armo	weap											0	0
+Dmg Human	100				1	1	1		0				4	365	dmg-mon%	4	50	50	automagic-human%		50	50						armo	weap											0	0
+Dmg Insect	100				1	1	1		0				4	366	dmg-mon%	3	50	50	automagic-insect%		50	50						armo	weap											0	0
+Dmg Construct	100				1	1	1		0				4	367	dmg-mon%	5	50	50	automagic-construct%		50	50						armo	weap											0	0
+Mage Shield	100				1	1	1		0				4	369	automagic-armosock		1	1										armo	weap											0	0
+Crossbow	100				1	1	1		0				4	370	automagic-str	4												armo	weap											0	0
+Necro Crossbow	100				1	1	1		0				4	371	automagic-str	4												armo	weap											0	0
+Druid Club	100				1	1	1		0				4	372	automagic-werebeast		100	100										armo	weap											0	0
+Spiked Shield	100				1	1	1		0				4	373	automagic-woundth		20	20										armo	weap											0	0
+Polearm	100				1	1	1		0				4	374	dmg-demon		50	50										armo	weap											0	0
+Bull Thistle	1				1	1	1		0				4	300	str		2	2	levelreq-display		5	5					dgrn	wd01												0	0
+Caper Grass	1				1	1	1		0				4	301	dex		2	2	levelreq-display		5	5					lyel	wd02												0	0
+Witches' Sage	1				1	1	1		0				4	302	enr		2	2	levelreq-display		5	5					lblu	wd03												0	0
+Rosemary	1				1	1	1		0				4	303	vit		2	2	levelreq-display		5	5					dgry	wd04												0	0
+Hammer Thyme	1				1	1	1		0				4	304	dmg-max		1	1	levelreq-display		5	5					lgry	wd05												0	0
+Toad Ivy	1				1	1	1		0				4	305	healskill		2	2	levelreq-display		5	5					dblu	wd06												0	0
+Crimson Briar	1				1	1	1		0				4	306	res-fire		3	3	levelreq-display		5	5					cred	wd07												0	0
+Bul Kathos' Crown	1				1	1	1		0				4	307	res-cold		3	3	levelreq-display		5	5					cblu	wd08												0	0
+Goldfern	1				1	1	1		0				4	308	res-ltng		3	3	levelreq-display		5	5					dgld	wd09												0	0
+Bitterblossom	1				1	1	1		0				4	309	res-pois		3	3	levelreq-display		5	5					cgrn	wd10												0	0
+Helldaisy	1				1	1	1		0				4	310	extra-fire		2	1	levelreq-display		5	5					cred	wd11												0	0
+Moon Clover	1				1	1	1		0				4	311	extra-cold		2	2	levelreq-display		5	5					cblu	wd12												0	0
+Glowberry	1				1	1	1		0				4	312	extra-ltng		2	2	levelreq-display		5	5					dgld	wd13												0	0
+Carrion Bloom	1				1	1	1		0				4	313	extra-pois		2	2	levelreq-display		5	5					cgrn	wd14												0	0
+Meadow Bulb	1				1	1	1		0				4	314	ac		6	6	levelreq-display		5	5					whit	wd15												0	0
+Queen's Cress	1				1	1	1		0				4	315	swing3		2	2	levelreq-display		5	5					oran	wd16												0	0
+Monk's Hood	1				1	1	1		0				4	316	cast3		2	2	levelreq-display		5	5					dgry	wd17												0	0
+Pigsbane	1				1	1	1		0				4	317	block3		2	2	levelreq-display		5	5					blac	wd18												0	0
+Silverclover	1				1	1	1		0				4	318	balance3		2	2	levelreq-display		5	5					lgry	wd19												0	0
+Wild Redberry	1				1	1	1		0				4	319	dmg-fire		3	7	levelreq-display		5	5					cred	wd20												0	0
+Rime Mirriam	1				1	1	1		0				4	320	dmg-cold		4	6	levelreq-display		5	5					cblu	wd21												0	0
+Stormweed	1				1	1	1		0				4	321	dmg-ltng		1	9	levelreq-display		5	5					dgld	wd22												0	0
+Nightcress	1				1	1	1		0				4	322	dmg-pois	50	20	40	levelreq-display		5	5					cgrn	wd23												0	0
+Water Nettle	1				1	1	1		0				4	323	thorns%		12	12	levelreq-display		5	5					dgry	wd24												0	0
+Deeproot	1				1	1	1		0				4	324	gold%		10	10	levelreq-display		5	5					lpur	wd25												0	0
+Sunseeker	1				1	1	1		0				4	325	mag%		2	2	levelreq-display		5	5					dpur	wd26												0	0
+Dawnblossom	1				1	1	1		0				4	326	regen		3	3	levelreq-display		5	5					lred	wd27												0	0
+Bluebonnet	1				1	1	1		0				4	327	regen-mana		2	2	levelreq-display		5	5					lblu	wd28												0	0
+Slave's Savior	1				1	1	1		0				4	328	summon-dmg%		1	1	levelreq-display		5	5					blac	wd29												0	0
+Paleweed	1				1	1	1		0				4	329	summon-res%		1	1	levelreq-display		5	5					lgry	wd30												0	0
+Mother's Rose	1				1	1	1		0				4	330	summon-ac%		1	1	levelreq-display		5	5					dred	wd31												0	0
+Flybane	1				1	1	1		0				4	331	heal-kill		1	1	levelreq-display		5	5					lgrn	wd32												0	0
+Snapleaf	1				1	1	1		0				4	332	mana-kill		1	1	levelreq-display		5	5					lblu	wd33												0	0
+Gloryflower	1				1	1	1		0				4	333	addxp		1	1	levelreq-display		5	5					lgld	wd34												0	0
+Thornroot	1				1	1	1		0				4	334	kick		1	1	levelreq-display		5	5					blac	wd35												0	0
+Sun Lily	1				1	1	1		0				4	335	pot-rate		3	3	levelreq-display		5	5					dyel	wd36												0	0
+Snakebreath	1				1	1	1		0				4	336	att%		5	5	levelreq-display		5	5					lgry	wd37												0	0
+Skartara Bluethorn	1				1	1	1		0				4	337	pierce		2	2	levelreq-display		5	5					lblu	wd38												0	0
+Fey Sage	1				1	1	1		0				4	338	mana%		1	1	levelreq-display		5	5					dblu	wd39												0	0
+Blood Myrtle	1				1	1	1		0				4	339	hp%		1	1	levelreq-display		5	5					dred	wd40												0	0
+Boots 1	100				1	1	1		0				4	375	move3		5	5										armo	weap											0	0
+Boots 2	100				1	1	1		0				4	376	move3		8	8										armo	weap											0	0
+Boots 3	100				1	1	1		0				4	377	move3		10	10										armo	weap											0	0
+Boots 4	100				1	1	1		0				4	378	move3		12	12										armo	weap											0	0
+Boots 5	100				1	1	1		0				4	379	move3		15	15										armo	weap											0	0
+Staff of Flame Bolt	100	Fire	Short Staff		1	1	1		0				4	400	inherent-staff		40	40	skill	573	1	2						armo	weap											0	0
+Staff of New Warmth	100	Fire	Short Staff		1	1	1		0				4	400	inherent-staff		40	40	skill	574	1	2						armo	weap											0	0
+Staff of Incinerate	100	Fire	Short Staff		1	1	6		3				4	400	inherent-staff		40	40	skill	575	1	2						armo	weap											0	0
+Staff of Flame Wave	100	Fire	Short Staff		1	1	12		6				4	400	inherent-staff		40	40	skill	576	1	2						armo	weap											0	0
+Staff of Blazing Spear	100	Fire	Short Staff		1	1	18		9				4	400	inherent-staff		40	40	skill	577	1	2						armo	weap											0	0
+Staff of Fire Serpent	100	Fire	Short Staff		1	1	24		12				4	400	inherent-staff		40	40	skill	578	1	2						armo	weap											0	0
+Staff of Devouring Flames	100	Fire	Short Staff		1	1	30		15				4	400	inherent-staff		40	40	skill	579	1	2						armo	weap											0	0
+Staff of New Fire Mastery	100	Fire	Short Staff		1	1	30		15				4	400	inherent-staff		40	40	skill	580	1	2						armo	weap											0	0
+Staff of Frost Bolt	100	Frost	Short Staff		1	1	1		0				4	400	inherent-staff		40	40	skill	581	1	2						armo	weap											0	0
+Staff of Ice Armor	100	Frost	Short Staff		1	1	6		3				4	400	inherent-staff		40	40	skill	582	1	2						armo	weap											0	0
+Staff of Frostbite	100	Frost	Short Staff		1	1	6		3				4	400	inherent-staff		40	40	skill	583	1	2						armo	weap											0	0
+Staff of Ice Storm	100	Frost	Short Staff		1	1	12		6				4	400	inherent-staff		40	40	skill	584	1	2						armo	weap											0	0
+Staff of Avalanche	100	Frost	Short Staff		1	1	18		9				4	400	inherent-staff		40	40	skill	585	1	2						armo	weap											0	0
+Staff of Hoarfrost	100	Frost	Short Staff		1	1	18		9				4	400	inherent-staff		40	40	skill	586	1	2						armo	weap											0	0
+Staff of Ice Nova	100	Frost	Short Staff		1	1	24		12				4	400	inherent-staff		40	40	skill	587	1	2						armo	weap											0	0
+Staff of New Cold Mastery	100	Frost	Short Staff		1	1	30		15				4	400	inherent-staff		40	40	skill	588	1	2						armo	weap											0	0
+Staff of Crackling Bolts	100	Shock	Short Staff		1	1	1		0				4	400	inherent-staff		40	40	skill	589	1	2						armo	weap											0	0
+Staff of Arc Lightning	100	Shock	Short Staff		1	1	6		3				4	400	inherent-staff		40	40	skill	590	1	2						armo	weap											0	0
+Staff of Electrocute	100	Shock	Short Staff		1	1	12		6				4	400	inherent-staff		40	40	skill	591	1	2						armo	weap											0	0
+Staff of Wave of Force	100	Shock	Short Staff		1	1	12		6				4	400	inherent-staff		40	40	skill	592	1	2						armo	weap											0	0
+Staff of Tempest	100	Shock	Short Staff		1	1	18		9				4	400	inherent-staff		40	40	skill	593	1	2						armo	weap											0	0
+Staff of Chaos Nexus	100	Shock	Short Staff		1	1	24		12				4	400	inherent-staff		40	40	skill	594	1	2						armo	weap											0	0
+Staff of Conduit	100	Shock	Short Staff		1	1	24		12				4	400	inherent-staff		40	40	skill	595	1	2						armo	weap											0	0
+Staff of New Lightning Mastery	100	Shock	Short Staff		1	1	30		15				4	400	inherent-staff		40	40	skill	596	1	2						armo	weap											0	0
+Staff of Flame Bolt	100	Fire	Long Staff		1	1	1		0				4	401	inherent-staff		50	50	skill	573	1	3						armo	weap											0	0
+Staff of New Warmth	100	Fire	Long Staff		1	1	1		0				4	401	inherent-staff		50	50	skill	574	1	3						armo	weap											0	0
+Staff of Incinerate	100	Fire	Long Staff		1	1	6		3				4	401	inherent-staff		50	50	skill	575	1	3						armo	weap											0	0
+Staff of Flame Wave	100	Fire	Long Staff		1	1	12		6				4	401	inherent-staff		50	50	skill	576	1	3						armo	weap											0	0
+Staff of Blazing Spear	100	Fire	Long Staff		1	1	18		9				4	401	inherent-staff		50	50	skill	577	1	3						armo	weap											0	0
+Staff of Fire Serpent	100	Fire	Long Staff		1	1	24		12				4	401	inherent-staff		50	50	skill	578	1	3						armo	weap											0	0
+Staff of Devouring Flames	100	Fire	Long Staff		1	1	30		15				4	401	inherent-staff		50	50	skill	579	1	3						armo	weap											0	0
+Staff of New Fire Mastery	100	Fire	Long Staff		1	1	30		15				4	401	inherent-staff		50	50	skill	580	1	3						armo	weap											0	0
+Staff of Frost Bolt	100	Frost	Long Staff		1	1	1		0				4	401	inherent-staff		50	50	skill	581	1	3						armo	weap											0	0
+Staff of Ice Armor	100	Frost	Long Staff		1	1	6		3				4	401	inherent-staff		50	50	skill	582	1	3						armo	weap											0	0
+Staff of Frostbite	100	Frost	Long Staff		1	1	6		3				4	401	inherent-staff		50	50	skill	583	1	3						armo	weap											0	0
+Staff of Ice Storm	100	Frost	Long Staff		1	1	12		6				4	401	inherent-staff		50	50	skill	584	1	3						armo	weap											0	0
+Staff of Avalanche	100	Frost	Long Staff		1	1	18		9				4	401	inherent-staff		50	50	skill	585	1	3						armo	weap											0	0
+Staff of Hoarfrost	100	Frost	Long Staff		1	1	18		9				4	401	inherent-staff		50	50	skill	586	1	3						armo	weap											0	0
+Staff of Ice Nova	100	Frost	Long Staff		1	1	24		12				4	401	inherent-staff		50	50	skill	587	1	3						armo	weap											0	0
+Staff of New Cold Mastery	100	Frost	Long Staff		1	1	30		15				4	401	inherent-staff		50	50	skill	588	1	3						armo	weap											0	0
+Staff of Crackling Bolts	100	Shock	Long Staff		1	1	1		0				4	401	inherent-staff		50	50	skill	589	1	3						armo	weap											0	0
+Staff of Arc Lightning	100	Shock	Long Staff		1	1	6		3				4	401	inherent-staff		50	50	skill	590	1	3						armo	weap											0	0
+Staff of Electrocute	100	Shock	Long Staff		1	1	12		6				4	401	inherent-staff		50	50	skill	591	1	3						armo	weap											0	0
+Staff of Wave of Force	100	Shock	Long Staff		1	1	12		6				4	401	inherent-staff		50	50	skill	592	1	3						armo	weap											0	0
+Staff of Tempest	100	Shock	Long Staff		1	1	18		9				4	401	inherent-staff		50	50	skill	593	1	3						armo	weap											0	0
+Staff of Chaos Nexus	100	Shock	Long Staff		1	1	24		12				4	401	inherent-staff		50	50	skill	594	1	3						armo	weap											0	0
+Staff of Conduit	100	Shock	Long Staff		1	1	24		12				4	401	inherent-staff		50	50	skill	595	1	3						armo	weap											0	0
+Staff of New Lightning Mastery	100	Shock	Long Staff		1	1	30		15				4	401	inherent-staff		50	50	skill	596	1	3						armo	weap											0	0
+Staff of Flame Bolt	100	Fire	Gnarled Staff		1	1	1		0				4	402	inherent-staff		60	60	skill	573	1	4						armo	weap											0	0
+Staff of New Warmth	100	Fire	Gnarled Staff		1	1	1		0				4	402	inherent-staff		60	60	skill	574	1	4						armo	weap											0	0
+Staff of Incinerate	100	Fire	Gnarled Staff		1	1	6		3				4	402	inherent-staff		60	60	skill	575	1	4						armo	weap											0	0
+Staff of Flame Wave	100	Fire	Gnarled Staff		1	1	12		6				4	402	inherent-staff		60	60	skill	576	1	4						armo	weap											0	0
+Staff of Blazing Spear	100	Fire	Gnarled Staff		1	1	18		9				4	402	inherent-staff		60	60	skill	577	1	4						armo	weap											0	0
+Staff of Fire Serpent	100	Fire	Gnarled Staff		1	1	24		12				4	402	inherent-staff		60	60	skill	578	1	4						armo	weap											0	0
+Staff of Devouring Flames	100	Fire	Gnarled Staff		1	1	30		15				4	402	inherent-staff		60	60	skill	579	1	4						armo	weap											0	0
+Staff of New Fire Mastery	100	Fire	Gnarled Staff		1	1	30		15				4	402	inherent-staff		60	60	skill	580	1	4						armo	weap											0	0
+Staff of Frost Bolt	100	Frost	Gnarled Staff		1	1	1		0				4	402	inherent-staff		60	60	skill	581	1	4						armo	weap											0	0
+Staff of Ice Armor	100	Frost	Gnarled Staff		1	1	6		3				4	402	inherent-staff		60	60	skill	582	1	4						armo	weap											0	0
+Staff of Frostbite	100	Frost	Gnarled Staff		1	1	6		3				4	402	inherent-staff		60	60	skill	583	1	4						armo	weap											0	0
+Staff of Ice Storm	100	Frost	Gnarled Staff		1	1	12		6				4	402	inherent-staff		60	60	skill	584	1	4						armo	weap											0	0
+Staff of Avalanche	100	Frost	Gnarled Staff		1	1	18		9				4	402	inherent-staff		60	60	skill	585	1	4						armo	weap											0	0
+Staff of Hoarfrost	100	Frost	Gnarled Staff		1	1	18		9				4	402	inherent-staff		60	60	skill	586	1	4						armo	weap											0	0
+Staff of Ice Nova	100	Frost	Gnarled Staff		1	1	24		12				4	402	inherent-staff		60	60	skill	587	1	4						armo	weap											0	0
+Staff of New Cold Mastery	100	Frost	Gnarled Staff		1	1	30		15				4	402	inherent-staff		60	60	skill	588	1	4						armo	weap											0	0
+Staff of Crackling Bolts	100	Shock	Gnarled Staff		1	1	1		0				4	402	inherent-staff		60	60	skill	589	1	4						armo	weap											0	0
+Staff of Arc Lightning	100	Shock	Gnarled Staff		1	1	6		3				4	402	inherent-staff		60	60	skill	590	1	4						armo	weap											0	0
+Staff of Electrocute	100	Shock	Gnarled Staff		1	1	12		6				4	402	inherent-staff		60	60	skill	591	1	4						armo	weap											0	0
+Staff of Wave of Force	100	Shock	Gnarled Staff		1	1	12		6				4	402	inherent-staff		60	60	skill	592	1	4						armo	weap											0	0
+Staff of Tempest	100	Shock	Gnarled Staff		1	1	18		9				4	402	inherent-staff		60	60	skill	593	1	4						armo	weap											0	0
+Staff of Chaos Nexus	100	Shock	Gnarled Staff		1	1	24		12				4	402	inherent-staff		60	60	skill	594	1	4						armo	weap											0	0
+Staff of Conduit	100	Shock	Gnarled Staff		1	1	24		12				4	402	inherent-staff		60	60	skill	595	1	4						armo	weap											0	0
+Staff of New Lightning Mastery	100	Shock	Gnarled Staff		1	1	30		15				4	402	inherent-staff		60	60	skill	596	1	4						armo	weap											0	0
+Staff of Flame Bolt	100	Fire	Gemmed Staff		1	1	1		0				4	403	inherent-staff		70	70	skill	573	1	5						armo	weap											0	0
+Staff of New Warmth	100	Fire	Gemmed Staff		1	1	1		0				4	403	inherent-staff		70	70	skill	574	1	5						armo	weap											0	0
+Staff of Incinerate	100	Fire	Gemmed Staff		1	1	6		3				4	403	inherent-staff		70	70	skill	575	1	5						armo	weap											0	0
+Staff of Flame Wave	100	Fire	Gemmed Staff		1	1	12		6				4	403	inherent-staff		70	70	skill	576	1	5						armo	weap											0	0
+Staff of Blazing Spear	100	Fire	Gemmed Staff		1	1	18		9				4	403	inherent-staff		70	70	skill	577	1	5						armo	weap											0	0
+Staff of Fire Serpent	100	Fire	Gemmed Staff		1	1	24		12				4	403	inherent-staff		70	70	skill	578	1	5						armo	weap											0	0
+Staff of Devouring Flames	100	Fire	Gemmed Staff		1	1	30		15				4	403	inherent-staff		70	70	skill	579	1	5						armo	weap											0	0
+Staff of New Fire Mastery	100	Fire	Gemmed Staff		1	1	30		15				4	403	inherent-staff		70	70	skill	580	1	5						armo	weap											0	0
+Staff of Frost Bolt	100	Frost	Gemmed Staff		1	1	1		0				4	403	inherent-staff		70	70	skill	581	1	5						armo	weap											0	0
+Staff of Ice Armor	100	Frost	Gemmed Staff		1	1	6		3				4	403	inherent-staff		70	70	skill	582	1	5						armo	weap											0	0
+Staff of Frostbite	100	Frost	Gemmed Staff		1	1	6		3				4	403	inherent-staff		70	70	skill	583	1	5						armo	weap											0	0
+Staff of Ice Storm	100	Frost	Gemmed Staff		1	1	12		6				4	403	inherent-staff		70	70	skill	584	1	5						armo	weap											0	0
+Staff of Avalanche	100	Frost	Gemmed Staff		1	1	18		9				4	403	inherent-staff		70	70	skill	585	1	5						armo	weap											0	0
+Staff of Hoarfrost	100	Frost	Gemmed Staff		1	1	18		9				4	403	inherent-staff		70	70	skill	586	1	5						armo	weap											0	0
+Staff of Ice Nova	100	Frost	Gemmed Staff		1	1	24		12				4	403	inherent-staff		70	70	skill	587	1	5						armo	weap											0	0
+Staff of New Cold Mastery	100	Frost	Gemmed Staff		1	1	30		15				4	403	inherent-staff		70	70	skill	588	1	5						armo	weap											0	0
+Staff of Crackling Bolts	100	Shock	Gemmed Staff		1	1	1		0				4	403	inherent-staff		70	70	skill	589	1	5						armo	weap											0	0
+Staff of Arc Lightning	100	Shock	Gemmed Staff		1	1	6		3				4	403	inherent-staff		70	70	skill	590	1	5						armo	weap											0	0
+Staff of Electrocute	100	Shock	Gemmed Staff		1	1	12		6				4	403	inherent-staff		70	70	skill	591	1	5						armo	weap											0	0
+Staff of Wave of Force	100	Shock	Gemmed Staff		1	1	12		6				4	403	inherent-staff		70	70	skill	592	1	5						armo	weap											0	0
+Staff of Tempest	100	Shock	Gemmed Staff		1	1	18		9				4	403	inherent-staff		70	70	skill	593	1	5						armo	weap											0	0
+Staff of Chaos Nexus	100	Shock	Gemmed Staff		1	1	24		12				4	403	inherent-staff		70	70	skill	594	1	5						armo	weap											0	0
+Staff of Conduit	100	Shock	Gemmed Staff		1	1	24		12				4	403	inherent-staff		70	70	skill	595	1	5						armo	weap											0	0
+Staff of New Lightning Mastery	100	Shock	Gemmed Staff		1	1	30		15				4	403	inherent-staff		70	70	skill	596	1	5						armo	weap											0	0
+Staff of Flame Bolt	100	Fire	Battle Staff		1	1	1		0				4	404	inherent-staff		80	80	skill	573	1	6						armo	weap											0	0
+Staff of New Warmth	100	Fire	Battle Staff		1	1	1		0				4	404	inherent-staff		80	80	skill	574	1	6						armo	weap											0	0
+Staff of Incinerate	100	Fire	Battle Staff		1	1	6		3				4	404	inherent-staff		80	80	skill	575	1	6						armo	weap											0	0
+Staff of Flame Wave	100	Fire	Battle Staff		1	1	12		6				4	404	inherent-staff		80	80	skill	576	1	6						armo	weap											0	0
+Staff of Blazing Spear	100	Fire	Battle Staff		1	1	18		9				4	404	inherent-staff		80	80	skill	577	1	6						armo	weap											0	0
+Staff of Fire Serpent	100	Fire	Battle Staff		1	1	24		12				4	404	inherent-staff		80	80	skill	578	1	6						armo	weap											0	0
+Staff of Devouring Flames	100	Fire	Battle Staff		1	1	30		15				4	404	inherent-staff		80	80	skill	579	1	6						armo	weap											0	0
+Staff of New Fire Mastery	100	Fire	Battle Staff		1	1	30		15				4	404	inherent-staff		80	80	skill	580	1	6						armo	weap											0	0
+Staff of Frost Bolt	100	Frost	Battle Staff		1	1	1		0				4	404	inherent-staff		80	80	skill	581	1	6						armo	weap											0	0
+Staff of Ice Armor	100	Frost	Battle Staff		1	1	6		3				4	404	inherent-staff		80	80	skill	582	1	6						armo	weap											0	0
+Staff of Frostbite	100	Frost	Battle Staff		1	1	6		3				4	404	inherent-staff		80	80	skill	583	1	6						armo	weap											0	0
+Staff of Ice Storm	100	Frost	Battle Staff		1	1	12		6				4	404	inherent-staff		80	80	skill	584	1	6						armo	weap											0	0
+Staff of Avalanche	100	Frost	Battle Staff		1	1	18		9				4	404	inherent-staff		80	80	skill	585	1	6						armo	weap											0	0
+Staff of Hoarfrost	100	Frost	Battle Staff		1	1	18		9				4	404	inherent-staff		80	80	skill	586	1	6						armo	weap											0	0
+Staff of Ice Nova	100	Frost	Battle Staff		1	1	24		12				4	404	inherent-staff		80	80	skill	587	1	6						armo	weap											0	0
+Staff of New Cold Mastery	100	Frost	Battle Staff		1	1	30		15				4	404	inherent-staff		80	80	skill	588	1	6						armo	weap											0	0
+Staff of Crackling Bolts	100	Shock	Battle Staff		1	1	1		0				4	404	inherent-staff		80	80	skill	589	1	6						armo	weap											0	0
+Staff of Arc Lightning	100	Shock	Battle Staff		1	1	6		3				4	404	inherent-staff		80	80	skill	590	1	6						armo	weap											0	0
+Staff of Electrocute	100	Shock	Battle Staff		1	1	12		6				4	404	inherent-staff		80	80	skill	591	1	6						armo	weap											0	0
+Staff of Wave of Force	100	Shock	Battle Staff		1	1	12		6				4	404	inherent-staff		80	80	skill	592	1	6						armo	weap											0	0
+Staff of Tempest	100	Shock	Battle Staff		1	1	18		9				4	404	inherent-staff		80	80	skill	593	1	6						armo	weap											0	0
+Staff of Chaos Nexus	100	Shock	Battle Staff		1	1	24		12				4	404	inherent-staff		80	80	skill	594	1	6						armo	weap											0	0
+Staff of Conduit	100	Shock	Battle Staff		1	1	24		12				4	404	inherent-staff		80	80	skill	595	1	6						armo	weap											0	0
+Staff of New Lightning Mastery	100	Shock	Battle Staff		1	1	30		15				4	404	inherent-staff		80	80	skill	596	1	6						armo	weap											0	0
+Staff of Flame Bolt	100	Fire	War Staff		1	1	1		0				4	405	inherent-staff		90	90	skill	573	1	7						armo	weap											0	0
+Staff of New Warmth	100	Fire	War Staff		1	1	1		0				4	405	inherent-staff		90	90	skill	574	1	7						armo	weap											0	0
+Staff of Incinerate	100	Fire	War Staff		1	1	6		3				4	405	inherent-staff		90	90	skill	575	1	7						armo	weap											0	0
+Staff of Flame Wave	100	Fire	War Staff		1	1	12		6				4	405	inherent-staff		90	90	skill	576	1	7						armo	weap											0	0
+Staff of Blazing Spear	100	Fire	War Staff		1	1	18		9				4	405	inherent-staff		90	90	skill	577	1	7						armo	weap											0	0
+Staff of Fire Serpent	100	Fire	War Staff		1	1	24		12				4	405	inherent-staff		90	90	skill	578	1	7						armo	weap											0	0
+Staff of Devouring Flames	100	Fire	War Staff		1	1	30		15				4	405	inherent-staff		90	90	skill	579	1	7						armo	weap											0	0
+Staff of New Fire Mastery	100	Fire	War Staff		1	1	30		15				4	405	inherent-staff		90	90	skill	580	1	7						armo	weap											0	0
+Staff of Frost Bolt	100	Frost	War Staff		1	1	1		0				4	405	inherent-staff		90	90	skill	581	1	7						armo	weap											0	0
+Staff of Ice Armor	100	Frost	War Staff		1	1	6		3				4	405	inherent-staff		90	90	skill	582	1	7						armo	weap											0	0
+Staff of Frostbite	100	Frost	War Staff		1	1	6		3				4	405	inherent-staff		90	90	skill	583	1	7						armo	weap											0	0
+Staff of Ice Storm	100	Frost	War Staff		1	1	12		6				4	405	inherent-staff		90	90	skill	584	1	7						armo	weap											0	0
+Staff of Avalanche	100	Frost	War Staff		1	1	18		9				4	405	inherent-staff		90	90	skill	585	1	7						armo	weap											0	0
+Staff of Hoarfrost	100	Frost	War Staff		1	1	18		9				4	405	inherent-staff		90	90	skill	586	1	7						armo	weap											0	0
+Staff of Ice Nova	100	Frost	War Staff		1	1	24		12				4	405	inherent-staff		90	90	skill	587	1	7						armo	weap											0	0
+Staff of New Cold Mastery	100	Frost	War Staff		1	1	30		15				4	405	inherent-staff		90	90	skill	588	1	7						armo	weap											0	0
+Staff of Crackling Bolts	100	Shock	War Staff		1	1	1		0				4	405	inherent-staff		90	90	skill	589	1	7						armo	weap											0	0
+Staff of Arc Lightning	100	Shock	War Staff		1	1	6		3				4	405	inherent-staff		90	90	skill	590	1	7						armo	weap											0	0
+Staff of Electrocute	100	Shock	War Staff		1	1	12		6				4	405	inherent-staff		90	90	skill	591	1	7						armo	weap											0	0
+Staff of Wave of Force	100	Shock	War Staff		1	1	12		6				4	405	inherent-staff		90	90	skill	592	1	7						armo	weap											0	0
+Staff of Tempest	100	Shock	War Staff		1	1	18		9				4	405	inherent-staff		90	90	skill	593	1	7						armo	weap											0	0
+Staff of Chaos Nexus	100	Shock	War Staff		1	1	24		12				4	405	inherent-staff		90	90	skill	594	1	7						armo	weap											0	0
+Staff of Conduit	100	Shock	War Staff		1	1	24		12				4	405	inherent-staff		90	90	skill	595	1	7						armo	weap											0	0
+Staff of New Lightning Mastery	100	Shock	War Staff		1	1	30		15				4	405	inherent-staff		90	90	skill	596	1	7						armo	weap											0	0
+Staff of Flame Bolt	100	Fire	Dragonbone Staff		1	1	1		0				4	406	inherent-staff		100	100	skill	573	1	8						armo	weap											0	0
+Staff of New Warmth	100	Fire	Dragonbone Staff		1	1	1		0				4	406	inherent-staff		100	100	skill	574	1	8						armo	weap											0	0
+Staff of Incinerate	100	Fire	Dragonbone Staff		1	1	6		3				4	406	inherent-staff		100	100	skill	575	1	8						armo	weap											0	0
+Staff of Flame Wave	100	Fire	Dragonbone Staff		1	1	12		6				4	406	inherent-staff		100	100	skill	576	1	8						armo	weap											0	0
+Staff of Blazing Spear	100	Fire	Dragonbone Staff		1	1	18		9				4	406	inherent-staff		100	100	skill	577	1	8						armo	weap											0	0
+Staff of Fire Serpent	100	Fire	Dragonbone Staff		1	1	24		12				4	406	inherent-staff		100	100	skill	578	1	8						armo	weap											0	0
+Staff of Devouring Flames	100	Fire	Dragonbone Staff		1	1	30		15				4	406	inherent-staff		100	100	skill	579	1	8						armo	weap											0	0
+Staff of New Fire Mastery	100	Fire	Dragonbone Staff		1	1	30		15				4	406	inherent-staff		100	100	skill	580	1	8						armo	weap											0	0
+Staff of Frost Bolt	100	Frost	Dragonbone Staff		1	1	1		0				4	406	inherent-staff		100	100	skill	581	1	8						armo	weap											0	0
+Staff of Ice Armor	100	Frost	Dragonbone Staff		1	1	6		3				4	406	inherent-staff		100	100	skill	582	1	8						armo	weap											0	0
+Staff of Frostbite	100	Frost	Dragonbone Staff		1	1	6		3				4	406	inherent-staff		100	100	skill	583	1	8						armo	weap											0	0
+Staff of Ice Storm	100	Frost	Dragonbone Staff		1	1	12		6				4	406	inherent-staff		100	100	skill	584	1	8						armo	weap											0	0
+Staff of Avalanche	100	Frost	Dragonbone Staff		1	1	18		9				4	406	inherent-staff		100	100	skill	585	1	8						armo	weap											0	0
+Staff of Hoarfrost	100	Frost	Dragonbone Staff		1	1	18		9				4	406	inherent-staff		100	100	skill	586	1	8						armo	weap											0	0
+Staff of Ice Nova	100	Frost	Dragonbone Staff		1	1	24		12				4	406	inherent-staff		100	100	skill	587	1	8						armo	weap											0	0
+Staff of New Cold Mastery	100	Frost	Dragonbone Staff		1	1	30		15				4	406	inherent-staff		100	100	skill	588	1	8						armo	weap											0	0
+Staff of Crackling Bolts	100	Shock	Dragonbone Staff		1	1	1		0				4	406	inherent-staff		100	100	skill	589	1	8						armo	weap											0	0
+Staff of Arc Lightning	100	Shock	Dragonbone Staff		1	1	6		3				4	406	inherent-staff		100	100	skill	590	1	8						armo	weap											0	0
+Staff of Electrocute	100	Shock	Dragonbone Staff		1	1	12		6				4	406	inherent-staff		100	100	skill	591	1	8						armo	weap											0	0
+Staff of Wave of Force	100	Shock	Dragonbone Staff		1	1	12		6				4	406	inherent-staff		100	100	skill	592	1	8						armo	weap											0	0
+Staff of Tempest	100	Shock	Dragonbone Staff		1	1	18		9				4	406	inherent-staff		100	100	skill	593	1	8						armo	weap											0	0
+Staff of Chaos Nexus	100	Shock	Dragonbone Staff		1	1	24		12				4	406	inherent-staff		100	100	skill	594	1	8						armo	weap											0	0
+Staff of Conduit	100	Shock	Dragonbone Staff		1	1	24		12				4	406	inherent-staff		100	100	skill	595	1	8						armo	weap											0	0
+Staff of New Lightning Mastery	100	Shock	Dragonbone Staff		1	1	30		15				4	406	inherent-staff		100	100	skill	596	1	8						armo	weap											0	0
+Wand of Hex of Pain	100	Curses and Totem	Wand		1	1	1		0				4	410	inherent-wand		10	10	skill	565	1	2						armo	weap											0	0
+Wand of Interrogate the Dead	100	Curses and Totem	Wand		1	1	6		3				4	410	inherent-wand		10	10	skill	566	1	2						armo	weap											0	0
+Wand of Grim Totem	100	Curses and Totem	Wand		1	1	12		6				4	410	inherent-wand		10	10	skill	567	1	2						armo	weap											0	0
+Wand of Hex of Weakness	100	Curses and Totem	Wand		1	1	12		6				4	410	inherent-wand		10	10	skill	568	1	2						armo	weap											0	0
+Wand of Grim Sentinel	100	Curses and Totem	Wand		1	1	18		9				4	410	inherent-wand		10	10	skill	569	1	2						armo	weap											0	0
+Wand of Hex of Aging	100	Curses and Totem	Wand		1	1	18		9				4	410	inherent-wand		10	10	skill	570	1	2						armo	weap											0	0
+Wand of Grim Watcher	100	Curses and Totem	Wand		1	1	24		12				4	410	inherent-wand		10	10	skill	571	1	2						armo	weap											0	0
+Wand of Hex of Frailty	100	Curses and Totem	Wand		1	1	30		15				4	410	inherent-wand		10	10	skill	572	1	2						armo	weap											0	0
+Wand of Punisher	100	Poison and Spirit	Wand		1	1	6		3				4	410	inherent-wand		10	10	skill	559	1	2						armo	weap											0	0
+Wand of Corpse Lance	100	Poison and Spirit	Wand		1	1	12		6				4	410	inherent-wand		10	10	skill	560	1	2						armo	weap											0	0
+Wand of Putrid Explosion	100	Poison and Spirit	Wand		1	1	24		12				4	410	inherent-wand		10	10	skill	563	1	2						armo	weap											0	0
+Wand of Raise Skeleton	100	Summoning	Wand		1	1	1		0				4	410	inherent-wand		10	10	skill	549	1	2						armo	weap											0	0
+Wand of Undead Mastery	100	Summoning	Wand		1	1	1		0				4	410	inherent-wand		10	10	skill	550	1	2						armo	weap											0	0
+Wand of Salt the Earth	100	Summoning	Wand		1	1	6		3				4	410	inherent-wand		10	10	skill	551	1	2						armo	weap											0	0
+Wand of Raise Skeletal Mage	100	Summoning	Wand		1	1	12		6				4	410	inherent-wand		10	10	skill	552	1	2						armo	weap											0	0
+Wand of Rathma's Will	100	Summoning	Wand		1	1	18		9				4	410	inherent-wand		10	10	skill	553	1	2						armo	weap											0	0
+Wand of Wall of Zombies	100	Summoning	Wand		1	1	24		12				4	410	inherent-wand		10	10	skill	554	1	2						armo	weap											0	0
+Wand of Simulacrum	100	Summoning	Wand		1	1	30		15				4	410	inherent-wand		10	10	skill	555	1	2						armo	weap											0	0
+Wand of Revive	100	Summoning	Wand		1	1	30		15				4	410	inherent-wand		10	10	skill	556	1	2						armo	weap											0	0
+Wand of Hex of Pain	100	Curses and Totem	Gemmed Wand		1	1	1		0				4	411	inherent-wand		15	15	skill	565	1	3						armo	weap											0	0
+Wand of Interrogate the Dead	100	Curses and Totem	Gemmed Wand		1	1	6		3				4	411	inherent-wand		15	15	skill	566	1	3						armo	weap											0	0
+Wand of Grim Totem	100	Curses and Totem	Gemmed Wand		1	1	12		6				4	411	inherent-wand		15	15	skill	567	1	3						armo	weap											0	0
+Wand of Hex of Weakness	100	Curses and Totem	Gemmed Wand		1	1	12		6				4	411	inherent-wand		15	15	skill	568	1	3						armo	weap											0	0
+Wand of Grim Sentinel	100	Curses and Totem	Gemmed Wand		1	1	18		9				4	411	inherent-wand		15	15	skill	569	1	3						armo	weap											0	0
+Wand of Hex of Aging	100	Curses and Totem	Gemmed Wand		1	1	18		9				4	411	inherent-wand		15	15	skill	570	1	3						armo	weap											0	0
+Wand of Grim Watcher	100	Curses and Totem	Gemmed Wand		1	1	24		12				4	411	inherent-wand		15	15	skill	571	1	3						armo	weap											0	0
+Wand of Hex of Frailty	100	Curses and Totem	Gemmed Wand		1	1	30		15				4	411	inherent-wand		15	15	skill	572	1	3						armo	weap											0	0
+Wand of Punisher	100	Poison and Spirit	Gemmed Wand		1	1	6		3				4	411	inherent-wand		15	15	skill	559	1	3						armo	weap											0	0
+Wand of Corpse Lance	100	Poison and Spirit	Gemmed Wand		1	1	12		6				4	411	inherent-wand		15	15	skill	560	1	3						armo	weap											0	0
+Wand of Putrid Explosion	100	Poison and Spirit	Gemmed Wand		1	1	24		12				4	411	inherent-wand		15	15	skill	563	1	3						armo	weap											0	0
+Wand of Raise Skeleton	100	Summoning	Gemmed Wand		1	1	1		0				4	411	inherent-wand		15	15	skill	549	1	3						armo	weap											0	0
+Wand of Undead Mastery	100	Summoning	Gemmed Wand		1	1	1		0				4	411	inherent-wand		15	15	skill	550	1	3						armo	weap											0	0
+Wand of Salt the Earth	100	Summoning	Gemmed Wand		1	1	6		3				4	411	inherent-wand		15	15	skill	551	1	3						armo	weap											0	0
+Wand of Raise Skeletal Mage	100	Summoning	Gemmed Wand		1	1	12		6				4	411	inherent-wand		15	15	skill	552	1	3						armo	weap											0	0
+Wand of Rathma's Will	100	Summoning	Gemmed Wand		1	1	18		9				4	411	inherent-wand		15	15	skill	553	1	3						armo	weap											0	0
+Wand of Wall of Zombies	100	Summoning	Gemmed Wand		1	1	24		12				4	411	inherent-wand		15	15	skill	554	1	3						armo	weap											0	0
+Wand of Simulacrum	100	Summoning	Gemmed Wand		1	1	30		15				4	411	inherent-wand		15	15	skill	555	1	3						armo	weap											0	0
+Wand of Revive	100	Summoning	Gemmed Wand		1	1	30		15				4	411	inherent-wand		15	15	skill	556	1	3						armo	weap											0	0
+Wand of Hex of Pain	100	Curses and Totem	Yew Wand		1	1	1		0				4	412	inherent-wand		20	20	skill	565	1	4						armo	weap											0	0
+Wand of Interrogate the Dead	100	Curses and Totem	Yew Wand		1	1	6		3				4	412	inherent-wand		20	20	skill	566	1	4						armo	weap											0	0
+Wand of Grim Totem	100	Curses and Totem	Yew Wand		1	1	12		6				4	412	inherent-wand		20	20	skill	567	1	4						armo	weap											0	0
+Wand of Hex of Weakness	100	Curses and Totem	Yew Wand		1	1	12		6				4	412	inherent-wand		20	20	skill	568	1	4						armo	weap											0	0
+Wand of Grim Sentinel	100	Curses and Totem	Yew Wand		1	1	18		9				4	412	inherent-wand		20	20	skill	569	1	4						armo	weap											0	0
+Wand of Hex of Aging	100	Curses and Totem	Yew Wand		1	1	18		9				4	412	inherent-wand		20	20	skill	570	1	4						armo	weap											0	0
+Wand of Grim Watcher	100	Curses and Totem	Yew Wand		1	1	24		12				4	412	inherent-wand		20	20	skill	571	1	4						armo	weap											0	0
+Wand of Hex of Frailty	100	Curses and Totem	Yew Wand		1	1	30		15				4	412	inherent-wand		20	20	skill	572	1	4						armo	weap											0	0
+Wand of Punisher	100	Poison and Spirit	Yew Wand		1	1	6		3				4	412	inherent-wand		20	20	skill	559	1	4						armo	weap											0	0
+Wand of Corpse Lance	100	Poison and Spirit	Yew Wand		1	1	12		6				4	412	inherent-wand		20	20	skill	560	1	4						armo	weap											0	0
+Wand of Putrid Explosion	100	Poison and Spirit	Yew Wand		1	1	24		12				4	412	inherent-wand		20	20	skill	563	1	4						armo	weap											0	0
+Wand of Raise Skeleton	100	Summoning	Yew Wand		1	1	1		0				4	412	inherent-wand		20	20	skill	549	1	4						armo	weap											0	0
+Wand of Undead Mastery	100	Summoning	Yew Wand		1	1	1		0				4	412	inherent-wand		20	20	skill	550	1	4						armo	weap											0	0
+Wand of Salt the Earth	100	Summoning	Yew Wand		1	1	6		3				4	412	inherent-wand		20	20	skill	551	1	4						armo	weap											0	0
+Wand of Raise Skeletal Mage	100	Summoning	Yew Wand		1	1	12		6				4	412	inherent-wand		20	20	skill	552	1	4						armo	weap											0	0
+Wand of Rathma's Will	100	Summoning	Yew Wand		1	1	18		9				4	412	inherent-wand		20	20	skill	553	1	4						armo	weap											0	0
+Wand of Wall of Zombies	100	Summoning	Yew Wand		1	1	24		12				4	412	inherent-wand		20	20	skill	554	1	4						armo	weap											0	0
+Wand of Simulacrum	100	Summoning	Yew Wand		1	1	30		15				4	412	inherent-wand		20	20	skill	555	1	4						armo	weap											0	0
+Wand of Revive	100	Summoning	Yew Wand		1	1	30		15				4	412	inherent-wand		20	20	skill	556	1	4						armo	weap											0	0
+Wand of Hex of Pain	100	Curses and Totem	Bone Wand		1	1	1		0				4	413	inherent-wand		25	25	skill	565	1	5						armo	weap											0	0
+Wand of Interrogate the Dead	100	Curses and Totem	Bone Wand		1	1	6		3				4	413	inherent-wand		25	25	skill	566	1	5						armo	weap											0	0
+Wand of Grim Totem	100	Curses and Totem	Bone Wand		1	1	12		6				4	413	inherent-wand		25	25	skill	567	1	5						armo	weap											0	0
+Wand of Hex of Weakness	100	Curses and Totem	Bone Wand		1	1	12		6				4	413	inherent-wand		25	25	skill	568	1	5						armo	weap											0	0
+Wand of Grim Sentinel	100	Curses and Totem	Bone Wand		1	1	18		9				4	413	inherent-wand		25	25	skill	569	1	5						armo	weap											0	0
+Wand of Hex of Aging	100	Curses and Totem	Bone Wand		1	1	18		9				4	413	inherent-wand		25	25	skill	570	1	5						armo	weap											0	0
+Wand of Grim Watcher	100	Curses and Totem	Bone Wand		1	1	24		12				4	413	inherent-wand		25	25	skill	571	1	5						armo	weap											0	0
+Wand of Hex of Frailty	100	Curses and Totem	Bone Wand		1	1	30		15				4	413	inherent-wand		25	25	skill	572	1	5						armo	weap											0	0
+Wand of Punisher	100	Poison and Spirit	Bone Wand		1	1	6		3				4	413	inherent-wand		25	25	skill	559	1	5						armo	weap											0	0
+Wand of Corpse Lance	100	Poison and Spirit	Bone Wand		1	1	12		6				4	413	inherent-wand		25	25	skill	560	1	5						armo	weap											0	0
+Wand of Putrid Explosion	100	Poison and Spirit	Bone Wand		1	1	24		12				4	413	inherent-wand		25	25	skill	563	1	5						armo	weap											0	0
+Wand of Raise Skeleton	100	Summoning	Bone Wand		1	1	1		0				4	413	inherent-wand		25	25	skill	549	1	5						armo	weap											0	0
+Wand of Undead Mastery	100	Summoning	Bone Wand		1	1	1		0				4	413	inherent-wand		25	25	skill	550	1	5						armo	weap											0	0
+Wand of Salt the Earth	100	Summoning	Bone Wand		1	1	6		3				4	413	inherent-wand		25	25	skill	551	1	5						armo	weap											0	0
+Wand of Raise Skeletal Mage	100	Summoning	Bone Wand		1	1	12		6				4	413	inherent-wand		25	25	skill	552	1	5						armo	weap											0	0
+Wand of Rathma's Will	100	Summoning	Bone Wand		1	1	18		9				4	413	inherent-wand		25	25	skill	553	1	5						armo	weap											0	0
+Wand of Wall of Zombies	100	Summoning	Bone Wand		1	1	24		12				4	413	inherent-wand		25	25	skill	554	1	5						armo	weap											0	0
+Wand of Simulacrum	100	Summoning	Bone Wand		1	1	30		15				4	413	inherent-wand		25	25	skill	555	1	5						armo	weap											0	0
+Wand of Revive	100	Summoning	Bone Wand		1	1	30		15				4	413	inherent-wand		25	25	skill	556	1	5						armo	weap											0	0
+Wand of Hex of Pain	100	Curses and Totem	Totemic Wand		1	1	1		0				4	414	inherent-wand		30	30	skill	565	1	6						armo	weap											0	0
+Wand of Interrogate the Dead	100	Curses and Totem	Totemic Wand		1	1	6		3				4	414	inherent-wand		30	30	skill	566	1	6						armo	weap											0	0
+Wand of Grim Totem	100	Curses and Totem	Totemic Wand		1	1	12		6				4	414	inherent-wand		30	30	skill	567	1	6						armo	weap											0	0
+Wand of Hex of Weakness	100	Curses and Totem	Totemic Wand		1	1	12		6				4	414	inherent-wand		30	30	skill	568	1	6						armo	weap											0	0
+Wand of Grim Sentinel	100	Curses and Totem	Totemic Wand		1	1	18		9				4	414	inherent-wand		30	30	skill	569	1	6						armo	weap											0	0
+Wand of Hex of Aging	100	Curses and Totem	Totemic Wand		1	1	18		9				4	414	inherent-wand		30	30	skill	570	1	6						armo	weap											0	0
+Wand of Grim Watcher	100	Curses and Totem	Totemic Wand		1	1	24		12				4	414	inherent-wand		30	30	skill	571	1	6						armo	weap											0	0
+Wand of Hex of Frailty	100	Curses and Totem	Totemic Wand		1	1	30		15				4	414	inherent-wand		30	30	skill	572	1	6						armo	weap											0	0
+Wand of Punisher	100	Poison and Spirit	Totemic Wand		1	1	6		3				4	414	inherent-wand		30	30	skill	559	1	6						armo	weap											0	0
+Wand of Corpse Lance	100	Poison and Spirit	Totemic Wand		1	1	12		6				4	414	inherent-wand		30	30	skill	560	1	6						armo	weap											0	0
+Wand of Putrid Explosion	100	Poison and Spirit	Totemic Wand		1	1	24		12				4	414	inherent-wand		30	30	skill	563	1	6						armo	weap											0	0
+Wand of Raise Skeleton	100	Summoning	Totemic Wand		1	1	1		0				4	414	inherent-wand		30	30	skill	549	1	6						armo	weap											0	0
+Wand of Undead Mastery	100	Summoning	Totemic Wand		1	1	1		0				4	414	inherent-wand		30	30	skill	550	1	6						armo	weap											0	0
+Wand of Salt the Earth	100	Summoning	Totemic Wand		1	1	6		3				4	414	inherent-wand		30	30	skill	551	1	6						armo	weap											0	0
+Wand of Raise Skeletal Mage	100	Summoning	Totemic Wand		1	1	12		6				4	414	inherent-wand		30	30	skill	552	1	6						armo	weap											0	0
+Wand of Rathma's Will	100	Summoning	Totemic Wand		1	1	18		9				4	414	inherent-wand		30	30	skill	553	1	6						armo	weap											0	0
+Wand of Wall of Zombies	100	Summoning	Totemic Wand		1	1	24		12				4	414	inherent-wand		30	30	skill	554	1	6						armo	weap											0	0
+Wand of Simulacrum	100	Summoning	Totemic Wand		1	1	30		15				4	414	inherent-wand		30	30	skill	555	1	6						armo	weap											0	0
+Wand of Revive	100	Summoning	Totemic Wand		1	1	30		15				4	414	inherent-wand		30	30	skill	556	1	6						armo	weap											0	0
+Wand of Hex of Pain	100	Curses and Totem	Grim Wand		1	1	1		0				4	415	inherent-wand		35	35	skill	565	1	7						armo	weap											0	0
+Wand of Interrogate the Dead	100	Curses and Totem	Grim Wand		1	1	6		3				4	415	inherent-wand		35	35	skill	566	1	7						armo	weap											0	0
+Wand of Grim Totem	100	Curses and Totem	Grim Wand		1	1	12		6				4	415	inherent-wand		35	35	skill	567	1	7						armo	weap											0	0
+Wand of Hex of Weakness	100	Curses and Totem	Grim Wand		1	1	12		6				4	415	inherent-wand		35	35	skill	568	1	7						armo	weap											0	0
+Wand of Grim Sentinel	100	Curses and Totem	Grim Wand		1	1	18		9				4	415	inherent-wand		35	35	skill	569	1	7						armo	weap											0	0
+Wand of Hex of Aging	100	Curses and Totem	Grim Wand		1	1	18		9				4	415	inherent-wand		35	35	skill	570	1	7						armo	weap											0	0
+Wand of Grim Watcher	100	Curses and Totem	Grim Wand		1	1	24		12				4	415	inherent-wand		35	35	skill	571	1	7						armo	weap											0	0
+Wand of Hex of Frailty	100	Curses and Totem	Grim Wand		1	1	30		15				4	415	inherent-wand		35	35	skill	572	1	7						armo	weap											0	0
+Wand of Punisher	100	Poison and Spirit	Grim Wand		1	1	6		3				4	415	inherent-wand		35	35	skill	559	1	7						armo	weap											0	0
+Wand of Corpse Lance	100	Poison and Spirit	Grim Wand		1	1	12		6				4	415	inherent-wand		35	35	skill	560	1	7						armo	weap											0	0
+Wand of Putrid Explosion	100	Poison and Spirit	Grim Wand		1	1	24		12				4	415	inherent-wand		35	35	skill	563	1	7						armo	weap											0	0
+Wand of Raise Skeleton	100	Summoning	Grim Wand		1	1	1		0				4	415	inherent-wand		35	35	skill	549	1	7						armo	weap											0	0
+Wand of Undead Mastery	100	Summoning	Grim Wand		1	1	1		0				4	415	inherent-wand		35	35	skill	550	1	7						armo	weap											0	0
+Wand of Salt the Earth	100	Summoning	Grim Wand		1	1	6		3				4	415	inherent-wand		35	35	skill	551	1	7						armo	weap											0	0
+Wand of Raise Skeletal Mage	100	Summoning	Grim Wand		1	1	12		6				4	415	inherent-wand		35	35	skill	552	1	7						armo	weap											0	0
+Wand of Rathma's Will	100	Summoning	Grim Wand		1	1	18		9				4	415	inherent-wand		35	35	skill	553	1	7						armo	weap											0	0
+Wand of Wall of Zombies	100	Summoning	Grim Wand		1	1	24		12				4	415	inherent-wand		35	35	skill	554	1	7						armo	weap											0	0
+Wand of Simulacrum	100	Summoning	Grim Wand		1	1	30		15				4	415	inherent-wand		35	35	skill	555	1	7						armo	weap											0	0
+Wand of Revive	100	Summoning	Grim Wand		1	1	30		15				4	415	inherent-wand		35	35	skill	556	1	7						armo	weap											0	0
+Wand of Hex of Pain	100	Curses and Totem	Spirit Wand		1	1	1		0				4	416	inherent-wand		40	40	skill	565	1	8						armo	weap											0	0
+Wand of Interrogate the Dead	100	Curses and Totem	Spirit Wand		1	1	6		3				4	416	inherent-wand		40	40	skill	566	1	8						armo	weap											0	0
+Wand of Grim Totem	100	Curses and Totem	Spirit Wand		1	1	12		6				4	416	inherent-wand		40	40	skill	567	1	8						armo	weap											0	0
+Wand of Hex of Weakness	100	Curses and Totem	Spirit Wand		1	1	12		6				4	416	inherent-wand		40	40	skill	568	1	8						armo	weap											0	0
+Wand of Grim Sentinel	100	Curses and Totem	Spirit Wand		1	1	18		9				4	416	inherent-wand		40	40	skill	569	1	8						armo	weap											0	0
+Wand of Hex of Aging	100	Curses and Totem	Spirit Wand		1	1	18		9				4	416	inherent-wand		40	40	skill	570	1	8						armo	weap											0	0
+Wand of Grim Watcher	100	Curses and Totem	Spirit Wand		1	1	24		12				4	416	inherent-wand		40	40	skill	571	1	8						armo	weap											0	0
+Wand of Hex of Frailty	100	Curses and Totem	Spirit Wand		1	1	30		15				4	416	inherent-wand		40	40	skill	572	1	8						armo	weap											0	0
+Wand of Punisher	100	Poison and Spirit	Spirit Wand		1	1	6		3				4	416	inherent-wand		40	40	skill	559	1	8						armo	weap											0	0
+Wand of Corpse Lance	100	Poison and Spirit	Spirit Wand		1	1	12		6				4	416	inherent-wand		40	40	skill	560	1	8						armo	weap											0	0
+Wand of Putrid Explosion	100	Poison and Spirit	Spirit Wand		1	1	24		12				4	416	inherent-wand		40	40	skill	563	1	8						armo	weap											0	0
+Wand of Raise Skeleton	100	Summoning	Spirit Wand		1	1	1		0				4	416	inherent-wand		40	40	skill	549	1	8						armo	weap											0	0
+Wand of Undead Mastery	100	Summoning	Spirit Wand		1	1	1		0				4	416	inherent-wand		40	40	skill	550	1	8						armo	weap											0	0
+Wand of Salt the Earth	100	Summoning	Spirit Wand		1	1	6		3				4	416	inherent-wand		40	40	skill	551	1	8						armo	weap											0	0
+Wand of Raise Skeletal Mage	100	Summoning	Spirit Wand		1	1	12		6				4	416	inherent-wand		40	40	skill	552	1	8						armo	weap											0	0
+Wand of Rathma's Will	100	Summoning	Spirit Wand		1	1	18		9				4	416	inherent-wand		40	40	skill	553	1	8						armo	weap											0	0
+Wand of Wall of Zombies	100	Summoning	Spirit Wand		1	1	24		12				4	416	inherent-wand		40	40	skill	554	1	8						armo	weap											0	0
+Wand of Simulacrum	100	Summoning	Spirit Wand		1	1	30		15				4	416	inherent-wand		40	40	skill	555	1	8						armo	weap											0	0
+Wand of Revive	100	Summoning	Spirit Wand		1	1	30		15				4	416	inherent-wand		40	40	skill	556	1	8						armo	weap											0	0
+Orb of Summon Kutkh	100	Animals	Eagle Orb		1	1	1		0				4	420	inherent-orb		10	10	skill	533	1	2						armo	weap											0	0
+Orb of Wererat	100	Animals	Eagle Orb		1	1	6		3				4	420	inherent-orb		10	10	skill	534	1	2						armo	weap											0	0
+Orb of Restorative Herbs	100	Animals	Eagle Orb		1	1	6		3				4	420	inherent-orb		10	10	skill	535	1	2						armo	weap											0	0
+Orb of Summon Amarok	100	Animals	Eagle Orb		1	1	12		6				4	420	inherent-orb		10	10	skill	536	1	2						armo	weap											0	0
+Orb of Regrowth	100	Animals	Eagle Orb		1	1	18		9				4	420	inherent-orb		10	10	skill	537	1	2						armo	weap											0	0
+Orb of Sandstorm	100	Animals	Eagle Orb		1	1	24		12				4	420	inherent-orb		10	10	skill	538	1	2						armo	weap											0	0
+Orb of Shaman of Chaos	100	Animals	Eagle Orb		1	1	30		15				4	420	inherent-orb		10	10	skill	539	1	2						armo	weap											0	0
+Orb of Summon Nanuk	100	Animals	Eagle Orb		1	1	30		15				4	420	inherent-orb		10	10	skill	540	1	2						armo	weap											0	0
+Orb of Summon Kutkh	100	Animals	Crystal Orb		1	1	1		0				4	421	inherent-orb		15	15	skill	533	1	3						armo	weap											0	0
+Orb of Wererat	100	Animals	Crystal Orb		1	1	6		3				4	421	inherent-orb		15	15	skill	534	1	3						armo	weap											0	0
+Orb of Restorative Herbs	100	Animals	Crystal Orb		1	1	6		3				4	421	inherent-orb		15	15	skill	535	1	3						armo	weap											0	0
+Orb of Summon Amarok	100	Animals	Crystal Orb		1	1	12		6				4	421	inherent-orb		15	15	skill	536	1	3						armo	weap											0	0
+Orb of Regrowth	100	Animals	Crystal Orb		1	1	18		9				4	421	inherent-orb		15	15	skill	537	1	3						armo	weap											0	0
+Orb of Sandstorm	100	Animals	Crystal Orb		1	1	24		12				4	421	inherent-orb		15	15	skill	538	1	3						armo	weap											0	0
+Orb of Shaman of Chaos	100	Animals	Crystal Orb		1	1	30		15				4	421	inherent-orb		15	15	skill	539	1	3						armo	weap											0	0
+Orb of Summon Nanuk	100	Animals	Crystal Orb		1	1	30		15				4	421	inherent-orb		15	15	skill	540	1	3						armo	weap											0	0
+Orb of Summon Kutkh	100	Animals	Scrying Orb		1	1	1		0				4	422	inherent-orb		20	20	skill	533	1	4						armo	weap											0	0
+Orb of Wererat	100	Animals	Scrying Orb		1	1	6		3				4	422	inherent-orb		20	20	skill	534	1	4						armo	weap											0	0
+Orb of Restorative Herbs	100	Animals	Scrying Orb		1	1	6		3				4	422	inherent-orb		20	20	skill	535	1	4						armo	weap											0	0
+Orb of Summon Amarok	100	Animals	Scrying Orb		1	1	12		6				4	422	inherent-orb		20	20	skill	536	1	4						armo	weap											0	0
+Orb of Regrowth	100	Animals	Scrying Orb		1	1	18		9				4	422	inherent-orb		20	20	skill	537	1	4						armo	weap											0	0
+Orb of Sandstorm	100	Animals	Scrying Orb		1	1	24		12				4	422	inherent-orb		20	20	skill	538	1	4						armo	weap											0	0
+Orb of Shaman of Chaos	100	Animals	Scrying Orb		1	1	30		15				4	422	inherent-orb		20	20	skill	539	1	4						armo	weap											0	0
+Orb of Summon Nanuk	100	Animals	Scrying Orb		1	1	30		15				4	422	inherent-orb		20	20	skill	540	1	4						armo	weap											0	0
+Orb of Summon Kutkh	100	Animals	Scosglen Stone		1	1	1		0				4	423	inherent-orb		25	25	skill	533	1	5						armo	weap											0	0
+Orb of Wererat	100	Animals	Scosglen Stone		1	1	6		3				4	423	inherent-orb		25	25	skill	534	1	5						armo	weap											0	0
+Orb of Restorative Herbs	100	Animals	Scosglen Stone		1	1	6		3				4	423	inherent-orb		25	25	skill	535	1	5						armo	weap											0	0
+Orb of Summon Amarok	100	Animals	Scosglen Stone		1	1	12		6				4	423	inherent-orb		25	25	skill	536	1	5						armo	weap											0	0
+Orb of Regrowth	100	Animals	Scosglen Stone		1	1	18		9				4	423	inherent-orb		25	25	skill	537	1	5						armo	weap											0	0
+Orb of Sandstorm	100	Animals	Scosglen Stone		1	1	24		12				4	423	inherent-orb		25	25	skill	538	1	5						armo	weap											0	0
+Orb of Shaman of Chaos	100	Animals	Scosglen Stone		1	1	30		15				4	423	inherent-orb		25	25	skill	539	1	5						armo	weap											0	0
+Orb of Summon Nanuk	100	Animals	Scosglen Stone		1	1	30		15				4	423	inherent-orb		25	25	skill	540	1	5						armo	weap											0	0
+Orb of Summon Kutkh	100	Animals	Wyvern's Eye		1	1	1		0				4	424	inherent-orb		30	30	skill	533	1	6						armo	weap											0	0
+Orb of Wererat	100	Animals	Wyvern's Eye		1	1	6		3				4	424	inherent-orb		30	30	skill	534	1	6						armo	weap											0	0
+Orb of Restorative Herbs	100	Animals	Wyvern's Eye		1	1	6		3				4	424	inherent-orb		30	30	skill	535	1	6						armo	weap											0	0
+Orb of Summon Amarok	100	Animals	Wyvern's Eye		1	1	12		6				4	424	inherent-orb		30	30	skill	536	1	6						armo	weap											0	0
+Orb of Regrowth	100	Animals	Wyvern's Eye		1	1	18		9				4	424	inherent-orb		30	30	skill	537	1	6						armo	weap											0	0
+Orb of Sandstorm	100	Animals	Wyvern's Eye		1	1	24		12				4	424	inherent-orb		30	30	skill	538	1	6						armo	weap											0	0
+Orb of Shaman of Chaos	100	Animals	Wyvern's Eye		1	1	30		15				4	424	inherent-orb		30	30	skill	539	1	6						armo	weap											0	0
+Orb of Summon Nanuk	100	Animals	Wyvern's Eye		1	1	30		15				4	424	inherent-orb		30	30	skill	540	1	6						armo	weap											0	0
+Scepter of Penance	100	Combat	Scepter		1	1	6		3				4	430	inherent-scepter		10	10	skill	502	1	2						armo	weap											0	0
+Scepter of Conversion	100	Combat	Scepter		1	1	18		9				4	430	inherent-scepter		10	10	skill	505	1	2						armo	weap											0	0
+Scepter of Covenant	100	Combat	Scepter		1	1	24		12				4	430	inherent-scepter		10	10	skill	507	1	2						armo	weap											0	0
+Scepter of Smite	100	Holy	Scepter		1	1	1		0				4	430	inherent-scepter		10	10	skill	509	1	2						armo	weap											0	0
+Scepter of Holy Bolt	100	Holy	Scepter		1	1	6		3				4	430	inherent-scepter		10	10	skill	510	1	2						armo	weap											0	0
+Scepter of Shield of Faith	100	Holy	Scepter		1	1	6		3				4	430	inherent-scepter		10	10	skill	511	1	2						armo	weap											0	0
+Scepter of Banish	100	Holy	Scepter		1	1	12		6				4	430	inherent-scepter		10	10	skill	512	1	2						armo	weap											0	0
+Scepter of Holy Nova	100	Holy	Scepter		1	1	18		9				4	430	inherent-scepter		10	10	skill	513	1	2						armo	weap											0	0
+Scepter of Shield Charge	100	Holy	Scepter		1	1	24		12				4	430	inherent-scepter		10	10	skill	514	1	2						armo	weap											0	0
+Scepter of Purification	100	Holy	Scepter		1	1	30		15				4	430	inherent-scepter		10	10	skill	515	1	2						armo	weap											0	0
+Scepter of Sanctified Armor	100	Holy	Scepter		1	1	30		15				4	430	inherent-scepter		10	10	skill	516	1	2						armo	weap											0	0
+Scepter of Prayer	100	Auras	Scepter		1	1	1		0				4	430	inherent-scepter		10	10	skill	517	1	2						armo	weap											0	0
+Scepter of Defiance	100	Auras	Scepter		1	1	1		0				4	430	inherent-scepter		10	10	skill	518	1	2						armo	weap											0	0
+Scepter of Cleansing	100	Auras	Scepter		1	1	6		3				4	430	inherent-scepter		10	10	skill	519	1	2						armo	weap											0	0
+Scepter of Meditation	100	Auras	Scepter		1	1	12		6				4	430	inherent-scepter		10	10	skill	520	1	2						armo	weap											0	0
+Scepter of Sanctuary	100	Auras	Scepter		1	1	18		9				4	430	inherent-scepter		10	10	skill	521	1	2						armo	weap											0	0
+Scepter of Vigor	100	Auras	Scepter		1	1	18		9				4	430	inherent-scepter		10	10	skill	522	1	2						armo	weap											0	0
+Scepter of Thorns	100	Auras	Scepter		1	1	24		12				4	430	inherent-scepter		10	10	skill	523	1	2						armo	weap											0	0
+Scepter of Salvation	100	Auras	Scepter		1	1	30		15				4	430	inherent-scepter		10	10	skill	524	1	2						armo	weap											0	0
+Scepter of Penance	100	Combat	Scepter		1	1	6		3				4	431	inherent-scepter		20	20	skill	502	1	4						armo	weap											0	0
+Scepter of Conversion	100	Combat	Scepter		1	1	18		9				4	431	inherent-scepter		20	20	skill	505	1	4						armo	weap											0	0
+Scepter of Covenant	100	Combat	Scepter		1	1	24		12				4	431	inherent-scepter		20	20	skill	507	1	4						armo	weap											0	0
+Scepter of Smite	100	Holy	Scepter		1	1	1		0				4	431	inherent-scepter		20	20	skill	509	1	4						armo	weap											0	0
+Scepter of Holy Bolt	100	Holy	Scepter		1	1	6		3				4	431	inherent-scepter		20	20	skill	510	1	4						armo	weap											0	0
+Scepter of Shield of Faith	100	Holy	Scepter		1	1	6		3				4	431	inherent-scepter		20	20	skill	511	1	4						armo	weap											0	0
+Scepter of Banish	100	Holy	Scepter		1	1	12		6				4	431	inherent-scepter		20	20	skill	512	1	4						armo	weap											0	0
+Scepter of Holy Nova	100	Holy	Scepter		1	1	18		9				4	431	inherent-scepter		20	20	skill	513	1	4						armo	weap											0	0
+Scepter of Shield Charge	100	Holy	Scepter		1	1	24		12				4	431	inherent-scepter		20	20	skill	514	1	4						armo	weap											0	0
+Scepter of Purification	100	Holy	Scepter		1	1	30		15				4	431	inherent-scepter		20	20	skill	515	1	4						armo	weap											0	0
+Scepter of Sanctified Armor	100	Holy	Scepter		1	1	30		15				4	431	inherent-scepter		20	20	skill	516	1	4						armo	weap											0	0
+Scepter of Prayer	100	Auras	Scepter		1	1	1		0				4	431	inherent-scepter		20	20	skill	517	1	4						armo	weap											0	0
+Scepter of Defiance	100	Auras	Scepter		1	1	1		0				4	431	inherent-scepter		20	20	skill	518	1	4						armo	weap											0	0
+Scepter of Cleansing	100	Auras	Scepter		1	1	6		3				4	431	inherent-scepter		20	20	skill	519	1	4						armo	weap											0	0
+Scepter of Meditation	100	Auras	Scepter		1	1	12		6				4	431	inherent-scepter		20	20	skill	520	1	4						armo	weap											0	0
+Scepter of Sanctuary	100	Auras	Scepter		1	1	18		9				4	431	inherent-scepter		20	20	skill	521	1	4						armo	weap											0	0
+Scepter of Vigor	100	Auras	Scepter		1	1	18		9				4	431	inherent-scepter		20	20	skill	522	1	4						armo	weap											0	0
+Scepter of Thorns	100	Auras	Scepter		1	1	24		12				4	431	inherent-scepter		20	20	skill	523	1	4						armo	weap											0	0
+Scepter of Salvation	100	Auras	Scepter		1	1	30		15				4	431	inherent-scepter		20	20	skill	524	1	4						armo	weap											0	0
+Scepter of Penance	100	Combat	Scepter		1	1	6		3				4	432	inherent-scepter		30	30	skill	502	1	6						armo	weap											0	0
+Scepter of Conversion	100	Combat	Scepter		1	1	18		9				4	432	inherent-scepter		30	30	skill	505	1	6						armo	weap											0	0
+Scepter of Covenant	100	Combat	Scepter		1	1	24		12				4	432	inherent-scepter		30	30	skill	507	1	6						armo	weap											0	0
+Scepter of Smite	100	Holy	Scepter		1	1	1		0				4	432	inherent-scepter		30	30	skill	509	1	6						armo	weap											0	0
+Scepter of Holy Bolt	100	Holy	Scepter		1	1	6		3				4	432	inherent-scepter		30	30	skill	510	1	6						armo	weap											0	0
+Scepter of Shield of Faith	100	Holy	Scepter		1	1	6		3				4	432	inherent-scepter		30	30	skill	511	1	6						armo	weap											0	0
+Scepter of Banish	100	Holy	Scepter		1	1	12		6				4	432	inherent-scepter		30	30	skill	512	1	6						armo	weap											0	0
+Scepter of Holy Nova	100	Holy	Scepter		1	1	18		9				4	432	inherent-scepter		30	30	skill	513	1	6						armo	weap											0	0
+Scepter of Shield Charge	100	Holy	Scepter		1	1	24		12				4	432	inherent-scepter		30	30	skill	514	1	6						armo	weap											0	0
+Scepter of Purification	100	Holy	Scepter		1	1	30		15				4	432	inherent-scepter		30	30	skill	515	1	6						armo	weap											0	0
+Scepter of Sanctified Armor	100	Holy	Scepter		1	1	30		15				4	432	inherent-scepter		30	30	skill	516	1	6						armo	weap											0	0
+Scepter of Prayer	100	Auras	Scepter		1	1	1		0				4	432	inherent-scepter		30	30	skill	517	1	6						armo	weap											0	0
+Scepter of Defiance	100	Auras	Scepter		1	1	1		0				4	432	inherent-scepter		30	30	skill	518	1	6						armo	weap											0	0
+Scepter of Cleansing	100	Auras	Scepter		1	1	6		3				4	432	inherent-scepter		30	30	skill	519	1	6						armo	weap											0	0
+Scepter of Meditation	100	Auras	Scepter		1	1	12		6				4	432	inherent-scepter		30	30	skill	520	1	6						armo	weap											0	0
+Scepter of Sanctuary	100	Auras	Scepter		1	1	18		9				4	432	inherent-scepter		30	30	skill	521	1	6						armo	weap											0	0
+Scepter of Vigor	100	Auras	Scepter		1	1	18		9				4	432	inherent-scepter		30	30	skill	522	1	6						armo	weap											0	0
+Scepter of Thorns	100	Auras	Scepter		1	1	24		12				4	432	inherent-scepter		30	30	skill	523	1	6						armo	weap											0	0
+Scepter of Salvation	100	Auras	Scepter		1	1	30		15				4	432	inherent-scepter		30	30	skill	524	1	6						armo	weap											0	0
