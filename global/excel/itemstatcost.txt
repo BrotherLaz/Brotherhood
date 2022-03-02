@@ -468,7 +468,8 @@ inherent_orb	465	invisible automod				1	8											19	12		7	0	7	0														
 inherent_scepter	466	invisible automod				1	8											19	12		7	0	7	0																														0
 inherent_misc1	467	invisible automod				1	8											19	12		7	0	7	0																														0
 inherent_misc2	468	invisible automod				1	8											19	12		7	0	7	0																														0
-misc_levelreqstring	469		-64	64		1	8														7	20	7	64																0	19		ModLevelReqTorch	ModLevelReqTorch										0
-misc_uniquetorchstring	470		-64	64		1	5														5	0	5	0																160	19		ModUniqueTorch	ModUniqueTorch										0
-desc_randommods	471					1	2														2	0	2	0																170	19		DescRandomMods	DescRandomMods										0
-desc_isupgradable	472					1	2														2	0	2	0																170	19		DescIsUpgradable	DescIsUpgradable										0
+misc_levelreqstring	469		-64	64		1	8														7	20	7	64																0	19		ModLevelReqDisplay	ModLevelReqDisplay										0
+misc_dmgacstring	470		-64	64		1	5														5	0	5	0																160	19		ModDmgAcDisplay	ModDmgAcDisplay										0
+desc_randommods	471					1	2														2	0	2	0																170	19		ModRandomMods	ModRandomMods										0
+desc_isupgradable	472					1	2														2	0	2	0																170	19		ModIsUpgradable	ModIsUpgradable										0
+special_upgradetracker	473	trophy 2 upgrade tracker				1	5														5	0	5	0																1	19		ModDmgVsInsects	ModDmgVsInsects										0

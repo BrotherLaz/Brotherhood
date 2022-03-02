@@ -357,12 +357,13 @@ automagic-woundth	1	1	automagic_woundthorns																																0
 automagic-human%	1	1	automagic_humandmg_percent																																0
 automagic-insect%	1	1	automagic_insectdmg_percent																																0
 automagic-construct%	1	1	automagic_constructdmg_percent																																0
-levelreq%	1	1	item_levelreqpct																											Required Level: #		Min #	Max #		0
-levelreq-display	1	1	misc_levelreqstring																											Required Level: #		Min #	Max #		0
-unique-torch	1	1	misc_uniquetorchstring																											Required Level: #		Min #	Max #		0
 inherent-staff	1	1	inherent_staff																																0
 inherent-wand	1	1	inherent_wand																																0
 inherent-orb	1	1	inherent_orb																																0
 inherent-scepter	1	1	inherent_scepter																																0
-random-mods	1	1	desc_randommods																																0
+levelreq%	1	1	item_levelreqpct																											Required Level: #		Min #	Max #		0
+levelreq-display	1	1	misc_levelreqstring																											Required Level: #		Min #	Max #		0
+dmg%-ac%-display	1	1	misc_dmgacstring																											Required Level: #		Min #	Max #		0
+random-mods-display	1	1	desc_randommods																																0
 is-upgradable	1	1	desc_isupgradable																																0
+upgrade-tracker	1	1	special_upgradetracker																																0

@@ -1890,63 +1890,63 @@
   "ultra": "torch/torch"
 } },
 { "trophy_1": {
-  "normal": "body_part/soul",
-  "uber": "body_part/soul",
-  "ultra": "body_part/soul"
+  "normal": "body_part/spleen",
+  "uber": "body_part/spleen",
+  "ultra": "body_part/spleen"
 } },
 { "trophy_2": {
-  "normal": "body_part/soul",
-  "uber": "body_part/soul",
-  "ultra": "body_part/soul"
+  "normal": "body_part/heart",
+  "uber": "body_part/heart",
+  "ultra": "body_part/heart"
 } },
 { "trophy_3": {
-  "normal": "body_part/soul",
-  "uber": "body_part/soul",
-  "ultra": "body_part/soul"
+  "normal": "quest/mephisto_soul_stone",
+  "uber": "quest/mephisto_soul_stone",
+  "ultra": "quest/mephisto_soul_stone"
 } },
 { "trophy_4": {
-  "normal": "body_part/soul",
-  "uber": "body_part/soul",
-  "ultra": "body_part/soul"
+  "normal": "quest/mephisto_soul_stone",
+  "uber": "quest/mephisto_soul_stone",
+  "ultra": "quest/mephisto_soul_stone"
 } },
 { "trophybase_1": {
-  "normal": "body_part/soul",
-  "uber": "body_part/soul",
-  "ultra": "body_part/soul"
+  "normal": "body_part/spleen",
+  "uber": "body_part/spleen",
+  "ultra": "body_part/spleen"
 } },
 { "trophybase_2": {
-  "normal": "body_part/soul",
-  "uber": "body_part/soul",
-  "ultra": "body_part/soul"
+  "normal": "torch/torch",
+  "uber": "torch/torch",
+  "ultra": "torch/torch"
 } },
 { "trophybase_3": {
-  "normal": "body_part/soul",
-  "uber": "body_part/soul",
-  "ultra": "body_part/soul"
+  "normal": "quest/mephisto_soul_stone",
+  "uber": "quest/mephisto_soul_stone",
+  "ultra": "quest/mephisto_soul_stone"
 } },
 { "trophybase_4": {
-  "normal": "body_part/soul",
-  "uber": "body_part/soul",
-  "ultra": "body_part/soul"
+  "normal": "quest/mephisto_soul_stone",
+  "uber": "quest/mephisto_soul_stone",
+  "ultra": "quest/mephisto_soul_stone"
 } },
-{ "supertorch_1": {
-  "normal": "torch/torch",
-  "uber": "torch/torch",
-  "ultra": "torch/torch"
+{ "superdisenchant_1": {
+  "normal": "scroll/deciphered_bark_scroll",
+  "uber": "scroll/deciphered_bark_scroll",
+  "ultra": "scroll/deciphered_bark_scroll"
 } },
-{ "supertorch_2": {
-  "normal": "torch/torch",
-  "uber": "torch/torch",
-  "ultra": "torch/torch"
+{ "superdisenchant_2": {
+  "normal": "scroll/deciphered_bark_scroll",
+  "uber": "scroll/deciphered_bark_scroll",
+  "ultra": "scroll/deciphered_bark_scroll"
 } },
-{ "supertorch_3": {
-  "normal": "torch/torch",
-  "uber": "torch/torch",
-  "ultra": "torch/torch"
+{ "superdisenchant_3": {
+  "normal": "scroll/deciphered_bark_scroll",
+  "uber": "scroll/deciphered_bark_scroll",
+  "ultra": "scroll/deciphered_bark_scroll"
 } },
-{ "supertorch_4": {
-  "normal": "torch/torch",
-  "uber": "torch/torch",
-  "ultra": "torch/torch"
+{ "superdisenchant_4": {
+  "normal": "scroll/deciphered_bark_scroll",
+  "uber": "scroll/deciphered_bark_scroll",
+  "ultra": "scroll/deciphered_bark_scroll"
 } }
 ]

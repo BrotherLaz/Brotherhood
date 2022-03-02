@@ -173,13 +173,13 @@ Enchantment Boot	169		Enchantment	trbo	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0
 Enchantment Glove	170		Enchantment	trgl	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
 Enchantment Claw	171		Enchantment	trcl	ench		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
 Enchantment	172		Enchantment base type	ench	trin		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 1	173		Witches torch	wtoa	wtor		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 2	174		Witches torch	wtob	wtor		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 3	175		Witches torch	wtoc	wtor		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch 4	176		Witches torch	wtod	wtor		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Witches Torch	177		Witches torch base type	wtor	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Ingredient Fang	178		Automagic for Fang	dfan	trin		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Crafting Incant	179		Automagic for Crafting Incant	crai	trin		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Disenchantment Scroll 1	173		Disenchantment scroll	disa	disi		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Disenchantment Scroll 2	174		Disenchantment scroll	disb	disi		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Disenchantment Scroll 3	175		Disenchantment scroll	disc	disi		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Disenchantment Scroll 4	176		Disenchantment scroll	disd	disi		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Disenchantment Scroll	177		Disenchantment scroll base type	disi	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Ingredient Fang	178		Automagic for fang	dfan	trin		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Crafting Scroll	179		Automagic for crafting scroll	crai	trin		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Herb1	180		Crafting herb	wd01	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Herb2	181		Crafting herb	wd02	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Herb3	182		Crafting herb	wd03	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
