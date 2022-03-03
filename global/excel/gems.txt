@@ -66,7 +66,7 @@ Lo Rune	r28L	18	r28	flag-rune		1	1	timer%		-2	-2					flag-rune		1	1	timer%		-2	-
 Sur Rune	r29L	18	r29	flag-rune		1	1	stupidity		1	1					flag-rune		1	1	stupid-thorns		1	1					flag-rune		1	1	stupid-thorns		1	1				0
 Ber Rune	r30L	18	r30	flag-rune		1	1	crush		5	5					flag-rune		1	1	res-curse		5	5					flag-rune		1	1	thorns%		25	25				0
 Jah Rune	r31L	18	r31	flag-rune		1	1	ignore-ac		1	1					flag-rune		1	1	uninterrupt		8	8					flag-rune		1	1	uninterrupt		8	8				0
-Cham Rune	r32L	18	r32	flag-rune		1	1	knock		1	1					flag-rune		1	1	move3		3	3					flag-rune		1	1	move3		4	4				0
+Cham Rune	r32L	18	r32	flag-rune		1	1	knock		1	1					flag-rune		1	1	move3		3	3					flag-rune		1	1	res-mag		10	10				0
 Zod Rune	r33L	18	r33	flag-rune		1	1	indestruct		1	1					flag-rune		1	1	indestruct		1	1					flag-rune		1	1	indestruct		1	1				0
 Sha Rune	r34L	18	r34	flag-rune		1	1	slow		8	8					flag-rune		1	1	slow-thorns		8	8					flag-rune		1	1	slow-thorns		8	8				0
 Lah Rune	r35L	18	r35	flag-rune		1	1	addxp		2	2					flag-rune		1	1	addxp		2	2					flag-rune		1	1	addxp		2	2				0

@@ -405,12 +405,10 @@ Scepter of Conversion	100	Combat	Scepter		1	1	18		9				4	430	inherent-scepter		1
 Scepter of Covenant	100	Combat	Scepter		1	1	24		12				4	430	inherent-scepter		10	10	skill	507	1	2						armo	weap											0	0
 Scepter of Smite	100	Holy	Scepter		1	1	1		0				4	430	inherent-scepter		10	10	skill	509	1	2						armo	weap											0	0
 Scepter of Holy Bolt	100	Holy	Scepter		1	1	6		3				4	430	inherent-scepter		10	10	skill	510	1	2						armo	weap											0	0
-Scepter of Shield of Faith	100	Holy	Scepter		1	1	6		3				4	430	inherent-scepter		10	10	skill	511	1	2						armo	weap											0	0
 Scepter of Banish	100	Holy	Scepter		1	1	12		6				4	430	inherent-scepter		10	10	skill	512	1	2						armo	weap											0	0
 Scepter of Holy Nova	100	Holy	Scepter		1	1	18		9				4	430	inherent-scepter		10	10	skill	513	1	2						armo	weap											0	0
 Scepter of Shield Charge	100	Holy	Scepter		1	1	24		12				4	430	inherent-scepter		10	10	skill	514	1	2						armo	weap											0	0
 Scepter of Purification	100	Holy	Scepter		1	1	30		15				4	430	inherent-scepter		10	10	skill	515	1	2						armo	weap											0	0
-Scepter of Sanctified Armor	100	Holy	Scepter		1	1	30		15				4	430	inherent-scepter		10	10	skill	516	1	2						armo	weap											0	0
 Scepter of Prayer	100	Auras	Scepter		1	1	1		0				4	430	inherent-scepter		10	10	skill	517	1	2						armo	weap											0	0
 Scepter of Defiance	100	Auras	Scepter		1	1	1		0				4	430	inherent-scepter		10	10	skill	518	1	2						armo	weap											0	0
 Scepter of Cleansing	100	Auras	Scepter		1	1	6		3				4	430	inherent-scepter		10	10	skill	519	1	2						armo	weap											0	0
@@ -424,12 +422,10 @@ Scepter of Conversion	100	Combat	Scepter		1	1	18		9				4	431	inherent-scepter		2
 Scepter of Covenant	100	Combat	Scepter		1	1	24		12				4	431	inherent-scepter		20	20	skill	507	1	4						armo	weap											0	0
 Scepter of Smite	100	Holy	Scepter		1	1	1		0				4	431	inherent-scepter		20	20	skill	509	1	4						armo	weap											0	0
 Scepter of Holy Bolt	100	Holy	Scepter		1	1	6		3				4	431	inherent-scepter		20	20	skill	510	1	4						armo	weap											0	0
-Scepter of Shield of Faith	100	Holy	Scepter		1	1	6		3				4	431	inherent-scepter		20	20	skill	511	1	4						armo	weap											0	0
 Scepter of Banish	100	Holy	Scepter		1	1	12		6				4	431	inherent-scepter		20	20	skill	512	1	4						armo	weap											0	0
 Scepter of Holy Nova	100	Holy	Scepter		1	1	18		9				4	431	inherent-scepter		20	20	skill	513	1	4						armo	weap											0	0
 Scepter of Shield Charge	100	Holy	Scepter		1	1	24		12				4	431	inherent-scepter		20	20	skill	514	1	4						armo	weap											0	0
 Scepter of Purification	100	Holy	Scepter		1	1	30		15				4	431	inherent-scepter		20	20	skill	515	1	4						armo	weap											0	0
-Scepter of Sanctified Armor	100	Holy	Scepter		1	1	30		15				4	431	inherent-scepter		20	20	skill	516	1	4						armo	weap											0	0
 Scepter of Prayer	100	Auras	Scepter		1	1	1		0				4	431	inherent-scepter		20	20	skill	517	1	4						armo	weap											0	0
 Scepter of Defiance	100	Auras	Scepter		1	1	1		0				4	431	inherent-scepter		20	20	skill	518	1	4						armo	weap											0	0
 Scepter of Cleansing	100	Auras	Scepter		1	1	6		3				4	431	inherent-scepter		20	20	skill	519	1	4						armo	weap											0	0
@@ -443,12 +439,10 @@ Scepter of Conversion	100	Combat	Scepter		1	1	18		9				4	432	inherent-scepter		3
 Scepter of Covenant	100	Combat	Scepter		1	1	24		12				4	432	inherent-scepter		30	30	skill	507	1	6						armo	weap											0	0
 Scepter of Smite	100	Holy	Scepter		1	1	1		0				4	432	inherent-scepter		30	30	skill	509	1	6						armo	weap											0	0
 Scepter of Holy Bolt	100	Holy	Scepter		1	1	6		3				4	432	inherent-scepter		30	30	skill	510	1	6						armo	weap											0	0
-Scepter of Shield of Faith	100	Holy	Scepter		1	1	6		3				4	432	inherent-scepter		30	30	skill	511	1	6						armo	weap											0	0
 Scepter of Banish	100	Holy	Scepter		1	1	12		6				4	432	inherent-scepter		30	30	skill	512	1	6						armo	weap											0	0
 Scepter of Holy Nova	100	Holy	Scepter		1	1	18		9				4	432	inherent-scepter		30	30	skill	513	1	6						armo	weap											0	0
 Scepter of Shield Charge	100	Holy	Scepter		1	1	24		12				4	432	inherent-scepter		30	30	skill	514	1	6						armo	weap											0	0
 Scepter of Purification	100	Holy	Scepter		1	1	30		15				4	432	inherent-scepter		30	30	skill	515	1	6						armo	weap											0	0
-Scepter of Sanctified Armor	100	Holy	Scepter		1	1	30		15				4	432	inherent-scepter		30	30	skill	516	1	6						armo	weap											0	0
 Scepter of Prayer	100	Auras	Scepter		1	1	1		0				4	432	inherent-scepter		30	30	skill	517	1	6						armo	weap											0	0
 Scepter of Defiance	100	Auras	Scepter		1	1	1		0				4	432	inherent-scepter		30	30	skill	518	1	6						armo	weap											0	0
 Scepter of Cleansing	100	Auras	Scepter		1	1	6		3				4	432	inherent-scepter		30	30	skill	519	1	6						armo	weap											0	0

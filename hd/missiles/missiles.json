@@ -988,5 +988,8 @@
     "breakspike": "spike_fiend_missle",
     "scattershotcenter": "null",
     "scattershotbig": "laz_arrowrain",
-    "scattershotsmall": "laz_arrowrain"
+    "scattershotsmall": "laz_arrowrain",
+    "piercinglightshot": "teeth_missile",
+    "fragmentinglightshot": "teeth_missile",
+    "fragmentinglighttrail": "mist"
 }
