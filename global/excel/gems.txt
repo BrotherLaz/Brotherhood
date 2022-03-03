@@ -1,0 +1,84 @@
+name	letter	transform	code	weaponMod1Code	weaponMod1Param	weaponMod1Min	weaponMod1Max	weaponMod2Code	weaponMod2Param	weaponMod2Min	weaponMod2Max	weaponMod3Code	weaponMod3Param	weaponMod3Min	weaponMod3Max	helmMod1Code	helmMod1Param	helmMod1Min	helmMod1Max	helmMod2Code	helmMod2Param	helmMod2Min	helmMod2Max	helmMod3Code	helmMod3Param	helmMod3Min	helmMod3Max	shieldMod1Code	shieldMod1Param	shieldMod1Min	shieldMod1Max	shieldMod2Code	shieldMod2Param	shieldMod2Min	shieldMod2Max	shieldMod3Code	shieldMod3Param	shieldMod3Min	shieldMod3Max
+Chipped Amethyst		18	gcv	flag-gem		1	1	att%		10	10					flag-gem		1	1	str		2	2					flag-gem		1	1								0
+Flawed Amethyst		18	gfv	flag-gem		1	1	att%		15	15					flag-gem		1	1	str		4	4					flag-gem		1	1								0
+Amethyst		18	gsv	flag-gem		1	1	att%		20	20					flag-gem		1	1	str		6	6					flag-gem		1	1								0
+Flawless Amethyst		18	gzv	flag-gem		1	1	att%		25	25					flag-gem		1	1	str		8	8					flag-gem		1	1								0
+Perfect Amethyst		17	gpv	flag-gem		1	1	att%		30	30					flag-gem		1	1	str		10	10					flag-gem		1	1								0
+Chipped Sapphire		5	gcb	flag-gem		1	1	dmg-cold	25	1	3					flag-gem		1	1	enr		2	2					flag-gem		1	1	res-cold		5	5				0
+Flawed Sapphire		5	gfb	flag-gem		1	1	dmg-cold	35	2	6					flag-gem		1	1	enr		4	4					flag-gem		1	1	res-cold		10	10				0
+Sapphire		5	gsb	flag-gem		1	1	dmg-cold	45	3	9					flag-gem		1	1	enr		6	6					flag-gem		1	1	res-cold		15	15				0
+Flawless Sapphire		5	glb	flag-gem		1	1	dmg-cold	55	4	12					flag-gem		1	1	enr		8	8					flag-gem		1	1	res-cold		20	20				0
+Perfect Sapphire		6	gpb	flag-gem		1	1	dmg-cold	65	5	15					flag-gem		1	1	enr		10	10					flag-gem		1	1	res-cold		25	25				0
+Chipped Emerald		11	gcg	flag-gem		1	1	dmg-pois	55	2	64					flag-gem		1	1	dex		2	2					flag-gem		1	1	res-pois		5	5				0
+Flawed Emerald		11	gfg	flag-gem		1	1	dmg-pois	60	8	80					flag-gem		1	1	dex		4	4					flag-gem		1	1	res-pois		10	10				0
+Emerald		11	gsg	flag-gem		1	1	dmg-pois	65	14	96					flag-gem		1	1	dex		6	6					flag-gem		1	1	res-pois		15	15				0
+Flawless Emerald		11	glg	flag-gem		1	1	dmg-pois	70	20	112					flag-gem		1	1	dex		8	8					flag-gem		1	1	res-pois		20	20				0
+Perfect Emerald		12	gpg	flag-gem		1	1	dmg-pois	75	26	128					flag-gem		1	1	dex		10	10					flag-gem		1	1	res-pois		25	25				0
+Chipped Ruby		8	gcr	flag-gem		1	1	dmg-fire		1	4					flag-gem		1	1	regen		2	2					flag-gem		1	1	res-fire		5	5				0
+Flawed Ruby		8	gfr	flag-gem		1	1	dmg-fire		2	8					flag-gem		1	1	regen		4	4					flag-gem		1	1	res-fire		10	10				0
+Ruby		8	gsr	flag-gem		1	1	dmg-fire		3	12					flag-gem		1	1	regen		6	6					flag-gem		1	1	res-fire		15	15				0
+Flawless Ruby		8	glr	flag-gem		1	1	dmg-fire		4	16					flag-gem		1	1	regen		8	8					flag-gem		1	1	res-fire		20	20				0
+Perfect Ruby		9	gpr	flag-gem		1	1	dmg-fire		5	20					flag-gem		1	1	regen		10	10					flag-gem		1	1	res-fire		25	25				0
+Chipped Diamond		1	gcw	flag-gem		1	1	dmg-undead		10	10					flag-gem		1	1	vit		2	2					flag-gem		1	1	red-dmg%		1	1				0
+Flawed Diamond		1	gfw	flag-gem		1	1	dmg-undead		15	15					flag-gem		1	1	vit		4	4					flag-gem		1	1	red-dmg%		2	2				0
+Diamond		1	gsw	flag-gem		1	1	dmg-undead		20	20					flag-gem		1	1	vit		6	6					flag-gem		1	1	red-dmg%		3	3				0
+Flawless Diamond		1	glw	flag-gem		1	1	dmg-undead		25	25					flag-gem		1	1	vit		8	8					flag-gem		1	1	red-dmg%		4	4				0
+Perfect Diamond		0	gpw	flag-gem		1	1	dmg-undead		30	30					flag-gem		1	1	vit		10	10					flag-gem		1	1	red-dmg%		5	5				0
+Chipped Topaz		14	gcy	flag-gem		1	1	dmg-ltng		1	4					flag-gem		1	1	mag%		3	3					flag-gem		1	1	res-ltng		5	5				0
+Flawed Topaz		14	gfy	flag-gem		1	1	dmg-ltng		1	10					flag-gem		1	1	mag%		6	6					flag-gem		1	1	res-ltng		10	10				0
+Topaz		14	gsy	flag-gem		1	1	dmg-ltng		1	15					flag-gem		1	1	mag%		9	9					flag-gem		1	1	res-ltng		15	15				0
+Flawless Topaz		14	gly	flag-gem		1	1	dmg-ltng		1	20					flag-gem		1	1	mag%		12	12					flag-gem		1	1	res-ltng		20	20				0
+Perfect Topaz		13	gpy	flag-gem		1	1	dmg-ltng		1	25					flag-gem		1	1	mag%		15	15					flag-gem		1	1	res-ltng		25	25				0
+Chipped Skull		2	skc	flag-gem		1	1	dmg-max		2	2					flag-gem		1	1	regen-mana		8	8					flag-gem		1	1	thorns		4	4				0
+Flawed Skull		2	skf	flag-gem		1	1	dmg-max		3	3					flag-gem		1	1	regen-mana		11	11					flag-gem		1	1	thorns		8	8				0
+Skull		2	sku	flag-gem		1	1	dmg-max		4	4					flag-gem		1	1	regen-mana		14	14					flag-gem		1	1	thorns		12	12				0
+Flawless Skull		2	skl	flag-gem		1	1	dmg-max		5	5					flag-gem		1	1	regen-mana		17	17					flag-gem		1	1	thorns		16	16				0
+Perfect Skull		3	skz	flag-gem		1	1	dmg-max		6	6					flag-gem		1	1	regen-mana		20	20					flag-gem		1	1	thorns		20	20				0
+Expansion																																							
+El Rune	r01L	18	r01	flag-rune		1	1	dmg-min		1	1	dmg-max		4	4	flag-rune		1	1	light		1	1					flag-rune		1	1	light		1	1				0
+Eld Rune	r02L	18	r02	flag-rune		1	1	dmg-undead		30	30					flag-rune		1	1	stamdrain		15	15					flag-rune		1	1	stamdrain		15	15				0
+Tir Rune	r03L	18	r03	flag-rune		1	1	mana-kill		2	2					flag-rune		1	1	mana		10	10					flag-rune		1	1	mana		10	10				0
+Nef Rune	r04L	18	r04	flag-rune		1	1	att%		30	30					flag-rune		1	1	att%		15	15					flag-rune		1	1	att%		15	15				0
+Eth Rune	r05L	18	r05	flag-rune		1	1	reduce-ac		25	25					flag-rune		1	1	regen-stam		25	25					flag-rune		1	1	stam		30	30				0
+Ith Rune	r06L	18	r06	flag-rune		1	1	levelreq		-2	-2	levelreq-display		-2	-2	flag-rune		1	1	levelreq		-2	-2	levelreq-display		-2	-2	flag-rune		1	1	levelreq		-2	-2	levelreq-display		-2	-2
+Tal Rune	r07L	18	r07	flag-rune		1	1	dmg-cold	25	20	30					flag-rune		1	1	res-cold		20	20					flag-rune		1	1	abs-cold%		5	5				0
+Ral Rune	r08L	18	r08	flag-rune		1	1	dmg-fire		15	35					flag-rune		1	1	res-fire		20	20					flag-rune		1	1	abs-fire%		5	5				0
+Ort Rune	r09L	18	r09	flag-rune		1	1	dmg-ltng		1	50					flag-rune		1	1	res-ltng		20	20					flag-rune		1	1	abs-ltng%		5	5				0
+Thul Rune	r10L	18	r10	flag-rune		1	1	deadly		5	5					flag-rune		1	1	red-dmg		2	2					flag-rune		1	1	red-mag		2	2				0
+Amn Rune	r11L	18	r11	flag-rune		1	1	openwounds		10	10					flag-rune		1	1	regen		6	6					flag-rune		1	1	regen		6	6				0
+Sol Rune	r12L	18	r12	flag-rune		1	1	ease		-10	-10					flag-rune		1	1	ease		-10	-10					flag-rune		1	1	ease		-10	-10				0
+Shael Rune	r13L	18	r13	flag-rune		1	1	dmg-ac		-25	-25					flag-rune		1	1	ac		15	15					flag-rune		1	1	block		2	2				0
+Dol Rune	r14L	18	r14	flag-rune		1	1	pois-spell-dur		15	15					flag-rune		1	1	res-pois		20	20					flag-rune		1	1	res-pois-len		20	20				0
+Hel Rune	r15L	18	r15	flag-rune		1	1	gold%		50	50					flag-rune		1	1	gold%		50	50					flag-rune		1	1	gold%		50	50				0
+Io Rune	r16L	18	r16	flag-rune		1	1	vit		8	8					flag-rune		1	1	vit		8	8					flag-rune		1	1	vit		8	8				0
+Lum Rune	r17L	18	r17	flag-rune		1	1	enr		8	8					flag-rune		1	1	enr		8	8					flag-rune		1	1	enr		8	8				0
+Ko Rune	r18L	18	r18	flag-rune		1	1	dex		8	8					flag-rune		1	1	dex		8	8					flag-rune		1	1	dex		8	8				0
+Fal Rune	r19L	18	r19	flag-rune		1	1	str		8	8					flag-rune		1	1	str		8	8					flag-rune		1	1	str		8	8				0
+Lem Rune	r20L	18	r20	flag-rune		1	1	summon-dmg%		15	15					flag-rune		1	1	summon-ac%		15	15					flag-rune		1	1	summon-res%		15	15				0
+Pul Rune	r21L	18	r21	flag-rune		1	1	cast3		10	10					flag-rune		1	1	mana%		5	5					flag-rune		1	1	mana%		5	5				0
+Um Rune	r22L	18	r22	flag-rune		1	1	swing3		10	10					flag-rune		1	1	balance3		10	10					flag-rune		1	1	block3		10	10				0
+Mal Rune	r23L	18	r23	flag-rune		1	1	dmg-pois	50	128	256					flag-rune		1	1	hp%		5	5					flag-rune		1	1	hp%		5	5				0
+Ist Rune	r24L	18	r24	flag-rune		1	1	mag%		20	20					flag-rune		1	1	mag%		20	20					flag-rune		1	1	mag%		20	20				0
+Gul Rune	r25L	18	r25	flag-rune		1	1	cold-spell-dur		15	15					flag-rune		1	1	half-freeze		1	1					flag-rune		1	1	half-freeze		1	1				0
+Vex Rune	r26L	18	r26	flag-rune		1	1	mana-hit		1	1					flag-rune		1	1	mana-gethit		2	2					flag-rune		1	1	mana-gethit		2	2				0
+Ohm Rune	r27L	18	r27	flag-rune		1	1	dmg%		10	10					flag-rune		1	1	ac%		10	10					flag-rune		1	1	ac%		10	10				0
+Lo Rune	r28L	18	r28	flag-rune		1	1	timer%		-2	-2					flag-rune		1	1	timer%		-2	-2					flag-rune		1	1	timer%		-2	-2				0
+Sur Rune	r29L	18	r29	flag-rune		1	1	stupidity		1	1					flag-rune		1	1	stupid-thorns		1	1					flag-rune		1	1	stupid-thorns		1	1				0
+Ber Rune	r30L	18	r30	flag-rune		1	1	crush		5	5					flag-rune		1	1	res-curse		5	5					flag-rune		1	1	thorns%		25	25				0
+Jah Rune	r31L	18	r31	flag-rune		1	1	ignore-ac		1	1					flag-rune		1	1	uninterrupt		8	8					flag-rune		1	1	uninterrupt		8	8				0
+Cham Rune	r32L	18	r32	flag-rune		1	1	knock		1	1					flag-rune		1	1	move3		3	3					flag-rune		1	1	move3		4	4				0
+Zod Rune	r33L	18	r33	flag-rune		1	1	indestruct		1	1					flag-rune		1	1	indestruct		1	1					flag-rune		1	1	indestruct		1	1				0
+Sha Rune	r34L	18	r34	flag-rune		1	1	slow		8	8					flag-rune		1	1	slow-thorns		8	8					flag-rune		1	1	slow-thorns		8	8				0
+Lah Rune	r35L	18	r35	flag-rune		1	1	addxp		2	2					flag-rune		1	1	addxp		2	2					flag-rune		1	1	addxp		2	2				0
+Kur Rune	r36L	18	r36	flag-rune		1	1	vit%		5	5					flag-rune		1	1	vit%		5	5					flag-rune		1	1	vit%		5	5				0
+Ix Rune	r37L	18	r37	flag-rune		1	1	enr%		5	5					flag-rune		1	1	enr%		5	5					flag-rune		1	1	enr%		5	5				0
+Thur Rune	r38L	18	r38	flag-rune		1	1	dex%		5	5					flag-rune		1	1	dex%		5	5					flag-rune		1	1	dex%		5	5				0
+Ath Rune	r39L	18	r39	flag-rune		1	1	str%		5	5					flag-rune		1	1	str%		5	5					flag-rune		1	1	str%		5	5				0
+Kra Rune	r40L	18	r40	flag-rune		1	1	heal-kill		4	4					flag-rune		1	1	hp		15	15					flag-rune		1	1	hp		20	20				0
+Vith Rune	r41L	18	r41	flag-rune		1	1	freeze		1	1					flag-rune		1	1	nofreeze		1	1					flag-rune		1	1	nofreeze		1	1				0
+Rha Rune	r42L	18	r42	flag-rune		1	1	heal-hit		1	1					flag-rune		1	1	heal-gethit		2	2					flag-rune		1	1	heal-gethit		2	2				0
+Xar Rune	r43L	18	r43	flag-rune		1	1	dmg-global		15	15					flag-rune		1	1	ac-global		5	5					flag-rune		1	1	ac-global		5	5				0
+Krys Rune	r44L	18	r44	flag-rune		1	1	noheal		1	1					flag-rune		1	1	pot-rate		20	20					flag-rune		1	1	healskill		20	20				0
+Taha Rune	r45L	18	r45	flag-rune		1	1	howl		14	14					flag-rune		1	1	howl-thorns		7	7					flag-rune		1	1	howl-thorns		7	7				0
+Ghal Rune	r46L	18	r46	flag-rune		1	1	dmg-demon		30	30					flag-rune		1	1	red-dmg%		5	5					flag-rune		1	1	red-dmg%		5	5				0
+Qor Rune	r47L	18	r47	flag-rune		1	1	pierce-all		5	5					flag-rune		1	1	res-all-max		2	2					flag-rune		1	1	res-all-max		2	2				0
