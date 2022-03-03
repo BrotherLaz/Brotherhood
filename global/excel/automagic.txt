@@ -1,5 +1,5 @@
 Name	version	*Laz/Items	*Laz/MinID	*Laz/MaxID	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	multiply	add
-Disenchanting Scroll Automod	100				1	1	1		0				4	350	levelreq-display		5	5									dgld	disi												0	0
+Disenchanting Scroll Automod	100				1	1	1		0				4	350	levelreq-display		5	5									lgld	disi												0	0
 Fang Automod	100				1	1	1		0				4	351	levelreq-display		5	5	is-upgradable		1	1						dfan												0	0
 Crafting Scroll Automod	100				1	1	1		0				4	352	dmg%-ac%-display		15	15	levelreq-display		-10	-10	random-mods-display		1	1	oran	crai												0	0
 Paladin Mace	100				1	1	1		0				4	361	dmg-undead		50	50										armo	weap											0	0

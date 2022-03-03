@@ -1,9 +1,9 @@
 name	letter	transform	code	weaponMod1Code	weaponMod1Param	weaponMod1Min	weaponMod1Max	weaponMod2Code	weaponMod2Param	weaponMod2Min	weaponMod2Max	weaponMod3Code	weaponMod3Param	weaponMod3Min	weaponMod3Max	helmMod1Code	helmMod1Param	helmMod1Min	helmMod1Max	helmMod2Code	helmMod2Param	helmMod2Min	helmMod2Max	helmMod3Code	helmMod3Param	helmMod3Min	helmMod3Max	shieldMod1Code	shieldMod1Param	shieldMod1Min	shieldMod1Max	shieldMod2Code	shieldMod2Param	shieldMod2Min	shieldMod2Max	shieldMod3Code	shieldMod3Param	shieldMod3Min	shieldMod3Max
-Chipped Amethyst		18	gcv	flag-gem		1	1	att%		10	10					flag-gem		1	1	str		2	2					flag-gem		1	1								0
-Flawed Amethyst		18	gfv	flag-gem		1	1	att%		15	15					flag-gem		1	1	str		4	4					flag-gem		1	1								0
-Amethyst		18	gsv	flag-gem		1	1	att%		20	20					flag-gem		1	1	str		6	6					flag-gem		1	1								0
-Flawless Amethyst		18	gzv	flag-gem		1	1	att%		25	25					flag-gem		1	1	str		8	8					flag-gem		1	1								0
-Perfect Amethyst		17	gpv	flag-gem		1	1	att%		30	30					flag-gem		1	1	str		10	10					flag-gem		1	1								0
+Chipped Amethyst		18	gcv	flag-gem		1	1	att%		10	10					flag-gem		1	1	str		2	2					flag-gem		1	1	ac		5	5				0
+Flawed Amethyst		18	gfv	flag-gem		1	1	att%		15	15					flag-gem		1	1	str		4	4					flag-gem		1	1	ac		10	10				0
+Amethyst		18	gsv	flag-gem		1	1	att%		20	20					flag-gem		1	1	str		6	6					flag-gem		1	1	ac		15	15				0
+Flawless Amethyst		18	gzv	flag-gem		1	1	att%		25	25					flag-gem		1	1	str		8	8					flag-gem		1	1	ac		20	20				0
+Perfect Amethyst		17	gpv	flag-gem		1	1	att%		30	30					flag-gem		1	1	str		10	10					flag-gem		1	1	ac		25	25				0
 Chipped Sapphire		5	gcb	flag-gem		1	1	dmg-cold	25	1	3					flag-gem		1	1	enr		2	2					flag-gem		1	1	res-cold		5	5				0
 Flawed Sapphire		5	gfb	flag-gem		1	1	dmg-cold	35	2	6					flag-gem		1	1	enr		4	4					flag-gem		1	1	res-cold		10	10				0
 Sapphire		5	gsb	flag-gem		1	1	dmg-cold	45	3	9					flag-gem		1	1	enr		6	6					flag-gem		1	1	res-cold		15	15				0
@@ -35,16 +35,16 @@ Skull		2	sku	flag-gem		1	1	dmg-max		4	4					flag-gem		1	1	regen-mana		14	14					
 Flawless Skull		2	skl	flag-gem		1	1	dmg-max		5	5					flag-gem		1	1	regen-mana		17	17					flag-gem		1	1	thorns		16	16				0
 Perfect Skull		3	skz	flag-gem		1	1	dmg-max		6	6					flag-gem		1	1	regen-mana		20	20					flag-gem		1	1	thorns		20	20				0
 Expansion																																							
-El Rune	r01L	18	r01	flag-rune		1	1	dmg-min		1	1	dmg-max		4	4	flag-rune		1	1	light		1	1					flag-rune		1	1	light		1	1				0
-Eld Rune	r02L	18	r02	flag-rune		1	1	dmg-undead		30	30					flag-rune		1	1	stamdrain		15	15					flag-rune		1	1	stamdrain		15	15				0
+El Rune	r01L	18	r01	flag-rune		1	1	levelreq		-2	-2	levelreq-display		-2	-2	flag-rune		1	1	levelreq		-2	-2	levelreq-display		-2	-2	flag-rune		1	1	levelreq		-2	-2	levelreq-display		-2	-2
+Eld Rune	r02L	18	r02	flag-rune		1	1	dmg-undead		30	30					flag-rune		1	1	regen-stam		25	25					flag-rune		1	1	stam		30	30				0
 Tir Rune	r03L	18	r03	flag-rune		1	1	mana-kill		2	2					flag-rune		1	1	mana		10	10					flag-rune		1	1	mana		10	10				0
 Nef Rune	r04L	18	r04	flag-rune		1	1	att%		30	30					flag-rune		1	1	att%		15	15					flag-rune		1	1	att%		15	15				0
-Eth Rune	r05L	18	r05	flag-rune		1	1	reduce-ac		25	25					flag-rune		1	1	regen-stam		25	25					flag-rune		1	1	stam		30	30				0
-Ith Rune	r06L	18	r06	flag-rune		1	1	levelreq		-2	-2	levelreq-display		-2	-2	flag-rune		1	1	levelreq		-2	-2	levelreq-display		-2	-2	flag-rune		1	1	levelreq		-2	-2	levelreq-display		-2	-2
-Tal Rune	r07L	18	r07	flag-rune		1	1	dmg-cold	25	20	30					flag-rune		1	1	res-cold		20	20					flag-rune		1	1	abs-cold%		5	5				0
+Eth Rune	r05L	18	r05	flag-rune		1	1	reduce-ac		25	25					flag-rune		1	1	stamdrain		15	15					flag-rune		1	1	stamdrain		15	15				0
+Ith Rune	r06L	18	r06	flag-rune		1	1	rep-dur	1							flag-rune		1	1	rep-dur	1							flag-rune		1	1	rep-dur	1						0
+Tal Rune	r07L	18	r07	flag-rune		1	1	dmg-cold	25	10	30					flag-rune		1	1	res-cold		20	20					flag-rune		1	1	abs-cold%		5	5				0
 Ral Rune	r08L	18	r08	flag-rune		1	1	dmg-fire		15	35					flag-rune		1	1	res-fire		20	20					flag-rune		1	1	abs-fire%		5	5				0
 Ort Rune	r09L	18	r09	flag-rune		1	1	dmg-ltng		1	50					flag-rune		1	1	res-ltng		20	20					flag-rune		1	1	abs-ltng%		5	5				0
-Thul Rune	r10L	18	r10	flag-rune		1	1	deadly		5	5					flag-rune		1	1	red-dmg		2	2					flag-rune		1	1	red-mag		2	2				0
+Thul Rune	r10L	18	r10	flag-rune		1	1	dmg-min		2	2	dmg-max		5	5	flag-rune		1	1	red-dmg		2	2					flag-rune		1	1	red-mag		2	2				0
 Amn Rune	r11L	18	r11	flag-rune		1	1	openwounds		10	10					flag-rune		1	1	regen		6	6					flag-rune		1	1	regen		6	6				0
 Sol Rune	r12L	18	r12	flag-rune		1	1	ease		-10	-10					flag-rune		1	1	ease		-10	-10					flag-rune		1	1	ease		-10	-10				0
 Shael Rune	r13L	18	r13	flag-rune		1	1	dmg-ac		-25	-25					flag-rune		1	1	ac		15	15					flag-rune		1	1	block		2	2				0

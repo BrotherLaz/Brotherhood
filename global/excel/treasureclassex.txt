@@ -33,38 +33,45 @@ Runes 5	Runes									1						r05	1	Runes 4	4																				0
 Runes 6	Runes									1						r06	1	Runes 5	6																				0
 Runes 7	Runes									1						r07	1	Runes 6	7																				0
 Runes 8	Runes									1						r08	1	Runes 7	8																				0
-Runes 9	Runes									1						r09	1	Runes 8	10																				0
-Runes 10	Runes									1						r10	1	Runes 9	12																				0
-Runes 11	Runes									1						r11	1	Runes 10	14																				0
-Runes 12	Runes									1						r12	1	Runes 11	16																				0
-Runes 13	Runes									1						r13	1	Runes 12	18																				0
-Runes 14	Runes									1						r14	1	Runes 13	20																				0
-Runes 15	Runes									1						r15	1	Runes 14	23																				0
-Runes 16	Runes									1						r16	1	Runes 15	26																				0
-Runes 17	Runes									1						r17	1	Runes 16	29																				0
-Runes 18	Runes									1						r18	1	Runes 17	32																				0
-Runes 19	Runes									1						r19	1	Runes 18	36																				0
-Runes 20	Runes									1						r20	1	Runes 19	41																				0
-Runes 21	Runes									1						r21	1	Runes 20	46																				0
-Runes 22	Runes									1						r22	1	Runes 21	51																				0
-Runes 23	Runes									1						r23	1	Runes 22	57																				0
-Runes 24	Runes									1						r24	1	Runes 23	64																				0
-Runes 25	Runes									1						r25	1	Runes 24	72																				0
-Runes 26	Runes									1						r26	1	Runes 25	80																				0
-Runes 27	Runes									1						r27	1	Runes 26	90																				0
-Runes 28	Runes									1						r28	1	Runes 27	101																				0
-Runes 29	Runes									1						r29	1	Runes 28	113																				0
-Runes 30	Runes									1						r30	1	Runes 29	127																				0
-Runes 31	Runes									1						r31	1	Runes 30	143																				0
-Runes 32	Runes									1						r32	1	Runes 31	162																				0
-Runes 33	Runes									1						r33	1	Runes 32	183																				0
-Runes 34	For future expansion									1						hp1	1	Runes 33	207																				0
-Runes 35	For future expansion									1						hp1	1	Runes 34	234																				0
-Runes 36	For future expansion									1						hp1	1	Runes 35	266																				0
-Runes 37	For future expansion									1						hp1	1	Runes 36	303																				0
-Runes 38	For future expansion									1						hp1	1	Runes 37	346																				0
-Runes 39	For future expansion									1						hp1	1	Runes 38	395																				0
-Runes 40	For future expansion									1						hp1	1	Runes 39	453																				0
+Runes 9	Runes									1						r09	1	Runes 8	9																				0
+Runes 10	Runes									1						r10	1	Runes 9	10																				0
+Runes 11	Runes									1						r11	1	Runes 10	11																				0
+Runes 12	Runes									1						r12	1	Runes 11	13																				0
+Runes 13	Runes									1						r13	1	Runes 12	14																				0
+Runes 14	Runes									1						r14	1	Runes 13	16																				0
+Runes 15	Runes									1						r15	1	Runes 14	18																				0
+Runes 16	Runes									1						r16	1	Runes 15	20																				0
+Runes 17	Runes									1						r17	1	Runes 16	23																				0
+Runes 18	Runes									1						r18	1	Runes 17	26																				0
+Runes 19	Runes									1						r19	1	Runes 18	29																				0
+Runes 20	Runes									1						r20	1	Runes 19	32																				0
+Runes 21	Runes									1						r21	1	Runes 20	36																				0
+Runes 22	Runes									1						r22	1	Runes 21	41																				0
+Runes 23	Runes									1						r23	1	Runes 22	46																				0
+Runes 24	Runes									1						r24	1	Runes 23	52																				0
+Runes 25	Runes									1						r25	1	Runes 24	58																				0
+Runes 26	Runes									1						r26	1	Runes 25	66																				0
+Runes 27	Runes									1						r27	1	Runes 26	74																				0
+Runes 28	Runes									1						r28	1	Runes 27	83																				0
+Runes 29	Runes									1						r29	1	Runes 28	93																				0
+Runes 30	Runes									1						r30	1	Runes 29	105																				0
+Runes 31	Runes									1						r31	1	Runes 30	118																				0
+Runes 32	Runes									1						r32	1	Runes 31	133																				0
+Runes 33	Runes									1						r33	1	Runes 32	150																				0
+Runes 34	Runes									1						r34	1	Runes 33	168																				0
+Runes 35	Runes									1						r35	1	Runes 34	189																				0
+Runes 36	Runes									1						r36	1	Runes 35	213																				0
+Runes 37	Runes									1						r37	1	Runes 36	240																				0
+Runes 38	Runes									1						r38	1	Runes 37	270																				0
+Runes 39	Runes									1						r39	1	Runes 38	303																				0
+Runes 40	Runes									1						r40	1	Runes 39	341																				0
+Runes 41	Runes									1						r41	1	Runes 40	384																				0
+Runes 42	Runes									1						r42	1	Runes 41	432																				0
+Runes 43	Runes									1						r43	1	Runes 42	486																				0
+Runes 44	Runes									1						r44	1	Runes 43	547																				0
+Runes 45	Runes									1						r45	1	Runes 44	615																				0
+Runes 46	Runes									1						r46	1	Runes 45	692																				0
+Runes 47	Runes									1						r47	1	Runes 46	778																				0
 Act 1 Junk	Pots/Tpots/Keys/Scrolls/Ammo									1						Potion 1	8	Misc 0	4	Ammo	4																		0
 Act 2 Junk	Pots/Tpots/Keys/Scrolls/Ammo									1						Potion 2	8	Misc 0	4	Ammo	4	Act 1 Junk	2																0
 Act 3 Junk	Pots/Tpots/Keys/Scrolls/Ammo									1						Potion 3	8	Misc 1	4	Ammo	4	Act 2 Junk	2																0

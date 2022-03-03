@@ -1,8 +1,8 @@
 ItemType	*Laz/Id	*Laz/Sockets	*Laz/Comment	Code	Equiv1	Equiv2	Repair	Body	BodyLoc1	BodyLoc2	Shoots	Quiver	Throwable	Reload	ReEquip	AutoStack	Magic	Rare	Normal	Beltable	MaxSockets1	MaxSocketsLevelThreshold1	MaxSockets2	MaxSocketsLevelThreshold2	MaxSockets3	TreasureClass	Rarity	StaffMods	Class	VarInvGfx	InvGfx1	InvGfx2	InvGfx3	InvGfx4	InvGfx5	InvGfx6	StorePage	*eol
 None	0						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 None	1						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Shield	2	6	Sockets	shie	shld		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
-Armor	3	6		tors	armo		1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							armo	0
+Shield	2			shie	shld		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	3			0							armo	0
+Armor	3			tors	armo		1	1	tors	tors			0	0	0	0		1	0	0	1	25	3	40	4	0	6			0							armo	0
 Gold	4			gold	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0								0
 Bow Quiver	5			bowq	misl		0	1	rarm	larm		bow	0	1	0	1			1	0	0	25	0	40	0	0	4			0							misc	0
 Crossbow Quiver	6			xboq	misl		0	1	rarm	larm		xbow	0	1	0	1			1	0	0	25	0	40	0	0	4			0							misc	0
@@ -14,35 +14,35 @@ Elixir	11			elix	misc		0	0					0	0	0	0			0	1	0	25	0	40	0	0	4			0							misc	0
 Amulet	12			amul	misc	anyj	0	1	neck	neck			0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			3	invamu1	invamu2	invamu3				misc	0
 Charm	13			char	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Not Used	14						0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
-Boots	15	2	Sockets	boot	armo		1	1	feet	feet			0	0	0	0		1	0	0	1	25	1	40	2	0	4			0							armo	0
-Gloves	16	2	Sockets	glov	armo		1	1	glov	glov			0	0	0	0		1	0	0	1	25	1	40	2	0	4			0							armo	0
+Boots	15			boot	armo		1	1	feet	feet			0	0	0	0		1	0	0	1	25	1	40	2	0	4			0							armo	0
+Gloves	16			glov	armo		1	1	glov	glov			0	0	0	0		1	0	0	1	25	1	40	2	0	4			0							armo	0
 Not Used	17						0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
 Book	18			book	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
-Belt	19	2	Sockets	belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	1	25	1	40	2	0	4			0							armo	0
+Belt	19			belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	1	25	1	40	2	0	4			0							armo	0
 Gem	20			gem	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
 Torch	21			torc	misc		0	1					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
 Scroll	22			scro	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0
 Not Used	23						0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
-Scepter	24	6		scep	rod		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	5	40	6	0	4			0							weap	0
-Wand	25	2		wand	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	2	40	2	0	4			0							weap	0
-Staff	26	6		staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	5	25	6	40	6	0	4			0							weap	0
-Bow	27	6		bow	miss		0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	4			0							weap	0
-Axe	28	6		axe	mele		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	4			0							weap	0
-Club	29	6		club	blun	bonk	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Sword	30	6		swor	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Hammer	31	6		hamm	blun	bonk	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Knife	32	3		knif	mele		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	4			0							weap	0
-Spear	33	6		spea	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Polearm	34	6		pole	mele		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Crossbow	35	6		xbow	miss		1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Mace	36	6		mace	blun	bonk	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Helm	37	4		helm	armo		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Scepter	24			scep	rod		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
+Wand	25			wand	rod		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	2	0	4			0							weap	0
+Staff	26			staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Bow	27			bow	miss		0	1	rarm	larm	bowq		0	0	0	0		1	0	0	2	25	4	40	6	1	4			0							weap	0
+Axe	28			axe	mele		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Club	29			club	blun	bonk	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	2	0	4			0							weap	0
+Sword	30	3 or 6		swor	mele		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Hammer	31			hamm	blun	bonk	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Knife	32			knif	mele		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
+Spear	33			spea	mele		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Polearm	34			pole	mele		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Crossbow	35			xbow	miss		1	1	rarm	larm	xboq		0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Mace	36			mace	blun	bonk	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
+Helm	37			helm	armo		1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
 Missile Potion	38			tpot	thro		0	1	rarm	larm			1	1	1	1			1	0	0	25	0	40	0	0	4			0							misc	0
 Quest	39			ques			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
 Body Part	40			body	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
 Key	41			key	misc		0	0					0	0	0	1			1	0	0	25	0	40	0	0	4			0							misc	0
-Throwing Knife	42			tkni	comb	knif	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
-Throwing Axe	43			taxe	comb	axe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
+Throwing Knife	42			tkni	comb	knif	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	2	40	2	0	4			0							misc	0
+Throwing Axe	43			taxe	comb	axe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	2	40	2	0	4			0							misc	0
 Javelin	44			jave	comb	spea	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	4			0							misc	0
 Weapon	45			weap	anyx		0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	4			0								0
 Melee Weapon	46			mele	weap		0	0					0	0	0	0		1	0	0	0	25	0	40	0	1	4			0								0
@@ -67,12 +67,12 @@ Paladin Item	63			pala	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4		pal	0						
 Sorceress Item	64			sorc	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4		sor	0								0
 Assassin Item	65			assn	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4		ass	0								0
 Druid Item	66			drui	clas		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4		dru	0								0
-Hand to Hand	67	3		h2h	mele	assn	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	4		ass	0							weap	0
-Orb	68	3	Remove staffmod	orb	rod		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	4			0							weap	0
-Voodoo Heads	69	6		head	shld	necr	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
-Auric Shields	70	6		ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
-Primal Helm	71	4		phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
-Pelt	72	4		pelt	helm	drui	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
+Hand to Hand	67			h2h	mele	assn	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4		ass	0							weap	0
+Orb	68			orb	rod		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
+Voodoo Heads	69			head	shld	necr	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
+Auric Shields	70			ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
+Primal Helm	71			phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
+Pelt	72			pelt	helm	drui	1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
 Cloak	73			cloa	tors	assn	1	1	tors	tors			0	0	0	0		1	0	0	0	25	0	40	0	0	4			0							armo	0
 Rune	74			rune	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
 Circlet	75			circ	helm		1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
@@ -85,10 +85,10 @@ Thawing Potion	81			wpot	poti		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							m
 Small Charm	82			scha	char		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			3	invch1	invch4	invch7				misc	0
 Medium Charm	83			mcha	char		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			3	invch2	invch5	invch8				misc	0
 Large Charm	84			lcha	char		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			3	invch3	invch6	invch9				misc	0
-Amazon Bow	85	6		abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	4			0							weap	0
-Amazon Spear	86	6		aspe	spea	amaz	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
+Amazon Bow	85			abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	2	25	4	40	6	1	4			0							weap	0
+Amazon Spear	86			aspe	spea	amaz	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
 Amazon Javelin	87			ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	25	0	40	0	0	4			0							misc	0
-Hand to Hand 2	88			h2h2	h2h		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	3	0	4			0							weap	0
+Hand to Hand 2	88			h2h2	h2h		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
 Magic Bow Quiv	89		Enable	mboq	bowq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
 Magic Xbow Quiv	90		Enable	mxbq	xboq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
 Chipped Gem	91			gem0	gem		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
@@ -112,34 +112,34 @@ Placeholder 108	108		placeholder	p108			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			
 Placeholder 109	109		placeholder	p109			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
 Placeholder 110	110		placeholder	p110			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
 Placeholder 111	111		placeholder	p111			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
-Placeholder 112	112		placeholder	p112			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0								0
-Scythe	113	6	New item class	scyh	pole		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Necromancer Scythe	114	6	New item class	nscy	scyh		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Assassin Throwing Knife	115	2	New item class	atkn	assn	tkni	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
-Barbarian Throwing Axe	116	2	New item class	btax	barb	taxe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	1	40	2	0	4			0							misc	0
-Druid Club	117	6	New item class	dclu	drui	club	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Paladin Scepter	118	6	New item class	pasc	pala	scep	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Barbarian 1h Axe	119	6	New item class	boax	barb	aaxe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Barbarian 2h Axe	120	6	New item class	bbax	barb	aaxe	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Swashbuckler Blade	121	3	New item class	blad	swor		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
-Paladin 1h Sword	122	6	New item class	pasd	pala	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Barbarian 2h Sword	123	6	New item class	bats	barb	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Paladin Mace	124	6	New item class	pama	pala	mace	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Assassin Naginata	125	6	New item class	nagi	assn	pole	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Druid Bow	126	6	New item class	dbow	drui	bow	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	3	25	4	40	6	1	4			0							weap	0
-Necromancer Crossbow	127	6	New item class	nxbw	necr	xbow	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Amazon Helm	128	4	New item class	ahlm	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
-Crusader Helm	129	4	New item class	chlm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
-Sorceress Armor	130	6	New item class	stor	sorc	tors	1	1	tors	tors			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							armo	0
-Barbarian Shield	131	6	New item class	bshi	barb	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
-Mage Shield	132	6	New item class	ashi	shie		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
-Stun Hammer	133	6	Unused	sham	hamm		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Necromancer Shield	134	6	New item class	nxsh	necr	shie	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
-Necromancer Helm	135	4	New item class	nxhm	necr	helm	1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
-Crystal Sword	136	6	New item class	crsx	sorc	swor	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	4			0							weap	0
-Spiked Shield	137	6	New item class	sksd	shld		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	3	40	6	0	4			0							armo	0
-Crown	138	4	New item class	cron	helm		1	1	head	head			0	0	0	0		1	0	0	2	25	3	40	4	0	4			0							armo	0
-Melee Axe	139		Because axe is also a base item	aaxe	axe		1	1	rarm	larm			0	0	0	0		1	0	0	4	25	5	40	6	0	4			0							weap	0
+Mask	112		New item class	mask	helm		1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	4	0	4			0							armo	0
+Scythe	113		New item class	scyh	pole		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Necromancer Scythe	114		New item class	nscy	scyh		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Assassin Throwing Knife	115		New item class	atkn	assn	tkni	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	2	40	2	0	4			0							misc	0
+Barbarian Throwing Axe	116		New item class	btax	barb	taxe	1	1	rarm	larm			1	1	1	1		1	0	0	1	25	2	40	2	0	4			0							misc	0
+Druid Club	117		New item class	dclu	drui	club	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	2	0	4			0							weap	0
+Paladin Scepter	118		New item class	pasc	pala	scep	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
+Barbarian 1h Axe	119		New item class	boax	barb	aaxe	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
+Barbarian 2h Axe	120		New item class	bbax	barb	aaxe	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Swashbuckler Blade	121		New item class	blad	swor		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
+Paladin 1h Sword	122		New item class	pasd	pala	swor	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
+Barbarian 2h Sword	123		New item class	bats	barb	swor	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Paladin Mace	124		New item class	pama	pala	mace	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
+Assassin Naginata	125		New item class	nagi	assn	pole	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Druid Bow	126		New item class	dbow	drui	bow	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	2	25	4	40	6	1	4			0							weap	0
+Necromancer Crossbow	127		New item class	nxbw	necr	xbow	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Amazon Helm	128		New item class	ahlm	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
+Crusader Helm	129		New item class	chlm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
+Sorceress Armor	130		New item class	stor	sorc	tors	1	1	tors	tors			0	0	0	0		1	0	0	1	25	3	40	4	0	4			0							armo	0
+Barbarian Shield	131		New item class	bshi	barb	shie	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
+Mage Shield	132		New item class	ashi	shie		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
+Stun Hammer	133		Unused	sham	hamm		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Necromancer Shield	134		New item class	nxsh	necr	shie	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	4	0	4			0							armo	0
+Necromancer Helm	135		New item class	nxhm	necr	helm	1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
+Crystal Sword	136	4 sockets	New item class	crsx	sorc	swor	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	3	40	4	0	4			0							weap	0
+Spiked Shield	137		New item class	sksd	shld		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
+Crown	138		New item class	cron	helm		1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
+Melee Axe	139		Because axe is also a base item	aaxe	axe		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
 Crushing Weapon	140		Contains maces and hammers	bonk	blun		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
 Trinket	141		Most ingredients	trin	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Any Jewelry	142		Amulets and rings	anyj			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0

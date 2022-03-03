@@ -27,11 +27,11 @@ of Resistance	1	1	1	16		8				4	702	red-mag		2	2										tors	helm	shld	ring	amu
 of the Sentinel	1	1	1	33		16				4	702	red-mag		3	3										tors	helm	shld	ring	amul			ashi	ahlm				0	0
 of Guarding	1	1	1	49		24				4	702	red-mag		4	4										tors	helm	shld	ring	amul			ashi	ahlm				0	0
 of Negation	1	1	1	64		32				4	702	red-mag		5	5										tors	helm	shld	ring	amul			ashi	ahlm				0	0
-of Resistance	1	1	1	1		0				4	702	red-mag		1	1										duse												0	0
-of the Sentinel	1	1	1	30		15				4	702	red-mag		2	2										duse												0	0
-of Guarding	1	1	1	60		30				4	702	red-mag		3	3										duse												0	0
-of Resistance	1	1	1	1		0				4	702	red-mag		1	1										jewl												0	0
-of the Sentinel	1	1	1	50		25				4	702	red-mag		2	2										jewl												0	0
+of Warding	1	1	1	1		0				4	702	red-mag		1	1										duse												0	0
+of Resistance	1	1	1	30		15				4	702	red-mag		2	2										duse												0	0
+of the Sentinel	1	1	1	60		30				4	702	red-mag		3	3										duse												0	0
+of Warding	1	1	1	10		5				4	702	red-mag		1	1										jewl												0	0
+of Resistance	1	1	1	82		41				4	702	red-mag		2	2										jewl												0	0
 of Weakness	1	1		1		0				2	703	block		-1	-10										shld							bshi	head				0	0
 of Blocking	1	1	1	1		0				8	703	block		1	2										shld							bshi	head				0	0
 of Deflecting	1	1	1	14		7				8	703	block		3	5										shld							bshi	head				0	0
@@ -45,8 +45,7 @@ of Blocking	1	1	1	9		4				8	703	block		1	2										glov	ring	amul	bshi	pasd				
 of Deflecting	1	1	1	28		14				8	703	block		3	5										glov	ring	amul	bshi	pasd								0	0
 of Blocking	1	1	1	10		4				8	703	block		1	2										dusp												0	0
 of Deflecting	1	1	1	31		15				8	703	block		3	5										dusp												0	0
-of Blocking	1	1	1	14		0				8	703	block		1	2										jewl												0	0
-of Deflecting	1	1	1	74		37				8	703	block		3	5										jewl												0	0
+of Blocking	1	1	1	14		0				8	703	block		1	1										jewl												0	0
 of the Pit	1	1		1		0				2	704	dmg-max		-1	-4										bbax	bats											0	0
 of Craftsmanship	1	1	1	1		0				12	704	dmg-max		1	3										bbax	bats											0	0
 of Quality	1	1	1	14		7				12	704	dmg-max		4	7										bbax	bats											0	0
@@ -84,8 +83,8 @@ of Slaying	1	1	1	54		26				8	704	dmg-max		8	10										dusc												0	0
 of Gore	1	1	1	72		35				8	704	dmg-max		11	14										dusc												0	0
 of Carnage	1	1	1	88		44				8	704	dmg-max		15	20										dusc												0	0
 of Craftsmanship	1	1	1	1		0				4	704	dmg-max		1	2										jewl												0	0
-of Quality	1	1	1	33		16				4	704	dmg-max		3	6										jewl												0	0
-of Maiming	1	1	1	77		39				4	704	dmg-max		7	10										jewl												0	0
+of Quality	1	1	1	33		16				4	704	dmg-max		3	4										jewl												0	0
+of Maiming	1	1	1	86		43				4	704	dmg-max		4	6										jewl												0	0
 of Worth	1	1	1	19		9				8	704	dmg-min		1	1	dmg-max		3	4		4	5			weap							staf	wand	orb	knif		0	0
 of Measure	1	1	1	35		17				8	704	dmg-min		2	2	dmg-max		5	7		7	9			weap							staf	wand	orb	knif		0	0
 of Excellence	1	1	1	50		25				8	704	dmg-min		3	3	dmg-max		8	10		11	13			weap							staf	wand	orb	knif		0	0
@@ -114,9 +113,9 @@ of the Ox	1	1	1	40		20				4	705	str		9	12										glov	belt	boot	ring	amul					
 of the Giant	1	1	1	53		26				4	705	str		13	15										glov	belt	boot	ring	amul								0	0
 of the Titan	1	1	1	66		33				4	705	str		16	20										glov	belt	boot	ring	amul								0	0
 of the Leviathan	1	1	1	80		40				4	705	str		21	25										glov	belt	boot	ring	amul								0	0
-of Strength	1	1	1	1		0				4	705	str		1	2										jewl												0	0
-of Might	1	1	1	20		10				4	705	str		3	5										jewl												0	0
-of Brawn	1	1	1	76		38				4	705	str		6	10										jewl												0	0
+of Strength	1	1	1	1		0				4	705	str		2	4										jewl												0	0
+of Might	1	1	1	20		10				4	705	str		5	7										jewl												0	0
+of Brawn	1	1	1	76		38				4	705	str		8	10										jewl												0	0
 of Atrophy	1	1		1		0				2	706	dex		-1	-6										weap	tors	shld	ahlm	circ			boax	bbax	bats	btax	bshi	0	0
 of Dexterity	1	1	1	1		0				6	706	dex		1	3										weap	tors	shld	ahlm	circ			boax	bbax	bats	btax	bshi	0	0
 of Skill	1	1	1	14		7				6	706	dex		4	6										weap	tors	shld	ahlm	circ			boax	bbax	bats	btax	bshi	0	0
@@ -140,9 +139,9 @@ of Expertise	1	1	1	40		20				4	706	dex		9	12										glov	belt	boot	ring	amul	c
 of Mastery	1	1	1	53		26				4	706	dex		13	15										glov	belt	boot	ring	amul	chlm							0	0
 of Precision	1	1	1	66		33				4	706	dex		16	20										glov	belt	boot	ring	amul	chlm							0	0
 of Perfection	1	1	1	80		40				4	706	dex		21	25										glov	belt	boot	ring	amul	chlm							0	0
-of Dexterity	1	1	1	1		0				4	706	dex		1	2										jewl												0	0
-of Skill	1	1	1	20		10				4	706	dex		3	5										jewl												0	0
-of Accuracy	1	1	1	76		38				4	706	dex		6	10										jewl												0	0
+of Dexterity	1	1	1	1		0				4	706	dex		2	4										jewl												0	0
+of Skill	1	1	1	20		10				4	706	dex		5	7										jewl												0	0
+of Accuracy	1	1	1	76		38				4	706	dex		8	10										jewl												0	0
 of the Fool	1	1		1		0				2	707	enr		-1	-6										rod	stor	circ	pelt	nxhm	nscy							0	0
 of Energy	1	1	1	1		0				6	707	enr		1	3										rod	stor	circ	pelt	nxhm	nscy							0	0
 of Magic	1	1	1	14		7				6	707	enr		4	6										rod	stor	circ	pelt	nxhm	nscy							0	0
@@ -174,9 +173,9 @@ of Power	1	1	1	40		20				4	707	enr		9	12										glov	ring	amul	head	chlm	ashi	
 of Sorcery	1	1	1	53		26				4	707	enr		13	15										glov	ring	amul	head	chlm	ashi	nxsh						0	0
 of Wizardry	1	1	1	66		33				4	707	enr		16	20										glov	ring	amul	head	chlm	ashi	nxsh						0	0
 of Ascendance	1	1	1	80		40				4	707	enr		21	25										glov	ring	amul	head	chlm	ashi	nxsh						0	0
-of Energy	1	1	1	1		0				4	707	enr		1	2										jewl												0	0
-of Magic	1	1	1	20		10				4	707	enr		3	5										jewl												0	0
-of the Mind	1	1	1	76		38				4	707	enr		6	10										jewl												0	0
+of Energy	1	1	1	1		0				4	707	enr		2	4										jewl												0	0
+of Magic	1	1	1	20		10				4	707	enr		5	7										jewl												0	0
+of the Mind	1	1	1	76		38				4	707	enr		8	10										jewl												0	0
 of Illness	1	1		1		0				2	708	vit		-1	-6										scep	tors	shld	helm				circ	nxhm				0	0
 of Vitality	1	1	1	1		0				6	708	vit		1	3										scep	tors	shld	helm				circ	nxhm				0	0
 of Zest	1	1	1	14		7				6	708	vit		4	6										scep	tors	shld	helm				circ	nxhm				0	0
@@ -200,9 +199,9 @@ of Verve	1	1	1	40		20				4	708	vit		9	12										belt	boot	ring	amul									0	
 of Vigor	1	1	1	53		26				4	708	vit		13	15										belt	boot	ring	amul									0	0
 of Vivacity	1	1	1	66		33				4	708	vit		16	20										belt	boot	ring	amul									0	0
 of Life	1	1	1	80		40				4	708	vit		21	25										belt	boot	ring	amul									0	0
-of Vitality	1	1	1	1		0				4	708	vit		1	2										jewl												0	0
-of Zest	1	1	1	20		10				4	708	vit		3	5										jewl												0	0
-of Vim	1	1	1	76		38				4	708	vit		6	10										jewl												0	0
+of Vitality	1	1	1	1		0				4	708	vit		2	4										jewl												0	0
+of Zest	1	1	1	20		10				4	708	vit		5	7										jewl												0	0
+of Vim	1	1	1	76		38				4	708	vit		8	10										jewl												0	0
 of Disease	1	1		1		0				2	709	regen		-1	-5										scep	ashd	pelt	chlm	circ								0	0
 of Regeneration	1	1	1	1		0				4	709	regen		1	2										scep	ashd	pelt	chlm	circ								0	0
 of Restoration	1	1	1	12		6				4	709	regen		3	5										scep	ashd	pelt	chlm	circ								0	0
@@ -225,6 +224,7 @@ of Renewal	1	1	1	66		33				4	709	regen		11	15										dust												0	0
 of Revivification	1	1	1	88		44				4	709	regen		16	25										dust												0	0
 of Regeneration	1	1	1	4		2				4	709	regen		1	2										jewl												0	0
 of Restoration	1	1	1	44		22				4	709	regen		3	5										jewl												0	0
+of Mending	1	1	1	84		42				4	709	regen		6	8										jewl												0	0
 of Poverty	1	1		5		2				2	710	gold%		-10	-25										tors	helm	glov	ring	amul								0	0
 of Wealth	1	1	1	2		1				4	710	gold%		11	25										tors	helm	glov	ring	amul								0	0
 of Greed	1	1	1	11		5				4	710	gold%		26	50										tors	helm	glov	ring	amul								0	0
@@ -238,8 +238,8 @@ of Riches	1	1	1	21		10				4	710	gold%		51	100										dust												0	0
 of Treasure	1	1	1	29		14				4	710	gold%		101	150										dust												0	0
 of Prosperity	1	1	1	36		18				4	710	gold%		151	200										dust												0	0
 of Royalty	1	1	1	44		22				4	710	gold%		201	250										dust												0	0
-of Wealth	1	1	1	5		2				4	710	gold%		11	30										jewl												0	0
-of Greed	1	1	1	28		14				4	710	gold%		41	60										jewl												0	0
+of Wealth	1	1	1	5		2				4	710	gold%		11	25										jewl												0	0
+of Greed	1	1	1	28		14				4	710	gold%		26	50										jewl												0	0
 of Curses	1	1		6		3				2	711	mag%		-5	-15										ring	amul											0	0
 of Luck	1	1	1	6		3				4	711	mag%		5	10										ring	amul											0	0
 of Fortune	1	1	1	20		10				4	711	mag%		11	15										ring	amul											0	0
@@ -260,7 +260,7 @@ of Plenty	1	1	1	72		35				4	711	mag%		26	30										dust												0	0
 of Providence	1	1	1	88		44				4	711	mag%		31	40										dust												0	0
 of Luck	1	1	1	6		3				4	711	mag%		5	10										jewl												0	0
 of Fortune	1	1	1	38		19				4	711	mag%		11	15										jewl												0	0
-of Fate	1	1	1	80		40				4	711	mag%		16	20										jewl												0	0
+of Fate	1	1	1	84		42				4	711	mag%		16	20										jewl												0	0
 of the Bear	1	1	1	8		4				4	712	knock		1	1										mele							staf	wand	orb			0	0
 of the Bear	1	1	1	72		36				4	712	knock		1	1										phlm												0	0
 of the Vulture	1	1		1		0				2	713	hp		-1	-10										tors	helm	shld	belt	ring	amul	boot	circ	ahlm	nxhm			0	0
@@ -329,7 +329,8 @@ of Convalescence	1	1	1	7		3				4	715	res-pois-len		51	70										amul										
 of Amelioration	1	1	1	35		17				4	715	res-pois-len		15	30										duse												0	0
 of Simplicity	1	1	1	25		12				4	716	ease		-10	-20										weap	armo											0	0
 of Ease	1	1	1	15		7				4	716	ease		-21	-40										weap	armo											0	0
-of Simplicity	1	1	1	1		0				4	716	ease		-5	-10										jewl												0	0
+of Simplicity	1	1	1	1		0				4	716	ease		-3	-5										jewl												0	0
+of Ease	1	1	1	52		26				4	716	ease		-6	-10										jewl												0	0
 of Self-Repair	1	1	1	3		1				4	717	rep-dur	1												weap	armo						thro	miss				0	0
 of Quick Repair	1	1	1	20		10				4	717	rep-dur	2												weap	armo						thro	miss				0	0
 of Fast Repair	1	1	1	37		18				4	717	rep-dur	6												weap	armo						thro	miss				0	0
@@ -361,13 +362,13 @@ of Pain	1	1	1	30		14				4	719	mana-gethit		2	2										dusm	dusp											0	0
 of Misery	1	1	1	52		25				4	719	mana-gethit		3	3										dusm	dusp											0	0
 of Provocation	1	1	1	73		36				4	719	mana-gethit		4	5										dusm	dusp											0	0
 of Suffering	1	1	1	38		19				4	719	mana-gethit		1	1										jewl												0	0
-of Rebellion	1	1		6		3				2	720	summon-dmg%		-5	-15										wand	amul	head										0	0
-of the Sorcerer	1	1	1	6		3				6	720	summon-dmg%		5	10										wand	amul	head										0	0
-of the Conjurer	1	1	1	21		10				6	720	summon-dmg%		11	15										wand	amul	head										0	0
-of the Summoner	1	1	1	35		17				6	720	summon-dmg%		16	20										wand	amul	head										0	0
-of the Occultist	1	1	1	50		25				6	720	summon-dmg%		21	25										wand	amul	head										0	0
-of the Warlock	1	1	1	65		32				6	720	summon-dmg%		26	35										wand	amul	head										0	0
-of the Thaumaturge	1	1	1	80		40				6	720	summon-dmg%		36	50										wand	amul	head										0	0
+of Rebellion	1	1		6		3				2	720	summon-dmg%		-5	-15										wand	amul	head	orb									0	0
+of the Sorcerer	1	1	1	6		3				6	720	summon-dmg%		5	10										wand	amul	head	orb									0	0
+of the Conjurer	1	1	1	21		10				6	720	summon-dmg%		11	15										wand	amul	head	orb									0	0
+of the Summoner	1	1	1	35		17				6	720	summon-dmg%		16	20										wand	amul	head	orb									0	0
+of the Occultist	1	1	1	50		25				6	720	summon-dmg%		21	25										wand	amul	head	orb									0	0
+of the Warlock	1	1	1	65		32				6	720	summon-dmg%		26	35										wand	amul	head	orb									0	0
+of the Thaumaturge	1	1	1	80		40				6	720	summon-dmg%		36	50										wand	amul	head	orb									0	0
 of Rebellion	1	1		6		3				2	720	summon-dmg%		-5	-15										glov	ring	nscy	circ	nxhm	pelt	dclu						0	0
 of the Sorcerer	1	1	1	6		3				4	720	summon-dmg%		5	10										glov	ring	nscy	circ	nxhm	pelt	dclu						0	0
 of the Conjurer	1	1	1	27		13				4	720	summon-dmg%		11	15										glov	ring	nscy	circ	nxhm	pelt	dclu						0	0
@@ -381,15 +382,16 @@ of Rebellion	1	1		6		3				2	720	summon-dmg%		-5	-15										nxsh	cron										
 of the Sorcerer	1	1	1	8		4				4	720	summon-dmg%		5	10										nxsh	cron											0	0
 of the Conjurer	1	1	1	36		18				4	720	summon-dmg%		11	15										nxsh	cron											0	0
 of the Summoner	1	1	1	64		32				4	720	summon-dmg%		16	20										nxsh	cron											0	0
-of the Sorcerer	1	1	1	9		4				4	720	summon-dmg%		5	10										jewl												0	0
-of the Conjurer	1	1	1	53		26				4	720	summon-dmg%		11	15										jewl												0	0
-of the Goblin	1	1		7		3				2	721	summon-res%		-2	-10										wand	amul	head										0	0
-of the Spirit	1	1	1	7		3				6	721	summon-res%		2	5										wand	amul	head										0	0
-of the Wraith	1	1	1	22		11				6	721	summon-res%		6	10										wand	amul	head										0	0
-of the Geist	1	1	1	37		18				6	721	summon-res%		11	15										wand	amul	head										0	0
-of the Specter	1	1	1	51		25				6	721	summon-res%		16	20										wand	amul	head										0	0
-of the Phantom	1	1	1	66		33				6	721	summon-res%		21	25										wand	amul	head										0	0
-of Nightmares	1	1	1	80		40				6	721	summon-res%		26	30										wand	amul	head										0	0
+of the Sorcerer	1	1	1	9		4				4	720	summon-dmg%		3	5										jewl												0	0
+of the Conjurer	1	1	1	33		16				4	720	summon-dmg%		6	10										jewl												0	0
+of the Summoner	1	1	1	75		37				4	720	summon-dmg%		11	15										jewl												0	0
+of the Goblin	1	1		7		3				2	721	summon-res%		-2	-10										wand	amul	head	orb									0	0
+of the Spirit	1	1	1	7		3				6	721	summon-res%		2	5										wand	amul	head	orb									0	0
+of the Wraith	1	1	1	22		11				6	721	summon-res%		6	10										wand	amul	head	orb									0	0
+of the Geist	1	1	1	37		18				6	721	summon-res%		11	15										wand	amul	head	orb									0	0
+of the Specter	1	1	1	51		25				6	721	summon-res%		16	20										wand	amul	head	orb									0	0
+of the Phantom	1	1	1	66		33				6	721	summon-res%		21	25										wand	amul	head	orb									0	0
+of Nightmares	1	1	1	80		40				6	721	summon-res%		26	30										wand	amul	head	orb									0	0
 of the Goblin	1	1		7		3				2	721	summon-res%		-2	-10										glov	ring	nscy	circ	nxhm	nxsh	pelt						0	0
 of the Spirit	1	1	1	7		3				4	721	summon-res%		2	5										glov	ring	nscy	circ	nxhm	nxsh	pelt						0	0
 of the Wraith	1	1	1	28		14				4	721	summon-res%		6	10										glov	ring	nscy	circ	nxhm	nxsh	pelt						0	0
@@ -400,14 +402,15 @@ of the Wraith	1	1	1	31		15				4	721	summon-res%		6	10										dusm												0
 of the Geist	1	1	1	54		26				4	721	summon-res%		11	15										dusm												0	0
 of the Specter	1	1	1	77		39				4	721	summon-res%		16	20										dusm												0	0
 of the Spirit	1	1	1	10		5				4	721	summon-res%		2	5										jewl												0	0
-of the Wraith	1	1	1	55		27				4	721	summon-res%		6	10										jewl												0	0
-of Disenchantment	1	1		9		4				2	722	summon-ac%		-5	-15										wand	amul	head										0	0
-of the Warden	1	1	1	9		4				6	722	summon-ac%		5	10										wand	amul	head										0	0
-of the Jailor	1	1	1	24		12				6	722	summon-ac%		11	15										wand	amul	head										0	0
-of the Binder	1	1	1	38		19				6	722	summon-ac%		16	20										wand	amul	head										0	0
-of the Weaver	1	1	1	53		26				6	722	summon-ac%		21	25										wand	amul	head										0	0
-of the Spirit-Lord	1	1	1	67		33				6	722	summon-ac%		26	35										wand	amul	head										0	0
-of the Spirit-Master	1	1	1	80		40				6	722	summon-ac%		36	50										wand	amul	head										0	0
+of the Wraith	1	1	1	35		17				4	721	summon-res%		6	10										jewl												0	0
+of the Geist	1	1	1	77		38				4	721	summon-res%		11	15										jewl												0	0
+of Disenchantment	1	1		9		4				2	722	summon-ac%		-5	-15										wand	amul	head	orb									0	0
+of the Warden	1	1	1	9		4				6	722	summon-ac%		5	10										wand	amul	head	orb									0	0
+of the Jailor	1	1	1	24		12				6	722	summon-ac%		11	15										wand	amul	head	orb									0	0
+of the Binder	1	1	1	38		19				6	722	summon-ac%		16	20										wand	amul	head	orb									0	0
+of the Weaver	1	1	1	53		26				6	722	summon-ac%		21	25										wand	amul	head	orb									0	0
+of the Spirit-Lord	1	1	1	67		33				6	722	summon-ac%		26	35										wand	amul	head	orb									0	0
+of the Spirit-Master	1	1	1	80		40				6	722	summon-ac%		36	50										wand	amul	head	orb									0	0
 of Disenchantment	1	1		9		4				2	722	summon-ac%		-5	-15										glov	ring	nscy	circ	nxhm	nxsh	pelt						0	0
 of the Warden	1	1	1	9		4				4	722	summon-ac%		5	10										glov	ring	nscy	circ	nxhm	nxsh	pelt						0	0
 of the Jailor	1	1	1	30		15				4	722	summon-ac%		11	15										glov	ring	nscy	circ	nxhm	nxsh	pelt						0	0
@@ -417,8 +420,9 @@ of the Warden	1	1	1	10		4				4	722	summon-ac%		5	10										dusm												0	0
 of the Jailor	1	1	1	33		17				4	722	summon-ac%		11	15										dusm												0	0
 of the Binder	1	1	1	56		28				4	722	summon-ac%		16	20										dusm												0	0
 of the Weaver	1	1	1	79		40				4	722	summon-ac%		21	25										dusm												0	0
-of the Warden	1	1	1	11		5				4	722	summon-ac%		5	10										jewl												0	0
-of the Jailor	1	1	1	57		28				4	722	summon-ac%		11	15										jewl												0	0
+of the Warden	1	1	1	11		5				4	722	summon-ac%		3	5										jewl												0	0
+of the Jailor	1	1	1	37		18				4	722	summon-ac%		6	10										jewl												0	0
+of the Binder	1	1	1	78		39				4	722	summon-ac%		11	15										jewl												0	0
 of Thawing	1	1		9		4				2	723	cold-spell-dur		-10	-20										staf	amul											0	0
 of Laments	1	1	1	25		12				4	723	cold-spell-dur		10	20										staf	amul											0	0
 of Keening	1	1	1	41		20				4	723	cold-spell-dur		21	30										staf	amul											0	0
@@ -462,31 +466,37 @@ of Songs	1	1	1	24		12				4	725	healskill		11	15										dust												0	0
 of Rains	1	1	1	43		21				4	725	healskill		16	20										dust												0	0
 of the Monsoon	1	1	1	62		31				4	725	healskill		21	25										dust												0	0
 of Healing	1	1	1	6		3				4	725	healskill		3	5										jewl												0	0
-of Songs	1	1	1	28		14				4	725	healskill		6	10										jewl												0	0
-of Predation	1	1	1	1		0				6	726	heal-kill		1	2										weap												0	0
-of Hunger	1	1	1	22		11				6	726	heal-kill		3	5										weap												0	0
-of Devouring	1	1	1	43		21				6	726	heal-kill		6	10										weap												0	0
-of Famine	1	1	1	64		32				6	726	heal-kill		11	15										weap												0	0
+of Songs	1	1	1	28		14				4	725	healskill		6	15										jewl												0	0
+of Predation	1	1	1	1		0				6	726	heal-kill		1	3										weap												0	0
+of Hunger	1	1	1	22		11				6	726	heal-kill		4	6										weap												0	0
+of Devouring	1	1	1	43		21				6	726	heal-kill		7	12										weap												0	0
+of Famine	1	1	1	64		32				6	726	heal-kill		13	20										weap												0	0
 of Predation	1	1	1	1		0				6	726	heal-kill		1	1										glov	ring	amul	phlm	pelt								0	0
-of Hunger	1	1	1	22		11				6	726	heal-kill		2	3										glov	ring	amul	phlm	pelt								0	0
-of Devouring	1	1	1	43		21				6	726	heal-kill		4	5										glov	ring	amul	phlm	pelt								0	0
-of Famine	1	1	1	64		32				6	726	heal-kill		6	10										glov	ring	amul	phlm	pelt								0	0
+of Hunger	1	1	1	22		11				6	726	heal-kill		2	4										glov	ring	amul	phlm	pelt								0	0
+of Devouring	1	1	1	43		21				6	726	heal-kill		5	10										glov	ring	amul	phlm	pelt								0	0
+of Famine	1	1	1	64		32				6	726	heal-kill		11	15										glov	ring	amul	phlm	pelt								0	0
 of Predation	1	1	1	1		0				6	726	heal-kill		1	1										dusc												0	0
 of Hunger	1	1	1	24		12				6	726	heal-kill		2	3										dusc												0	0
-of Devouring	1	1	1	47		23				6	726	heal-kill		4	5										dusc												0	0
-of Famine	1	1	1	70		35				6	726	heal-kill		6	8										dusc												0	0
+of Devouring	1	1	1	47		23				6	726	heal-kill		4	6										dusc												0	0
+of Famine	1	1	1	70		35				6	726	heal-kill		7	10										dusc												0	0
 of Predation	1	1	1	1		0				4	726	heal-kill		1	1										jewl												0	0
 of Hunger	1	1	1	38		19				4	726	heal-kill		2	2										jewl												0	0
-of the Source	1	1	1	1		0				6	727	mana-kill		1	1										weap	ring	amul	stor	circ								0	0
-of the Fountain	1	1	1	22		11				6	727	mana-kill		2	3										weap	ring	amul	stor	circ								0	0
-of the Wellspring	1	1	1	43		21				6	727	mana-kill		4	5										weap	ring	amul	stor	circ								0	0
-of Tears	1	1	1	64		32				6	727	mana-kill		6	10										weap	ring	amul	stor	circ								0	0
+of Devouring	1	1	1	73		36				4	726	heal-kill		3	3										jewl												0	0
+of the Source	1	1	1	1		0				6	727	mana-kill		1	3										weap												0	0
+of the Fountain	1	1	1	22		11				6	727	mana-kill		4	6										weap												0	0
+of the Wellspring	1	1	1	43		21				6	727	mana-kill		7	12										weap												0	0
+of Tears	1	1	1	64		32				6	727	mana-kill		13	20										weap												0	0
+of the Source	1	1	1	1		0				6	727	mana-kill		1	1										ring	amul	stor	circ									0	0
+of the Fountain	1	1	1	22		11				6	727	mana-kill		2	4										ring	amul	stor	circ									0	0
+of the Wellspring	1	1	1	43		21				6	727	mana-kill		5	10										ring	amul	stor	circ									0	0
+of Tears	1	1	1	64		32				6	727	mana-kill		11	15										ring	amul	stor	circ									0	0
 of the Source	1	1	1	1		0				6	727	mana-kill		1	1										dusm	dusc											0	0
 of the Fountain	1	1	1	24		12				6	727	mana-kill		2	3										dusm	dusc											0	0
-of the Wellspring	1	1	1	47		23				6	727	mana-kill		4	5										dusm	dusc											0	0
-of Tears	1	1	1	70		35				6	727	mana-kill		6	8										dusm	dusc											0	0
+of the Wellspring	1	1	1	47		23				6	727	mana-kill		4	6										dusm	dusc											0	0
+of Tears	1	1	1	70		35				6	727	mana-kill		7	10										dusm	dusc											0	0
 of the Source	1	1	1	1		0				4	727	mana-kill		1	1										jewl												0	0
 of the Fountain	1	1	1	38		19				4	727	mana-kill		2	2										jewl												0	0
+of the Wellspring	1	1	1	73		36				4	727	mana-kill		3	3										jewl												0	0
 of Disdain	1	1	1	19		9				4	728	heal-hit		1	1										thro	miss											0	0
 of Contempt	1	1	1	60		30				4	728	heal-hit		2	2										thro	miss											0	0
 of Grudges	1	1	1	16		8				4	728	heal-melee		1	1										dclu	boax	bbax	pasd	bats	pama	ring						0	0
@@ -508,7 +518,6 @@ of Bliss	1	1	1	70		35				4	730	addxp		9	10										ring	amul											0	0
 of Teaching	1	1	1	9		4				4	730	addxp		1	2										dust												0	0
 of Wisdom	1	1	1	28		14				4	730	addxp		3	5										dust												0	0
 of Teaching	1	1	1	14		6				4	730	addxp		1	1										jewl												0	0
-of Wisdom	1	1	1	42		21				4	730	addxp		2	2										jewl												0	0
 of Spring	1	1	1	10		5				4	731	half-freeze		1	1										belt	shld	amul	cron									0	0
 of Spring	1	1	1	38		19				4	731	half-freeze		1	1										jewl												0	0
 of Spring	1	1	1	50		25				4	731	half-freeze		1	1										duse												0	0
@@ -530,8 +539,6 @@ of Rage	1	1	1	65		33				4	733	dmg-global		6	10										phlm	amul											0	0
 of Hatred	1	1	1	23		12				4	733	dmg-global		2	3										dusc												0	0
 of Anger	1	1	1	47		24				4	733	dmg-global		4	5										dusc												0	0
 of Rage	1	1	1	72		36				4	733	dmg-global		6	10										dusc												0	0
-of Hatred	1	1	1	26		13				4	733	dmg-global		2	3										jewl												0	0
-of Anger	1	1	1	53		26				4	733	dmg-global		4	5										jewl												0	0
 of Pride	1	1	1	21		11				4	734	ac-global		2	3										chlm	amul											0	0
 of Arrogance	1	1	1	43		22				4	734	ac-global		4	5										chlm	amul											0	0
 of Supremacy	1	1	1	65		33				4	734	ac-global		6	10										chlm	amul											0	0
@@ -550,13 +557,16 @@ of Squires	1	1	1	16		7				4	735	uninterrupt		5	10										dusc	dusp											0
 of Lords	1	1	1	48		24				4	735	uninterrupt		11	15										dusc	dusp											0	0
 of Kings	1	1	1	80		40				4	735	uninterrupt		16	20										dusc	dusp											0	0
 of Squires	1	1	1	11		5				4	735	uninterrupt		3	5										jewl												0	0
-of Lords	1	1	1	25		12				4	735	uninterrupt		6	8										jewl												0	0
+of Lords	1	1	1	78		39				4	735	uninterrupt		6	7										jewl							ashi	stor				0	0
 of Teeth	1	1	1	1		0				4	736	openwounds		5	10										swor	axe	spea	thro	miss	nscy							0	0
 of Jaws	1	1	1	16		8				4	736	openwounds		11	15										swor	axe	spea	thro	miss	nscy							0	0
 of Fangs	1	1	1	30		15				4	736	openwounds		16	20										swor	axe	spea	thro	miss	nscy							0	0
 of Furies	1	1	1	44		22				4	736	openwounds		21	25										swor	axe	spea	thro	miss	nscy							0	0
-of Teeth	1	1	1	1		0				4	736	openwounds		2	4										jewl	dusc											0	0
-of Jaws	1	1	1	18		9				4	736	openwounds		5	8										jewl	dusc											0	0
+of Teeth	1	1	1	1		0				4	736	openwounds		3	10										dusc												0	0
+of Jaws	1	1	1	18		9				4	736	openwounds		11	25										dusc												0	0
+of Teeth	1	1	1	1		0				4	736	openwounds		2	4										jewl												0	0
+of Jaws	1	1	1	18		9				4	736	openwounds		5	8										jewl												0	0
+of Fangs	1	1	1	60		30				4	736	openwounds		9	10										jewl												0	0
 of the Clouds	1	1	1	1		0				8	737	regen-mana		5	10										staf												0	0
 of the Sky	1	1	1	12		6				8	737	regen-mana		11	15										staf												0	0
 of the Moon	1	1	1	23		11				8	737	regen-mana		16	25										staf												0	0
@@ -592,6 +602,7 @@ of the Planets	1	1	1	60		30				4	737	regen-mana		21	25										dusc												
 of the Heavens	1	1	1	78		38				4	737	regen-mana		26	30										dusc												0	0
 of the Clouds	1	1	1	1		0				4	737	regen-mana		5	10										jewl												0	0
 of the Sky	1	1	1	44		22				4	737	regen-mana		11	15										jewl												0	0
+of the Moon	1	1	1	83		41				4	737	regen-mana		16	20										jewl												0	0
 of Kicking	1	1	1	8		4				6	738	kick		1	2										boot												0	0
 of Stomping	1	1	1	20		10				6	738	kick		3	5										boot												0	0
 of Crushing	1	1	1	32		16				6	738	kick		6	10										boot												0	0
