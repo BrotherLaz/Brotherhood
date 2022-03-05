@@ -1236,6 +1236,9 @@ Test - Create Trophy 2	1			0					2	isc,qty=2							Trophy2	10																			
 Test - Create random crafting herb	1			0					1	wms							cher																																																																																							0
 Test - Create strength item	1			0					2	wms,qty=2							amu,rar				str			50	50																																																																															0
 Test - Cycle crossbow	1			0					1	oo1							oo1																																																																																							0
+Test - Create polearm	1			0					3	wms,qty=3							po1																																																																																							0
+Test - Cycle polearm	1			0					1	po1							po1																																																																																							0
+Test - Create scythe	1			0					4	wms,qty=4							sc1																																																																																							0
 Test - Runes	1			0					3	hpt,qty=3							r01																																																																																							0
 Test - Runes	1			0					1	r01							r02																																																																																							0
 Test - Runes	1			0					1	r02							r03																																																																																							0

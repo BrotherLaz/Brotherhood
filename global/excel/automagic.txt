@@ -5,15 +5,17 @@ Crafting Scroll Automod	100				1	1	1		0				4	352	dmg%-ac%-display		15	15	levelre
 Paladin Mace	100				1	1	1		0				4	361	dmg-undead		50	50										armo	weap											0	0
 Paladin Sword	100				1	1	1		0				4	362	dmg-demon		100	100										armo	weap											0	0
 Paladin Scepter	100				1	1	1		0				4	363	dmg-demon		50	50										armo	weap											0	0
+Polearm	100				1	1	1		0				4	360	hit-skill-stance	424	100	1	dmg-stun		25	25						armo	weap											0	0
 Dmg Human	100				1	1	1		0				4	365	dmg-mon%	4	50	50	automagic-human%		50	50						armo	weap											0	0
 Dmg Insect	100				1	1	1		0				4	366	dmg-mon%	3	50	50	automagic-insect%		50	50						armo	weap											0	0
 Dmg Construct	100				1	1	1		0				4	367	dmg-mon%	5	50	50	automagic-construct%		50	50						armo	weap											0	0
-Mage Shield	100				1	1	1		0				4	369	automagic-armosock		1	1										armo	weap											0	0
+Mage Shield	100	deprecated			1	1	1		0				4	369	automagic-armosock		1	1										armo	weap											0	0
 Crossbow	100				1	1	1		0				4	370	automagic-str	4												armo	weap											0	0
-Necro Crossbow	100				1	1	1		0				4	371	automagic-str	4												armo	weap											0	0
+Paladin Crossbow	100				1	1	1		0				4	371	automagic-str	4												armo	weap											0	0
 Druid Club	100				1	1	1		0				4	372	automagic-werebeast		100	100										armo	weap											0	0
 Spiked Shield	100				1	1	1		0				4	373	automagic-woundth		20	20										armo	weap											0	0
-Polearm	100				1	1	1		0				4	374	dmg-demon		50	50										armo	weap											0	0
+Polearm	100	deprecated			1	1	1		0				4	374	dmg-demon		50	50	polearm-active		25	25	stun-byactive	8				armo	weap											0	0
+Scythe	100				1	1	1		0				4	359	hit-skill-stance	15	5	1										armo	weap											0	0
 Bull Thistle	1				1	1	1		0				4	300	str		5	5	levelreq-display		5	5					dgrn	wd01												0	0
 Caper Grass	1				1	1	1		0				4	301	dex		5	5	levelreq-display		5	5					lyel	wd02												0	0
 Witches' Sage	1				1	1	1		0				4	302	enr		5	5	levelreq-display		5	5					lblu	wd03												0	0

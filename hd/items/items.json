@@ -904,10 +904,10 @@
   { "cu8": { "asset": "body_part/fang" } },
   { "cu9": { "asset": "body_part/quill" } },
   { "cu0": { "asset": "scroll/crafting_scroll" } },
-  { "wt1": { "asset": "scroll/disenchant_scroll" } },
-  { "wt2": { "asset": "scroll/disenchant_scroll" } },
-  { "wt3": { "asset": "scroll/disenchant_scroll" } },
-  { "wt4": { "asset": "scroll/disenchant_scroll" } },
+  { "wt1": { "asset": "scroll/texts" } },
+  { "wt2": { "asset": "scroll/texts" } },
+  { "wt3": { "asset": "scroll/texts" } },
+  { "wt4": { "asset": "scroll/texts" } },
   { "t01": { "asset": "body_part/soul" } },
   { "t02": { "asset": "body_part/soul" } },
   { "t03": { "asset": "body_part/soul" } },
@@ -987,5 +987,11 @@
   { "r44": { "asset": "rune/laz_null_rune" } },
   { "r45": { "asset": "rune/laz_vegvisir_rune" } },
   { "r46": { "asset": "rune/laz_hooks_rune" } },
-  { "r47": { "asset": "rune/laz_murmur_rune" } }  
+  { "r47": { "asset": "rune/laz_murmur_rune" } },
+  { "ix1": { "asset": "quest/deck" } },
+  { "ix2": { "asset": "gem/gemstone_eye" } },
+  { "ix3": { "asset": "body_part/nail" } },
+  { "ix4": { "asset": "key/poe_key" } },
+  { "ix5": { "asset": "quest/pyramid" } },
+  { "ix6": { "asset": "quest/tech_orb" } }
 ]

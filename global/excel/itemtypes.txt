@@ -127,7 +127,7 @@ Barbarian 2h Sword	123		New item class	bats	barb	swor	1	1	rarm	larm			0	0	0	0		1
 Paladin Mace	124		New item class	pama	pala	mace	1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							weap	0
 Assassin Naginata	125		New item class	nagi	assn	pole	1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
 Druid Bow	126		New item class	dbow	drui	bow	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	2	25	4	40	6	1	4			0							weap	0
-Necromancer Crossbow	127		New item class	nxbw	necr	xbow	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
+Paladin Crossbow	127		New item class	pxbw	pala	xbow	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
 Amazon Helm	128		New item class	ahlm	helm	amaz	1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
 Crusader Helm	129		New item class	chlm	helm	pala	1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	0	4			0							armo	0
 Sorceress Armor	130		New item class	stor	sorc	tors	1	1	tors	tors			0	0	0	0		1	0	0	1	25	3	40	4	0	4			0							armo	0

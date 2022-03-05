@@ -369,3 +369,6 @@ dmg%-ac%-display	1	1	misc_dmgacstring																											Required Level: 
 random-mods-display	1	1	desc_randommods																																0
 is-upgradable	1	1	desc_isupgradable																																0
 upgrade-tracker	1	1	special_upgradetracker																																0
+hit-skill-stance	1	11	stance_skillonhit																												ModProcAoe				0
+polearm-active	1	1	stance_polearm_active																																0
+stun-byactive	1	17	stance_stunlength_byactive																																0
