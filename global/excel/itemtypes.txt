@@ -142,8 +142,8 @@ Crown	138		New item class	cron	helm		1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	
 Melee Axe	139		Because axe is also a base item	aaxe	axe		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
 Crushing Weapon	140		Contains maces and hammers	bonk	blun		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
 Trinket	141		Most ingredients	trin	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Any Jewelry	142		Amulets and rings	anyj			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Any Weapon or Armor	143		Weapons and armor	anyx			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Any Jewelry	142		Amulets and rings	anyj	wtev		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Any Weapon or Armor	143		Weapons and armor	anyx	wtev		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Ashes Magical	144		Ashes	dusm	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
 Ashes Combat	145		Ashes	dusc	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
 Ashes Physical	146		Ashes	dusp	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
@@ -221,7 +221,7 @@ Herb38	217		Crafting herb	wd38	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0		
 Herb39	218		Crafting herb	wd39	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Herb40	219		Crafting herb	wd40	cher		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Crafting Herb	220		Crafting herb base type	cher			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Placeholder 221	221			p221			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Clockwork Orb	221		Clockwork orb base type	tick	trin		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Placeholder 222	222			p222			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 223	223			p223			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 224	224			p224			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -229,7 +229,7 @@ Placeholder 225	225			p225			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 226	226			p226			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 227	227			p227			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 228	228			p228			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 229	229			p229			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Any item at all	229		Any item	wtev			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Placeholder 230	230			p230			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 231	231			p231			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 232	232			p232			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

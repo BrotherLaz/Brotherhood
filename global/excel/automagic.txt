@@ -14,7 +14,7 @@ Crossbow	100				1	1	1		0				4	370	automagic-str	4												armo	weap										
 Paladin Crossbow	100				1	1	1		0				4	371	automagic-str	4												armo	weap											0	0
 Druid Club	100				1	1	1		0				4	372	automagic-werebeast		100	100										armo	weap											0	0
 Spiked Shield	100				1	1	1		0				4	373	automagic-woundth		20	20										armo	weap											0	0
-Polearm	100	deprecated			1	1	1		0				4	374	dmg-demon		50	50	polearm-active		25	25	stun-byactive	8				armo	weap											0	0
+Polearm	100	deprecated			1	1	1		0				4	374	dmg-demon		50	50										armo	weap											0	0
 Scythe	100				1	1	1		0				4	359	hit-skill-stance	15	5	1										armo	weap											0	0
 Bull Thistle	1				1	1	1		0				4	300	str		5	5	levelreq-display		5	5					dgrn	wd01												0	0
 Caper Grass	1				1	1	1		0				4	301	dex		5	5	levelreq-display		5	5					lyel	wd02												0	0
@@ -453,3 +453,84 @@ Scepter of Sanctuary	100	Auras	Scepter		1	1	18		9				4	432	inherent-scepter		30	
 Scepter of Vigor	100	Auras	Scepter		1	1	18		9				4	432	inherent-scepter		30	30	skill	522	1	6						armo	weap											0	0
 Scepter of Thorns	100	Auras	Scepter		1	1	24		12				4	432	inherent-scepter		30	30	skill	523	1	6						armo	weap											0	0
 Scepter of Salvation	100	Auras	Scepter		1	1	30		15				4	432	inherent-scepter		30	30	skill	524	1	6						armo	weap											0	0
+Claw	100				1	1							4	433	inherent-claw		15	15										armo	weap											0	0
+Claw	100				1	1							4	434	inherent-claw		20	20										armo	weap											0	0
+Claw	100				1	1							4	435	inherent-claw		25	25										armo	weap											0	0
+Claw	100				1	1							4	436	inherent-claw		30	30										armo	weap											0	0
+Claw	100				1	1							4	437	inherent-claw		35	35										armo	weap											0	0
+Claw	100				1	1							4	438	inherent-claw		40	40										armo	weap											0	0
+Signature Item Property	100				1	1							4	250	ac		25	25	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	251	manaskill		5	5	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	252	att		25	25	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	253	dmg-ac		-25	-25	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	254	regen-stam		150	150	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	255	stam		50	50	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	256	howl		16	16	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	257	res-cold		30	30	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	258	res-fire		30	30	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	259	res-ltng		30	30	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	260	res-pois		30	30	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	261	res-curse		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	262	dmg-cold	50	15	40	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	263	dmg-fire		20	45	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	264	dmg-ltng		1	65	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	265	dmg-pois	50	51	307	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	266	balance3		20	20	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	267	block3		20	20	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	268	cast3		20	20	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	269	swing3		20	20	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	270	move3		6	6	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	271	extra-fire		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	272	extra-cold		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	273	extra-ltng		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	274	extra-pois		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	275	thorns%		50	50	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	276	pot-rate		20	20	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	277	dur%		25	25	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	278					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	279					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	280					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	281					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	282					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	283					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	284					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	285	red-dmg		2	2	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	286	red-mag		2	2	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	287	block		3	3	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	288	dmg-max		10	10	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	289	str		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	290	dex		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	291	enr		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	292	vit		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	293	regen		13	13	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	294	gold%		100	100	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	295	mag%		20	20	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	296	hp		20	20	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	297	mana		20	20	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	298	res-pois-len		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	299	ease		-10	-10	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	300	heal-gethit		3	3	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	301	mana-gethit		3	3	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	302	summon-dmg%		10	10	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	303	summon-res%		10	10	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	304	summon-ac%		10	10	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	305	cold-spell-dur		10	10	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	306	pois-spell-dur		10	10	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	307	healskill		20	20	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	308	heal-kill		5	5	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	309	mana-kill		5	5	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	310	heal-melee		1	1	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	311	mana-melee		1	1	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	312	addxp		3	3	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	313	dmg-global		5	5	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	314	ac-global		5	5	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	315	uninterrupt		10	10	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	316	openwounds		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	317	regen-mana		15	15	levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	318					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	319					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	320					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	321					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	322					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	323					levelreq-display		10	10						trin												0	0
+Signature Item Property	100				1	1							4	324					levelreq-display		10	10						trin												0	0

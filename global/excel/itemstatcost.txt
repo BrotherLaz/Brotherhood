@@ -466,7 +466,7 @@ inherent_staff	463	invisible automod				1	8											19	12		7	0	7	0												
 inherent_wand	464	invisible automod				1	8											19	12		7	0	7	0																														0
 inherent_orb	465	invisible automod				1	8											19	12		7	0	7	0																														0
 inherent_scepter	466	invisible automod				1	8											19	12		7	0	7	0																														0
-inherent_misc1	467	invisible automod				1	8											19	12		7	0	7	0																														0
+inherent_claw	467	invisible automod				1	8											19	12		7	0	7	0																														0
 inherent_misc2	468	invisible automod				1	8											19	12		7	0	7	0																														0
 misc_levelreqstring	469		-64	64		1	8														7	20	7	64																0	19		ModLevelReqDisplay	ModLevelReqDisplay										0
 misc_dmgacstring	470		-64	64		1	5														5	0	5	0																160	19		ModDmgAcDisplay	ModDmgAcDisplay										0
@@ -476,3 +476,4 @@ special_upgradetracker	473	trophy 2 upgrade tracker				1	5														5	0	5	0	
 item_skillatt_percent	474	additional item modifiers				1	9											577	102		1	0	8	100																116	19		ModSkillTohit	ModSkillTohit									2	0
 item_timer_percent	475	additional item modifiers				1	8											577	102		1	0	7	100																91	19		ModTimerPct	ModTimerPct									2	0
 stance_skillonhit	476	used by stance effects	0	128		1	7	16						1			2				21	0	7	0	16										1	domeleedamage	20																	0
+item_manaskill_percent	477		0	128		1	7											902	411		6	0	7	0																53	19		ModManaSkillPct	ModManaSkillPct									2	0

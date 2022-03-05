@@ -278,7 +278,7 @@ placeholder277																																			0
 placeholder278																																			0
 placeholder279																																			0
 placeholder280																																			0
-extra-all	1	1	passive_fire_mastery			3	passive_ltng_mastery			3	passive_cold_mastery			3	passive_pois_mastery			3	passive_pm_mastery																0
+extra-all	1	1	passive_fire_mastery			3	passive_ltng_mastery			3	passive_cold_mastery			3	passive_pois_mastery			3	passive_mag_mastery																0
 pierce-all	1	1	passive_fire_pierce			3	passive_ltng_pierce			3	passive_cold_pierce			3	passive_pois_pierce			3	passive_mag_pierce																0
 thorns%	1	1	thorns_percent																																0
 res-curse	1	1	curse_resistance																																0
@@ -363,6 +363,7 @@ inherent-staff	1	1	inherent_staff																																0
 inherent-wand	1	1	inherent_wand																																0
 inherent-orb	1	1	inherent_orb																																0
 inherent-scepter	1	1	inherent_scepter																																0
+inherent-claw	1	1	inherent_claw																																0
 levelreq%	1	1	item_levelreqpct																											Required Level: #		Min #	Max #		0
 levelreq-display	1	1	misc_levelreqstring																											Required Level: #		Min #	Max #		0
 dmg%-ac%-display	1	1	misc_dmgacstring																											Required Level: #		Min #	Max #		0
@@ -370,5 +371,5 @@ random-mods-display	1	1	desc_randommods																																0
 is-upgradable	1	1	desc_isupgradable																																0
 upgrade-tracker	1	1	special_upgradetracker																																0
 hit-skill-stance	1	11	stance_skillonhit																												ModProcAoe				0
-polearm-active	1	1	stance_polearm_active																																0
-stun-byactive	1	17	stance_stunlength_byactive																																0
+extra-fcl	1	1	passive_fire_mastery			1	passive_ltng_mastery			1	passive_cold_mastery																								0
+manaskill	1	1	item_manaskill_percent																												ModHealingSkillPct				0
