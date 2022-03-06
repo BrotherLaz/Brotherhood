@@ -534,3 +534,10 @@ Signature Item Property	100				1	1							4	321					levelreq-display		10	10						
 Signature Item Property	100				1	1							4	322					levelreq-display		10	10						trin												0	0
 Signature Item Property	100				1	1							4	323					levelreq-display		10	10						trin												0	0
 Signature Item Property	100				1	1							4	324					levelreq-display		10	10						trin												0	0
+Key Stack	100				1	1							4	325	keystack		50	50										trin												0	0
+Potion Stack	100				1	1							4	326	potionstack		50	50										trin												0	0
+Item Stack	100				1	1							4	327	itemstack		10	10										trin												0	0
+Ingredient Deck	100				1	1							4	328	random-mods-display		1	4	rerollstack		10	10						trin												0	0
+Charge Stack	100				1	1							4	329	chargestack		10	10										trin												0	0
+Ingredient Gemstone Eye	100				1	1							4	330	leveldelta		20	20	rerollstack		10	10	levelreq-display		-10	-10		trin												0	0
+Charge Stack	100				1	1							4	331	leveldelta%		50	50										trin												0	0

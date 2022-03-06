@@ -373,3 +373,11 @@ upgrade-tracker	1	1	special_upgradetracker																																0
 hit-skill-stance	1	11	stance_skillonhit																												ModProcAoe				0
 extra-fcl	1	1	passive_fire_mastery			1	passive_ltng_mastery			1	passive_cold_mastery																								0
 manaskill	1	1	item_manaskill_percent																												ModHealingSkillPct				0
+keystack	1	1	misc_keystack_amount																												ModHealingSkillPct				0
+potionstack	1	1	misc_potionstack_amount																												ModHealingSkillPct				0
+itemstack	1	1	misc_itemsstack_amount																												ModHealingSkillPct				0
+rerollstack	1	1	misc_rerollsstack_amount																												ModHealingSkillPct				0
+chargestack	1	1	misc_chargesstack_amount																												ModHealingSkillPct				0
+leveldelta	1	1	desc_leveldelta																												ModHealingSkillPct				0
+leveldelta%	1	1	desc_leveldelta_percent																												ModHealingSkillPct				0
+levelreq-with-display	1	1	item_levelreq			3	misc_levelreqstring																							Required Level: #		Min #	Max #		0

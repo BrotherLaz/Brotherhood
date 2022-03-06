@@ -1253,384 +1253,170 @@ Enchant - trsh + ml1 = transfer mods to item		1			0					2	trsh	ml1						ml1,mod	
 Enchant - trsh + ml2 = transfer mods to item		1			0					2	trsh	ml2						ml2,mod			100																																																																																				0
 Enchant - trsh + ml3 = transfer mods to item		1			0					2	trsh	ml3						ml3,mod			100																																																																																				0
 Enchant - trsh + ml4 = transfer mods to item		1			0					2	trsh	ml4						ml4,mod			100																																																																																				0
-Any equipment + Cube Chisel = signature item		1			0					2	anyx,mag	ix3						useitem,tmp			100																																																																																				0
-Any jewelry + Cube Chisel = signature item		1			0					2	anyj,mag	ix3						useitem,tmp			100																																																																																				0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i01						useitem,tmp			100	ac			25	25	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i02						useitem,tmp			100	dmg%-ac%-display			15	15	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i03						useitem,tmp			100	att			25	25	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i04						useitem,tmp			100	dmg-ac			-25	-25	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i05						useitem,tmp			100	regen-stam			150	150	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i06						useitem,tmp			100	stam			50	50	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i07						useitem,tmp			100	howl			16	16	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i08						useitem,tmp			100	res-cold			30	30	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i09						useitem,tmp			100	res-fire			30	30	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i10						useitem,tmp			100	res-ltng			30	30	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i11						useitem,tmp			100	res-pois			30	30	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i12						useitem,tmp			100	res-curse			15	15	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i13						useitem,tmp			100	dmg-cold		50	15	40	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i14						useitem,tmp			100	dmg-fire			20	45	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i15						useitem,tmp			100	dmg-ltng			1	65	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i16						useitem,tmp			100	dmg-pois		50	51	307	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i17						useitem,tmp			100	balance3			20	20	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i18						useitem,tmp			100	block3			20	20	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i19						useitem,tmp			100	cast3			20	20	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i20						useitem,tmp			100	swing3			20	20	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i21						useitem,tmp			100	move3			8	8	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i22						useitem,tmp			100	extra-fire			15	15	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i23						useitem,tmp			100	extra-cold			15	15	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i24						useitem,tmp			100	extra-ltng			15	15	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i25						useitem,tmp			100	extra-pois			15	15	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i26						useitem,tmp			100	thorns%			50	50	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i27						useitem,tmp			100	pot-rate			20	20	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i28						useitem,tmp			100	dur%			25	25	levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i29						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i30						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i31						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i32						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i33						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i34						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Prefix Orb = signature item					0					2	armo,mag	i35						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l01						useitem,tmp			100	red-dmg			2	2	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l02						useitem,tmp			100	red-mag			2	2	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l03						useitem,tmp			100	block			3	3	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l04						useitem,tmp			100	dmg-max			10	10	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l05						useitem,tmp			100	str			15	15	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l06						useitem,tmp			100	dex			15	15	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l07						useitem,tmp			100	enr			15	15	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l08						useitem,tmp			100	vit			15	15	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l09						useitem,tmp			100	regen			13	13	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l10						useitem,tmp			100	gold%			100	100	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l11						useitem,tmp			100	mag%			20	20	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l12						useitem,tmp			100	hp			20	20	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l13						useitem,tmp			100	mana			20	20	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l14						useitem,tmp			100	res-pois-len			15	15	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l15						useitem,tmp			100	ease			-10	-10	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l16						useitem,tmp			100	heal-gethit			3	3	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l17						useitem,tmp			100	mana-gethit			3	3	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l18						useitem,tmp			100	summon-dmg%			10	10	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l19						useitem,tmp			100	summon-res%			10	10	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l20						useitem,tmp			100	summon-ac%			10	10	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l21						useitem,tmp			100	cold-spell-dur			10	10	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l22						useitem,tmp			100	pois-spell-dur			10	10	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l23						useitem,tmp			100	healskill			20	20	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l24						useitem,tmp			100	heal-kill			5	5	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l25						useitem,tmp			100	mana-kill			5	5	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l26						useitem,tmp			100	heal-melee			1	1	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l27						useitem,tmp			100	mana-melee			1	1	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l28						useitem,tmp			100	addxp			3	3	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l29						useitem,tmp			100	dmg-global			5	5	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l30						useitem,tmp			100	ac-global			5	5	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l31						useitem,tmp			100	uninterrupt			10	10	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l32						useitem,tmp			100	openwounds			15	15	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l33						useitem,tmp			100	regen-mana			15	15	levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l34						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l35						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l36						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l37						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l38						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l39						useitem,tmp			100						levelreq			10	10																																																																										0
-Any equipment + Suffix Orb = signature item					0					2	armo,mag	l40						useitem,tmp			100						levelreq			10	10																																																																										0
-Rare jewel = 2 magic jewels		1			0	3	12	20		1	jewl,rar							jewl,mag			95																										jewl,mag			95																																																							0
-Test - Create item		1			0					1	tsc							ka4	90																																																																																						0
-Test - Create item		1			0					2	tsc,qty=2							sa7,rar	90																																																																																						0
-Test - Create item		1			0					3	tsc,qty=3							spea,rar	90																																																																																						0
-Test - Create item		1			0					4	tsc,qty=4							sz2,mag	90																																																																																						0
-Test - Create disenchantment scroll (magic)		1			0					1	hpot							wt1,mag	10																																																																																						0
-Test - Create disenchantment scroll (unique)		1			0					2	hpot,qty=2							wt3,uni	10																																																																																						0
-Test - Loop disenchantment scroll		1			0					1	disi							disi	10																																																																																						0
-Test - Create Trophy 1		1			0					1	isc							Trophy1	10																																																																																						0
-Test - Create Trophy 2		1			0					2	isc,qty=2							Trophy2	10																																																																																						0
-Test - Create random crafting herb		1			0					1	wms							cher																																																																																							0
-Test - Create strength item		1			0					2	wms,qty=2							amu,rar				str			50	50																																																																															0
-Test - Cycle crossbow		1			0					1	oo1							oo1																																																																																							0
-Test - Create polearm		1			0					3	wms,qty=3							po1																																																																																							0
-Test - Cycle polearm		1			0					1	po1							po1																																																																																							0
-Test - Create scythe		1			0					4	wms,qty=4							sc1																																																																																							0
-Test - Create clockwork orb		1			0					1	yps							tick																																																																																							0
-Test - Cycle clockwork orb		1			0					1	tick							tick																																																																																							0
-Test - Runes		1			0					3	hpot,qty=3							r01																																																																																							0
-Test - Runes		1			0					1	r01							r02																																																																																							0
-Test - Runes		1			0					1	r02							r03																																																																																							0
-Test - Runes		1			0					1	r03							r04																																																																																							0
-Test - Runes		1			0					1	r04							r05																																																																																							0
-Test - Runes		1			0					1	r05							r06																																																																																							0
-Test - Runes		1			0					1	r06							r07																																																																																							0
-Test - Runes		1			0					1	r07							r08																																																																																							0
-Test - Runes		1			0					1	r08							r09																																																																																							0
-Test - Runes		1			0					1	r09							r10																																																																																							0
-Test - Runes		1			0					1	r10							r11																																																																																							0
-Test - Runes		1			0					1	r11							r12																																																																																							0
-Test - Runes		1			0					1	r12							r13																																																																																							0
-Test - Runes		1			0					1	r13							r14																																																																																							0
-Test - Runes		1			0					1	r14							r15																																																																																							0
-Test - Runes		1			0					1	r15							r16																																																																																							0
-Test - Runes		1			0					1	r16							r17																																																																																							0
-Test - Runes		1			0					1	r17							r18																																																																																							0
-Test - Runes		1			0					1	r18							r19																																																																																							0
-Test - Runes		1			0					1	r19							r20																																																																																							0
-Test - Runes		1			0					1	r20							r21																																																																																							0
-Test - Runes		1			0					1	r21							r22																																																																																							0
-Test - Runes		1			0					1	r22							r23																																																																																							0
-Test - Runes		1			0					1	r23							r24																																																																																							0
-Test - Runes		1			0					1	r24							r25																																																																																							0
-Test - Runes		1			0					1	r25							r26																																																																																							0
-Test - Runes		1			0					1	r26							r27																																																																																							0
-Test - Runes		1			0					1	r27							r28																																																																																							0
-Test - Runes		1			0					1	r28							r29																																																																																							0
-Test - Runes		1			0					1	r29							r30																																																																																							0
-Test - Runes		1			0					1	r30							r31																																																																																							0
-Test - Runes		1			0					1	r31							r32																																																																																							0
-Test - Runes		1			0					1	r32							r33																																																																																							0
-Test - Runes		1			0					1	r33							r34																																																																																							0
-Test - Runes		1			0					1	r34							r35																																																																																							0
-Test - Runes		1			0					1	r35							r36																																																																																							0
-Test - Runes		1			0					1	r36							r37																																																																																							0
-Test - Runes		1			0					1	r37							r38																																																																																							0
-Test - Runes		1			0					1	r38							r39																																																																																							0
-Test - Runes		1			0					1	r39							r40																																																																																							0
-Test - Runes		1			0					1	r40							r41																																																																																							0
-Test - Runes		1			0					1	r41							r42																																																																																							0
-Test - Runes		1			0					1	r42							r43																																																																																							0
-Test - Runes		1			0					1	r43							r44																																																																																							0
-Test - Runes		1			0					1	r44							r45																																																																																							0
-Test - Runes		1			0					1	r45							r46																																																																																							0
-Test - Runes		1			0					1	r46							r47																																																																																							0
-Test - Runes		1			0					1	r47							r01																																																																																							0
-test recipe					0					1	armo							Trophy1																																																																																							0
-test recipe					0					2	tsc,qty=2							pole,rar	90																																																																																						0
-test recipe					0					1	tsc							pp2,eth	90																																																																																						0
-test recipe					0					1	hpot							wt1,mag	10																																																																																						0
-test recipe					0					4	hpot,qty=4							wt1,uni																																																																																							0
-fire weapon		1			0					2	weap,noe	hpot,qty=1						usetype,mag,suf=176	30		60																																																																																				0
-frost weapon		1			0					3	weap,noe	hpot,qty=2						usetype,mag,suf=183	30		60																																																																																				0
-power weapon		1			0					2	isc,qty=2							7ma	30		60																																																																																				0
-power boots		1			0					2	hpot,qty=2							cu4																																																																																							0
-test item		1			0					1	hpot							jewl																																																																																							0
-test item		1			0					1	ax1							ax2																																																																																							0
-test item		1			0					1	ax2							ax3																																																																																							0
-test item		1			0					1	ax3							ax4																																																																																							0
-test item		1			0					1	ax4							ax5																																																																																							0
-test item		1			0					1	ax5							at1																																																																																							0
-test item		1			0					1	at1							at2																																																																																							0
-test item		1			0					1	at2							at3																																																																																							0
-test item		1			0					1	at3							at4																																																																																							0
-test item		1			0					1	at4							at5																																																																																							0
-test item		1			0					1	at5							sd1																																																																																							0
-test item		1			0					1	sd1							sd2																																																																																							0
-test item		1			0					1	sd2							sd3																																																																																							0
-test item		1			0					1	sd3							sd4																																																																																							0
-test item		1			0					1	sd4							sd5																																																																																							0
-test item		1			0					1	sd5							sd6																																																																																							0
-test item		1			0					1	sd6							sd7																																																																																							0
-test item		1			0					1	sd7							ss1																																																																																							0
-test item		1			0					1	ss1							ss2																																																																																							0
-test item		1			0					1	ss2							st1																																																																																							0
-test item		1			0					1	st1							st2																																																																																							0
-test item		1			0					1	st2							st3																																																																																							0
-test item		1			0					1	st3							st4																																																																																							0
-test item		1			0					1	st4							st5																																																																																							0
-test item		1			0					1	st5							st6																																																																																							0
-test item		1			0					1	st6							cb1																																																																																							0
-test item		1			0					1	cb1							cb2																																																																																							0
-test item		1			0					1	cb2							cb3																																																																																							0
-test item		1			0					1	cb3							cb4																																																																																							0
-test item		1			0					1	cb4							mc1																																																																																							0
-test item		1			0					1	mc1							mc2																																																																																							0
-test item		1			0					1	mc2							mc3																																																																																							0
-test item		1			0					1	mc3							mt1																																																																																							0
-test item		1			0					1	mt1							mt2																																																																																							0
-test item		1			0					1	mt2							mt3																																																																																							0
-test item		1			0					1	mt3							mt4																																																																																							0
-test item		1			0					1	mt4							sp1																																																																																							0
-test item		1			0					1	sp1							sp2																																																																																							0
-test item		1			0					1	sp2							sp3																																																																																							0
-test item		1			0					1	sp3							sp4																																																																																							0
-test item		1			0					1	sp4							sp5																																																																																							0
-test item		1			0					1	sp5							po1																																																																																							0
-test item		1			0					1	po1							po2																																																																																							0
-test item		1			0					1	po2							po3																																																																																							0
-test item		1			0					1	po3							po4																																																																																							0
-test item		1			0					1	po4							sc1																																																																																							0
-test item		1			0					1	sc1							sc2																																																																																							0
-test item		1			0					1	sc2							sc3																																																																																							0
-test item		1			0					1	sc3							wa1																																																																																							0
-test item		1			0					1	wa1							wa2																																																																																							0
-test item		1			0					1	wa2							wa3																																																																																							0
-test item		1			0					1	wa3							wa4																																																																																							0
-test item		1			0					1	wa4							wa5																																																																																							0
-test item		1			0					1	wa5							wa6																																																																																							0
-test item		1			0					1	wa6							wa7																																																																																							0
-test item		1			0					1	wa7							sh1																																																																																							0
-test item		1			0					1	sh1							sh2																																																																																							0
-test item		1			0					1	sh2							sh3																																																																																							0
-test item		1			0					1	sh3							kn1																																																																																							0
-test item		1			0					1	kn1							kn2																																																																																							0
-test item		1			0					1	kn2							kn3																																																																																							0
-test item		1			0					1	kn3							kn4																																																																																							0
-test item		1			0					1	kn4							kn5																																																																																							0
-test item		1			0					1	kn5							ak1																																																																																							0
-test item		1			0					1	ak1							ak2																																																																																							0
-test item		1			0					1	ak2							ak3																																																																																							0
-test item		1			0					1	ak3							bt1																																																																																							0
-test item		1			0					1	bt1							bt2																																																																																							0
-test item		1			0					1	bt2							sa1																																																																																							0
-test item		1			0					1	sa1							sa2																																																																																							0
-test item		1			0					1	sa2							sa3																																																																																							0
-test item		1			0					1	sa3							sa4																																																																																							0
-test item		1			0					1	sa4							sa5																																																																																							0
-test item		1			0					1	sa5							sa6																																																																																							0
-test item		1			0					1	sa6							sa7																																																																																							0
-test item		1			0					1	sa7							bo1																																																																																							0
-test item		1			0					1	bo1							bo2																																																																																							0
-test item		1			0					1	bo2							bo3																																																																																							0
-test item		1			0					1	bo3							bo4																																																																																							0
-test item		1			0					1	bo4							bo5																																																																																							0
-test item		1			0					1	bo5							bo6																																																																																							0
-test item		1			0					1	bo6							bo7																																																																																							0
-test item		1			0					1	bo7							bo8																																																																																							0
-test item		1			0					1	bo8							oo1																																																																																							0
-test item		1			0					1	oo1							oo2																																																																																							0
-test item		1			0					1	oo2							oo3																																																																																							0
-test item		1			0					1	oo3							oo4																																																																																							0
-test item		1			0					1	oo4							ka1																																																																																							0
-test item		1			0					1	ka1							ka2																																																																																							0
-test item		1			0					1	ka2							ka3																																																																																							0
-test item		1			0					1	ka3							ka4																																																																																							0
-test item		1			0					1	ka4							ka5																																																																																							0
-test item		1			0					1	ka5							ka6																																																																																							0
-test item		1			0					1	ka6							or1																																																																																							0
-test item		1			0					1	or1							or2																																																																																							0
-test item		1			0					1	or2							or3																																																																																							0
-test item		1			0					1	or3							or4																																																																																							0
-test item		1			0					1	or4							or5																																																																																							0
-test item		1			0					1	or5							ac1																																																																																							0
-test item		1			0					1	ac1							ac2																																																																																							0
-test item		1			0					1	ac2							ac3																																																																																							0
-test item		1			0					1	ac3							aw1																																																																																							0
-test item		1			0					1	aw1							aw2																																																																																							0
-test item		1			0					1	aw2							aw3																																																																																							0
-test item		1			0					1	aw3							aw3																																																																																							0
-test item		1			0					1	aw4							by1																																																																																							0
-test item		1			0					1	by1							by2																																																																																							0
-test item		1			0					1	by2							by3																																																																																							0
-test item		1			0					1	by3							ty1																																																																																							0
-test item		1			0					1	ty1							ty2																																																																																							0
-test item		1			0					1	ty2							ty3																																																																																							0
-test item		1			0					1	ty3							cu1																																																																																							0
-test item		1			0					1	cu1							cu2																																																																																							0
-test item		1			0					1	cu2							cu3																																																																																							0
-test item		1			0					1	cu3							ps1																																																																																							0
-test item		1			0					1	ps1							ps2																																																																																							0
-test item		1			0					1	ps2							bg1																																																																																							0
-test item		1			0					1	bg1							bg2																																																																																							0
-test item		1			0					1	bg2							bg3																																																																																							0
-test item		1			0					1	bg3							bg4																																																																																							0
-test item		1			0					1	bg4							bg5																																																																																							0
-test item		1			0					1	bg5							pp1																																																																																							0
-test item		1			0					1	pp1							pp2																																																																																							0
-test item		1			0					1	pp2							na1																																																																																							0
-test item		1			0					1	na1							to1																																																																																							0
-test item		1			0					1	to1							to2																																																																																							0
-test item		1			0					1	to2							to3																																																																																							0
-test item		1			0					1	to3							nx1																																																																																							0
-test item		1			0					1	nx1							nx2																																																																																							0
-test item		1			0					1	nx2							nx3																																																																																							0
-test item		1			0					1	nx3							nx4																																																																																							0
-test item		1			0					1	nx4							cc1																																																																																							0
-test item		1			0					1	cc1							cc2																																																																																							0
-test item		1			0					1	cc2							cc3																																																																																							0
-test item		1			0					1	cc3							cc4																																																																																							0
-test item		1			0					1	cc4							cc5																																																																																							0
-test item		1			0					1	cc5							cc6																																																																																							0
-test item		1			0					1	cc6							nz1																																																																																							0
-test item		1			0					1	nz1							ar1																																																																																							0
-test item		1			0					1	ar1							ar2																																																																																							0
-test item		1			0					1	ar2							ar3																																																																																							0
-test item		1			0					1	ar3							ar4																																																																																							0
-test item		1			0					1	ar4							ar5																																																																																							0
-test item		1			0					1	ar5							ar6																																																																																							0
-test item		1			0					1	ar6							ar7																																																																																							0
-test item		1			0					1	ar7							ar8																																																																																							0
-test item		1			0					1	ar8							ar9																																																																																							0
-test item		1			0					1	ar9							ar0																																																																																							0
-test item		1			0					1	ar0							aj1																																																																																							0
-test item		1			0					1	aj1							aj2																																																																																							0
-test item		1			0					1	aj2							aj3																																																																																							0
-test item		1			0					1	aj3							aj4																																																																																							0
-test item		1			0					1	aj4							aj5																																																																																							0
-test item		1			0					1	aj5							se1																																																																																							0
-test item		1			0					1	se1							se2																																																																																							0
-test item		1			0					1	se2							se3																																																																																							0
-test item		1			0					1	se3							se4																																																																																							0
-test item		1			0					1	se4							se5																																																																																							0
-test item		1			0					1	se5							se6																																																																																							0
-test item		1			0					1	se6							gl1																																																																																							0
-test item		1			0					1	gl1							gl2																																																																																							0
-test item		1			0					1	gl2							gl3																																																																																							0
-test item		1			0					1	gl3							gl4																																																																																							0
-test item		1			0					1	gl4							gl5																																																																																							0
-test item		1			0					1	gl5							bu1																																																																																							0
-test item		1			0					1	bu1							bu2																																																																																							0
-test item		1			0					1	bu2							bu3																																																																																							0
-test item		1			0					1	bu3							bu4																																																																																							0
-test item		1			0					1	bu4							bu5																																																																																							0
-test item		1			0					1	bu5							sx1																																																																																							0
-test item		1			0					1	sx1							sx2																																																																																							0
-test item		1			0					1	sx2							sx3																																																																																							0
-test item		1			0					1	sx3							sx4																																																																																							0
-test item		1			0					1	sx4							sx5																																																																																							0
-test item		1			0					1	sx5							oz1																																																																																							0
-test item		1			0					1	oz1							oz2																																																																																							0
-test item		1			0					1	oz2							oh1																																																																																							0
-test item		1			0					1	oh1							oh2																																																																																							0
-test item		1			0					1	oh2							oh3																																																																																							0
-test item		1			0					1	oh3							ok1																																																																																							0
-test item		1			0					1	ok1							ok2																																																																																							0
-test item		1			0					1	ok2							ok3																																																																																							0
-test item		1			0					1	ok3							do1																																																																																							0
-test item		1			0					1	do1							do2																																																																																							0
-test item		1			0					1	do2							do3																																																																																							0
-test item		1			0					1	do3							do4																																																																																							0
-test item		1			0					1	do4							do5																																																																																							0
-test item		1			0					1	do5							bp1																																																																																							0
-test item		1			0					1	bp1							bp2																																																																																							0
-test item		1			0					1	bp2							bp3																																																																																							0
-test item		1			0					1	bp3							bp4																																																																																							0
-test item		1			0					1	bp4							bp5																																																																																							0
-test item		1			0					1	bp5							pl1																																																																																							0
-test item		1			0					1	pl1							pl2																																																																																							0
-test item		1			0					1	pl2							pl3																																																																																							0
-test item		1			0					1	pl3							pl4																																																																																							0
-test item		1			0					1	pl4							pl5																																																																																							0
-test item		1			0					1	pl5							nk1																																																																																							0
-test item		1			0					1	nk1							nk2																																																																																							0
-test item		1			0					1	nk2							nk3																																																																																							0
-test item		1			0					1	nk3							nk4																																																																																							0
-test item		1			0					1	nk4							nk5																																																																																							0
-test item		1			0					1	nk5							cq1																																																																																							0
-test item		1			0					1	cq1							cq2																																																																																							0
-test item		1			0					1	cq2							cq3																																																																																							0
-test item		1			0					1	cq3							cq4																																																																																							0
-test item		1			0					1	cq4							af1																																																																																							0
-test item		1			0					1	af1							af2																																																																																							0
-test item		1			0					1	af2							af3																																																																																							0
-test item		1			0					1	af3							pf1																																																																																							0
-test item		1			0					1	pf1							pf2																																																																																							0
-test item		1			0					1	pf2							pf3																																																																																							0
-test item		1			0					1	pf3							sz1																																																																																							0
-test item		1			0					1	sz1							sz2																																																																																							0
-test item		1			0					1	sz2							sz3																																																																																							0
-test item		1			0					1	sz3							sz4																																																																																							0
-test item		1			0					1	sz4							sz5																																																																																							0
-test item		1			0					1	sz5							bn1																																																																																							0
-test item		1			0					1	bn1							bn2																																																																																							0
-test item		1			0					1	bn2							bn3																																																																																							0
-test item		1			0					1	bn3							bn4																																																																																							0
-test item		1			0					1	bn4							bn5																																																																																							0
-test item		1			0					1	bn5							ml1																																																																																							0
-test item		1			0					1	ml1							ml2																																																																																							0
-test item		1			0					1	ml2							ml3																																																																																							0
-test item		1			0					1	ml3							ax1																																																																																							0
+Any equipment + Cube Deck = create random crafted item		1			0	15	481	10		1	ix1							wtev,rar			100																										ix1				rerollstack			-1	-1																																																		0
+Any equipment + Cube Deck = create random crafted item		1			0	15	481	9		1	ix1							wtev,rar			100																										ix1				rerollstack			-2	-2																																																		0
+Any equipment + Cube Deck = create random crafted item		1			0	15	481	8		1	ix1							wtev,rar			100																										ix1				rerollstack			-3	-3																																																		0
+Any equipment + Cube Deck = create random crafted item		1			0	15	481	7		1	ix1							wtev,rar			100																										ix1				rerollstack			-4	-4																																																		0
+Any equipment + Cube Deck = create random crafted item		1			0	15	481	6		1	ix1							wtev,rar			100																										ix1				rerollstack			-5	-5																																																		0
+Any equipment + Cube Deck = create random crafted item		1			0	15	481	5		1	ix1							wtev,rar			100																										ix1				rerollstack			-6	-6																																																		0
+Any equipment + Cube Deck = create random crafted item		1			0	15	481	4		1	ix1							wtev,rar			100																										ix1				rerollstack			-7	-7																																																		0
+Any equipment + Cube Deck = create random crafted item		1			0	15	481	3		1	ix1							wtev,rar			100																										ix1				rerollstack			-8	-8																																																		0
+Any equipment + Cube Deck = create random crafted item		1			0	15	481	2		1	ix1							wtev,rar			100																										ix1				rerollstack			-9	-9																																																		0
+Any equipment + Cube Deck = create random crafted item		1			0	15	481	1		1	ix1							wtev,rar			100																																																																																				0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	99		2	anyx	ix2						usetype,rar	119			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	98		2	anyx	ix2						usetype,rar	118			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	97		2	anyx	ix2						usetype,rar	117			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	96		2	anyx	ix2						usetype,rar	116			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	95		2	anyx	ix2						usetype,rar	115			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	94		2	anyx	ix2						usetype,rar	114			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	93		2	anyx	ix2						usetype,rar	113			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	92		2	anyx	ix2						usetype,rar	112			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	91		2	anyx	ix2						usetype,rar	111			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	90		2	anyx	ix2						usetype,rar	110			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	89		2	anyx	ix2						usetype,rar	109			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	88		2	anyx	ix2						usetype,rar	108			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	87		2	anyx	ix2						usetype,rar	107			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	86		2	anyx	ix2						usetype,rar	106			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	85		2	anyx	ix2						usetype,rar	105			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	84		2	anyx	ix2						usetype,rar	104			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	83		2	anyx	ix2						usetype,rar	103			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	82		2	anyx	ix2						usetype,rar	102			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	81		2	anyx	ix2						usetype,rar	101			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	80		2	anyx	ix2						usetype,rar	100			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	79		2	anyx	ix2						usetype,rar	99			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	78		2	anyx	ix2						usetype,rar	98			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	77		2	anyx	ix2						usetype,rar	97			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	76		2	anyx	ix2						usetype,rar	96			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	75		2	anyx	ix2						usetype,rar	95			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	74		2	anyx	ix2						usetype,rar	94			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	73		2	anyx	ix2						usetype,rar	93			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	72		2	anyx	ix2						usetype,rar	92			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	71		2	anyx	ix2						usetype,rar	91			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	70		2	anyx	ix2						usetype,rar	90			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	69		2	anyx	ix2						usetype,rar	89			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	68		2	anyx	ix2						usetype,rar	88			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	67		2	anyx	ix2						usetype,rar	87			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	66		2	anyx	ix2						usetype,rar	86			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	65		2	anyx	ix2						usetype,rar	85			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	64		2	anyx	ix2						usetype,rar	84			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	63		2	anyx	ix2						usetype,rar	83			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	62		2	anyx	ix2						usetype,rar	82			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	61		2	anyx	ix2						usetype,rar	81			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	60		2	anyx	ix2						usetype,rar	80			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	59		2	anyx	ix2						usetype,rar	79			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	58		2	anyx	ix2						usetype,rar	78			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	57		2	anyx	ix2						usetype,rar	77			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	56		2	anyx	ix2						usetype,rar	76			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	55		2	anyx	ix2						usetype,rar	75			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	54		2	anyx	ix2						usetype,rar	74			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	53		2	anyx	ix2						usetype,rar	73			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	52		2	anyx	ix2						usetype,rar	72			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	51		2	anyx	ix2						usetype,rar	71			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	50		2	anyx	ix2						usetype,rar	70			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	49		2	anyx	ix2						usetype,rar	69			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	48		2	anyx	ix2						usetype,rar	68			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	47		2	anyx	ix2						usetype,rar	67			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	46		2	anyx	ix2						usetype,rar	66			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	45		2	anyx	ix2						usetype,rar	65			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	44		2	anyx	ix2						usetype,rar	64			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	43		2	anyx	ix2						usetype,rar	63			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	42		2	anyx	ix2						usetype,rar	62			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	41		2	anyx	ix2						usetype,rar	61			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	40		2	anyx	ix2						usetype,rar	60			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	39		2	anyx	ix2						usetype,rar	59			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	38		2	anyx	ix2						usetype,rar	58			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	37		2	anyx	ix2						usetype,rar	57			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	36		2	anyx	ix2						usetype,rar	56			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	35		2	anyx	ix2						usetype,rar	55			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	34		2	anyx	ix2						usetype,rar	54			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	33		2	anyx	ix2						usetype,rar	53			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	32		2	anyx	ix2						usetype,rar	52			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	31		2	anyx	ix2						usetype,rar	51			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	30		2	anyx	ix2						usetype,rar	50			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	29		2	anyx	ix2						usetype,rar	49			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	28		2	anyx	ix2						usetype,rar	48			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	27		2	anyx	ix2						usetype,rar	47			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	26		2	anyx	ix2						usetype,rar	46			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	25		2	anyx	ix2						usetype,rar	45			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	24		2	anyx	ix2						usetype,rar	44			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	23		2	anyx	ix2						usetype,rar	43			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	22		2	anyx	ix2						usetype,rar	42			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	21		2	anyx	ix2						usetype,rar	41			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	20		2	anyx	ix2						usetype,rar	40			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	19		2	anyx	ix2						usetype,rar	39			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	18		2	anyx	ix2						usetype,rar	38			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	17		2	anyx	ix2						usetype,rar	37			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	16		2	anyx	ix2						usetype,rar	36			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	15		2	anyx	ix2						usetype,rar	35			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	14		2	anyx	ix2						usetype,rar	34			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	13		2	anyx	ix2						usetype,rar	33			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	12		2	anyx	ix2						usetype,rar	32			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	11		2	anyx	ix2						usetype,rar	31			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	10		2	anyx	ix2						usetype,rar	30			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	9		2	anyx	ix2						usetype,rar	29			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	8		2	anyx	ix2						usetype,rar	28			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	7		2	anyx	ix2						usetype,rar	27			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	6		2	anyx	ix2						usetype,rar	26			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	5		2	anyx	ix2						usetype,rar	25			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	4		2	anyx	ix2						usetype,rar	24			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	3		2	anyx	ix2						usetype,rar	23			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	2		2	anyx	ix2						usetype,rar	22			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	1		2	anyx	ix2						usetype,rar	21			levelreq			-10	-10																																																																															0
+Any equipment + Cube Gemstone = reroll as high level rare		1			0	3	12	0		2	anyx	ix2						usetype,rar	20			levelreq			-10	-10																																																																															0
+Any equipment + Cube Chisel = add one socket		1			0					2	anyx,nos	ix3						useitem,sock=1			100																																																																																				0
+Cube Poe Key = key and itself		1			0	15	478	50		1	ix4							ix4				keystack			-1	-1																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	49		1	ix4							ix4				keystack			-2	-2																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	48		1	ix4							ix4				keystack			-3	-3																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	47		1	ix4							ix4				keystack			-4	-4																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	46		1	ix4							ix4				keystack			-5	-5																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	45		1	ix4							ix4				keystack			-6	-6																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	44		1	ix4							ix4				keystack			-7	-7																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	43		1	ix4							ix4				keystack			-8	-8																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	42		1	ix4							ix4				keystack			-9	-9																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	41		1	ix4							ix4				keystack			-10	-10																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	40		1	ix4							ix4				keystack			-11	-11																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	39		1	ix4							ix4				keystack			-12	-12																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	38		1	ix4							ix4				keystack			-13	-13																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	37		1	ix4							ix4				keystack			-14	-14																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	36		1	ix4							ix4				keystack			-15	-15																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	35		1	ix4							ix4				keystack			-16	-16																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	34		1	ix4							ix4				keystack			-17	-17																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	33		1	ix4							ix4				keystack			-18	-18																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	32		1	ix4							ix4				keystack			-19	-19																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	31		1	ix4							ix4				keystack			-20	-20																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	30		1	ix4							ix4				keystack			-21	-21																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	29		1	ix4							ix4				keystack			-22	-22																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	28		1	ix4							ix4				keystack			-23	-23																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	27		1	ix4							ix4				keystack			-24	-24																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	26		1	ix4							ix4				keystack			-25	-25																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	25		1	ix4							ix4				keystack			-26	-26																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	24		1	ix4							ix4				keystack			-27	-27																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	23		1	ix4							ix4				keystack			-28	-28																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	22		1	ix4							ix4				keystack			-29	-29																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	21		1	ix4							ix4				keystack			-30	-30																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	20		1	ix4							ix4				keystack			-31	-31																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	19		1	ix4							ix4				keystack			-32	-32																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	18		1	ix4							ix4				keystack			-33	-33																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	17		1	ix4							ix4				keystack			-34	-34																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	16		1	ix4							ix4				keystack			-35	-35																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	15		1	ix4							ix4				keystack			-36	-36																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	14		1	ix4							ix4				keystack			-37	-37																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	13		1	ix4							ix4				keystack			-38	-38																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	12		1	ix4							ix4				keystack			-39	-39																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	11		1	ix4							ix4				keystack			-40	-40																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	10		1	ix4							ix4				keystack			-41	-41																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	9		1	ix4							ix4				keystack			-42	-42																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	8		1	ix4							ix4				keystack			-43	-43																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	7		1	ix4							ix4				keystack			-44	-44																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	6		1	ix4							ix4				keystack			-45	-45																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	5		1	ix4							ix4				keystack			-46	-46																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	4		1	ix4							ix4				keystack			-47	-47																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	3		1	ix4							ix4				keystack			-48	-48																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	2		1	ix4							ix4				keystack			-49	-49																					key,qty=1																																																										0
+Cube Poe Key = key and itself		1			0	15	478	1		1	ix4							ix4				keystack			-50	-50																					key,qty=1																																																										0
+Cube Poe Key + rune = recharge		1			0					2	ix4	rune						ix4																																																																																							0
+Any item + Cube Pyramid = dupe item		1			0					2	wtev	ix5						useitem			100																										useitem			100																																																							0
+Any item + Cube Pyramid = dupe item		1			0					1	ix6							Red Portal,qty=137																																																																																							0
 Any magical item + Prefix Orb + Suffix Orb = signature item	1	1			0					3	wtev,mag	i01	l01					useitem,tmp			100	ac			25	25	red-dmg			2	2	levelreq			20	20																																																																					0
 Any magical item + Prefix Orb + Suffix Orb = signature item	1	1			0					3	wtev,mag	i02	l01					useitem,tmp			100	manaskill			5	5	red-dmg			2	2	levelreq			20	20																																																																					0
 Any magical item + Prefix Orb + Suffix Orb = signature item	1	1			0					3	wtev,mag	i03	l01					useitem,tmp			100	att			25	25	red-dmg			2	2	levelreq			20	20																																																																					0
@@ -3031,3 +2817,304 @@ Any magical item + Prefix Orb + Suffix Orb = signature item	40	1			0					3	wtev,
 Any magical item + Prefix Orb + Suffix Orb = signature item	40	1			0					3	wtev,mag	i33	l40					useitem,tmp			100	0	0	0	0	0	0			0	0	levelreq			20	20																																																																					0
 Any magical item + Prefix Orb + Suffix Orb = signature item	40	1			0					3	wtev,mag	i34	l40					useitem,tmp			100	0	0	0	0	0	0			0	0	levelreq			20	20																																																																					0
 Any magical item + Prefix Orb + Suffix Orb = signature item	40	1			0					3	wtev,mag	i35	l40					useitem,tmp			100	0	0	0	0	0	0			0	0	levelreq			20	20																																																																					0
+Rare jewel = 2 magic jewels		1			0	3	12	20		1	jewl,rar							jewl,mag			95																										jewl,mag			95																																																							0
+Test - Create item		1			0					1	tsc							ka4	90																																																																																						0
+Test - Create item		1			0					2	tsc,qty=2							sa7,rar	90																																																																																						0
+Test - Create item		1			0					3	tsc,qty=3							spea,rar	90																																																																																						0
+Test - Create item		1			0					4	tsc,qty=4							sz2,mag	90																																																																																						0
+Test - Create disenchantment scroll (magic)		1			0					1	hpot							wt1,mag	10																																																																																						0
+Test - Create disenchantment scroll (unique)		1			0					2	hpot,qty=2							wt3,uni	10																																																																																						0
+Test - Loop disenchantment scroll		1			0					1	disi							disi	10																																																																																						0
+Test - Create Trophy 1		1			0					1	isc							Trophy1	10																																																																																						0
+Test - Create Trophy 2		1			0					2	isc,qty=2							Trophy2	10																																																																																						0
+Test - Create random crafting herb		1			0					1	wms							cher																																																																																							0
+Test - Create strength item		1			0					2	wms,qty=2							amu,rar				str			50	50																																																																															0
+Test - Cycle crossbow		1			0					1	oo1							oo1																																																																																							0
+Test - Create polearm		1			0					3	wms,qty=3							po1																																																																																							0
+Test - Cycle polearm		1			0					1	po1							po1																																																																																							0
+Test - Create scythe		1			0					4	wms,qty=4							sc1																																																																																							0
+Test - Create clockwork orb		1			0					1	yps							tick																																																																																							0
+Test - Cycle clockwork orb		1			0					1	tick							tick																																																																																							0
+Test - Runes		1			0					3	hpot,qty=3							r01																																																																																							0
+Test - Runes		1			0					1	r01							r02																																																																																							0
+Test - Runes		1			0					1	r02							r03																																																																																							0
+Test - Runes		1			0					1	r03							r04																																																																																							0
+Test - Runes		1			0					1	r04							r05																																																																																							0
+Test - Runes		1			0					1	r05							r06																																																																																							0
+Test - Runes		1			0					1	r06							r07																																																																																							0
+Test - Runes		1			0					1	r07							r08																																																																																							0
+Test - Runes		1			0					1	r08							r09																																																																																							0
+Test - Runes		1			0					1	r09							r10																																																																																							0
+Test - Runes		1			0					1	r10							r11																																																																																							0
+Test - Runes		1			0					1	r11							r12																																																																																							0
+Test - Runes		1			0					1	r12							r13																																																																																							0
+Test - Runes		1			0					1	r13							r14																																																																																							0
+Test - Runes		1			0					1	r14							r15																																																																																							0
+Test - Runes		1			0					1	r15							r16																																																																																							0
+Test - Runes		1			0					1	r16							r17																																																																																							0
+Test - Runes		1			0					1	r17							r18																																																																																							0
+Test - Runes		1			0					1	r18							r19																																																																																							0
+Test - Runes		1			0					1	r19							r20																																																																																							0
+Test - Runes		1			0					1	r20							r21																																																																																							0
+Test - Runes		1			0					1	r21							r22																																																																																							0
+Test - Runes		1			0					1	r22							r23																																																																																							0
+Test - Runes		1			0					1	r23							r24																																																																																							0
+Test - Runes		1			0					1	r24							r25																																																																																							0
+Test - Runes		1			0					1	r25							r26																																																																																							0
+Test - Runes		1			0					1	r26							r27																																																																																							0
+Test - Runes		1			0					1	r27							r28																																																																																							0
+Test - Runes		1			0					1	r28							r29																																																																																							0
+Test - Runes		1			0					1	r29							r30																																																																																							0
+Test - Runes		1			0					1	r30							r31																																																																																							0
+Test - Runes		1			0					1	r31							r32																																																																																							0
+Test - Runes		1			0					1	r32							r33																																																																																							0
+Test - Runes		1			0					1	r33							r34																																																																																							0
+Test - Runes		1			0					1	r34							r35																																																																																							0
+Test - Runes		1			0					1	r35							r36																																																																																							0
+Test - Runes		1			0					1	r36							r37																																																																																							0
+Test - Runes		1			0					1	r37							r38																																																																																							0
+Test - Runes		1			0					1	r38							r39																																																																																							0
+Test - Runes		1			0					1	r39							r40																																																																																							0
+Test - Runes		1			0					1	r40							r41																																																																																							0
+Test - Runes		1			0					1	r41							r42																																																																																							0
+Test - Runes		1			0					1	r42							r43																																																																																							0
+Test - Runes		1			0					1	r43							r44																																																																																							0
+Test - Runes		1			0					1	r44							r45																																																																																							0
+Test - Runes		1			0					1	r45							r46																																																																																							0
+Test - Runes		1			0					1	r46							r47																																																																																							0
+Test - Runes		1			0					1	r47							r01																																																																																							0
+test recipe					0					1	armo							Trophy1																																																																																							0
+test recipe					0					2	tsc,qty=2							pole,rar	90																																																																																						0
+test recipe					0					1	tsc							pp2,eth	90																																																																																						0
+test recipe					0					1	hpot							wt1,mag	10																																																																																						0
+test recipe					0					4	hpot,qty=4							wt1,uni																																																																																							0
+fire weapon		1			0					2	weap,noe	hpot,qty=1						usetype,mag,suf=176	30		60																																																																																				0
+frost weapon		1			0					3	weap,noe	hpot,qty=2						usetype,mag,suf=183	30		60																																																																																				0
+power weapon		1			0					2	isc,qty=2							7ma	30		60																																																																																				0
+power boots		1			0					2	hpot,qty=2							cu4																																																																																							0
+test item		1			0					1	hpot							jewl																																																																																							0
+test item		1			0					1	ax1							ax2																																																																																							0
+test item		1			0					1	ax2							ax3																																																																																							0
+test item		1			0					1	ax3							ax4																																																																																							0
+test item		1			0					1	ax4							ax5																																																																																							0
+test item		1			0					1	ax5							at1																																																																																							0
+test item		1			0					1	at1							at2																																																																																							0
+test item		1			0					1	at2							at3																																																																																							0
+test item		1			0					1	at3							at4																																																																																							0
+test item		1			0					1	at4							at5																																																																																							0
+test item		1			0					1	at5							sd1																																																																																							0
+test item		1			0					1	sd1							sd2																																																																																							0
+test item		1			0					1	sd2							sd3																																																																																							0
+test item		1			0					1	sd3							sd4																																																																																							0
+test item		1			0					1	sd4							sd5																																																																																							0
+test item		1			0					1	sd5							sd6																																																																																							0
+test item		1			0					1	sd6							sd7																																																																																							0
+test item		1			0					1	sd7							ss1																																																																																							0
+test item		1			0					1	ss1							ss2																																																																																							0
+test item		1			0					1	ss2							st1																																																																																							0
+test item		1			0					1	st1							st2																																																																																							0
+test item		1			0					1	st2							st3																																																																																							0
+test item		1			0					1	st3							st4																																																																																							0
+test item		1			0					1	st4							st5																																																																																							0
+test item		1			0					1	st5							st6																																																																																							0
+test item		1			0					1	st6							cb1																																																																																							0
+test item		1			0					1	cb1							cb2																																																																																							0
+test item		1			0					1	cb2							cb3																																																																																							0
+test item		1			0					1	cb3							cb4																																																																																							0
+test item		1			0					1	cb4							mc1																																																																																							0
+test item		1			0					1	mc1							mc2																																																																																							0
+test item		1			0					1	mc2							mc3																																																																																							0
+test item		1			0					1	mc3							mt1																																																																																							0
+test item		1			0					1	mt1							mt2																																																																																							0
+test item		1			0					1	mt2							mt3																																																																																							0
+test item		1			0					1	mt3							mt4																																																																																							0
+test item		1			0					1	mt4							sp1																																																																																							0
+test item		1			0					1	sp1							sp2																																																																																							0
+test item		1			0					1	sp2							sp3																																																																																							0
+test item		1			0					1	sp3							sp4																																																																																							0
+test item		1			0					1	sp4							sp5																																																																																							0
+test item		1			0					1	sp5							po1																																																																																							0
+test item		1			0					1	po1							po2																																																																																							0
+test item		1			0					1	po2							po3																																																																																							0
+test item		1			0					1	po3							po4																																																																																							0
+test item		1			0					1	po4							sc1																																																																																							0
+test item		1			0					1	sc1							sc2																																																																																							0
+test item		1			0					1	sc2							sc3																																																																																							0
+test item		1			0					1	sc3							wa1																																																																																							0
+test item		1			0					1	wa1							wa2																																																																																							0
+test item		1			0					1	wa2							wa3																																																																																							0
+test item		1			0					1	wa3							wa4																																																																																							0
+test item		1			0					1	wa4							wa5																																																																																							0
+test item		1			0					1	wa5							wa6																																																																																							0
+test item		1			0					1	wa6							wa7																																																																																							0
+test item		1			0					1	wa7							sh1																																																																																							0
+test item		1			0					1	sh1							sh2																																																																																							0
+test item		1			0					1	sh2							sh3																																																																																							0
+test item		1			0					1	sh3							kn1																																																																																							0
+test item		1			0					1	kn1							kn2																																																																																							0
+test item		1			0					1	kn2							kn3																																																																																							0
+test item		1			0					1	kn3							kn4																																																																																							0
+test item		1			0					1	kn4							kn5																																																																																							0
+test item		1			0					1	kn5							ak1																																																																																							0
+test item		1			0					1	ak1							ak2																																																																																							0
+test item		1			0					1	ak2							ak3																																																																																							0
+test item		1			0					1	ak3							bt1																																																																																							0
+test item		1			0					1	bt1							bt2																																																																																							0
+test item		1			0					1	bt2							sa1																																																																																							0
+test item		1			0					1	sa1							sa2																																																																																							0
+test item		1			0					1	sa2							sa3																																																																																							0
+test item		1			0					1	sa3							sa4																																																																																							0
+test item		1			0					1	sa4							sa5																																																																																							0
+test item		1			0					1	sa5							sa6																																																																																							0
+test item		1			0					1	sa6							sa7																																																																																							0
+test item		1			0					1	sa7							bo1																																																																																							0
+test item		1			0					1	bo1							bo2																																																																																							0
+test item		1			0					1	bo2							bo3																																																																																							0
+test item		1			0					1	bo3							bo4																																																																																							0
+test item		1			0					1	bo4							bo5																																																																																							0
+test item		1			0					1	bo5							bo6																																																																																							0
+test item		1			0					1	bo6							bo7																																																																																							0
+test item		1			0					1	bo7							bo8																																																																																							0
+test item		1			0					1	bo8							oo1																																																																																							0
+test item		1			0					1	oo1							oo2																																																																																							0
+test item		1			0					1	oo2							oo3																																																																																							0
+test item		1			0					1	oo3							oo4																																																																																							0
+test item		1			0					1	oo4							ka1																																																																																							0
+test item		1			0					1	ka1							ka2																																																																																							0
+test item		1			0					1	ka2							ka3																																																																																							0
+test item		1			0					1	ka3							ka4																																																																																							0
+test item		1			0					1	ka4							ka5																																																																																							0
+test item		1			0					1	ka5							ka6																																																																																							0
+test item		1			0					1	ka6							or1																																																																																							0
+test item		1			0					1	or1							or2																																																																																							0
+test item		1			0					1	or2							or3																																																																																							0
+test item		1			0					1	or3							or4																																																																																							0
+test item		1			0					1	or4							or5																																																																																							0
+test item		1			0					1	or5							ac1																																																																																							0
+test item		1			0					1	ac1							ac2																																																																																							0
+test item		1			0					1	ac2							ac3																																																																																							0
+test item		1			0					1	ac3							aw1																																																																																							0
+test item		1			0					1	aw1							aw2																																																																																							0
+test item		1			0					1	aw2							aw3																																																																																							0
+test item		1			0					1	aw3							aw3																																																																																							0
+test item		1			0					1	aw4							by1																																																																																							0
+test item		1			0					1	by1							by2																																																																																							0
+test item		1			0					1	by2							by3																																																																																							0
+test item		1			0					1	by3							ty1																																																																																							0
+test item		1			0					1	ty1							ty2																																																																																							0
+test item		1			0					1	ty2							ty3																																																																																							0
+test item		1			0					1	ty3							cu1																																																																																							0
+test item		1			0					1	cu1							cu2																																																																																							0
+test item		1			0					1	cu2							cu3																																																																																							0
+test item		1			0					1	cu3							ps1																																																																																							0
+test item		1			0					1	ps1							ps2																																																																																							0
+test item		1			0					1	ps2							bg1																																																																																							0
+test item		1			0					1	bg1							bg2																																																																																							0
+test item		1			0					1	bg2							bg3																																																																																							0
+test item		1			0					1	bg3							bg4																																																																																							0
+test item		1			0					1	bg4							bg5																																																																																							0
+test item		1			0					1	bg5							pp1																																																																																							0
+test item		1			0					1	pp1							pp2																																																																																							0
+test item		1			0					1	pp2							na1																																																																																							0
+test item		1			0					1	na1							to1																																																																																							0
+test item		1			0					1	to1							to2																																																																																							0
+test item		1			0					1	to2							to3																																																																																							0
+test item		1			0					1	to3							nx1																																																																																							0
+test item		1			0					1	nx1							nx2																																																																																							0
+test item		1			0					1	nx2							nx3																																																																																							0
+test item		1			0					1	nx3							nx4																																																																																							0
+test item		1			0					1	nx4							cc1																																																																																							0
+test item		1			0					1	cc1							cc2																																																																																							0
+test item		1			0					1	cc2							cc3																																																																																							0
+test item		1			0					1	cc3							cc4																																																																																							0
+test item		1			0					1	cc4							cc5																																																																																							0
+test item		1			0					1	cc5							cc6																																																																																							0
+test item		1			0					1	cc6							nz1																																																																																							0
+test item		1			0					1	nz1							ar1																																																																																							0
+test item		1			0					1	ar1							ar2																																																																																							0
+test item		1			0					1	ar2							ar3																																																																																							0
+test item		1			0					1	ar3							ar4																																																																																							0
+test item		1			0					1	ar4							ar5																																																																																							0
+test item		1			0					1	ar5							ar6																																																																																							0
+test item		1			0					1	ar6							ar7																																																																																							0
+test item		1			0					1	ar7							ar8																																																																																							0
+test item		1			0					1	ar8							ar9																																																																																							0
+test item		1			0					1	ar9							ar0																																																																																							0
+test item		1			0					1	ar0							aj1																																																																																							0
+test item		1			0					1	aj1							aj2																																																																																							0
+test item		1			0					1	aj2							aj3																																																																																							0
+test item		1			0					1	aj3							aj4																																																																																							0
+test item		1			0					1	aj4							aj5																																																																																							0
+test item		1			0					1	aj5							se1																																																																																							0
+test item		1			0					1	se1							se2																																																																																							0
+test item		1			0					1	se2							se3																																																																																							0
+test item		1			0					1	se3							se4																																																																																							0
+test item		1			0					1	se4							se5																																																																																							0
+test item		1			0					1	se5							se6																																																																																							0
+test item		1			0					1	se6							gl1																																																																																							0
+test item		1			0					1	gl1							gl2																																																																																							0
+test item		1			0					1	gl2							gl3																																																																																							0
+test item		1			0					1	gl3							gl4																																																																																							0
+test item		1			0					1	gl4							gl5																																																																																							0
+test item		1			0					1	gl5							bu1																																																																																							0
+test item		1			0					1	bu1							bu2																																																																																							0
+test item		1			0					1	bu2							bu3																																																																																							0
+test item		1			0					1	bu3							bu4																																																																																							0
+test item		1			0					1	bu4							bu5																																																																																							0
+test item		1			0					1	bu5							sx1																																																																																							0
+test item		1			0					1	sx1							sx2																																																																																							0
+test item		1			0					1	sx2							sx3																																																																																							0
+test item		1			0					1	sx3							sx4																																																																																							0
+test item		1			0					1	sx4							sx5																																																																																							0
+test item		1			0					1	sx5							oz1																																																																																							0
+test item		1			0					1	oz1							oz2																																																																																							0
+test item		1			0					1	oz2							oh1																																																																																							0
+test item		1			0					1	oh1							oh2																																																																																							0
+test item		1			0					1	oh2							oh3																																																																																							0
+test item		1			0					1	oh3							ok1																																																																																							0
+test item		1			0					1	ok1							ok2																																																																																							0
+test item		1			0					1	ok2							ok3																																																																																							0
+test item		1			0					1	ok3							do1																																																																																							0
+test item		1			0					1	do1							do2																																																																																							0
+test item		1			0					1	do2							do3																																																																																							0
+test item		1			0					1	do3							do4																																																																																							0
+test item		1			0					1	do4							do5																																																																																							0
+test item		1			0					1	do5							bp1																																																																																							0
+test item		1			0					1	bp1							bp2																																																																																							0
+test item		1			0					1	bp2							bp3																																																																																							0
+test item		1			0					1	bp3							bp4																																																																																							0
+test item		1			0					1	bp4							bp5																																																																																							0
+test item		1			0					1	bp5							pl1																																																																																							0
+test item		1			0					1	pl1							pl2																																																																																							0
+test item		1			0					1	pl2							pl3																																																																																							0
+test item		1			0					1	pl3							pl4																																																																																							0
+test item		1			0					1	pl4							pl5																																																																																							0
+test item		1			0					1	pl5							nk1																																																																																							0
+test item		1			0					1	nk1							nk2																																																																																							0
+test item		1			0					1	nk2							nk3																																																																																							0
+test item		1			0					1	nk3							nk4																																																																																							0
+test item		1			0					1	nk4							nk5																																																																																							0
+test item		1			0					1	nk5							cq1																																																																																							0
+test item		1			0					1	cq1							cq2																																																																																							0
+test item		1			0					1	cq2							cq3																																																																																							0
+test item		1			0					1	cq3							cq4																																																																																							0
+test item		1			0					1	cq4							af1																																																																																							0
+test item		1			0					1	af1							af2																																																																																							0
+test item		1			0					1	af2							af3																																																																																							0
+test item		1			0					1	af3							pf1																																																																																							0
+test item		1			0					1	pf1							pf2																																																																																							0
+test item		1			0					1	pf2							pf3																																																																																							0
+test item		1			0					1	pf3							sz1																																																																																							0
+test item		1			0					1	sz1							sz2																																																																																							0
+test item		1			0					1	sz2							sz3																																																																																							0
+test item		1			0					1	sz3							sz4																																																																																							0
+test item		1			0					1	sz4							sz5																																																																																							0
+test item		1			0					1	sz5							bn1																																																																																							0
+test item		1			0					1	bn1							bn2																																																																																							0
+test item		1			0					1	bn2							bn3																																																																																							0
+test item		1			0					1	bn3							bn4																																																																																							0
+test item		1			0					1	bn4							bn5																																																																																							0
+test item		1			0					1	bn5							ml1																																																																																							0
+test item		1			0					1	ml1							ml2																																																																																							0
+test item		1			0					1	ml2							ml3																																																																																							0
+test item		1			0					1	ml3							ax1																																																																																							0

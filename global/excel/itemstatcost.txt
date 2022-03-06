@@ -477,3 +477,10 @@ item_skillatt_percent	474	additional item modifiers				1	9											577	102		1	
 item_timer_percent	475	additional item modifiers				1	8											577	102		1	0	7	100																91	19		ModTimerPct	ModTimerPct									2	0
 stance_skillonhit	476	used by stance effects	0	128		1	7	16						1			2				21	0	7	0	16										1	domeleedamage	20																	0
 item_manaskill_percent	477		0	128		1	7											902	411		6	0	7	0																53	19		ModManaSkillPct	ModManaSkillPct									2	0
+misc_keystack_amount	478		-64	64		1	8														7	0	8	100																-1	19		ModKeyStack	ModKeyStack										0
+misc_potionstack_amount	479		-64	64		1	8														7	0	8	100																-1	19		ModPotionStack	ModPotionStack										0
+misc_itemsstack_amount	480		-64	64		1	8														7	0	8	100																-1	19		ModItemsStack	ModItemsStack										0
+misc_rerollsstack_amount	481		-64	64		1	8														7	0	8	100																-1	19		ModRerollsStack	ModRerollsStack										0
+misc_chargesstack_amount	482		-64	64		1	8														7	0	8	100																-1	19		ModChargesStack	ModChargesStack										0
+desc_leveldelta	483					1	4														4	0	4	0																169	19		ModMiscLevelDelta	ModMiscLevelDelta										0
+desc_leveldelta_percent	484					1	4														4	0	4	0																168	19		ModMiscLevelDeltaPct	ModMiscLevelDeltaPct										0
