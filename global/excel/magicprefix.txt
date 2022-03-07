@@ -798,14 +798,9 @@ Sleepy	1	1		10	30	0				2	640	timer%		3	8										amul												0	0
 Alert	1	1	1	10		5				4	640	timer%		-3	-5										amul												0	0
 Awake	1	1	1	21		10				4	640	timer%		-6	-8										amul												0	0
 Vigilant	1	1	1	32		16				4	640	timer%		-9	-11										amul												0	0
-Timekeeper's	1	1	1	43		21				4	640	timer%		-12	-15										amul												0	0
-Oscillating	1	1	1	54		27				4	640	timer%		-16	-20										amul												0	0
-Chronomage's	1	1	1	65		32				4	640	timer%		-21	-25										amul												0	0
-Chronomaster's	1	1	1	76		38				4	640	timer%		-26	-30										amul												0	0
-Sleepy	1	1		11	30	0				2	640	timer%		3	7										ring												0	0
-Alert	1	1	1	11		5				4	640	timer%		-3	-4										ring												0	0
-Awake	1	1	1	27		13				4	640	timer%		-5	-7										ring												0	0
-Vigilant	1	1	1	43		21				4	640	timer%		-8	-10										ring												0	0
+Timekeeper's	1	1	1	43		21				4	640	timer%		-12	-14										amul												0	0
+Oscillating	1	1	1	54		27				4	640	timer%		-15	-17										amul												0	0
+Chronomage's	1	1	1	65		32				4	640	timer%		-18	-20										amul												0	0
 Alert	1	1	1	11		5				4	640	timer%		-3	-4										dust												0	0
 Awake	1	1	1	27		13				4	640	timer%		-5	-7										dust												0	0
 Vigilant	1	1	1	43		21				4	640	timer%		-8	-10										dust												0	0
