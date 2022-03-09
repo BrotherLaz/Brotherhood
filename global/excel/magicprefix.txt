@@ -21,16 +21,16 @@ Royal	1	1	1	73		36				4	600	ac		36	50										dusc	dusp											0	0
 Stout	1	1	1	1		0				4	600	ac		3	5										jewl												0	0
 Strong	1	1	1	17		8				4	600	ac		6	10										jewl												0	0
 Tough	1	1	1	62		31				4	600	ac		11	15										jewl												0	0
-Vulnerable	1	1		6	30	0				2	601	ac%		-100	-100										armo							circ					0	0
-Rusted	1	1		1	30	0				2	601	ac%		-15	-40										armo							circ					0	0
-Fine	1	1	1	1		0				12	601	ac%		10	20										armo							circ					0	0
-Grand	1	1	1	12		6				12	601	ac%		21	30										armo							circ					0	0
-Lavish	1	1	1	23		11				12	601	ac%		31	40										armo							circ					0	0
-Ornate	1	1	1	34		17				12	601	ac%		41	50										armo							circ					0	0
-Opulent	1	1	1	45		22				12	601	ac%		51	65										armo							circ					0	0
-Splendid	1	1	1	56		28				12	601	ac%		66	80										armo							circ					0	0
-Majestic	1	1	1	67		33				12	601	ac%		81	100										armo							circ					0	0
-Sublime	1	1	1	90		45				1	601	ac%		101	125										armo							circ					0	0
+Vulnerable	1	1		6	30	0				2	601	ac%		-100	-100										armo							circ	stor				0	0
+Rusted	1	1		1	30	0				2	601	ac%		-15	-40										armo							circ	stor				0	0
+Fine	1	1	1	1		0				12	601	ac%		10	20										armo							circ	stor				0	0
+Grand	1	1	1	12		6				12	601	ac%		21	30										armo							circ	stor				0	0
+Lavish	1	1	1	23		11				12	601	ac%		31	40										armo							circ	stor				0	0
+Ornate	1	1	1	34		17				12	601	ac%		41	50										armo							circ	stor				0	0
+Opulent	1	1	1	45		22				12	601	ac%		51	65										armo							circ	stor				0	0
+Splendid	1	1	1	56		28				12	601	ac%		66	80										armo							circ	stor				0	0
+Majestic	1	1	1	67		33				12	601	ac%		81	100										armo							circ	stor				0	0
+Sublime	1	1	1	90		45				1	601	ac%		101	125										armo							circ	stor				0	0
 Useless	1	1		6	30	0				2	602	dmg%		-100	-100										weap							staf	wand	orb	crsx		0	0
 Weak	1	1		1	30	0				2	602	dmg%		-15	-40										weap							staf	wand	orb	crsx		0	0
 Keen	1	1	1	1		0				12	602	dmg%		10	20										weap							staf	wand	orb	crsx		0	0
@@ -377,126 +377,135 @@ Pestilent	1	1	1	75		37				4	619	pois-min		77	307	pois-max		308	461	pois-len		25	
 Pestilent	1	1	1	88		44				4	619	pois-min		102	409	pois-max		410	614	pois-len		25	150		dusc	duse											0	0
 Moldy	1	1	1	8		4				4	619	pois-min		5	20	pois-max		21	30	pois-len		25	50		jewl												0	0
 Septic	1	1	1	18		9				4	619	pois-min		13	51	pois-max		52	77	pois-len		25	75		jewl												0	0
-Stalker's	1	1	1	20		10	ama			4	620	skilltab	0	1	1										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
-Seeker's	1	1	1	40		20	ama			4	620	skilltab	0	2	2										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
-Hunter's	1	1	1	90		45	ama			2	620	skilltab	0	3	3										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
-Stalker's	1	1	1	30		15	ama			4	620	skilltab	0	1	1										amul	glov											0	0
-Stalker's	1	1	1	33		17	ama			4	620	skilltab	0	1	1										dust												0	0
+Stalker's	1	1	1	20		10	ama			4	620	skilltab	2	1	1										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
+Seeker's	1	1	1	40		20	ama			4	620	skilltab	2	2	2										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
+Hunter's	1	1	1	90		45	ama			2	620	skilltab	2	3	3										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
+Stalker's	1	1	1	30		15	ama			4	620	skilltab	2	1	1										amul	glov											0	0
+Stalker's	1	1	1	33		17	ama			4	620	skilltab	2	1	1										dust												0	0
 Oracle's	1	1	1	20		10	ama			4	620	skilltab	1	1	1										bow	spea	helm					dbow	chlm	phlm	pelt	nxhm	0	0
 Diviner's	1	1	1	40		20	ama			4	620	skilltab	1	2	2										bow	spea	helm					dbow	chlm	phlm	pelt	nxhm	0	0
 Prophet's	1	1	1	90		45	ama			2	620	skilltab	1	3	3										bow	spea	helm					dbow	chlm	phlm	pelt	nxhm	0	0
 Oracle's	1	1	1	30		15	ama			4	620	skilltab	1	1	1										amul	glov											0	0
 Oracle's	1	1	1	33		17	ama			4	620	skilltab	1	1	1										dust												0	0
-Shining	1	1	1	20		10	ama			4	620	skilltab	2	1	1										spea	helm						chlm	phelm	pelt	nxhm		0	0
-Golden	1	1	1	40		20	ama			4	620	skilltab	2	2	2										spea	helm						chlm	phelm	pelt	nxhm		0	0
-Resplendent	1	1	1	90		45	ama			2	620	skilltab	2	3	3										spea	helm						chlm	phelm	pelt	nxhm		0	0
-Shining	1	1	1	30		15	ama			4	620	skilltab	2	1	1										amul	glov											0	0
-Shining	1	1	1	33		17	ama			4	620	skilltab	2	1	1										dust												0	0
-Heroic	1	1	1	20		10	pal			4	621	skilltab	9	1	1										mele	helm	amul					amaz	assn	barb	necr	sorc	0	0
-Heroic	1	1	1	20		10	pal			4	621	skilltab	9	1	1										shld							ashi	barb	necr			0	0
-Legendary	1	1	1	40		20	pal			4	621	skilltab	9	2	2										mele	helm	amul					amaz	assn	barb	necr	sorc	0	0
-Legendary	1	1	1	40		20	pal			4	621	skilltab	9	2	2										shld							ashi	barb	necr			0	0
-Mythic	1	1	1	90		45	pal			2	621	skilltab	9	3	3										mele	helm	amul					amaz	assn	barb	necr	sorc	0	0
-Mythic	1	1	1	90		45	pal			2	621	skilltab	9	3	3										shld							ashi	barb	necr			0	0
-Heroic	1	1	1	30		15	pal			4	621	skilltab	9	1	1										amul	chlm											0	0
-Heroic	1	1	1	33		17	pal			4	621	skilltab	9	1	1										dust												0	0
-Acolyte's	1	1	1	20		10	pal			4	621	skilltab	10	1	1										mele	helm	amul	xbow				amaz	assn	barb	necr	sorc	0	0
-Acolyte's	1	1	1	20		10	pal			4	621	skilltab	10	1	1										shld							ashi	barb	necr			0	0
-Cleric's	1	1	1	40		20	pal			4	621	skilltab	10	2	2										mele	helm	amul	xbow				amaz	assn	barb	necr	sorc	0	0
-Cleric's	1	1	1	40		20	pal			4	621	skilltab	10	2	2										shld							ashi	barb	necr			0	0
-Priest's	1	1	1	90		45	pal			2	621	skilltab	10	3	3										mele	helm	amul	xbow				amaz	assn	barb	necr	sorc	0	0
-Priest's	1	1	1	90		45	pal			2	621	skilltab	10	3	3										shld							ashi	barb	necr			0	0
-Acolyte's	1	1	1	30		15	pal			4	621	skilltab	10	1	1										amul	chlm											0	0
+Shining	1	1	1	20		10	ama			4	620	skilltab	0	1	1										spea	helm						chlm	phelm	pelt	nxhm		0	0
+Golden	1	1	1	40		20	ama			4	620	skilltab	0	2	2										spea	helm						chlm	phelm	pelt	nxhm		0	0
+Resplendent	1	1	1	90		45	ama			2	620	skilltab	0	3	3										spea	helm						chlm	phelm	pelt	nxhm		0	0
+Shining	1	1	1	30		15	ama			4	620	skilltab	0	1	1										amul	glov											0	0
+Shining	1	1	1	33		17	ama			4	620	skilltab	0	1	1										dust												0	0
+Heroic	1	1	1	20		10	pal			4	621	skilltab	11	1	1										mele	amul						amaz	assn	barb	necr	rod	0	0
+Heroic	1	1	1	20		10	pal			4	621	skilltab	11	1	1										helm							amaz	barb	pala			0	0
+Heroic	1	1	1	20		10	pal			4	621	skilltab	11	1	1										shld	scep						ashi	barb	necr			0	0
+Legendary	1	1	1	40		20	pal			4	621	skilltab	11	2	2										mele	amul						amaz	assn	barb	necr	rod	0	0
+Legendary	1	1	1	40		20	pal			4	621	skilltab	11	2	2										helm							amaz	barb	pala			0	0
+Legendary	1	1	1	40		20	pal			4	621	skilltab	11	2	2										shld	scep						ashi	barb	necr			0	0
+Mythic	1	1	1	90		45	pal			2	621	skilltab	11	3	3										mele	amul						amaz	assn	barb	necr	rod	0	0
+Mythic	1	1	1	90		45	pal			2	621	skilltab	11	3	3										helm							amaz	barb	pala			0	0
+Mythic	1	1	1	90		45	pal			2	621	skilltab	11	3	3										shld	scep						ashi	barb	necr			0	0
+Heroic	1	1	1	30		15	pal			4	621	skilltab	11	1	1										amul	chlm											0	0
+Heroic	1	1	1	33		17	pal			4	621	skilltab	11	1	1										dust												0	0
+Acolyte's	1	1	1	20		10	pal			4	621	skilltab	10	1	1										mele	amul	xbow					amaz	assn	barb	necr	rod	0	0
+Acolyte's	1	1	1	20		10	pal			4	621	skilltab	10	1	1										helm							amaz	barb	pala			0	0
+Acolyte's	1	1	1	20		10	pal			4	621	skilltab	10	1	1										shld	scep						ashi	barb	necr			0	0
+Cleric's	1	1	1	40		20	pal			4	621	skilltab	10	2	2										mele	amul	xbow					amaz	assn	barb	necr	rod	0	0
+Cleric's	1	1	1	40		20	pal			4	621	skilltab	10	2	2										helm							amaz	barb	pala			0	0
+Cleric's	1	1	1	40		20	pal			4	621	skilltab	10	2	2										shld	scep						ashi	barb	necr			0	0
+Priest's	1	1	1	90		45	pal			2	621	skilltab	10	3	3										mele	amul	xbow					amaz	assn	barb	necr	rod	0	0
+Priest's	1	1	1	90		45	pal			2	621	skilltab	10	3	3										helm							amaz	barb	pala			0	0
+Priest's	1	1	1	90		45	pal			2	621	skilltab	10	3	3										shld	scep						ashi	barb	necr			0	0
+Acolyte's	1	1	1	30		15	pal			4	621	skilltab	10	1	1										amul	chlm	stor										0	0
 Acolyte's	1	1	1	33		17	pal			4	621	skilltab	10	1	1										dust												0	0
-Blessed	1	1	1	20		10	pal			4	621	skilltab	11	1	1										mele	helm	amul	xbow				amaz	assn	barb	necr	sorc	0	0
-Blessed	1	1	1	20		10	pal			4	621	skilltab	11	1	1										shld							ashi	barb	necr			0	0
-Anointed	1	1	1	40		20	pal			4	621	skilltab	11	2	2										mele	helm	amul	xbow				amaz	assn	barb	necr	sorc	0	0
-Anointed	1	1	1	40		20	pal			4	621	skilltab	11	2	2										shld							ashi	barb	necr			0	0
-Consecrated	1	1	1	90		45	pal			2	621	skilltab	11	3	3										mele	helm	amul	xbow				amaz	assn	barb	necr	sorc	0	0
-Consecrated	1	1	1	90		45	pal			2	621	skilltab	11	3	3										shld							ashi	barb	necr			0	0
-Blessed	1	1	1	30		15	pal			4	621	skilltab	11	1	1										amul	chlm											0	0
-Blessed	1	1	1	33		17	pal			4	621	skilltab	11	1	1										dust												0	0
-Quivering	1	1	1	20		10	nec			4	622	skilltab	6	1	1										wand	head	nxsh	nscy									0	0
-Rattling	1	1	1	40		20	nec			4	622	skilltab	6	2	2										wand	head	nxsh	nscy									0	0
-Trembling	1	1	1	90		45	nec			2	622	skilltab	6	3	3										wand	head	nxsh	nscy									0	0
-Quivering	1	1	1	30		15	nec			4	622	skilltab	6	1	1										amul	nxhm											0	0
-Quivering	1	1	1	33		17	nec			4	622	skilltab	6	1	1										dust												0	0
+Blessed	1	1	1	20		10	pal			4	621	skilltab	9	1	1										mele	amul	xbow					amaz	assn	barb	necr	rod	0	0
+Blessed	1	1	1	20		10	pal			4	621	skilltab	9	1	1										helm							amaz	barb	pala			0	0
+Blessed	1	1	1	20		10	pal			4	621	skilltab	9	1	1										shld	scep						ashi	barb	necr			0	0
+Anointed	1	1	1	40		20	pal			4	621	skilltab	9	2	2										mele	amul	xbow					amaz	assn	barb	necr	rod	0	0
+Anointed	1	1	1	40		20	pal			4	621	skilltab	9	2	2										helm							amaz	barb	pala			0	0
+Anointed	1	1	1	40		20	pal			4	621	skilltab	9	2	2										shld	scep						ashi	barb	necr			0	0
+Consecrated	1	1	1	90		45	pal			2	621	skilltab	9	3	3										mele	amul	xbow					amaz	assn	barb	necr	rod	0	0
+Consecrated	1	1	1	90		45	pal			2	621	skilltab	9	3	3										helm							amaz	barb	pala			0	0
+Consecrated	1	1	1	90		45	pal			2	621	skilltab	9	3	3										shld	scep						ashi	barb	necr			0	0
+Blessed	1	1	1	30		15	pal			4	621	skilltab	9	1	1										amul	chlm											0	0
+Blessed	1	1	1	33		17	pal			4	621	skilltab	9	1	1										dust												0	0
+Quivering	1	1	1	20		10	nec			4	622	skilltab	8	1	1										wand	head	nxsh	nscy									0	0
+Rattling	1	1	1	40		20	nec			4	622	skilltab	8	2	2										wand	head	nxsh	nscy									0	0
+Trembling	1	1	1	90		45	nec			2	622	skilltab	8	3	3										wand	head	nxsh	nscy									0	0
+Quivering	1	1	1	30		15	nec			4	622	skilltab	8	1	1										amul	nxhm	stor										0	0
+Quivering	1	1	1	33		17	nec			4	622	skilltab	8	1	1										dust												0	0
 Spooky	1	1	1	20		10	nec			4	622	skilltab	7	1	1										wand	head	nxsh	nscy									0	0
 Ghostly	1	1	1	40		20	nec			4	622	skilltab	7	2	2										wand	head	nxsh	nscy									0	0
 Phantasmal	1	1	1	90		45	nec			2	622	skilltab	7	3	3										wand	head	nxsh	nscy									0	0
-Spooky	1	1	1	30		15	nec			4	622	skilltab	7	1	1										amul	nxhm	knif										0	0
+Spooky	1	1	1	30		15	nec			4	622	skilltab	7	1	1										amul	nxhm	knif	stor									0	0
 Spooky	1	1	1	33		17	nec			4	622	skilltab	7	1	1										dust												0	0
-Eerie	1	1	1	20		10	nec			4	622	skilltab	8	1	1										wand	head	nxsh	nscy									0	0
-Mystical	1	1	1	40		20	nec			4	622	skilltab	8	2	2										wand	head	nxsh	nscy									0	0
-Eldritch	1	1	1	90		45	nec			2	622	skilltab	8	3	3										wand	head	nxsh	nscy									0	0
-Eerie	1	1	1	30		15	nec			4	622	skilltab	8	1	1										amul	nxhm											0	0
-Eerie	1	1	1	33		17	nec			4	622	skilltab	8	1	1										dust												0	0
-Molten	1	1	1	20		10	sor			4	623	skilltab	3	1	1										staf	circ											0	0
-Rumbling	1	1	1	40		20	sor			4	623	skilltab	3	2	2										staf	circ											0	0
-Volcanic	1	1	1	90		45	sor			2	623	skilltab	3	3	3										staf	circ											0	0
-Molten	1	1	1	30		15	sor			4	623	skilltab	3	1	1										amul	stor											0	0
-Molten	1	1	1	33		17	sor			4	623	skilltab	3	1	1										dust												0	0
+Eerie	1	1	1	20		10	nec			4	622	skilltab	6	1	1										wand	head	nxsh	nscy									0	0
+Mystical	1	1	1	40		20	nec			4	622	skilltab	6	2	2										wand	head	nxsh	nscy									0	0
+Eldritch	1	1	1	90		45	nec			2	622	skilltab	6	3	3										wand	head	nxsh	nscy									0	0
+Eerie	1	1	1	30		15	nec			4	622	skilltab	6	1	1										amul	nxhm	stor										0	0
+Eerie	1	1	1	33		17	nec			4	622	skilltab	6	1	1										dust												0	0
+Molten	1	1	1	20		10	sor			4	623	skilltab	5	1	1										staf	circ											0	0
+Rumbling	1	1	1	40		20	sor			4	623	skilltab	5	2	2										staf	circ											0	0
+Volcanic	1	1	1	90		45	sor			2	623	skilltab	5	3	3										staf	circ											0	0
+Molten	1	1	1	30		15	sor			4	623	skilltab	5	1	1										amul	stor											0	0
+Molten	1	1	1	33		17	sor			4	623	skilltab	5	1	1										dust												0	0
 Humming	1	1	1	20		10	sor			4	623	skilltab	4	1	1										staf	circ											0	0
 Booming	1	1	1	40		20	sor			4	623	skilltab	4	2	2										staf	circ											0	0
 Thundering	1	1	1	90		45	sor			2	623	skilltab	4	3	3										staf	circ											0	0
 Humming	1	1	1	30		15	sor			4	623	skilltab	4	1	1										amul	stor											0	0
 Humming	1	1	1	33		17	sor			4	623	skilltab	4	1	1										dust												0	0
-Frigid	1	1	1	20		10	sor			4	623	skilltab	5	1	1										staf	circ											0	0
-Glacial	1	1	1	40		20	sor			4	623	skilltab	5	2	2										staf	circ											0	0
-Gelid	1	1	1	90		45	sor			2	623	skilltab	5	3	3										staf	circ											0	0
-Frigid	1	1	1	30		15	sor			4	623	skilltab	5	1	1										amul	stor											0	0
-Frigid	1	1	1	33		17	sor			4	623	skilltab	5	1	1										dust												0	0
-Tribal	1	1	1	20		10	bar			4	624	skilltab	12	1	1										mele	helm						amaz	assn	necr	sorc	pala	0	0
-Ancient	1	1	1	40		20	bar			4	624	skilltab	12	2	2										mele	helm						amaz	assn	necr	sorc	pala	0	0
-Primeval	1	1	1	90		45	bar			2	624	skilltab	12	3	3										mele	helm						amaz	assn	necr	sorc	pala	0	0
-Tribal	1	1	1	20		10	bar			4	624	skilltab	12	1	1										shld							ashi	pala	necr			0	0
-Ancient	1	1	1	40		20	bar			4	624	skilltab	12	2	2										shld							ashi	pala	necr			0	0
-Primeval	1	1	1	90		45	bar			2	624	skilltab	12	3	3										shld							ashi	pala	necr			0	0
-Tribal	1	1	1	30		15	bar			4	624	skilltab	12	1	1										amul	phlm											0	0
-Tribal	1	1	1	33		17	bar			4	624	skilltab	12	1	1										dust												0	0
+Frigid	1	1	1	20		10	sor			4	623	skilltab	3	1	1										staf	circ											0	0
+Glacial	1	1	1	40		20	sor			4	623	skilltab	3	2	2										staf	circ											0	0
+Gelid	1	1	1	90		45	sor			2	623	skilltab	3	3	3										staf	circ											0	0
+Frigid	1	1	1	30		15	sor			4	623	skilltab	3	1	1										amul	stor											0	0
+Frigid	1	1	1	33		17	sor			4	623	skilltab	3	1	1										dust												0	0
+Tribal	1	1	1	20		10	bar			4	624	skilltab	14	1	1										mele	helm						amaz	assn	necr	rod	pala	0	0
+Ancient	1	1	1	40		20	bar			4	624	skilltab	14	2	2										mele	helm						amaz	assn	necr	rod	pala	0	0
+Primeval	1	1	1	90		45	bar			2	624	skilltab	14	3	3										mele	helm						amaz	assn	necr	rod	pala	0	0
+Tribal	1	1	1	20		10	bar			4	624	skilltab	14	1	1										shld							ashi	pala	necr			0	0
+Ancient	1	1	1	40		20	bar			4	624	skilltab	14	2	2										shld							ashi	pala	necr			0	0
+Primeval	1	1	1	90		45	bar			2	624	skilltab	14	3	3										shld							ashi	pala	necr			0	0
+Tribal	1	1	1	30		15	bar			4	624	skilltab	14	1	1										amul	phlm											0	0
+Tribal	1	1	1	33		17	bar			4	624	skilltab	14	1	1										dust												0	0
 Carved	1	1	1	20		10	bar			4	624	skilltab	13	1	1										btax												0	0
 Painted	1	1	1	40		20	bar			4	624	skilltab	13	2	2										btax												0	0
 Engraved	1	1	1	90		45	bar			2	624	skilltab	13	3	3										btax												0	0
 Carved	1	1	1	30		15	bar			4	624	skilltab	13	1	1										amul	phlm											0	0
 Carved	1	1	1	33		17	bar			4	624	skilltab	13	1	1										dust												0	0
-Primitive	1	1	1	20		10	bar			4	624	skilltab	14	1	1										mele	helm	btax					amaz	assn	necr	sorc	pala	0	0
-Brutish	1	1	1	40		20	bar			4	624	skilltab	14	2	2										mele	helm	btax					amaz	assn	necr	sorc	pala	0	0
-Savage	1	1	1	90		45	bar			2	624	skilltab	14	3	3										mele	helm	btax					amaz	assn	necr	sorc	pala	0	0
-Primitive	1	1	1	20		10	bar			4	624	skilltab	14	1	1										shld							ashi	pala	necr			0	0
-Brutish	1	1	1	40		20	bar			4	624	skilltab	14	2	2										shld							ashi	pala	necr			0	0
-Savage	1	1	1	90		45	bar			2	624	skilltab	14	3	3										shld							ashi	pala	necr			0	0
-Primitive	1	1	1	30		15	bar			4	624	skilltab	14	1	1										amul	phlm											0	0
-Primitive	1	1	1	33		17	bar			4	624	skilltab	14	1	1										dust												0	0
-Growling	100	1	1	20		10	dru			4	625	skilltab	15	1	1										mele	pelt						rod	amaz	assn	necr	pala	0	0
-Snarling	100	1	1	40		20	dru			4	625	skilltab	15	2	2										mele	pelt						rod	amaz	assn	necr	pala	0	0
-Roaring	100	1	1	90		45	dru			2	625	skilltab	15	3	3										mele	pelt						rod	amaz	assn	necr	pala	0	0
-Growling	100	1	1	30		15	dru			4	625	skilltab	15	1	1										amul	belt											0	0
-Growling	100	1	1	33		17	dru			4	625	skilltab	15	1	1										dust												0	0
+Primitive	1	1	1	20		10	bar			4	624	skilltab	12	1	1										mele	helm	btax					amaz	assn	necr	rod	pala	0	0
+Brutish	1	1	1	40		20	bar			4	624	skilltab	12	2	2										mele	helm	btax					amaz	assn	necr	rod	pala	0	0
+Savage	1	1	1	90		45	bar			2	624	skilltab	12	3	3										mele	helm	btax					amaz	assn	necr	rod	pala	0	0
+Primitive	1	1	1	20		10	bar			4	624	skilltab	12	1	1										shld							ashi	pala	necr			0	0
+Brutish	1	1	1	40		20	bar			4	624	skilltab	12	2	2										shld							ashi	pala	necr			0	0
+Savage	1	1	1	90		45	bar			2	624	skilltab	12	3	3										shld							ashi	pala	necr			0	0
+Primitive	1	1	1	30		15	bar			4	624	skilltab	12	1	1										amul	phlm											0	0
+Primitive	1	1	1	33		17	bar			4	624	skilltab	12	1	1										dust												0	0
+Growling	100	1	1	20		10	dru			4	625	skilltab	17	1	1										mele	pelt						rod	amaz	assn	necr	pala	0	0
+Snarling	100	1	1	40		20	dru			4	625	skilltab	17	2	2										mele	pelt						rod	amaz	assn	necr	pala	0	0
+Roaring	100	1	1	90		45	dru			2	625	skilltab	17	3	3										mele	pelt						rod	amaz	assn	necr	pala	0	0
+Growling	100	1	1	30		15	dru			4	625	skilltab	17	1	1										amul	belt											0	0
+Growling	100	1	1	33		17	dru			4	625	skilltab	17	1	1										dust												0	0
 Ritual	100	1	1	20		10	dru			4	625	skilltab	16	1	1										orb	pelt											0	0
 Totemic	100	1	1	40		20	dru			4	625	skilltab	16	2	2										orb	pelt											0	0
 Shamanic	100	1	1	90		45	dru			2	625	skilltab	16	3	3										orb	pelt											0	0
 Ritual	100	1	1	30		15	dru			4	625	skilltab	16	1	1										amul	belt											0	0
 Ritual	100	1	1	33		17	dru			4	625	skilltab	16	1	1										dust												0	0
-Sprouting	100	1	1	20		10	dru			4	625	skilltab	17	1	1										dbow	pelt											0	0
-Verdant	100	1	1	40		20	dru			4	625	skilltab	17	2	2										dbow	pelt											0	0
-Blooming	100	1	1	90		45	dru			2	625	skilltab	17	3	3										dbow	pelt											0	0
-Sprouting	100	1	1	30		15	dru			4	625	skilltab	17	1	1										amul	belt											0	0
-Sprouting	100	1	1	33		17	dru			4	625	skilltab	17	1	1										dust												0	0
-Elegant	100	1	1	20		10	ass			4	626	skilltab	18	1	1										h2h	boot											0	0
-Sophisticated	100	1	1	40		20	ass			4	626	skilltab	18	2	2										h2h	boot											0	0
-Exquisite	100	1	1	90		45	ass			2	626	skilltab	18	3	3										h2h	boot											0	0
-Elegant	100	1	1	30		15	ass			4	626	skilltab	18	1	1										amul	glov											0	0
-Elegant	100	1	1	33		17	ass			4	626	skilltab	18	1	1										dust												0	0
+Sprouting	100	1	1	20		10	dru			4	625	skilltab	15	1	1										dbow	pelt	nxhm										0	0
+Verdant	100	1	1	40		20	dru			4	625	skilltab	15	2	2										dbow	pelt	nxhm										0	0
+Blooming	100	1	1	90		45	dru			2	625	skilltab	15	3	3										dbow	pelt	nxhm										0	0
+Sprouting	100	1	1	30		15	dru			4	625	skilltab	15	1	1										amul	belt											0	0
+Sprouting	100	1	1	33		17	dru			4	625	skilltab	15	1	1										dust												0	0
+Elegant	100	1	1	20		10	ass			4	626	skilltab	20	1	1										h2h	boot											0	0
+Sophisticated	100	1	1	40		20	ass			4	626	skilltab	20	2	2										h2h	boot											0	0
+Exquisite	100	1	1	90		45	ass			2	626	skilltab	20	3	3										h2h	boot											0	0
+Elegant	100	1	1	30		15	ass			4	626	skilltab	20	1	1										amul	glov											0	0
+Elegant	100	1	1	33		17	ass			4	626	skilltab	20	1	1										dust												0	0
 Hissing	100	1	1	20		10	ass			4	626	skilltab	19	1	1										atkn												0	0
 Serpentine	100	1	1	40		20	ass			4	626	skilltab	19	2	2										atkn												0	0
 Coiling	100	1	1	90		45	ass			2	626	skilltab	19	3	3										atkn												0	0
 Hissing	100	1	1	30		15	ass			4	626	skilltab	19	1	1										amul	glov											0	0
 Hissing	100	1	1	33		17	ass			4	626	skilltab	19	1	1										dust												0	0
-Mental	100	1	1	20		10	ass			4	626	skilltab	20	1	1										h2h	helm						phlm	chlm	pelt	ahlm		0	0
-Shadow	100	1	1	40		20	ass			4	626	skilltab	20	2	2										h2h	helm						phlm	chlm	pelt	ahlm		0	0
-Psionic	100	1	1	90		45	ass			2	626	skilltab	20	3	3										h2h	helm						phlm	chlm	pelt	ahlm		0	0
-Mental	100	1	1	30		15	ass			4	626	skilltab	20	1	1										amul	glov											0	0
-Mental	100	1	1	33		17	ass			4	626	skilltab	20	1	1										dust												0	0
+Mental	100	1	1	20		10	ass			4	626	skilltab	18	1	1										h2h	helm						phlm	chlm	pelt	ahlm		0	0
+Shadow	100	1	1	40		20	ass			4	626	skilltab	18	2	2										h2h	helm						phlm	chlm	pelt	ahlm		0	0
+Psionic	100	1	1	90		45	ass			2	626	skilltab	18	3	3										h2h	helm						phlm	chlm	pelt	ahlm		0	0
+Mental	100	1	1	30		15	ass			4	626	skilltab	18	1	1										amul	glov											0	0
+Mental	100	1	1	33		17	ass			4	626	skilltab	18	1	1										dust												0	0
 Shaking	1	1		1	30	0				2	627	balance3		-5	-15										tors	ashd	amul	staf	miss			stor					0	0
 Stable	1	1	1	1		0				4	627	balance3		5	10										tors	ashd	amul	staf	miss			stor					0	0
 Balanced	1	1	1	16		8				4	627	balance3		11	15										tors	ashd	amul	staf	miss			stor					0	0

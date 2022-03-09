@@ -382,18 +382,18 @@ leveldelta	1	1	desc_leveldelta																												ModHealingSkillPct				
 leveldelta%	1	1	desc_leveldelta_percent																												ModHealingSkillPct				0
 levelreq-with-display	1	1	item_levelreq			3	misc_levelreqstring																							Required Level: #		Min #	Max #		0
 inherent-nxhm	1	1	skillmod_necromancer_1																												ModHealingSkillPct				0
-inherent-nxxb	1	1	skillmod_necromancer_2																												ModHealingSkillPct				0
+inherent-nxxb	1	1	skillmod_necromancer_2																											Unused	ModHealingSkillPct				0
 inherent-head	1	1	skillmod_necromancer_3																												ModHealingSkillPct				0
 inherent-nxsd	1	1	skillmod_necromancer_4																												ModHealingSkillPct				0
 inherent-pelt	1	1	skillmod_druid_1																												ModHealingSkillPct				0
 inherent-dbow	1	1	skillmod_druid_2																												ModHealingSkillPct				0
 inherent-chlm	1	1	skillmod_paladin_1																												ModHealingSkillPct				0
 inherent-ashd	1	1	skillmod_paladin_2																												ModHealingSkillPct				0
-inherent-pmel	1	1	skillmod_paladin_3																												ModHealingSkillPct				0
+inherent-pmel	1	1	skillmod_paladin_3																											Unused	ModHealingSkillPct				0
 inherent-ahlm	1	1	skillmod_amazon_1																												ModHealingSkillPct				0
 inherent-aspe	1	1	skillmod_amazon_2																												ModHealingSkillPct				0
 inherent-abow	1	1	skillmod_amazon_3																												ModHealingSkillPct				0
 inherent-bmel	1	1	skillmod_barbarian_1																												ModHealingSkillPct				0
-inherent-bshd	1	1	skillmod_barbarian_2																												ModHealingSkillPct				0
+inherent-bshd	1	1	skillmod_barbarian_2																											Unused (itemstat has no effect, item has weapon sockets instead)	ModHealingSkillPct				0
 inherent-phlm	1	1	skillmod_barbarian_3																												ModHealingSkillPct				0
 inherent-stor	1	1	skillmod_sorceress_1																											20	ModHealingSkillPct				0

@@ -484,19 +484,19 @@ misc_rerollsstack_amount	481		-64	64		1	8														7	0	8	100																
 misc_chargesstack_amount	482		-64	64		1	8														7	0	8	100																-1	19		ModChargesStack	ModChargesStack										0
 desc_leveldelta	483					1	4														4	0	4	0																169	19		ModMiscLevelDelta	ModMiscLevelDelta										0
 desc_leveldelta_percent	484					1	4														4	0	4	0																168	19		ModMiscLevelDeltaPct	ModMiscLevelDeltaPct										0
-skillmod_necromancer_1	485					1	6														4	0	6	-30																														0
-skillmod_necromancer_2	486					1	6														4	0	6	-30																														0
-skillmod_necromancer_3	487					1	6														4	0	6	-30																														0
-skillmod_necromancer_4	488					1	6														4	0	6	-30																														0
-skillmod_druid_1	489					1	6														4	0	6	-30																														0
-skillmod_druid_2	490					1	6														4	0	6	-30																														0
-skillmod_paladin_1	491					1	6														4	0	6	-30																														0
-skillmod_paladin_2	492					1	6														4	0	6	-30																														0
-skillmod_paladin_3	493					1	6														4	0	6	-30																														0
-skillmod_amazon_1	494					1	6														4	0	6	-30																														0
-skillmod_amazon_2	495					1	6														4	0	6	-30																														0
-skillmod_amazon_3	496					1	6														4	0	6	-30																														0
-skillmod_barbarian_1	497					1	6														4	0	6	-30																														0
-skillmod_barbarian_2	498					1	6														4	0	6	-30																														0
-skillmod_barbarian_3	499					1	6														4	0	6	-30																														0
-skillmod_sorceress_1	500					1	6														4	0	6	-30																														0
+skillmod_necromancer_1	485					1	6														4	0	6	30																														0
+skillmod_necromancer_2	486					1	6														4	0	6	30																														0
+skillmod_necromancer_3	487					1	6														4	0	6	30																														0
+skillmod_necromancer_4	488					1	6														4	0	6	30																														0
+skillmod_druid_1	489					1	6														4	0	6	30																														0
+skillmod_druid_2	490					1	6														4	0	6	30																														0
+skillmod_paladin_1	491					1	6														4	0	6	30																														0
+skillmod_paladin_2	492					1	6														4	0	6	30																														0
+skillmod_paladin_3	493					1	6														4	0	6	30																														0
+skillmod_amazon_1	494					1	6														4	0	6	30																														0
+skillmod_amazon_2	495					1	6														4	0	6	30																														0
+skillmod_amazon_3	496					1	6														4	0	6	30																														0
+skillmod_barbarian_1	497					1	6														4	0	6	10																														0
+skillmod_barbarian_2	498					1	6														4	0	6	30																														0
+skillmod_barbarian_3	499					1	6														4	0	6	30																														0
+skillmod_sorceress_1	500					1	6														4	0	6	30																														0
