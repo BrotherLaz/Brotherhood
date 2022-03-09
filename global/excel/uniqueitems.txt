@@ -2,7 +2,7 @@ index	*ID	version	enabled	ladder	rarity	nolimit	lvl	lvl req	code	*ItemName	carry
 Trophy1	0	0	1		1		1	1	rf1	TrophyBase1	1	0	0				invflag																																																					0
 Trophy2	1	0	1		1		1	1	rf2	TrophyBase2	1	0	0	blac	blac		invflag				levelreq		-1	-1																																														0
 Trophy3	2	0	1		1		1	1	rf3	TrophyBase3	1	0	0				invflag																																																					0
-Trophy4	3	0	1		1		1	1	rf4	TrophyBase4	1	0	0				invflag																																																					0
+Trophy4	3	0	1		1		1	1	rf4	TrophyBase4	1	0	0	cred	cred		invflag				str		1	40	dex		1	40	enr		1	40	vit		1	40	skill-rand	1	429	452	skill-rand	1	453	476	skill-rand	1	477	500	skill-rand	1	501	524	skill-rand	1	525	548	skill-rand	1	549	572	skill-rand	1	573	596						0
 Superdisenchant1	4	0	1		1		1	1	wt1	DisenchantmentScroll1		0	0	dgry	dgry		invscb				levelreq-display		50	50	dmg%-ac%-display		25	25	all-stats		10	10																																						0
 Superdisenchant2	5	0	1		1		1	1	wt2	DisenchantmentScroll2		0	0	dgry	dgry		invscb				levelreq-display		50	50	dmg%-ac%-display		25	25	all-stats		10	10																																						0
 Superdisenchant3	6	0	1		1		1	1	wt3	DisenchantmentScroll3		0	0	dgry	dgry		invscb				levelreq-display		50	50	dmg%-ac%-display		25	25	all-stats		10	10																																						0
@@ -119,21 +119,21 @@ Anessazi Dancer		0	1		1		1	1	aw2	Trishula		0	0								477				inherent-aspe	0	15	
 		0	1		1		1	1	aw3	Maiden Pike		0	0								478				inherent-aspe	0	20	20	dmg-mon%	4	50	50	automagic-human%	0	50	50	inherent-aspe		20	20	dmg-mon%	4	50	50	automagic-human%		50	50																						0
 		0	1		1		1	1	aw4	Corseque		0	0								479				inherent-aspe	0	25	25	dmg-mon%	4	50	50	automagic-human%	0	50	50	inherent-aspe		25	25	dmg-mon%	4	50	50	automagic-human%		50	50																						0
 		0	1		1		1	1	by1	Tribal Axe		0	0								483				inherent-bmel	0	10	10	0	0	0	0	0	0	0	0	inherent-bmel		10	10																														0
-		0	1		1		1	1	by2	Raiding Axe		0	0								485				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
-Dreadarc		0	1		1		1	1	by3	Sagaris		0	0								487				inherent-bmel	0	50	50	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
+		0	1		1		1	1	by2	Raiding Axe		0	0								485				inherent-bmel	0	20	20	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
+Dreadarc		0	1		1		1	1	by3	Sagaris		0	0								487				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
 Utar's Roar		0	1		1		1	1	ty1	Labrys		0	0								483				inherent-bmel	0	10	10	0	0	0	0	0	0	0	0	inherent-bmel		10	10																														0
-Bergkaiser		0	1		1		1	1	ty2	Ceremonial Axe		0	0								485				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
-		0	1		1		1	1	ty3	Twin Beard Axe		0	0								487				inherent-bmel	0	50	50	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
+Bergkaiser		0	1		1		1	1	ty2	Ceremonial Axe		0	0								485				inherent-bmel	0	20	20	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
+		0	1		1		1	1	ty3	Twin Beard Axe		0	0								487				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
 The Not Too Mighty Pen		0	1		1		1	1	cu1	Cutlass		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
 		0	1		1		1	1	cu2	Shamshir		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
 		0	1		1		1	1	cu3	Machete		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
 		0	1		1		1	1	ps1	Katzbalger		0	0								362				dmg-demon	0	100	100	0	0	0	0	0	0	0	0	dmg-demon		100	100																														0
 		0	1		1		1	1	ps2	Seax		0	0								362				dmg-demon	0	100	100	0	0	0	0	0	0	0	0	dmg-demon		100	100																														0
 Kaskara of the Taan		0	1		1		1	1	bg1	Laminated Sword		0	0								483				inherent-bmel	0	10	10	0	0	0	0	0	0	0	0	inherent-bmel		10	10																														0
-Skeld's Battlesong		0	1		1		1	1	bg2	Raiding Sword		0	0								484				inherent-bmel	0	20	20	0	0	0	0	0	0	0	0	inherent-bmel		20	20																														0
-		0	1		1		1	1	bg3	Engraved Sword		0	0								485				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
-		0	1		1		1	1	bg4	Zweihander		0	0								486				inherent-bmel	0	40	40	0	0	0	0	0	0	0	0	inherent-bmel		40	40																														0
-		0	1		1		1	1	bg5	Ceremonial Sword		0	0								487				inherent-bmel	0	50	50	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
+Skeld's Battlesong		0	1		1		1	1	bg2	Raiding Sword		0	0								484				inherent-bmel	0	15	15	0	0	0	0	0	0	0	0	inherent-bmel		20	20																														0
+		0	1		1		1	1	bg3	Engraved Sword		0	0								485				inherent-bmel	0	20	20	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
+		0	1		1		1	1	bg4	Zweihander		0	0								486				inherent-bmel	0	25	25	0	0	0	0	0	0	0	0	inherent-bmel		40	40																														0
+		0	1		1		1	1	bg5	Ceremonial Sword		0	0								487				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
 Mace of Contrition		0	1		1		1	1	pp1	Virge		0	0								361				dmg-undead	0	50	50	0	0	0	0	0	0	0	0	dmg-undead		50	50																														0
 Hand of Naz		0	1		1		1	1	pp2	Goedendag		0	0								361				dmg-undead	0	50	50	0	0	0	0	0	0	0	0	dmg-undead		50	50																														0
 		0			1		1	1	na1	Naginata		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0

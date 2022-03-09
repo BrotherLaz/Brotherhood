@@ -1890,9 +1890,9 @@
   "ultra": "torch/torch"
 } },
 { "trophy_1": {
-  "normal": "body_part/spleen",
-  "uber": "body_part/spleen",
-  "ultra": "body_part/spleen"
+  "normal": "gem/chaosphere",
+  "uber": "gem/chaosphere",
+  "ultra": "gem/chaosphere"
 } },
 { "trophy_2": {
   "normal": "body_part/heart",
@@ -1900,34 +1900,34 @@
   "ultra": "body_part/heart"
 } },
 { "trophy_3": {
-  "normal": "quest/mephisto_soul_stone",
-  "uber": "quest/mephisto_soul_stone",
-  "ultra": "quest/mephisto_soul_stone"
+  "normal": "quest/skull_gem",
+  "uber": "quest/skull_gem",
+  "ultra": "quest/skull_gem"
 } },
 { "trophy_4": {
-  "normal": "quest/mephisto_soul_stone",
-  "uber": "quest/mephisto_soul_stone",
-  "ultra": "quest/mephisto_soul_stone"
+  "normal": "quest/jade_head",
+  "uber": "quest/jade_head",
+  "ultra": "quest/jade_head"
 } },
 { "trophybase_1": {
-  "normal": "body_part/spleen",
-  "uber": "body_part/spleen",
-  "ultra": "body_part/spleen"
+  "normal": "gem/chaosphere",
+  "uber": "gem/chaosphere",
+  "ultra": "gem/chaosphere"
 } },
 { "trophybase_2": {
-  "normal": "torch/torch",
-  "uber": "torch/torch",
-  "ultra": "torch/torch"
+  "normal": "body_part/heart",
+  "uber": "body_part/heart",
+  "ultra": "body_part/heart"
 } },
 { "trophybase_3": {
-  "normal": "quest/mephisto_soul_stone",
-  "uber": "quest/mephisto_soul_stone",
-  "ultra": "quest/mephisto_soul_stone"
+  "normal": "quest/skull_gem",
+  "uber": "quest/skull_gem",
+  "ultra": "quest/skull_gem"
 } },
 { "trophybase_4": {
-  "normal": "quest/mephisto_soul_stone",
-  "uber": "quest/mephisto_soul_stone",
-  "ultra": "quest/mephisto_soul_stone"
+  "normal": "quest/jade_head",
+  "uber": "quest/jade_head",
+  "ultra": "quest/jade_head"
 } },
 { "superdisenchant_1": {
   "normal": "scroll/disenchant_scroll",

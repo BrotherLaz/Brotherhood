@@ -886,14 +886,14 @@
   { "ml4": { "asset": "shield/steelclash" } },
   { "kod": { "asset": "key/mephisto_key" } },
   { "ttx": { "asset": "quest/token_of_absolution" } },
-  { "rf1": { "asset": "body_part/spleen" } },
+  { "rf1": { "asset": "gem/chaosphere" } },
   { "rf2": { "asset": "body_part/heart" } },
   { "rf3": { "asset": "quest/skull_gem" } },
-  { "rf4": { "asset": "quest/jade_head" } },
-  { "du1": { "asset": "quest/twisted_essence_of_suffering" } },
-  { "du2": { "asset": "quest/charged_essense_of_hatred" } },
-  { "du3": { "asset": "quest/burning_essence_of_terror" } },
-  { "du4": { "asset": "quest/festering_essence_of_destruction" } },
+  { "rf4": { "asset": "quest/jade_head" } },  
+  { "du1": { "asset": "quest/blue_shard" } },
+  { "du2": { "asset": "quest/red_shard" } },
+  { "du3": { "asset": "quest/white_shard" } },
+  { "du4": { "asset": "quest/green_shard" } },
   { "cus": { "asset": "body_part/heart" } },
   { "cut": { "asset": "body_part/brain" } },
   { "cuu": { "asset": "body_part/jawbone" } },
@@ -1175,5 +1175,6 @@
   { "z67": { "asset": "quest/runeword_papers" } },
   { "z68": { "asset": "quest/runeword_papers" } },
   { "z69": { "asset": "quest/runeword_papers" } },
-  { "z70": { "asset": "quest/runeword_papers" } }
+  { "z70": { "asset": "quest/runeword_papers" } },
+  { "sxg": { "asset": "quest/refocusing_lens" } }
 ]

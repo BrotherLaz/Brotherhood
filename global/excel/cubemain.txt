@@ -125,6 +125,7 @@ Trophy 2 + Herb = update trophy	Trophy 2	1			0	16	473	18		2	rf2	wd37						useite
 Trophy 2 + Herb = update trophy	Trophy 2	1			0	16	473	18		2	rf2	wd38						useitem				pierce			5	5	levelreq			5	5	upgrade-tracker			1	1																																																																					0
 Trophy 2 + Herb = update trophy	Trophy 2	1			0	16	473	18		2	rf2	wd39						useitem				mana%			2	2	levelreq			5	5	upgrade-tracker			1	1																																																																					0
 Trophy 2 + Herb = update trophy	Trophy 2	1			0	16	473	18		2	rf2	wd40						useitem				hp%			2	2	levelreq			5	5	upgrade-tracker			1	1																																																																					0
+Trophy 4 + Holy Symbol = reroll trophy	Trophy 4	1			0					2	rf4	sxg						rf4,uni																																																																																							0
 Cube Jawbone + Any = remove socket fillers	Crafting Common	1			0					2	anyx,sock	cuu						useitem,rem																																																																																							0
 Cube Horn + Any = randomize	Crafting Common	1			0					2	anyx	cu5						usetype			95																																																																																				0
 Cube Tail + Any = randomize as different item	Crafting Common	1			0					2	anyx	cu6						anyx			95																																																																																				0
@@ -3185,6 +3186,11 @@ Test - Create item		1			0					1	tsc							af1	90																																
 Test - Create item		1			0					2	tsc,qty=2							or1,rar	90																																																																																						0
 Test - Create item		1			0					3	tsc,qty=3							spea,rar	90																																																																																						0
 Test - Create item		1			0					4	tsc,qty=4							sz2,mag	90																																																																																						0
+Test - Create trophy		1			0					1	isc							rf1,uni	90																																																																																						0
+Test - Create trophy		1			0					2	isc,qty=2							rf2,uni	90																																																																																						0
+Test - Create trophy		1			0					3	isc,qty=3							rf3,uni	90																																																																																						0
+Test - Create trophy		1			0					4	isc,qty=4							rf4,uni	90																																																																																						0
+Test - Create trophy		1			0					5	isc,qty=5							sxg	90																																																																																						0
 Test - Create disenchantment scroll (magic)		1			0					1	hpot							wt1,mag	10																																																																																						0
 Test - Create disenchantment scroll (unique)		1			0					2	hpot,qty=2							wt3,uni	10																																																																																						0
 Test - Loop disenchantment scroll		1			0					1	disi							disi	10																																																																																						0

@@ -37313,7 +37313,7 @@
   {"id": 35914, "Key": "DescTrophy1", "enUS": "Transmute with Dust to Replace Modifiers", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 35915, "Key": "DescTrophy2", "enUS": "Transmute with Herbs to Add Modifiers", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 35916, "Key": "DescTrophy3", "enUS": "Unused", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
-  {"id": 35917, "Key": "DescTrophy4", "enUS": "Unused", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 35917, "Key": "DescTrophy4", "enUS": "Transmute with Holy Symbol to Reroll Modifiers", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 35918, "Key": "DescDust", "enUS": "Replace Item Modifiers\nTransmute with Chaosphere:", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 35919, "Key": "DescCubeHeart", "enUS": "Unused", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 35920, "Key": "DescCubeBrain", "enUS": "Unused", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
@@ -37463,5 +37463,7 @@
   {"id": 36064, "Key": "DescRunewordz67", "enUS": "Shield\n\"RalOrtTal\"", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 36065, "Key": "DescRunewordz68", "enUS": "Shield\n\"RalOrtTal\"", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 36066, "Key": "DescRunewordz69", "enUS": "Shield\n\"RalOrtTal\"", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
-  {"id": 36067, "Key": "DescRunewordz70", "enUS": "Shield\n\"RalOrtTal\"", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""}  
+  {"id": 36067, "Key": "DescRunewordz70", "enUS": "Shield\n\"RalOrtTal\"", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36068, "Key": "sxg", "enUS": "ÿc4Holy Symbol", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36069, "Key": "DescRefocusingLens", "enUS": "Reroll\nTransmute with Bust of Sankekur:", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""}  
 ]

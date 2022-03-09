@@ -94,6 +94,7 @@ Old Religion Herb 3	Crafting									1						w22	1	w23	1	w24	1	w25	1	w26	1	w27	1	
 Old Religion Herb 4	Crafting									1						w15	1	w16	1	w17	1	w18	1	w19	1	w20	1	w21	1	Old Religion Herb 3	19								0
 Old Religion Herb 5	Crafting									1						w08	1	w09	1	w10	1	w11	1	w12	1	w13	1	w14	1	Old Religion Herb 4	26								0
 Old Religion Herb	Crafting									1						w01	1	w02	1	w03	1	w04	1	w05	1	w06	1	w07	1	Old Religion Herb 5	33								0
+Sankekur Holy Symbol	Crafting									1						sxg	1																						0
 Prefix Orb 1	Crafting									1						i29	1	i30	1	i31	1	i32	1	i33	1	i34	1	i35	1										0
 Prefix Orb 2	Crafting									1						i22	1	i23	1	i24	1	i25	1	i26	1	i27	1	i28	1	Prefix Orb 1	7								0
 Prefix Orb 3	Crafting									1						i15	1	i16	1	i17	1	i18	1	i19	1	i20	1	i21	1	Prefix Orb 2	14								0
@@ -123,45 +124,45 @@ Runeword Text 9	Crafting									1						z08	1	z09	1	z10	1	z11	1	z12	1	z13	1	z14	
 Runeword Text	Crafting									1						z01	1	z02	1	z03	1	z04	1	z05	1	z06	1	z07	1	Runeword Text 9	63								0
 Crafting Common	Crafting									1						cuu	4	cu5	4	cu6	4	cu8	4	cu9	4	Runeword Text	1												0
 Crafting Unique	Crafting									1						ix1	1	ix2	1	ix3	1	ix4	1	ix5	1	ix6	1	ixp	1	ixs	1								0
-Act 3 Ingredient Scroll	Crafting									1						cu0	8	wt1	4																	#VERW!			0
-Act 4 Ingredient Scroll	Crafting									1						cu0	8	wt1	4																	#VERW!			0
-Act 5 Ingredient Scroll	Crafting									1						cu0	8	wt1	4																	#VERW!			0
-Act 1 (N) Ingredient Scroll	Crafting									1						cu0	8	wt1	3	wt2	1															#VERW!			0
-Act 2 (N) Ingredient Scroll	Crafting									1						cu0	8	wt1	3	wt2	1															#VERW!			0
-Act 3 (N) Ingredient Scroll	Crafting									1						cu0	8	wt1	3	wt2	1															#VERW!			0
-Act 4 (N) Ingredient Scroll	Crafting									1						cu0	8	wt1	3	wt2	1															#VERW!			0
-Act 5 (N) Ingredient Scroll	Crafting									1						cu0	8	wt1	3	wt2	1															#VERW!			0
-Act 1 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	2	wt2	1	wt3	1													#VERW!			0
-Act 2 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	2	wt2	1	wt3	1													#VERW!			0
-Act 3 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	2	wt2	1	wt3	1													#VERW!			0
-Act 4 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	1	wt2	1	wt3	1	wt4	1											#VERW!			0
-Act 5 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	1	wt2	1	wt3	1	wt4	1											#VERW!			0
-Act 3 Crafting Good	Crafting Good pieces						40			1						Crafting Common	10	Portal Generator	10	Act 3 Ingredient Scroll	8	Clockwork Orb	4	Old Religion Herb	8											#VERW!			0
-Act 4 Crafting Good	Crafting Good pieces						40			1						Crafting Common	10	Portal Generator	10	Act 4 Ingredient Scroll	8	Clockwork Orb	4	Old Religion Herb	8											#VERW!			0
-Act 5 Crafting Good	Crafting Good pieces						40			1						Crafting Common	10	Portal Generator	10	Act 5 Ingredient Scroll	8	Clockwork Orb	4	Old Religion Herb	8											#VERW!			0
-Act 1 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	8	Portal Generator	10	Act 1 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8									#VERW!			0
-Act 2 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	8	Portal Generator	10	Act 2 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8									#VERW!			0
-Act 3 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 3 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
-Act 4 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 4 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
-Act 5 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 5 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
-Act 1 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 1 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
-Act 2 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 2 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
-Act 3 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 3 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
-Act 4 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 4 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
-Act 5 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 5 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
-Act 3 Crafting	Crafting pieces									1						Crafting Common	30	Act 3 Crafting Good	20																	#VERW!			0
-Act 4 Crafting	Crafting pieces									1						Crafting Common	30	Act 4 Crafting Good	20																	#VERW!			0
-Act 5 Crafting	Crafting pieces									1						Crafting Common	30	Act 5 Crafting Good	20																	#VERW!			0
-Act 1 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 1 (N) Crafting Good	20																	#VERW!			0
-Act 2 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 2 (N) Crafting Good	20																	#VERW!			0
-Act 3 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 3 (N) Crafting Good	20																	#VERW!			0
-Act 4 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 4 (N) Crafting Good	20																	#VERW!			0
-Act 5 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 5 (N) Crafting Good	20																	#VERW!			0
-Act 1 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 1 (H) Crafting Good	20																	#VERW!			0
-Act 2 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 2 (H) Crafting Good	20																	#VERW!			0
-Act 3 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 3 (H) Crafting Good	20																	#VERW!			0
-Act 4 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 4 (H) Crafting Good	20																	#VERW!			0
-Act 5 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 5 (H) Crafting Good	20																	#VERW!			0
+Act 3 Ingredient Scroll	Crafting									1						cu0	8	wt1	4																	12			0
+Act 4 Ingredient Scroll	Crafting									1						cu0	8	wt1	4																	12			0
+Act 5 Ingredient Scroll	Crafting									1						cu0	8	wt1	4																	12			0
+Act 1 (N) Ingredient Scroll	Crafting									1						cu0	8	wt1	3	wt2	1															12			0
+Act 2 (N) Ingredient Scroll	Crafting									1						cu0	8	wt1	3	wt2	1															12			0
+Act 3 (N) Ingredient Scroll	Crafting									1						cu0	8	wt1	3	wt2	1															12			0
+Act 4 (N) Ingredient Scroll	Crafting									1						cu0	8	wt1	3	wt2	1															12			0
+Act 5 (N) Ingredient Scroll	Crafting									1						cu0	8	wt1	3	wt2	1															12			0
+Act 1 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	2	wt2	1	wt3	1													12			0
+Act 2 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	2	wt2	1	wt3	1													12			0
+Act 3 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	2	wt2	1	wt3	1													12			0
+Act 4 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	1	wt2	1	wt3	1	wt4	1											12			0
+Act 5 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	1	wt2	1	wt3	1	wt4	1											12			0
+Act 3 Crafting Good	Crafting Good pieces						40			1						Crafting Common	12	Portal Generator	8	Act 3 Ingredient Scroll	8	Clockwork Orb	4	Old Religion Herb	8											40			0
+Act 4 Crafting Good	Crafting Good pieces						40			1						Crafting Common	12	Portal Generator	8	Act 4 Ingredient Scroll	8	Clockwork Orb	4	Old Religion Herb	8											40			0
+Act 5 Crafting Good	Crafting Good pieces						40			1						Crafting Common	12	Portal Generator	8	Act 5 Ingredient Scroll	8	Clockwork Orb	4	Old Religion Herb	8											40			0
+Act 1 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	10	Portal Generator	8	Act 1 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8									40			0
+Act 2 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	10	Portal Generator	8	Act 2 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8									40			0
+Act 3 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 3 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							40			0
+Act 4 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 4 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							40			0
+Act 5 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 5 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							40			0
+Act 1 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 1 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							40			0
+Act 2 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 2 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							40			0
+Act 3 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	2	Portal Generator	8	Act 3 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4	Sankekur Holy Symbol	4					40			0
+Act 4 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	2	Portal Generator	8	Act 4 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4	Sankekur Holy Symbol	4					40			0
+Act 5 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	2	Portal Generator	8	Act 5 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4	Sankekur Holy Symbol	4					40			0
+Act 3 Crafting	Crafting pieces									1						Crafting Common	30	Act 3 Crafting Good	20																	50			0
+Act 4 Crafting	Crafting pieces									1						Crafting Common	30	Act 4 Crafting Good	20																	50			0
+Act 5 Crafting	Crafting pieces									1						Crafting Common	30	Act 5 Crafting Good	20																	50			0
+Act 1 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 1 (N) Crafting Good	20																	50			0
+Act 2 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 2 (N) Crafting Good	20																	50			0
+Act 3 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 3 (N) Crafting Good	20																	50			0
+Act 4 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 4 (N) Crafting Good	20																	50			0
+Act 5 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 5 (N) Crafting Good	20																	50			0
+Act 1 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 1 (H) Crafting Good	20																	50			0
+Act 2 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 2 (H) Crafting Good	20																	50			0
+Act 3 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 3 (H) Crafting Good	20																	50			0
+Act 4 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 4 (H) Crafting Good	20																	50			0
+Act 5 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 5 (H) Crafting Good	20																	50			0
 Act 1 Equip A	Base classes							1	0	1						weap3	7	armo3	7																				0
 Act 1 Equip B	Base classes							1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																0
 Act 1 Equip C	Base classes							1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
@@ -1035,12 +1036,18 @@ Act 4 (H) Super Cx	Nerfed Superunique		189,29%	1,04%	3,00%	10,72%	100,00%	18	87	
 Act 5 (H) Super Ax	Nerfed Superunique		190,09%	1,04%	3,00%	10,72%	100,00%	18	90	-4	433	512	833	1024	0	Act 5 (H) Citem A	1	Act 5 (H) Uitem A	1	Potion 6 Special	2																		0
 Act 5 (H) Super Bx	Nerfed Superunique		190,91%	1,04%	3,00%	10,72%	100,00%	18	93	-4	433	512	833	1024	0	Act 5 (H) Citem B	1	Act 5 (H) Uitem B	1	Potion 6 Special	2																		0
 Act 5 (H) Super Cx	Nerfed Superunique		191,74%	1,04%	3,00%	10,72%	100,00%	18	96	-4	433	512	833	1024	0	Act 5 (H) Citem C	1	Act 5 (H) Uitem C	1	Potion 6 Special	2																		0
-Drop Trophy 1	Boss drops for new items									-2	1024	1024	1024	1024	0	rf1	1																						0
-Drop Trophy 1 (N)	Boss drops for new items									-2	1024	1024	1024	1024	0	rf1	1																						0
-Drop Trophy 1 (H)	Boss drops for new items									-2	1024	1024	1024	1024	0	rf1	1																						0
-Drop Trophy 2	Boss drops for new items									-2	1024	1024	1024	1024	0	rf2	1																						0
-Drop Trophy 2 (N)	Boss drops for new items									-2	1024	1024	1024	1024	0	rf2	1																						0
-Drop Trophy 2 (H)	Boss drops for new items									-2	1024	1024	1024	1024	0	rf2	1																						0
+Drop Trophy 1	Boss drops for new items									-1	1024	1024	1024	1024	0	rf1	1																						0
+Drop Trophy 1 (N)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf1	1																						0
+Drop Trophy 1 (H)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf1	1																						0
+Drop Trophy 2	Boss drops for new items									-1	1024	1024	1024	1024	0	rf2	1																						0
+Drop Trophy 2 (N)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf2	1																						0
+Drop Trophy 2 (H)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf2	1																						0
+Drop Trophy 3	Boss drops for new items									-1	1024	1024	1024	1024	0	rf3	1																						0
+Drop Trophy 3 (N)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf3	1																						0
+Drop Trophy 3 (H)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf3	1																						0
+Drop Trophy 4	Boss drops for new items									-1	1024	1024	1024	1024	0	rf4	1																						0
+Drop Trophy 4 (N)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf4	1																						0
+Drop Trophy 4 (H)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf4	1																						0
 Blood Raven	Mini Boss	2 items + 1 gem + 2 potions	234,23%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 Citem B	2	Act 1 Uitem B	1	Potion 2	2																		0
 Blood Raven (N)	Mini Boss	2 items + 1 gem + 2 potions	248,15%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 (N) Citem B	2	Act 1 (N) Uitem B	1	Potion 6 Special	2																		0
 Blood Raven (H)	Mini Boss	2 items + 1 gem + 2 potions	265,29%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 (H) Citem B	2	Act 1 (H) Uitem B	1	Potion 6 Special	2																		0
