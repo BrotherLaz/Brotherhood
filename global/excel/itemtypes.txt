@@ -224,7 +224,7 @@ Crafting Herb	220		Crafting herb base type	cher			0	0					0	0	0	0			0	0	0	25	0	4
 Clockwork Orb	221		Clockwork orb base type	tick	trin		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Portal Generator	222		Portal generator base type	porg	trin		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Runeword Text	223		Runeword text base type	rude	trin		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Placeholder 224	224			p224			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Trophy 4	224		Trophy 4	tro4	ggwp	char	0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
 Placeholder 225	225			p225			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 226	226			p226			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder 227	227			p227			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

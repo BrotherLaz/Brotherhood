@@ -463,10 +463,10 @@ Amazon Bow	100			Inherent	1	1							4	480	inherent-abow		15	15										armo	wea
 Amazon Bow	100			Inherent	1	1							4	481	inherent-abow		20	20										armo	weap											0	0
 Amazon Bow	100			Inherent	1	1							4	482	inherent-abow		25	25										armo	weap											0	0
 Barbarian Melee	100			Inherent	1	1							4	483	inherent-bmel		10	10										armo	weap											0	0
-Barbarian Melee	100			Inherent	1	1							4	484	inherent-bmel		20	20										armo	weap											0	0
-Barbarian Melee	100			Inherent	1	1							4	485	inherent-bmel		30	30										armo	weap											0	0
-Barbarian Melee	100			Inherent	1	1							4	486	inherent-bmel		40	40										armo	weap											0	0
-Barbarian Melee	100			Inherent	1	1							4	487	inherent-bmel		50	50										armo	weap											0	0
+Barbarian Melee	100			Inherent	1	1							4	484	inherent-bmel		15	15										armo	weap											0	0
+Barbarian Melee	100			Inherent	1	1							4	485	inherent-bmel		20	20										armo	weap											0	0
+Barbarian Melee	100			Inherent	1	1							4	486	inherent-bmel		25	25										armo	weap											0	0
+Barbarian Melee	100			Inherent	1	1							4	487	inherent-bmel		30	30										armo	weap											0	0
 Barbarian Shield	100			Inherent	1	1							4	488	inherent-bshd		10	10										armo	weap											0	0
 Barbarian Shield	100			Inherent	1	1							4	489	inherent-bshd		15	15										armo	weap											0	0
 Barbarian Shield	100			Inherent	1	1							4	490	inherent-bshd		20	20										armo	weap											0	0
@@ -600,8 +600,8 @@ Signature Item Property	100			Clockwork Orb	1	1							4	324					levelreq-display
 Ingredient Key Poe	100			Crafting Unique	1	1							4	325	keystack		50	50										trin												0	0
 Potion Stack	100			Crafting Unique	1	1							4	326	potionstack		50	50										trin												0	0
 Item Stack	100			Crafting Unique	1	1							4	327	itemstack		10	10										trin												0	0
-Ingredient Deck	100			Crafting Unique	1	1							4	328	random-mods-display		1	4	rerollstack		10	10						trin												0	0
+Ingredient Deck	100			Crafting Unique	1	1							4	328	rerollstack		10	10										trin												0	0
 Ingredient Gemstone Eye	100			Crafting Unique	1	1							4	330	leveldelta		20	20	rerollstack		10	10	levelreq-display		-10	-10		trin												0	0
 Ingredient Pyramid	100			Crafting Unique	1	1							4	329	chargestack		5	5										trin												0	0
 Ingredient Tech Orb	100			Crafting Unique	1	1							4	332	chargestack		10	10										trin												0	0
-Charge Stack	100			Crafting Unique	1	1							4	331	leveldelta%		50	50										trin												0	0
+Ingredient Guidestone	100			Crafting Unique	1	1							4	333	chargestack		10	10										trin												0	0

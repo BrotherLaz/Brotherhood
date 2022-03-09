@@ -136,32 +136,32 @@ Act 2 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	2	wt2	1	wt3	1					
 Act 3 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	2	wt2	1	wt3	1													#VERW!			0
 Act 4 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	1	wt2	1	wt3	1	wt4	1											#VERW!			0
 Act 5 (H) Ingredient Scroll	Crafting									1						cu0	8	wt1	1	wt2	1	wt3	1	wt4	1											#VERW!			0
-Act 3 Crafting Good	Crafting Good pieces						40			1						Crafting Common	12	Portal Generator	10	Act 3 Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4									#VERW!			0
-Act 4 Crafting Good	Crafting Good pieces						40			1						Crafting Common	12	Portal Generator	10	Act 4 Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4									#VERW!			0
-Act 5 Crafting Good	Crafting Good pieces						40			1						Crafting Common	12	Portal Generator	10	Act 5 Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4									#VERW!			0
-Act 1 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	12	Portal Generator	10	Act 1 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4									#VERW!			0
-Act 2 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	12	Portal Generator	10	Act 2 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4									#VERW!			0
-Act 3 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 3 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4	Old Religion Herb	8							#VERW!			0
-Act 4 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 4 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4	Old Religion Herb	8							#VERW!			0
-Act 5 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 5 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4	Old Religion Herb	8							#VERW!			0
-Act 1 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 1 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4	Old Religion Herb	8							#VERW!			0
-Act 2 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 2 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4	Old Religion Herb	8							#VERW!			0
-Act 3 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 3 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4	Old Religion Herb	8							#VERW!			0
-Act 4 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 4 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4	Old Religion Herb	8							#VERW!			0
-Act 5 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 5 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Trophy Dust	4	Old Religion Herb	8							#VERW!			0
-Act 3 Crafting	Crafting pieces									1						Crafting Common	20	Act 3 Crafting Good	20																	#VERW!			0
-Act 4 Crafting	Crafting pieces									1						Crafting Common	20	Act 4 Crafting Good	20																	#VERW!			0
-Act 5 Crafting	Crafting pieces									1						Crafting Common	20	Act 5 Crafting Good	20																	#VERW!			0
-Act 1 (N) Crafting	Crafting pieces									1						Crafting Common	20	Act 1 (N) Crafting Good	20																	#VERW!			0
-Act 2 (N) Crafting	Crafting pieces									1						Crafting Common	20	Act 2 (N) Crafting Good	20																	#VERW!			0
-Act 3 (N) Crafting	Crafting pieces									1						Crafting Common	20	Act 3 (N) Crafting Good	20																	#VERW!			0
-Act 4 (N) Crafting	Crafting pieces									1						Crafting Common	20	Act 4 (N) Crafting Good	20																	#VERW!			0
-Act 5 (N) Crafting	Crafting pieces									1						Crafting Common	20	Act 5 (N) Crafting Good	20																	#VERW!			0
-Act 1 (H) Crafting	Crafting pieces									1						Crafting Common	20	Act 1 (H) Crafting Good	20																	#VERW!			0
-Act 2 (H) Crafting	Crafting pieces									1						Crafting Common	20	Act 2 (H) Crafting Good	20																	#VERW!			0
-Act 3 (H) Crafting	Crafting pieces									1						Crafting Common	20	Act 3 (H) Crafting Good	20																	#VERW!			0
-Act 4 (H) Crafting	Crafting pieces									1						Crafting Common	20	Act 4 (H) Crafting Good	20																	#VERW!			0
-Act 5 (H) Crafting	Crafting pieces									1						Crafting Common	20	Act 5 (H) Crafting Good	20																	#VERW!			0
+Act 3 Crafting Good	Crafting Good pieces						40			1						Crafting Common	10	Portal Generator	10	Act 3 Ingredient Scroll	8	Clockwork Orb	4	Old Religion Herb	8											#VERW!			0
+Act 4 Crafting Good	Crafting Good pieces						40			1						Crafting Common	10	Portal Generator	10	Act 4 Ingredient Scroll	8	Clockwork Orb	4	Old Religion Herb	8											#VERW!			0
+Act 5 Crafting Good	Crafting Good pieces						40			1						Crafting Common	10	Portal Generator	10	Act 5 Ingredient Scroll	8	Clockwork Orb	4	Old Religion Herb	8											#VERW!			0
+Act 1 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	8	Portal Generator	10	Act 1 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8									#VERW!			0
+Act 2 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	8	Portal Generator	10	Act 2 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8									#VERW!			0
+Act 3 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 3 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
+Act 4 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 4 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
+Act 5 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 5 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
+Act 1 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 1 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
+Act 2 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 2 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
+Act 3 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 3 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
+Act 4 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 4 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
+Act 5 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	4	Portal Generator	10	Act 5 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							#VERW!			0
+Act 3 Crafting	Crafting pieces									1						Crafting Common	30	Act 3 Crafting Good	20																	#VERW!			0
+Act 4 Crafting	Crafting pieces									1						Crafting Common	30	Act 4 Crafting Good	20																	#VERW!			0
+Act 5 Crafting	Crafting pieces									1						Crafting Common	30	Act 5 Crafting Good	20																	#VERW!			0
+Act 1 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 1 (N) Crafting Good	20																	#VERW!			0
+Act 2 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 2 (N) Crafting Good	20																	#VERW!			0
+Act 3 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 3 (N) Crafting Good	20																	#VERW!			0
+Act 4 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 4 (N) Crafting Good	20																	#VERW!			0
+Act 5 (N) Crafting	Crafting pieces									1						Crafting Common	30	Act 5 (N) Crafting Good	20																	#VERW!			0
+Act 1 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 1 (H) Crafting Good	20																	#VERW!			0
+Act 2 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 2 (H) Crafting Good	20																	#VERW!			0
+Act 3 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 3 (H) Crafting Good	20																	#VERW!			0
+Act 4 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 4 (H) Crafting Good	20																	#VERW!			0
+Act 5 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 5 (H) Crafting Good	20																	#VERW!			0
 Act 1 Equip A	Base classes							1	0	1						weap3	7	armo3	7																				0
 Act 1 Equip B	Base classes							1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																0
 Act 1 Equip C	Base classes							1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
@@ -410,48 +410,48 @@ Act 4 (H) Chest C	Chests	178,31%	44,58%	1,04%	2,60%	5,33%	42,86%	6	82	4	433	433	
 Act 5 (H) Chest A	Chests	182,72%	45,68%	1,04%	2,60%	5,33%	42,86%	6	83	4	433	433	640	800	8	gld,mul=2048	15	Act 5 (H) Equip A	37	Act 5 (H) Good	3	Act 5 (H) Junk	12	Act 5 (H) Crafting	6														0
 Act 5 (H) Chest B	Chests	187,34%	46,84%	1,04%	2,60%	5,33%	42,86%	6	84	4	433	433	640	800	7	gld,mul=2048	15	Act 5 (H) Equip B	37	Act 5 (H) Good	3	Act 5 (H) Junk	11	Act 5 (H) Crafting	6														0
 Act 5 (H) Chest C	Chests	192,21%	48,05%	1,04%	2,60%	5,33%	42,86%	6	85	4	433	433	640	800	6	gld,mul=2048	15	Act 5 (H) Equip B	37	Act 5 (H) Good	3	Act 5 (H) Junk	10	Act 5 (H) Crafting	6														0
-Act 1 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	0	1					100	gld	21	Act 1 Equip A	16	Act 1 Junk	15	Act 1 Good	2	Act 1 Melee A	4	Act 1 Healing A	2												0
-Act 1 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	5	1					100	gld	21	Act 1 Equip B	16	Act 1 Junk	15	Act 1 Good	2	Act 1 Melee B	4	Act 1 Healing B	2												0
-Act 1 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	9	1					100	gld	21	Act 1 Equip C	16	Act 1 Junk	15	Act 1 Good	2	Act 1 Melee C	4	Act 1 Healing C	2												0
-Act 2 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	12	1					100	gld	21	Act 2 Equip A	16	Act 2 Junk	15	Act 2 Good	2	Act 2 Melee A	4	Act 2 Healing A	2												0
-Act 2 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	15	1					100	gld	21	Act 2 Equip B	16	Act 2 Junk	15	Act 2 Good	2	Act 2 Melee B	4	Act 2 Healing B	2												0
-Act 2 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	18	1					100	gld	21	Act 2 Equip C	16	Act 2 Junk	13	Act 3 Good	2	Act 2 Melee C	4	Act 3 Crafting	2	Act 2 Healing C	2										0
-Act 3 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	20	1					100	gld	21	Act 3 Equip A	16	Act 3 Junk	11	Act 3 Good	2	Act 3 Melee A	4	Act 3 Crafting	4	Act 3 Healing A	2										0
-Act 3 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	22	1					100	gld	21	Act 3 Equip B	16	Act 3 Junk	11	Act 3 Good	2	Act 3 Melee B	4	Act 3 Crafting	4	Act 3 Healing B	2										0
-Act 3 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	24	1					100	gld	21	Act 3 Equip C	16	Act 3 Junk	11	Act 3 Good	2	Act 3 Melee C	4	Act 3 Crafting	4	Act 3 Healing C	2										0
-Act 4 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	26	1					100	gld	21	Act 4 Equip A	16	Act 4 Junk	11	Act 4 Good	2	Act 4 Melee A	4	Act 4 Crafting	4	Act 4 Healing A	2										0
-Act 4 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	29	1					100	gld	21	Act 4 Equip B	16	Act 4 Junk	11	Act 4 Good	2	Act 4 Melee B	4	Act 4 Crafting	4	Act 4 Healing B	2										0
-Act 5 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	32	1					100	gld	21	Act 5 Equip A	16	Act 5 Junk	11	Act 5 Good	2	Act 5 Melee A	4	Act 5 Crafting	4	Act 5 Healing A	2										0
-Act 5 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	34	1					100	gld	21	Act 5 Equip B	16	Act 5 Junk	11	Act 5 Good	2	Act 5 Melee B	4	Act 5 Crafting	4	Act 5 Healing B	2										0
-Act 5 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	36	1					100	gld	21	Act 5 Equip C	16	Act 5 Junk	11	Act 5 Good	2	Act 5 Melee C	4	Act 5 Crafting	4	Act 5 Healing C	2										0
-Act 1 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	38	1					100	gld	21	Act 1 (N) Equip A	16	Act 1 (N) Junk	11	Act 1 (N) Good	2	Act 1 (N) Melee A	4	Act 1 (N) Crafting	4	Act 1 (N) Healing A	2										0
-Act 1 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	40	1					100	gld	21	Act 1 (N) Equip B	16	Act 1 (N) Junk	11	Act 1 (N) Good	2	Act 1 (N) Melee B	4	Act 1 (N) Crafting	4	Act 1 (N) Healing B	2										0
-Act 1 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	41	1					100	gld	21	Act 1 (N) Equip B	16	Act 1 (N) Junk	11	Act 1 (N) Good	2	Act 1 (N) Melee B	4	Act 1 (N) Crafting	4	Act 1 (N) Healing B	2										0
-Act 2 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	42	1					100	gld	21	Act 2 (N) Equip A	16	Act 2 (N) Junk	11	Act 2 (N) Good	2	Act 2 (N) Melee A	4	Act 2 (N) Crafting	4	Act 2 (N) Healing A	2										0
-Act 2 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	44	1					100	gld	21	Act 2 (N) Equip B	16	Act 2 (N) Junk	11	Act 2 (N) Good	2	Act 2 (N) Melee B	4	Act 2 (N) Crafting	4	Act 2 (N) Healing B	2										0
-Act 2 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	45	1					100	gld	21	Act 2 (N) Equip B	16	Act 2 (N) Junk	11	Act 2 (N) Good	2	Act 2 (N) Melee B	4	Act 2 (N) Crafting	4	Act 2 (N) Healing B	2										0
-Act 3 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	46	1					100	gld	21	Act 3 (N) Equip A	16	Act 3 (N) Junk	11	Act 3 (N) Good	2	Act 3 (N) Melee A	4	Act 3 (N) Crafting	4	Act 3 (N) Healing A	2										0
-Act 3 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	48	1					100	gld	21	Act 3 (N) Equip B	16	Act 3 (N) Junk	11	Act 3 (N) Good	2	Act 3 (N) Melee B	4	Act 3 (N) Crafting	4	Act 3 (N) Healing B	2										0
-Act 3 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	50	1					100	gld	21	Act 3 (N) Equip B	16	Act 3 (N) Junk	11	Act 3 (N) Good	2	Act 3 (N) Melee B	4	Act 3 (N) Crafting	4	Act 3 (N) Healing B	2										0
-Act 4 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	51	1					100	gld	21	Act 4 (N) Equip A	16	Act 4 (N) Junk	11	Act 4 (N) Good	2	Act 4 (N) Melee A	4	Act 4 (N) Crafting	4	Act 4 (N) Healing A	2										0
-Act 4 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	54	1					100	gld	21	Act 4 (N) Equip B	16	Act 4 (N) Junk	11	Act 4 (N) Good	2	Act 4 (N) Melee B	4	Act 4 (N) Crafting	4	Act 4 (N) Healing B	2										0
-Act 5 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	57	1					100	gld	21	Act 5 (N) Equip A	16	Act 5 (N) Junk	11	Act 5 (N) Good	2	Act 5 (N) Melee A	4	Act 5 (N) Crafting	4	Act 5 (N) Healing A	2										0
-Act 5 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	60	1					100	gld	21	Act 5 (N) Equip B	16	Act 5 (N) Junk	11	Act 5 (N) Good	2	Act 5 (N) Melee B	4	Act 5 (N) Crafting	4	Act 5 (N) Healing B	2										0
-Act 5 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	62	1					100	gld	21	Act 5 (N) Equip C	16	Act 5 (N) Junk	11	Act 5 (N) Good	2	Act 5 (N) Melee C	4	Act 5 (N) Crafting	4	Act 5 (N) Healing C	2										0
-Act 1 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	63	1					100	gld	21	Act 1 (H) Equip A	16	Act 1 (H) Junk	11	Act 1 (H) Good	2	Act 1 (H) Melee A	4	Act 1 (H) Crafting	4	Act 1 (H) Healing A	2										0
-Act 1 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	66	1					100	gld	21	Act 1 (H) Equip B	16	Act 1 (H) Junk	11	Act 1 (H) Good	2	Act 1 (H) Melee B	4	Act 1 (H) Crafting	4	Act 1 (H) Healing B	2										0
-Act 1 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	68	1					100	gld	21	Act 1 (H) Equip B	16	Act 1 (H) Junk	11	Act 1 (H) Good	2	Act 1 (H) Melee B	4	Act 1 (H) Crafting	4	Act 1 (H) Healing B	2										0
-Act 2 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	69	1					100	gld	21	Act 2 (H) Equip A	16	Act 1 (H) Junk	11	Act 2 (H) Good	2	Act 2 (H) Melee A	4	Act 2 (H) Crafting	4	Act 2 (H) Healing A	2										0
-Act 2 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	71	1					100	gld	21	Act 2 (H) Equip B	16	Act 1 (H) Junk	11	Act 2 (H) Good	2	Act 2 (H) Melee B	4	Act 2 (H) Crafting	4	Act 2 (H) Healing B	2										0
-Act 2 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	73	1					100	gld	21	Act 2 (H) Equip B	16	Act 1 (H) Junk	11	Act 2 (H) Good	2	Act 2 (H) Melee B	4	Act 2 (H) Crafting	4	Act 2 (H) Healing B	2										0
-Act 3 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	74	1					100	gld	21	Act 3 (H) Equip A	16	Act 1 (H) Junk	11	Act 3 (H) Good	2	Act 3 (H) Melee A	4	Act 3 (H) Crafting	4	Act 3 (H) Healing A	2										0
-Act 3 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	76	1					100	gld	21	Act 3 (H) Equip B	16	Act 1 (H) Junk	11	Act 3 (H) Good	2	Act 3 (H) Melee B	4	Act 3 (H) Crafting	4	Act 3 (H) Healing B	2										0
-Act 3 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	77	1					100	gld	21	Act 3 (H) Equip B	16	Act 1 (H) Junk	11	Act 3 (H) Good	2	Act 3 (H) Melee B	4	Act 3 (H) Crafting	4	Act 3 (H) Healing B	2										0
-Act 4 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	79	1					100	gld	21	Act 4 (H) Equip A	16	Act 1 (H) Junk	11	Act 4 (H) Good	2	Act 4 (H) Melee A	4	Act 4 (H) Crafting	4	Act 4 (H) Healing A	2										0
-Act 4 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	80	1					100	gld	21	Act 4 (H) Equip B	16	Act 1 (H) Junk	11	Act 4 (H) Good	2	Act 4 (H) Melee B	4	Act 4 (H) Crafting	4	Act 4 (H) Healing B	2										0
-Act 5 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	82	1					100	gld	21	Act 5 (H) Equip A	16	Act 1 (H) Junk	11	Act 5 (H) Good	2	Act 5 (H) Melee A	4	Act 5 (H) Crafting	4	Act 5 (H) Healing A	2										0
-Act 5 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	83	1					100	gld	21	Act 5 (H) Equip B	16	Act 1 (H) Junk	11	Act 5 (H) Good	2	Act 5 (H) Melee B	4	Act 5 (H) Crafting	4	Act 5 (H) Healing B	2										0
-Act 5 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	85	1					100	gld	21	Act 5 (H) Equip C	16	Act 1 (H) Junk	11	Act 5 (H) Good	2	Act 5 (H) Melee C	4	Act 5 (H) Crafting	4	Act 5 (H) Healing C	2										0
+Act 1 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	0	1					100	gld	21	Act 1 Equip A	16	Act 1 Junk	15	Act 1 Good	2	Act 1 Melee A	4	Act 1 Healing A	2			160									0
+Act 1 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	5	1					100	gld	21	Act 1 Equip B	16	Act 1 Junk	15	Act 1 Good	2	Act 1 Melee B	4	Act 1 Healing B	2			160									0
+Act 1 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	9	1					100	gld	21	Act 1 Equip C	16	Act 1 Junk	15	Act 1 Good	2	Act 1 Melee C	4	Act 1 Healing C	2			160									0
+Act 2 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	12	1					100	gld	21	Act 2 Equip A	16	Act 2 Junk	15	Act 2 Good	2	Act 2 Melee A	4	Act 2 Healing A	2			160									0
+Act 2 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	15	1					100	gld	21	Act 2 Equip B	16	Act 2 Junk	15	Act 2 Good	2	Act 2 Melee B	4	Act 2 Healing B	2			160									0
+Act 2 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	18	1					100	gld	21	Act 2 Equip C	16	Act 2 Junk	13	Act 3 Good	2	Act 2 Melee C	4	Act 3 Crafting	2	Act 2 Healing C	2	160									0
+Act 3 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	20	1					100	gld	21	Act 3 Equip A	16	Act 3 Junk	11	Act 3 Good	2	Act 3 Melee A	4	Act 3 Crafting	4	Act 3 Healing A	2	160									0
+Act 3 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	22	1					100	gld	21	Act 3 Equip B	16	Act 3 Junk	11	Act 3 Good	2	Act 3 Melee B	4	Act 3 Crafting	4	Act 3 Healing B	2	160									0
+Act 3 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	24	1					100	gld	21	Act 3 Equip C	16	Act 3 Junk	11	Act 3 Good	2	Act 3 Melee C	4	Act 3 Crafting	4	Act 3 Healing C	2	160									0
+Act 4 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	26	1					100	gld	21	Act 4 Equip A	16	Act 4 Junk	11	Act 4 Good	2	Act 4 Melee A	4	Act 4 Crafting	4	Act 4 Healing A	2	160									0
+Act 4 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	29	1					100	gld	21	Act 4 Equip B	16	Act 4 Junk	11	Act 4 Good	2	Act 4 Melee B	4	Act 4 Crafting	4	Act 4 Healing B	2	160									0
+Act 5 H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	32	1					100	gld	21	Act 5 Equip A	16	Act 5 Junk	11	Act 5 Good	2	Act 5 Melee A	4	Act 5 Crafting	4	Act 5 Healing A	2	160									0
+Act 5 H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	34	1					100	gld	21	Act 5 Equip B	16	Act 5 Junk	11	Act 5 Good	2	Act 5 Melee B	4	Act 5 Crafting	4	Act 5 Healing B	2	160									0
+Act 5 H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	36	1					100	gld	21	Act 5 Equip C	16	Act 5 Junk	11	Act 5 Good	2	Act 5 Melee C	4	Act 5 Crafting	4	Act 5 Healing C	2	160									0
+Act 1 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	38	1					100	gld	21	Act 1 (N) Equip A	16	Act 1 (N) Junk	11	Act 1 (N) Good	2	Act 1 (N) Melee A	4	Act 1 (N) Crafting	4	Act 1 (N) Healing A	2	160									0
+Act 1 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	40	1					100	gld	21	Act 1 (N) Equip B	16	Act 1 (N) Junk	11	Act 1 (N) Good	2	Act 1 (N) Melee B	4	Act 1 (N) Crafting	4	Act 1 (N) Healing B	2	160									0
+Act 1 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	41	1					100	gld	21	Act 1 (N) Equip B	16	Act 1 (N) Junk	11	Act 1 (N) Good	2	Act 1 (N) Melee B	4	Act 1 (N) Crafting	4	Act 1 (N) Healing B	2	160									0
+Act 2 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	42	1					100	gld	21	Act 2 (N) Equip A	16	Act 2 (N) Junk	11	Act 2 (N) Good	2	Act 2 (N) Melee A	4	Act 2 (N) Crafting	4	Act 2 (N) Healing A	2	160									0
+Act 2 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	44	1					100	gld	21	Act 2 (N) Equip B	16	Act 2 (N) Junk	11	Act 2 (N) Good	2	Act 2 (N) Melee B	4	Act 2 (N) Crafting	4	Act 2 (N) Healing B	2	160									0
+Act 2 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	45	1					100	gld	21	Act 2 (N) Equip B	16	Act 2 (N) Junk	11	Act 2 (N) Good	2	Act 2 (N) Melee B	4	Act 2 (N) Crafting	4	Act 2 (N) Healing B	2	160									0
+Act 3 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	46	1					100	gld	21	Act 3 (N) Equip A	16	Act 3 (N) Junk	11	Act 3 (N) Good	2	Act 3 (N) Melee A	4	Act 3 (N) Crafting	4	Act 3 (N) Healing A	2	160									0
+Act 3 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	48	1					100	gld	21	Act 3 (N) Equip B	16	Act 3 (N) Junk	11	Act 3 (N) Good	2	Act 3 (N) Melee B	4	Act 3 (N) Crafting	4	Act 3 (N) Healing B	2	160									0
+Act 3 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	50	1					100	gld	21	Act 3 (N) Equip B	16	Act 3 (N) Junk	11	Act 3 (N) Good	2	Act 3 (N) Melee B	4	Act 3 (N) Crafting	4	Act 3 (N) Healing B	2	160									0
+Act 4 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	51	1					100	gld	21	Act 4 (N) Equip A	16	Act 4 (N) Junk	11	Act 4 (N) Good	2	Act 4 (N) Melee A	4	Act 4 (N) Crafting	4	Act 4 (N) Healing A	2	160									0
+Act 4 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	54	1					100	gld	21	Act 4 (N) Equip B	16	Act 4 (N) Junk	11	Act 4 (N) Good	2	Act 4 (N) Melee B	4	Act 4 (N) Crafting	4	Act 4 (N) Healing B	2	160									0
+Act 5 (N) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	57	1					100	gld	21	Act 5 (N) Equip A	16	Act 5 (N) Junk	11	Act 5 (N) Good	2	Act 5 (N) Melee A	4	Act 5 (N) Crafting	4	Act 5 (N) Healing A	2	160									0
+Act 5 (N) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	60	1					100	gld	21	Act 5 (N) Equip B	16	Act 5 (N) Junk	11	Act 5 (N) Good	2	Act 5 (N) Melee B	4	Act 5 (N) Crafting	4	Act 5 (N) Healing B	2	160									0
+Act 5 (N) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	62	1					100	gld	21	Act 5 (N) Equip C	16	Act 5 (N) Junk	11	Act 5 (N) Good	2	Act 5 (N) Melee C	4	Act 5 (N) Crafting	4	Act 5 (N) Healing C	2	160									0
+Act 1 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	63	1					100	gld	21	Act 1 (H) Equip A	16	Act 1 (H) Junk	11	Act 1 (H) Good	2	Act 1 (H) Melee A	4	Act 1 (H) Crafting	4	Act 1 (H) Healing A	2	160									0
+Act 1 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	66	1					100	gld	21	Act 1 (H) Equip B	16	Act 1 (H) Junk	11	Act 1 (H) Good	2	Act 1 (H) Melee B	4	Act 1 (H) Crafting	4	Act 1 (H) Healing B	2	160									0
+Act 1 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	68	1					100	gld	21	Act 1 (H) Equip B	16	Act 1 (H) Junk	11	Act 1 (H) Good	2	Act 1 (H) Melee B	4	Act 1 (H) Crafting	4	Act 1 (H) Healing B	2	160									0
+Act 2 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	69	1					100	gld	21	Act 2 (H) Equip A	16	Act 1 (H) Junk	11	Act 2 (H) Good	2	Act 2 (H) Melee A	4	Act 2 (H) Crafting	4	Act 2 (H) Healing A	2	160									0
+Act 2 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	71	1					100	gld	21	Act 2 (H) Equip B	16	Act 1 (H) Junk	11	Act 2 (H) Good	2	Act 2 (H) Melee B	4	Act 2 (H) Crafting	4	Act 2 (H) Healing B	2	160									0
+Act 2 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	73	1					100	gld	21	Act 2 (H) Equip B	16	Act 1 (H) Junk	11	Act 2 (H) Good	2	Act 2 (H) Melee B	4	Act 2 (H) Crafting	4	Act 2 (H) Healing B	2	160									0
+Act 3 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	74	1					100	gld	21	Act 3 (H) Equip A	16	Act 1 (H) Junk	11	Act 3 (H) Good	2	Act 3 (H) Melee A	4	Act 3 (H) Crafting	4	Act 3 (H) Healing A	2	160									0
+Act 3 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	76	1					100	gld	21	Act 3 (H) Equip B	16	Act 1 (H) Junk	11	Act 3 (H) Good	2	Act 3 (H) Melee B	4	Act 3 (H) Crafting	4	Act 3 (H) Healing B	2	160									0
+Act 3 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	77	1					100	gld	21	Act 3 (H) Equip B	16	Act 1 (H) Junk	11	Act 3 (H) Good	2	Act 3 (H) Melee B	4	Act 3 (H) Crafting	4	Act 3 (H) Healing B	2	160									0
+Act 4 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	79	1					100	gld	21	Act 4 (H) Equip A	16	Act 1 (H) Junk	11	Act 4 (H) Good	2	Act 4 (H) Melee A	4	Act 4 (H) Crafting	4	Act 4 (H) Healing A	2	160									0
+Act 4 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	80	1					100	gld	21	Act 4 (H) Equip B	16	Act 1 (H) Junk	11	Act 4 (H) Good	2	Act 4 (H) Melee B	4	Act 4 (H) Crafting	4	Act 4 (H) Healing B	2	160									0
+Act 5 (H) H2H A	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	82	1					100	gld	21	Act 5 (H) Equip A	16	Act 1 (H) Junk	11	Act 5 (H) Good	2	Act 5 (H) Melee A	4	Act 5 (H) Crafting	4	Act 5 (H) Healing A	2	160									0
+Act 5 (H) H2H B	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	83	1					100	gld	21	Act 5 (H) Equip B	16	Act 1 (H) Junk	11	Act 5 (H) Good	2	Act 5 (H) Melee B	4	Act 5 (H) Crafting	4	Act 5 (H) Healing B	2	160									0
+Act 5 (H) H2H C	Monster classes	1,25%	10,00%	0,60%	1,50%	2,00%	9,38%	7	85	1					100	gld	21	Act 5 (H) Equip C	16	Act 1 (H) Junk	11	Act 5 (H) Good	2	Act 5 (H) Melee C	4	Act 5 (H) Crafting	4	Act 5 (H) Healing C	2	160									0
 Act 1 H2H Big A	Monster classes							7	0	-2					0	Act 1 H2H A	2																						0
 Act 1 H2H Big B	Monster classes							7	5	-2					0	Act 1 H2H B	2																						0
 Act 1 H2H Big C	Monster classes							7	9	-2					0	Act 1 H2H C	2																						0
@@ -1062,7 +1062,7 @@ Smith (H)	Mini Boss	2 items + 1 gem + 2 potions	266,67%	1,20%	4,00%	12,96%	100,0
 Radament	Mini Boss	2 items + 1 gem + 2 potions	236,99%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 Citem B	2	Act 2 Uitem B	1	Potion 6 Special	2																		0
 Radament (N)	Mini Boss	2 items + 1 gem + 2 potions	269,49%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 (H) Citem B	2	Act 2 (H) Uitem B	1	Potion 6 Special	2																		0
 Radament (H)	Mini Boss	2 items + 1 gem + 2 potions	269,49%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 (H) Citem B	2	Act 2 (H) Uitem B	1	Potion 6 Special	2																		0
-Summoner	Mini Boss	2 items + 1 gem + 2 potions	237,93%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 Citem C	2	Act 2 Uitem C	1	Drop Trophy 1	1	dust	1																0
+Summoner	Mini Boss	2 items + 1 gem + 2 potions	237,93%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 Citem C	2	Act 2 Uitem C	1	Potion 6 Special	2																		0
 Summoner (N)	Mini Boss	2 items + 1 gem + 2 potions	252,67%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 (N) Citem C	2	Act 2 (N) Uitem C	1	Drop Trophy 1 (N)	1	dust	1																0
 Summoner (H)	Mini Boss	2 items + 1 gem + 2 potions	270,94%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 (H) Citem C	2	Act 2 (H) Uitem C	1	Drop Trophy 1 (H)	1	dust	1																0
 Council	Mini Boss	2 items + 1 gem + 2 potions	241,84%	2,11%	6,86%	22,51%	100,00%			-5	733	800	933	1024	0	Act 4 Citem A	2	Act 4 Uitem A	1	Potion 6 Special	2																		0
