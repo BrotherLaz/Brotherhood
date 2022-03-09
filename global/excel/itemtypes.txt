@@ -4,8 +4,8 @@ None	1						0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Shield	2			shie	shld		1	1	rarm	larm			0	0	0	0		1	0	0	1	25	2	40	3	0	3			0							armo	0
 Armor	3			tors	armo		1	1	tors	tors			0	0	0	0		1	0	0	1	25	3	40	4	0	6			0							armo	0
 Gold	4			gold	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0								0
-Bow Quiver	5			bowq	misl		0	1	rarm	larm		bow	0	1	0	1			1	0	0	25	0	40	0	0	4			0							misc	0
-Crossbow Quiver	6			xboq	misl		0	1	rarm	larm		xbow	0	1	0	1			1	0	0	25	0	40	0	0	4			0							misc	0
+Bow Quiver	5			bowq	misl		0	1	rarm	larm		bow	0	1	0	1			0	0	0	25	0	40	0	0	4			0							misc	0
+Crossbow Quiver	6			xboq	misl		0	1	rarm	larm		xbow	0	1	0	1			0	0	0	25	0	40	0	0	4			0							misc	0
 Player Body Part	7			play	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	4			0							misc	0
 Herb	8			herb	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Potion	9			poti	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	4			0							misc	0

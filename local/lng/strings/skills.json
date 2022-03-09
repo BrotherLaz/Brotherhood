@@ -37465,5 +37465,16 @@
   {"id": 36066, "Key": "DescRunewordz69", "enUS": "Shield\n\"RalOrtTal\"", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 36067, "Key": "DescRunewordz70", "enUS": "Shield\n\"RalOrtTal\"", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 36068, "Key": "sxg", "enUS": "ÿc4Holy Symbol", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
-  {"id": 36069, "Key": "DescRefocusingLens", "enUS": "Reroll\nTransmute with Bust of Sankekur:", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""}  
+  {"id": 36069, "Key": "DescRefocusingLens", "enUS": "Reroll\nTransmute with Bust of Sankekur:", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36070, "Key": "ModDurabilityNeg", "enUS": "Reduce Maximum Durability %+d%%", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36071, "Key": "ModBalanceNeg", "enUS": "%+d%% Slower Hit Recovery", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36072, "Key": "ModBlockNeg", "enUS": "%+d%% Slower Block Rate", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36073, "Key": "ModAttackNeg", "enUS": "%+d%% Reduced Attack Speed", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36074, "Key": "ModCastNeg", "enUS": "%+d%% Slower Cast Rate", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36075, "Key": "ModMoveNeg", "enUS": "%+d%% Slower Run/Walk", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36076, "Key": "ModDmgRedNeg", "enUS": "Damage Reduction %+d", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36077, "Key": "ModMagRedNeg", "enUS": "Magic Damage Reduction %+d", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36078, "Key": "ModGoldNeg", "enUS": "%d%% Less Gold from Monsters", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36079, "Key": "ModMFNeg", "enUS": "%d%% Worse Chance of Getting Magic Items", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 36080, "Key": "ModBlockNeg", "enUS": "%d%% Reduced Chance of Blocking", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""}  
 ]

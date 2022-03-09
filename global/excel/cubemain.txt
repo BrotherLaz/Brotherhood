@@ -3182,7 +3182,8 @@ Portal Generator = red portal	Unused				0					1	p33							Red Portal,qty=0						
 Portal Generator = red portal	Unused				0					1	p34							Red Portal,qty=0																																																																																							0
 Portal Generator = red portal	Unused				0					1	p35							Red Portal,qty=0																																																																																							0
 Rare jewel = 2 magic jewels	Misc	1			0	3	12	20		1	jewl,rar							jewl,mag			100																										jewl,mag			100																																																							0
-Test - Create item		1			0					1	tsc							af1	90																																																																																						0
+Test - Create item		1			0					1	tsc							aqv	90																																																																																						0
+Test - Create item		1			0					1	aqv							aqv	90																																																																																						0
 Test - Create item		1			0					2	tsc,qty=2							or1,rar	90																																																																																						0
 Test - Create item		1			0					3	tsc,qty=3							spea,rar	90																																																																																						0
 Test - Create item		1			0					4	tsc,qty=4							sz2,mag	90																																																																																						0
