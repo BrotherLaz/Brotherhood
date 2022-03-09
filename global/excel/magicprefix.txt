@@ -1,5 +1,5 @@
 Name	version	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	multiply	add
-Broken	1	1		1	30	0				2	600	ac		-3	-10										armo	ring	amul	pama	pasc	staf	h2h						0	0
+Broken	1			1	30	0				2	600	ac		-3	-10										armo	ring	amul	pama	pasc	staf	h2h						0	0
 Stout	1	1	1	1		0				4	600	ac		3	5										armo	ring	amul	pama	pasc	staf	h2h						0	0
 Strong	1	1	1	10		5				4	600	ac		6	9										armo	ring	amul	pama	pasc	staf	h2h						0	0
 Tough	1	1	1	19		9				4	600	ac		10	12										armo	ring	amul	pama	pasc	staf	h2h						0	0
@@ -21,8 +21,8 @@ Royal	1	1	1	73		36				4	600	ac		36	50										dusc	dusp											0	0
 Stout	1	1	1	1		0				4	600	ac		3	5										jewl												0	0
 Strong	1	1	1	17		8				4	600	ac		6	10										jewl												0	0
 Tough	1	1	1	62		31				4	600	ac		11	15										jewl												0	0
-Vulnerable	1	1		6	30	0				2	601	ac%		-100	-100										armo							circ	stor				0	0
-Rusted	1	1		1	30	0				2	601	ac%		-15	-40										armo							circ	stor				0	0
+Vulnerable	1			6	30	0				2	601	ac%		-100	-100										armo							circ	stor				0	0
+Rusted	1			1	30	0				2	601	ac%		-15	-40										armo							circ	stor				0	0
 Fine	1	1	1	1		0				12	601	ac%		10	20										armo							circ	stor				0	0
 Grand	1	1	1	12		6				12	601	ac%		21	30										armo							circ	stor				0	0
 Lavish	1	1	1	23		11				12	601	ac%		31	40										armo							circ	stor				0	0
@@ -31,8 +31,8 @@ Opulent	1	1	1	45		22				12	601	ac%		51	65										armo							circ	stor				0	0
 Splendid	1	1	1	56		28				12	601	ac%		66	80										armo							circ	stor				0	0
 Majestic	1	1	1	67		33				12	601	ac%		81	100										armo							circ	stor				0	0
 Sublime	1	1	1	90		45				1	601	ac%		101	125										armo							circ	stor				0	0
-Useless	1	1		6	30	0				2	602	dmg%		-100	-100										weap							staf	wand	orb	crsx		0	0
-Weak	1	1		1	30	0				2	602	dmg%		-15	-40										weap							staf	wand	orb	crsx		0	0
+Useless	1			6	30	0				2	602	dmg%		-100	-100										weap							staf	wand	orb	crsx		0	0
+Weak	1			1	30	0				2	602	dmg%		-15	-40										weap							staf	wand	orb	crsx		0	0
 Keen	1	1	1	1		0				12	602	dmg%		10	20										weap							staf	wand	orb	crsx		0	0
 Deadly	1	1	1	12		6				12	602	dmg%		21	30										weap							staf	wand	orb	crsx		0	0
 Lethal	1	1	1	23		11				12	602	dmg%		31	40										weap							staf	wand	orb	crsx		0	0
@@ -41,13 +41,13 @@ Vicious	1	1	1	45		22				12	602	dmg%		51	65										weap							staf	wand	orb	crs
 Barbarous	1	1	1	56		28				12	602	dmg%		66	80										weap							staf	wand	orb	crsx		0	0
 Cruel	1	1	1	67		33				12	602	dmg%		81	100										weap							staf	wand	orb	crsx		0	0
 Divine	1	1	1	90		45				1	602	dmg%		101	125										weap							staf	wand	orb	crsx		0	0
-Useless	1	1		6	30	0				2	602	dmg%		-100	-100										crsx												0	0
-Weak	1	1		7	30	3				2	602	dmg%		-15	-40										crsx												0	0
+Useless	1			6	30	0				2	602	dmg%		-100	-100										crsx												0	0
+Weak	1			7	30	3				2	602	dmg%		-15	-40										crsx												0	0
 Keen	1	1	1	7		3				6	602	dmg%		10	20										crsx												0	0
 Deadly	1	1	1	23		11				6	602	dmg%		21	30										crsx												0	0
 Lethal	1	1	1	39		19				6	602	dmg%		31	40										crsx												0	0
 Brutal	1	1	1	55		27				6	602	dmg%		41	50										crsx												0	0
-Tin	1	1		1	30	0				2	603	att		-10	-40										knif												0	0
+Tin	1			1	30	0				2	603	att		-10	-40										knif												0	0
 Bronze	1	1	1	1		0				6	603	att		10	30										knif												0	0
 Iron	1	1	1	10		5				6	603	att		31	50										knif												0	0
 Steel	1	1	1	19		9				6	603	att		51	75										knif												0	0
@@ -55,7 +55,7 @@ Silver	1	1	1	28		14				6	603	att		76	100										knif												0	0
 Gold	1	1	1	37		18				6	603	att		101	125										knif												0	0
 Weird	1	1	1	46		23				6	603	att		125	150										knif												0	0
 Strange	1	1	1	55		27				6	603	att		151	200										knif												0	0
-Tin	1	1		1	30	0				2	603	att		-10	-40										weap							staf	wand	orb	barb	knif	0	0
+Tin	1			1	30	0				2	603	att		-10	-40										weap							staf	wand	orb	barb	knif	0	0
 Bronze	1	1	1	1		0				6	603	att		10	20										weap							staf	wand	orb	barb	knif	0	0
 Iron	1	1	1	10		5				6	603	att		21	40										weap							staf	wand	orb	barb	knif	0	0
 Steel	1	1	1	19		9				6	603	att		41	60										weap							staf	wand	orb	barb	knif	0	0
@@ -63,7 +63,7 @@ Silver	1	1	1	28		14				6	603	att		61	80										weap							staf	wand	orb	barb	k
 Gold	1	1	1	37		18				6	603	att		81	100										weap							staf	wand	orb	barb	knif	0	0
 Weird	1	1	1	46		23				6	603	att		101	120										weap							staf	wand	orb	barb	knif	0	0
 Strange	1	1	1	55		27				6	603	att		121	150										weap							staf	wand	orb	barb	knif	0	0
-Tin	1	1		1	30	0				2	603	att		-10	-40										amul	boax	bbax	bats	btax	misl							0	0
+Tin	1			1	30	0				2	603	att		-10	-40										amul	boax	bbax	bats	btax	misl							0	0
 Bronze	1	1	1	5		2				4	603	att		10	20										amul	boax	bbax	bats	btax	misl							0	0
 Iron	1	1	1	14		7				4	603	att		21	40										amul	boax	bbax	bats	btax	misl							0	0
 Steel	1	1	1	23		11				4	603	att		41	60										amul	boax	bbax	bats	btax	misl							0	0
@@ -107,7 +107,7 @@ Wayfarer's	1	1	1	1		0				4	603	regen-stam		10	40										dusc	dusp	duse								
 Traveler's	1	1	1	7		3				4	603	regen-stam		41	100										dusc	dusp	duse										0	0
 Nomad's	1	1	1	14		7				4	603	regen-stam		101	300										dusc	dusp	duse										0	0
 Wayfarer's	1	1	1	1		0				4	603	regen-stam		10	20										jewl												0	0
-Overweight	1	1		1	30	0				2	604	stam		-10	-50										boot												0	0
+Overweight	1			1	30	0				2	604	stam		-10	-50										boot												0	0
 Rugged	1	1	1	1		0				4	604	stam		10	20										boot												0	0
 Hardy	1	1	1	5		2				4	604	stam		21	50										boot												0	0
 Robust	1	1	1	17		8				4	604	stam		51	100										boot												0	0
@@ -124,7 +124,7 @@ Wailing	1	1	1	61		30				4	605	howl		32	32										dusm	dusc											0	0
 Screaming	1	1	1	50		25				4	605	howl		14	14										ring	misl											0	0
 Screaming	1	1	1	46		23				4	605	howl		3	3										jewl												0	0
 Lurid	1	1	1	77		38				4	606	noheal		1	1										weap	amul											0	0
-Dim	1	1		1	30	0				2	607	light		-1	-2										armo	assn	nscy										0	0
+Dim	1			1	30	0				2	607	light		-1	-2										armo	assn	nscy										0	0
 Glimmering	1	1	1	1		0				4	607	light		1	1										armo	weap						assn	nscy				0	0
 Glowing	1	1	1	4		2				4	607	light		2	2										armo	weap						assn	nscy				0	0
 Radiant	1	1	1	8		4				4	607	light		3	4										armo	weap						assn	nscy				0	0
@@ -132,7 +132,7 @@ Glimmering	1	1	1	1		0				4	607	light		1	1										dust												0	0
 Glowing	1	1	1	4		2				4	607	light		2	2										dust												0	0
 Radiant	1	1	1	9		4				4	607	light		3	4										dust												0	0
 Glimmering	1	1	1	1		0				4	607	light		1	1										jewl												0	0
-Hypothermic	1	1		2	30	1				6	609	res-cold		-5	-15										tors	shld	staf	amul									0	0
+Hypothermic	1			2	30	1				6	609	res-cold		-5	-15										tors	shld	staf	amul									0	0
 Azure	1	1	1	2		1				6	609	res-cold		5	15										tors	shld	staf	amul									0	0
 Lapis	1	1	1	16		8				6	609	res-cold		16	25										tors	shld	staf	amul									0	0
 Cobalt	1	1	1	30		15				6	609	res-cold		25	40										tors	shld	staf	amul									0	0
@@ -145,7 +145,7 @@ Cobalt	1	1	1	33		17				6	609	res-cold		21	30										duse												0	0
 Aquamarine	1	1	1	48		24				6	609	res-cold		31	40										duse												0	0
 Tourmaline	1	1	1	64		32				6	609	res-cold		41	50										duse												0	0
 Sapphire	1	1	1	79		40				6	609	res-cold		51	60										duse												0	0
-Hypothermic	1	1		4	30	2				6	609	res-cold		-5	-15										helm	belt	boot	ring	h2h			ahlm					0	0
+Hypothermic	1			4	30	2				6	609	res-cold		-5	-15										helm	belt	boot	ring	h2h			ahlm					0	0
 Azure	1	1	1	4		2				6	609	res-cold		5	10										helm	belt	boot	ring	h2h			ahlm					0	0
 Lapis	1	1	1	18		9				6	609	res-cold		11	15										helm	belt	boot	ring	h2h			ahlm					0	0
 Cobalt	1	1	1	32		16				6	609	res-cold		16	20										helm	belt	boot	ring	h2h			ahlm					0	0
@@ -154,7 +154,7 @@ Tourmaline	1	1	1	60		30				6	609	res-cold		26	30										helm	belt	boot	ring	h2
 Sapphire	1	1	1	74		37				6	609	res-cold		31	40										helm	belt	boot	ring	h2h			ahlm					0	0
 Azure	1	1	1	8		4				4	609	res-cold		5	15										jewl												0	0
 Lapis	1	1	1	27		13				4	609	res-cold		16	25										jewl												0	0
-Flammable	1	1		2	30	1				6	610	res-fire		-5	-15										tors	shld	staf	amul									0	0
+Flammable	1			2	30	1				6	610	res-fire		-5	-15										tors	shld	staf	amul									0	0
 Crimson	1	1	1	2		1				6	610	res-fire		5	15										tors	shld	staf	amul									0	0
 Burgundy	1	1	1	16		8				6	610	res-fire		16	25										tors	shld	staf	amul									0	0
 Garnet	1	1	1	30		15				6	610	res-fire		26	40										tors	shld	staf	amul									0	0
@@ -167,7 +167,7 @@ Garnet	1	1	1	33		17				6	610	res-fire		21	30										duse												0	0
 Opal	1	1	1	48		24				6	610	res-fire		31	40										duse												0	0
 Zircon	1	1	1	64		32				6	610	res-fire		41	50										duse												0	0
 Ruby	1	1	1	79		40				6	610	res-fire		51	60										duse												0	0
-Flammable	1	1		4	30	2				6	610	res-fire		-5	-15										helm	belt	boot	ring	h2h			ahlm					0	0
+Flammable	1			4	30	2				6	610	res-fire		-5	-15										helm	belt	boot	ring	h2h			ahlm					0	0
 Crimson	1	1	1	4		2				6	610	res-fire		5	10										helm	belt	boot	ring	h2h			ahlm					0	0
 Burgundy	1	1	1	18		9				6	610	res-fire		11	15										helm	belt	boot	ring	h2h			ahlm					0	0
 Garnet	1	1	1	32		16				6	610	res-fire		16	20										helm	belt	boot	ring	h2h			ahlm					0	0
@@ -176,7 +176,7 @@ Zircon	1	1	1	60		30				6	610	res-fire		26	30										helm	belt	boot	ring	h2h			
 Ruby	1	1	1	74		37				6	610	res-fire		31	40										helm	belt	boot	ring	h2h			ahlm					0	0
 Azure	1	1	1	8		4				4	610	res-fire		5	15										jewl												0	0
 Lapis	1	1	1	27		13				4	610	res-fire		16	25										jewl												0	0
-Accursed	1	1		2	30	1				6	611	res-ltng		-5	-15										tors	shld	staf	amul									0	0
+Accursed	1			2	30	1				6	611	res-ltng		-5	-15										tors	shld	staf	amul									0	0
 Ocher	1	1	1	2		1				6	611	res-ltng		5	15										tors	shld	staf	amul									0	0
 Tangerine	1	1	1	16		8				6	611	res-ltng		16	25										tors	shld	staf	amul									0	0
 Coral	1	1	1	30		15				6	611	res-ltng		26	40										tors	shld	staf	amul									0	0
@@ -189,7 +189,7 @@ Coral	1	1	1	33		17				6	611	res-ltng		21	30										duse												0	0
 Amber	1	1	1	48		24				6	611	res-ltng		31	40										duse												0	0
 Citrine	1	1	1	64		32				6	611	res-ltng		41	50										duse												0	0
 Heliodor	1	1	1	79		40				6	611	res-ltng		51	60										duse												0	0
-Accursed	1	1		4	30	2				6	611	res-ltng		-5	-15										helm	belt	boot	ring	h2h			ahlm					0	0
+Accursed	1			4	30	2				6	611	res-ltng		-5	-15										helm	belt	boot	ring	h2h			ahlm					0	0
 Ocher	1	1	1	4		2				6	611	res-ltng		5	10										helm	belt	boot	ring	h2h			ahlm					0	0
 Tangerine	1	1	1	18		9				6	611	res-ltng		11	15										helm	belt	boot	ring	h2h			ahlm					0	0
 Coral	1	1	1	32		16				6	611	res-ltng		16	20										helm	belt	boot	ring	h2h			ahlm					0	0
@@ -198,7 +198,7 @@ Citrine	1	1	1	60		30				6	611	res-ltng		26	30										helm	belt	boot	ring	h2h		
 Heliodor	1	1	1	74		37				6	611	res-ltng		31	40										helm	belt	boot	ring	h2h			ahlm					0	0
 Azure	1	1	1	8		4				4	611	res-ltng		5	15										jewl												0	0
 Lapis	1	1	1	27		13				4	611	res-ltng		16	25										jewl												0	0
-Drooling	1	1		2	30	1				6	612	res-pois		-5	-15										tors	shld	staf	amul									0	0
+Drooling	1			2	30	1				6	612	res-pois		-5	-15										tors	shld	staf	amul									0	0
 Beryl	1	1	1	2		1				6	612	res-pois		5	15										tors	shld	staf	amul									0	0
 Jade	1	1	1	16		8				6	612	res-pois		16	25										tors	shld	staf	amul									0	0
 Viridian	1	1	1	30		15				6	612	res-pois		26	40										tors	shld	staf	amul									0	0
@@ -211,7 +211,7 @@ Viridian	1	1	1	33		17				6	612	res-pois		21	30										duse												0	0
 Malachite	1	1	1	48		24				6	612	res-pois		31	40										duse												0	0
 Turquoise	1	1	1	64		32				6	612	res-pois		41	50										duse												0	0
 Emerald	1	1	1	79		40				6	612	res-pois		51	60										duse												0	0
-Drooling	1	1		4	30	2				6	612	res-pois		-5	-15										helm	belt	boot	ring	h2h			ahlm					0	0
+Drooling	1			4	30	2				6	612	res-pois		-5	-15										helm	belt	boot	ring	h2h			ahlm					0	0
 Beryl	1	1	1	4		2				6	612	res-pois		5	10										helm	belt	boot	ring	h2h			ahlm					0	0
 Jade	1	1	1	18		9				6	612	res-pois		11	15										helm	belt	boot	ring	h2h			ahlm					0	0
 Viridian	1	1	1	32		16				6	612	res-pois		16	20										helm	belt	boot	ring	h2h			ahlm					0	0
@@ -220,7 +220,7 @@ Turquoise	1	1	1	60		30				6	612	res-pois		26	30										helm	belt	boot	ring	h2h
 Emerald	1	1	1	74		37				6	612	res-pois		31	40										helm	belt	boot	ring	h2h			ahlm					0	0
 Azure	1	1	1	8		4				4	612	res-pois		5	15										jewl												0	0
 Lapis	1	1	1	27		13				4	612	res-pois		16	25										jewl												0	0
-Bleak	1	1		5	30	2				4	612	res-curse		-5	-15										pala	amul											0	0
+Bleak	1			5	30	2				4	612	res-curse		-5	-15										pala	amul											0	0
 Soothing	1	1	1	5		2				4	612	res-curse		5	10										pala	amul											0	0
 Vibrant	1	1	1	14		7				4	612	res-curse		11	15										pala	amul											0	0
 Pure	1	1	1	23		11				4	612	res-curse		16	20										pala	amul											0	0
@@ -377,21 +377,21 @@ Pestilent	1	1	1	75		37				4	619	pois-min		77	307	pois-max		308	461	pois-len		25	
 Pestilent	1	1	1	88		44				4	619	pois-min		102	409	pois-max		410	614	pois-len		25	150		dusc	duse											0	0
 Moldy	1	1	1	8		4				4	619	pois-min		5	20	pois-max		21	30	pois-len		25	50		jewl												0	0
 Septic	1	1	1	18		9				4	619	pois-min		13	51	pois-max		52	77	pois-len		25	75		jewl												0	0
-Stalker's	1	1	1	20		10	ama			4	620	skilltab	2	1	1										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
-Seeker's	1	1	1	40		20	ama			4	620	skilltab	2	2	2										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
-Hunter's	1	1	1	90		45	ama			2	620	skilltab	2	3	3										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
-Stalker's	1	1	1	30		15	ama			4	620	skilltab	2	1	1										amul	glov	misl										0	0
-Stalker's	1	1	1	33		17	ama			4	620	skilltab	2	1	1										dust												0	0
+Stalker's	1	1	1	20		10	ama			4	620	skilltab	0	1	1										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
+Seeker's	1	1	1	40		20	ama			4	620	skilltab	0	2	2										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
+Hunter's	1	1	1	90		45	ama			2	620	skilltab	0	3	3										bow	helm						dbow	chlm	phlm	pelt	nxhm	0	0
+Stalker's	1	1	1	30		15	ama			4	620	skilltab	0	1	1										amul	glov	misl										0	0
+Stalker's	1	1	1	33		17	ama			4	620	skilltab	0	1	1										dust												0	0
 Oracle's	1	1	1	20		10	ama			4	620	skilltab	1	1	1										bow	spea	helm					dbow	chlm	phlm	pelt	nxhm	0	0
 Diviner's	1	1	1	40		20	ama			4	620	skilltab	1	2	2										bow	spea	helm					dbow	chlm	phlm	pelt	nxhm	0	0
 Prophet's	1	1	1	90		45	ama			2	620	skilltab	1	3	3										bow	spea	helm					dbow	chlm	phlm	pelt	nxhm	0	0
 Oracle's	1	1	1	30		15	ama			4	620	skilltab	1	1	1										amul	glov	misl										0	0
 Oracle's	1	1	1	33		17	ama			4	620	skilltab	1	1	1										dust												0	0
-Shining	1	1	1	20		10	ama			4	620	skilltab	0	1	1										spea	helm						chlm	phelm	pelt	nxhm		0	0
-Golden	1	1	1	40		20	ama			4	620	skilltab	0	2	2										spea	helm						chlm	phelm	pelt	nxhm		0	0
-Resplendent	1	1	1	90		45	ama			2	620	skilltab	0	3	3										spea	helm						chlm	phelm	pelt	nxhm		0	0
-Shining	1	1	1	30		15	ama			4	620	skilltab	0	1	1										amul	glov											0	0
-Shining	1	1	1	33		17	ama			4	620	skilltab	0	1	1										dust												0	0
+Shining	1	1	1	20		10	ama			4	620	skilltab	2	1	1										spea	helm						chlm	phelm	pelt	nxhm		0	0
+Golden	1	1	1	40		20	ama			4	620	skilltab	2	2	2										spea	helm						chlm	phelm	pelt	nxhm		0	0
+Resplendent	1	1	1	90		45	ama			2	620	skilltab	2	3	3										spea	helm						chlm	phelm	pelt	nxhm		0	0
+Shining	1	1	1	30		15	ama			4	620	skilltab	2	1	1										amul	glov											0	0
+Shining	1	1	1	33		17	ama			4	620	skilltab	2	1	1										dust												0	0
 Heroic	1	1	1	20		10	pal			4	621	skilltab	11	1	1										mele	amul						amaz	assn	barb	necr	rod	0	0
 Heroic	1	1	1	20		10	pal			4	621	skilltab	11	1	1										helm							amaz	barb	pala			0	0
 Heroic	1	1	1	20		10	pal			4	621	skilltab	11	1	1										shld	scep						ashi	barb	necr			0	0
@@ -445,16 +445,16 @@ Rumbling	1	1	1	40		20	sor			4	623	skilltab	5	2	2										staf	circ											0	
 Volcanic	1	1	1	90		45	sor			2	623	skilltab	5	3	3										staf	circ											0	0
 Molten	1	1	1	30		15	sor			4	623	skilltab	5	1	1										amul	stor											0	0
 Molten	1	1	1	33		17	sor			4	623	skilltab	5	1	1										dust												0	0
-Humming	1	1	1	20		10	sor			4	623	skilltab	4	1	1										staf	circ											0	0
-Booming	1	1	1	40		20	sor			4	623	skilltab	4	2	2										staf	circ											0	0
-Thundering	1	1	1	90		45	sor			2	623	skilltab	4	3	3										staf	circ											0	0
-Humming	1	1	1	30		15	sor			4	623	skilltab	4	1	1										amul	stor											0	0
-Humming	1	1	1	33		17	sor			4	623	skilltab	4	1	1										dust												0	0
-Frigid	1	1	1	20		10	sor			4	623	skilltab	3	1	1										staf	circ											0	0
-Glacial	1	1	1	40		20	sor			4	623	skilltab	3	2	2										staf	circ											0	0
-Gelid	1	1	1	90		45	sor			2	623	skilltab	3	3	3										staf	circ											0	0
-Frigid	1	1	1	30		15	sor			4	623	skilltab	3	1	1										amul	stor											0	0
-Frigid	1	1	1	33		17	sor			4	623	skilltab	3	1	1										dust												0	0
+Humming	1	1	1	20		10	sor			4	623	skilltab	3	1	1										staf	circ											0	0
+Booming	1	1	1	40		20	sor			4	623	skilltab	3	2	2										staf	circ											0	0
+Thundering	1	1	1	90		45	sor			2	623	skilltab	3	3	3										staf	circ											0	0
+Humming	1	1	1	30		15	sor			4	623	skilltab	3	1	1										amul	stor											0	0
+Humming	1	1	1	33		17	sor			4	623	skilltab	3	1	1										dust												0	0
+Frigid	1	1	1	20		10	sor			4	623	skilltab	4	1	1										staf	circ											0	0
+Glacial	1	1	1	40		20	sor			4	623	skilltab	4	2	2										staf	circ											0	0
+Gelid	1	1	1	90		45	sor			2	623	skilltab	4	3	3										staf	circ											0	0
+Frigid	1	1	1	30		15	sor			4	623	skilltab	4	1	1										amul	stor											0	0
+Frigid	1	1	1	33		17	sor			4	623	skilltab	4	1	1										dust												0	0
 Tribal	1	1	1	20		10	bar			4	624	skilltab	14	1	1										mele	helm						amaz	assn	necr	rod	pala	0	0
 Ancient	1	1	1	40		20	bar			4	624	skilltab	14	2	2										mele	helm						amaz	assn	necr	rod	pala	0	0
 Primeval	1	1	1	90		45	bar			2	624	skilltab	14	3	3										mele	helm						amaz	assn	necr	rod	pala	0	0
@@ -506,7 +506,7 @@ Shadow	100	1	1	40		20	ass			4	626	skilltab	18	2	2										h2h	helm						phlm	ch
 Psionic	100	1	1	90		45	ass			2	626	skilltab	18	3	3										h2h	helm						phlm	chlm	pelt	ahlm		0	0
 Mental	100	1	1	30		15	ass			4	626	skilltab	18	1	1										amul	glov											0	0
 Mental	100	1	1	33		17	ass			4	626	skilltab	18	1	1										dust												0	0
-Shaking	1	1		1	30	0				2	627	balance3		-5	-15										tors	ashd	amul	staf	miss			stor					0	0
+Shaking	1			1	30	0				2	627	balance3		-5	-15										tors	ashd	amul	staf	miss			stor					0	0
 Stable	1	1	1	1		0				4	627	balance3		5	10										tors	ashd	amul	staf	miss			stor					0	0
 Balanced	1	1	1	16		8				4	627	balance3		11	15										tors	ashd	amul	staf	miss			stor					0	0
 Graceful	1	1	1	31		15				4	627	balance3		16	20										tors	ashd	amul	staf	miss			stor					0	0
@@ -517,7 +517,7 @@ Balanced	1	1	1	18		9				4	627	balance3		11	15										dusc	dusp											0	0
 Graceful	1	1	1	34		17				4	627	balance3		16	20										dusc	dusp											0	0
 Dignified	1	1	1	51		25				4	627	balance3		21	30										dusc	dusp											0	0
 Imposing	1	1	1	67		33				4	627	balance3		31	40										dusc	dusp											0	0
-Shaking	1	1		8	30	4				2	627	balance3		-1	-6										shld	stor	helm	ring	belt	boot	misl	ashd	circ	nxhm			0	0
+Shaking	1			8	30	4				2	627	balance3		-1	-6										shld	stor	helm	ring	belt	boot	misl	ashd	circ	nxhm			0	0
 Stable	1	1	1	8		4				4	627	balance3		1	3										shld	stor	helm	ring	belt	boot	misl	ashd	circ	nxhm			0	0
 Balanced	1	1	1	24		12				4	627	balance3		4	6										shld	stor	helm	ring	belt	boot	misl	ashd	circ	nxhm			0	0
 Graceful	1	1	1	40		20				4	627	balance3		7	10										shld	stor	helm	ring	belt	boot	misl	ashd	circ	nxhm			0	0
@@ -525,13 +525,13 @@ Dignified	1	1	1	56		28				4	627	balance3		11	15										shld	stor	helm	ring	bel
 Imposing	1	1	1	72		36				4	627	balance3		16	20										shld	stor	helm	ring	belt	boot	misl	ashd	circ	nxhm			0	0
 Stable	1	1	1	10		5				4	627	balance3		3	5										jewl												0	0
 Balanced	1	1	1	59		29				4	627	balance3		6	9										jewl												0	0
-Wobbly	1	1		1	30	0				2	628	block3		-5	-15										ashd												0	0
+Wobbly	1			1	30	0				2	628	block3		-5	-15										ashd												0	0
 Squire's	1	1	1	1		0				4	628	block3		7	12										ashd												0	0
 Knight's	1	1	1	16		8				4	628	block3		13	20										ashd												0	0
 Champion's	1	1	1	31		15				4	628	block3		21	30										ashd												0	0
 King's	1	1	1	46		23				4	628	block3		31	40										ashd												0	0
 Dragon's	1	1	1	61		30				4	628	block3		41	50										ashd												0	0
-Wobbly	1	1		1	30	0				2	628	block3		-5	-15										shld	ring	amul					bshi	nxsh	head	ashd		0	0
+Wobbly	1			1	30	0				2	628	block3		-5	-15										shld	ring	amul					bshi	nxsh	head	ashd		0	0
 Squire's	1	1	1	1		0				4	628	block3		5	10										shld	ring	amul					bshi	nxsh	head	ashd		0	0
 Knight's	1	1	1	16		8				4	628	block3		11	15										shld	ring	amul					bshi	nxsh	head	ashd		0	0
 Champion's	1	1	1	31		15				4	628	block3		16	20										shld	ring	amul					bshi	nxsh	head	ashd		0	0
@@ -542,7 +542,7 @@ Knight's	1	1	1	18		9				4	628	block3		11	15										dusp												0	0
 Champion's	1	1	1	34		17				4	628	block3		16	20										dusp												0	0
 King's	1	1	1	51		25				4	628	block3		21	30										dusp												0	0
 Dragon's	1	1	1	67		33				4	628	block3		31	40										dusp												0	0
-Wobbly	1	1		8	30	4				2	628	block3		-1	-6										glov	pama	pasc	chlm	bshi	nxsh	h2h						0	0
+Wobbly	1			8	30	4				2	628	block3		-1	-6										glov	pama	pasc	chlm	bshi	nxsh	h2h						0	0
 Squire's	1	1	1	8		4				4	628	block3		1	3										glov	pama	pasc	chlm	bshi	nxsh	h2h						0	0
 Knight's	1	1	1	24		12				4	628	block3		4	6										glov	pama	pasc	chlm	bshi	nxsh	h2h						0	0
 Champion's	1	1	1	40		20				4	628	block3		7	10										glov	pama	pasc	chlm	bshi	nxsh	h2h						0	0
@@ -550,7 +550,7 @@ King's	1	1	1	56		28				4	628	block3		11	15										glov	pama	pasc	chlm	bshi	nxs
 Dragon's	1	1	1	72		36				4	628	block3		16	20										glov	pama	pasc	chlm	bshi	nxsh	h2h						0	0
 Squire's	1	1	1	10		5				4	628	block3		3	5										jewl												0	0
 Knight's	1	1	1	59		29				4	628	block3		6	9										jewl												0	0
-Shaky	1	1		1	30	0				2	629	cast3		-5	-15										staf	wand	orb	pasc	ring	amul							0	0
+Shaky	1			1	30	0				2	629	cast3		-5	-15										staf	wand	orb	pasc	ring	amul							0	0
 Cryptic	1	1	1	1		0				4	629	cast3		5	10										staf	wand	orb	pasc	ring	amul							0	0
 Stellar	1	1	1	16		8				4	629	cast3		11	15										staf	wand	orb	pasc	ring	amul							0	0
 Cosmic	1	1	1	31		15				4	629	cast3		16	20										staf	wand	orb	pasc	ring	amul							0	0
@@ -561,13 +561,13 @@ Stellar	1	1	1	18		9				4	629	cast3		11	15										dusm												0	0
 Cosmic	1	1	1	34		17				4	629	cast3		16	20										dusm												0	0
 Astral	1	1	1	51		25				4	629	cast3		21	30										dusm												0	0
 Brilliant	1	1	1	67		33				4	629	cast3		31	40										dusm												0	0
-Shaky	1	1		8	30	4				2	629	cast3		-1	-6										circl	stor	glov	nxhm	nscy	h2h							0	0
+Shaky	1			8	30	4				2	629	cast3		-1	-6										circl	stor	glov	nxhm	nscy	h2h							0	0
 Cryptic	1	1	1	8		4				4	629	cast3		1	3										circl	stor	glov	nxhm	nscy	h2h							0	0
 Stellar	1	1	1	24		12				4	629	cast3		4	6										circl	stor	glov	nxhm	nscy	h2h							0	0
 Cosmic	1	1	1	40		20				4	629	cast3		7	10										circl	stor	glov	nxhm	nscy	h2h							0	0
 Astral	1	1	1	56		28				4	629	cast3		11	15										circl	stor	glov	nxhm	nscy	h2h							0	0
 Brilliant	1	1	1	72		36				4	629	cast3		16	20										circl	stor	glov	nxhm	nscy	h2h							0	0
-Shaky	1	1		15	30	7				2	629	cast3		-1	-6										ashi	nxsh	head										0	0
+Shaky	1			15	30	7				2	629	cast3		-1	-6										ashi	nxsh	head										0	0
 Cryptic	1	1	1	15		7				4	629	cast3		1	3										ashi	nxsh	head										0	0
 Stellar	1	1	1	31		15				4	629	cast3		4	6										ashi	nxsh	head										0	0
 Cosmic	1	1	1	47		23				4	629	cast3		7	10										ashi	nxsh	head										0	0
@@ -575,7 +575,7 @@ Astral	1	1	1	63		31				4	629	cast3		11	15										ashi	nxsh	head										0	0
 Brilliant	1	1	1	79		39				4	629	cast3		16	20										ashi	nxsh	head										0	0
 Cryptic	1	1	1	10		5				4	629	cast3		3	5										jewl												0	0
 Stellar	1	1	1	59		29				4	629	cast3		6	9										jewl												0	0
-Clumsy	1	1		1	30	0				2	629	swing3		-5	-15										weap	ring	amul					staf	wand	orb	nscy		0	0
+Clumsy	1			1	30	0				2	629	swing3		-5	-15										weap	ring	amul					staf	wand	orb	nscy		0	0
 Wild	1	1	1	1		0				4	629	swing3		5	10										weap	ring	amul					staf	wand	orb	nscy		0	0
 Furious	1	1	1	16		8				4	629	swing3		11	15										weap	ring	amul					staf	wand	orb	nscy		0	0
 Feral	1	1	1	31		15				4	629	swing3		16	20										weap	ring	amul					staf	wand	orb	nscy		0	0
@@ -586,7 +586,7 @@ Furious	1	1	1	18		9				4	629	swing3		11	15										dusc												0	0
 Feral	1	1	1	34		17				4	629	swing3		16	20										dusc												0	0
 Ferocious	1	1	1	51		25				4	629	swing3		21	30										dusc												0	0
 Bestial	1	1	1	67		33				4	629	swing3		31	40										dusc												0	0
-Clumsy	1	1		8	30	4				2	629	swing3		-1	-6										phlm	ahlm	glov	bshi	misl								0	0
+Clumsy	1			8	30	4				2	629	swing3		-1	-6										phlm	ahlm	glov	bshi	misl								0	0
 Wild	1	1	1	8		4				4	629	swing3		1	3										phlm	ahlm	glov	bshi	misl								0	0
 Furious	1	1	1	24		12				4	629	swing3		4	6										phlm	ahlm	glov	bshi	misl								0	0
 Feral	1	1	1	40		20				4	629	swing3		7	10										phlm	ahlm	glov	bshi	misl								0	0
@@ -594,13 +594,13 @@ Ferocious	1	1	1	56		28				4	629	swing3		11	15										phlm	ahlm	glov	bshi	misl	
 Bestial	1	1	1	72		36				4	629	swing3		16	20										phlm	ahlm	glov	bshi	misl								0	0
 Wild	1	1	1	10		5				4	629	swing3		3	5										jewl												0	0
 Furious	1	1	1	59		29				4	629	swing3		6	9										jewl												0	0
-Slow	1	1		1	30	0				2	630	move3		-5	-15										boot												0	0
+Slow	1			1	30	0				2	630	move3		-5	-15										boot												0	0
 Quick	1	1	1	1		0				8	630	move3		5	10										boot												0	0
 Fast	1	1	1	16		8				8	630	move3		11	15										boot												0	0
 Swift	1	1	1	31		15				8	630	move3		16	20										boot												0	0
 Speedy	1	1	1	46		23				8	630	move3		21	25										boot												0	0
 Flying	1	1	1	61		30				8	630	move3		26	30										boot												0	0
-Slow	1	1		8	30	4				2	630	move3		-1	-6										staf	miss											0	0
+Slow	1			8	30	4				2	630	move3		-1	-6										staf	miss											0	0
 Quick	1	1	1	8		4				4	630	move3		1	2										staf	miss											0	0
 Fast	1	1	1	24		12				4	630	move3		3	4										staf	miss											0	0
 Swift	1	1	1	40		20				4	630	move3		5	7										staf	miss											0	0
@@ -611,7 +611,7 @@ Fast	1	1	1	26		13				4	630	move3		3	4										dust												0	0
 Swift	1	1	1	44		22				4	630	move3		5	7										dust												0	0
 Speedy	1	1	1	62		31				4	630	move3		8	11										dust												0	0
 Flying	1	1	1	79		40				4	630	move3		12	15										dust												0	0
-Boring	1	1		1	30	0				2	631	extra-fire		-5	-20										staf												0	0
+Boring	1			1	30	0				2	631	extra-fire		-5	-20										staf												0	0
 Fiery	1	1	1	1		0				6	631	extra-fire		5	10										staf												0	0
 Burning	1	1	1	11		5				6	631	extra-fire		10	20										staf												0	0
 Impulsive	1	1	1	22		11				6	631	extra-fire		21	30										staf												0	0
@@ -620,7 +620,7 @@ Blazing	1	1	1	44		22				6	631	extra-fire		41	50										staf												0	0
 Seething	1	1	1	56		28				6	631	extra-fire		51	65										staf												0	0
 Ardent	1	1	1	68		34				6	631	extra-fire		66	80										staf												0	0
 Consuming	1	1	1	80		40				6	631	extra-fire		81	100										staf												0	0
-Boring	1	1		2	30	1				2	631	extra-fire		-3	-10										glov	h2h	dbow	abow									0	0
+Boring	1			2	30	1				2	631	extra-fire		-3	-10										glov	h2h	dbow	abow									0	0
 Fiery	1	1	1	2		1				4	631	extra-fire		3	5										glov	h2h	dbow	abow									0	0
 Burning	1	1	1	11		5				4	631	extra-fire		6	10										glov	h2h	dbow	abow									0	0
 Impulsive	1	1	1	22		11				4	631	extra-fire		11	15										glov	h2h	dbow	abow									0	0
@@ -637,14 +637,14 @@ Blazing	1	1	1	48		24				4	631	extra-fire		16	18										dusm												0	0
 Seething	1	1	1	62		31				4	631	extra-fire		19	21										dusm												0	0
 Ardent	1	1	1	75		37				4	631	extra-fire		24	27										dusm												0	0
 Consuming	1	1	1	88		44				4	631	extra-fire		28	30										dusm												0	0
-Boring	1	1		6	30	3				2	631	extra-fire		-3	-10										circ	ring	amul	stor	pelt	misl							0	0
+Boring	1			6	30	3				2	631	extra-fire		-3	-10										circ	ring	amul	stor	pelt	misl							0	0
 Fiery	1	1	1	6		3				4	631	extra-fire		3	5										circ	ring	amul	stor	pelt	misl							0	0
 Burning	1	1	1	24		12				4	631	extra-fire		6	10										circ	ring	amul	stor	pelt	misl							0	0
 Impulsive	1	1	1	42		21				4	631	extra-fire		11	15										circ	ring	amul	stor	pelt	misl							0	0
 Fierce	1	1	1	60		30				4	631	extra-fire		16	20										circ	ring	amul	stor	pelt	misl							0	0
 Fiery	1	1	1	5		2				4	631	extra-fire		2	3										jewl												0	0
 Burning	1	1	1	36		18				4	631	extra-fire		4	5										jewl												0	0
-Grounded	1	1		1	30	0				2	632	extra-ltng		-5	-20										staf												0	0
+Grounded	1			1	30	0				2	632	extra-ltng		-5	-20										staf												0	0
 Crackling	1	1	1	1		0				6	632	extra-ltng		5	10										staf												0	0
 Fickle	1	1	1	11		5				6	632	extra-ltng		10	20										staf												0	0
 Capricious	1	1	1	22		11				6	632	extra-ltng		21	30										staf												0	0
@@ -653,7 +653,7 @@ Raging	1	1	1	44		22				6	632	extra-ltng		41	50										staf												0	0
 Erratic	1	1	1	56		28				6	632	extra-ltng		51	65										staf												0	0
 Unchained	1	1	1	68		34				6	632	extra-ltng		66	80										staf												0	0
 Annihilating	1	1	1	80		40				6	632	extra-ltng		81	100										staf												0	0
-Grounded	1	1		2	30	1				2	632	extra-ltng		-3	-10										glov	h2h	dclu	dbow	aspe								0	0
+Grounded	1			2	30	1				2	632	extra-ltng		-3	-10										glov	h2h	dclu	dbow	aspe								0	0
 Crackling	1	1	1	2		1				4	632	extra-ltng		3	5										glov	h2h	dclu	dbow	aspe								0	0
 Fickle	1	1	1	11		5				4	632	extra-ltng		6	10										glov	h2h	dclu	dbow	aspe								0	0
 Capricious	1	1	1	22		11				4	632	extra-ltng		11	15										glov	h2h	dclu	dbow	aspe								0	0
@@ -670,14 +670,14 @@ Raging	1	1	1	48		24				4	632	extra-ltng		16	18										dusm												0	0
 Erratic	1	1	1	62		31				4	632	extra-ltng		19	21										dusm												0	0
 Unchained	1	1	1	75		37				4	632	extra-ltng		24	27										dusm												0	0
 Annihilating	1	1	1	88		44				4	632	extra-ltng		28	30										dusm												0	0
-Grounded	1	1		6	30	3				2	632	extra-ltng		-3	-10										circ	ring	amul	stor	pelt								0	0
+Grounded	1			6	30	3				2	632	extra-ltng		-3	-10										circ	ring	amul	stor	pelt								0	0
 Crackling	1	1	1	6		3				4	632	extra-ltng		3	5										circ	ring	amul	stor	pelt								0	0
 Fickle	1	1	1	24		12				4	632	extra-ltng		6	10										circ	ring	amul	stor	pelt								0	0
 Capricious	1	1	1	42		21				4	632	extra-ltng		11	15										circ	ring	amul	stor	pelt								0	0
 Turbulent	1	1	1	60		30				4	632	extra-ltng		16	20										circ	ring	amul	stor	pelt								0	0
 Crackling	1	1	1	5		2				4	632	extra-ltng		2	3										jewl												0	0
 Fickle	1	1	1	36		18				4	632	extra-ltng		4	5										jewl												0	0
-Sallow	1	1		1	30	0				2	633	extra-cold		-5	-20										staf												0	0
+Sallow	1			1	30	0				2	633	extra-cold		-5	-20										staf												0	0
 Chilling	1	1	1	1		0				6	633	extra-cold		5	10										staf												0	0
 Numbing	1	1	1	11		5				6	633	extra-cold		10	20										staf												0	0
 Frozen	1	1	1	22		11				6	633	extra-cold		21	30										staf												0	0
@@ -686,7 +686,7 @@ Polar	1	1	1	44		22				6	633	extra-cold		41	50										staf												0	0
 Arctic	1	1	1	56		28				6	633	extra-cold		51	65										staf												0	0
 Boreal	1	1	1	68		34				6	633	extra-cold		66	80										staf												0	0
 Paralyzing	1	1	1	80		40				6	633	extra-cold		81	100										staf												0	0
-Sallow	1	1		2	30	1				2	633	extra-cold		-3	-10										glov	h2h	dbow										0	0
+Sallow	1			2	30	1				2	633	extra-cold		-3	-10										glov	h2h	dbow										0	0
 Chilling	1	1	1	2		1				4	633	extra-cold		3	5										glov	h2h	dbow										0	0
 Numbing	1	1	1	11		5				4	633	extra-cold		6	10										glov	h2h	dbow										0	0
 Frozen	1	1	1	22		11				4	633	extra-cold		11	15										glov	h2h	dbow										0	0
@@ -703,14 +703,14 @@ Polar	1	1	1	48		24				4	633	extra-cold		16	18										dusm												0	0
 Arctic	1	1	1	62		31				4	633	extra-cold		19	21										dusm												0	0
 Boreal	1	1	1	75		37				4	633	extra-cold		24	27										dusm												0	0
 Paralyzing	1	1	1	88		44				4	633	extra-cold		28	30										dusm												0	0
-Sallow	1	1		6	30	3				2	633	extra-cold		-3	-10										circ	ring	amul	stor	pelt								0	0
+Sallow	1			6	30	3				2	633	extra-cold		-3	-10										circ	ring	amul	stor	pelt								0	0
 Chilling	1	1	1	6		3				4	633	extra-cold		3	5										circ	ring	amul	stor	pelt								0	0
 Numbing	1	1	1	24		12				4	633	extra-cold		6	10										circ	ring	amul	stor	pelt								0	0
 Frozen	1	1	1	42		21				4	633	extra-cold		11	15										circ	ring	amul	stor	pelt								0	0
 Bitter	1	1	1	60		30				4	633	extra-cold		16	20										circ	ring	amul	stor	pelt								0	0
 Chilling	1	1	1	5		2				4	633	extra-cold		2	3										jewl												0	0
 Numbing	1	1	1	36		18				4	633	extra-cold		4	5										jewl												0	0
-Ratty	1	1		1	30	0				2	634	extra-pois		-5	-20										wand												0	0
+Ratty	1			1	30	0				2	634	extra-pois		-5	-20										wand												0	0
 Stinging	1	1	1	1		0				6	634	extra-pois		5	10										wand												0	0
 Putrid	1	1	1	11		5				6	634	extra-pois		10	20										wand												0	0
 Corrosive	1	1	1	22		11				6	634	extra-pois		21	30										wand												0	0
@@ -719,7 +719,7 @@ Biting	1	1	1	44		22				6	634	extra-pois		41	50										wand												0	0
 Acrid	1	1	1	56		28				6	634	extra-pois		51	65										wand												0	0
 Caustic	1	1	1	68		34				6	634	extra-pois		66	80										wand												0	0
 Mordant	1	1	1	80		40				6	634	extra-pois		81	100										wand												0	0
-Ratty	1	1		2	30	1				2	634	extra-pois		-3	-10										glov	head	nscy	knif	h2h								0	0
+Ratty	1			2	30	1				2	634	extra-pois		-3	-10										glov	head	nscy	knif	h2h								0	0
 Stinging	1	1	1	2		1				4	634	extra-pois		3	5										glov	head	nscy	knif	h2h								0	0
 Putrid	1	1	1	11		5				4	634	extra-pois		6	10										glov	head	nscy	knif	h2h								0	0
 Corrosive	1	1	1	22		11				4	634	extra-pois		11	15										glov	head	nscy	knif	h2h								0	0
@@ -736,7 +736,7 @@ Biting	1	1	1	48		24				4	634	extra-pois		16	18										dusm												0	0
 Acrid	1	1	1	62		31				4	634	extra-pois		19	21										dusm												0	0
 Caustic	1	1	1	75		37				4	634	extra-pois		24	27										dusm												0	0
 Mordant	1	1	1	88		44				4	634	extra-cold		28	30										dusm												0	0
-Ratty	1	1		6	30	3				2	634	extra-pois		-3	-10										circ	ring	amul	stor	nxsh								0	0
+Ratty	1			6	30	3				2	634	extra-pois		-3	-10										circ	ring	amul	stor	nxsh								0	0
 Stinging	1	1	1	6		3				4	634	extra-pois		3	5										circ	ring	amul	stor	nxsh								0	0
 Putrid	1	1	1	24		12				4	634	extra-pois		6	10										circ	ring	amul	stor	nxsh								0	0
 Corrosive	1	1	1	42		21				4	634	extra-pois		11	15										circ	ring	amul	stor	nxsh								0	0
@@ -760,14 +760,14 @@ Serrated	1	1	1	63		31				4	635	thorns%		51	75										dusc	dusp											0	0
 Bladed	1	1	1	84		42				4	635	thorns%		76	100										dusc	dusp											0	0
 Spiked	1	1	1	10		5				4	635	thorns		5	10										jewl												0	0
 Edged	1	1	1	20		10				4	635	thorns%		15	25										jewl												0	0
-Ridiculous	1	1		1	30	0				2	636	pot-rate		-15	-40										helm	amul	belt					chlm	nxhm				0	0
+Ridiculous	1			1	30	0				2	636	pot-rate		-15	-40										helm	amul	belt					chlm	nxhm				0	0
 Healing	1	1	1	1		0				4	636	pot-rate		10	15										helm	amul	belt					chlm	nxhm				0	0
 Medicinal	1	1	1	13		6				4	636	pot-rate		16	20										helm	amul	belt					chlm	nxhm				0	0
 Decorated	1	1	1	25		12				4	636	pot-rate		21	25										helm	amul	belt					chlm	nxhm				0	0
 Feathered	1	1	1	37		18				4	636	pot-rate		26	30										helm	amul	belt					chlm	nxhm				0	0
 Plumed	1	1	1	49		24				4	636	pot-rate		31	40										helm	amul	belt					chlm	nxhm				0	0
 Adorned	1	1	1	61		30				4	636	pot-rate		41	50										helm	amul	belt					chlm	nxhm				0	0
-Ridiculous	1	1		1	30	0				2	636	pot-rate		-5	-15										chlm	nxhm	ring										0	0
+Ridiculous	1			1	30	0				2	636	pot-rate		-5	-15										chlm	nxhm	ring										0	0
 Healing	1	1	1	9		4				4	636	pot-rate		5	10										chlm	nxhm	ring										0	0
 Medicinal	1	1	1	21		10				4	636	pot-rate		11	15										chlm	nxhm	ring										0	0
 Decorated	1	1	1	33		16				4	636	pot-rate		16	20										chlm	nxhm	ring										0	0
@@ -782,15 +782,15 @@ Plumed	1	1	1	63		31				4	636	pot-rate		26	30										dust												0	0
 Adorned	1	1	1	76		37				4	636	pot-rate		31	35										dust												0	0
 Healing	1	1	1	14		7				4	636	pot-rate		5	10										jewl												0	0
 Medicinal	1	1	1	65		32				4	636	pot-rate		11	15										jewl												0	0
-Shoddy	1	1		17	30	0				2	637	dur%		-26	-50										weap	armo						miss	thro				0	0
-Rickety	1	1		1	30	0				2	637	dur%		-10	-25										weap	armo						miss	thro				0	0
+Shoddy	1			17	30	0				2	637	dur%		-26	-50										weap	armo						miss	thro				0	0
+Rickety	1			1	30	0				2	637	dur%		-10	-25										weap	armo						miss	thro				0	0
 Hardened	1	1	1	1		0				4	637	dur%		10	25										weap	armo						miss	thro				0	0
 Fortified	1	1	1	17		8				4	637	dur%		26	50										weap	armo						miss	thro				0	0
-Bloated	1	1		1	30	0				2	637	stack		-10	-50										thro												0	0
+Bloated	1			1	30	0				2	637	stack		-10	-50										thro												0	0
 Compact	1	1	1	1		0				4	637	stack		10	25										thro												0	0
 Miniature	1	1	1	11		5				4	637	stack		26	50										thro												0	0
 Unbreakable	1	1	1	33		16				4	637	indestruct		1	1										weap	armo						miss	thro				0	0
-Disappointing	1	1		15	30	0				2	638	levelreq		2	2	levelreq-display		2	2						weap	armo											0	0
+Disappointing	1			15	30	0				2	638	levelreq		2	2	levelreq-display		2	2						weap	armo											0	0
 Interesting	1	1	1	15		0				4	638	levelreq		-2	-2	levelreq-display		-2	-2						weap	armo											0	0
 Intriguing	1	1	1	35		0				4	638	levelreq		-3	-3	levelreq-display		-3	-3						weap	armo											0	0
 Compelling	1	1	1	55		0				4	638	levelreq		-4	-4	levelreq-display		-4	-4						weap	armo											0	0
@@ -803,7 +803,7 @@ Moonlight	1		1	35		0				4	639	pal-aurarange		4	5										ashd	pasc	chlm								
 Starlight	1		1	45		0				4	639	pal-aurarange		6	8										ashd	pasc	chlm										0	0
 Coruscating	1		1	55		0				4	639	pal-aurarange		9	11										ashd	pasc	chlm										0	0
 Incandescent	1		1	65		0				4	639	pal-aurarange		12	15										ashd	pasc	chlm										0	0
-Sleepy	1	1		10	30	0				2	640	timer%		3	8										amul												0	0
+Sleepy	1			10	30	0				2	640	timer%		3	8										amul												0	0
 Alert	1	1	1	10		5				4	640	timer%		-3	-5										amul												0	0
 Awake	1	1	1	21		10				4	640	timer%		-6	-8										amul												0	0
 Vigilant	1	1	1	32		16				4	640	timer%		-9	-11										amul												0	0
@@ -814,7 +814,7 @@ Alert	1	1	1	11		5				4	640	timer%		-3	-4										dust												0	0
 Awake	1	1	1	27		13				4	640	timer%		-5	-7										dust												0	0
 Vigilant	1	1	1	43		21				4	640	timer%		-8	-10										dust												0	0
 Alert	1	1	1	12		6				4	640	timer%		-1	-1										jewl												0	0
-Disruptive	1	1		28	30	0				2	641	manaskill		3	8										aspe	abow	wand	head	h2h	pala							0	0
+Disruptive	1			28	30	0				2	641	manaskill		-3	-8										aspe	abow	wand	head	h2h	pala							0	0
 Quiet	1	1	1	28		14				4	641	manaskill		3	5										aspe	abow	wand	head	h2h	pala							0	0
 Tranquil	1	1	1	44		22				4	641	manaskill		6	10										aspe	abow	wand	head	h2h	pala							0	0
 Silent	1	1	1	60		30				4	641	manaskill		11	15										aspe	abow	wand	head	h2h	pala							0	0
