@@ -13,245 +13,325 @@ Horadric Staff	125	0	1		1		0	0	hst	Staff		5	5000	blac							mana		10	10	res-pois
 Hell Forge Hammer	126	0	1		1		0	0	hfh	Hammer		5	5000	cred							fire-min		5	5	fire-max		20	20	res-fire		40	40	ac		35	35			0	0			0	0			0	0																						0
 KhalimFlail	127	0	1		1		0	0	qf1	Flail		5	5000	dblu							ltng-min		1	1	ltng-max		20	20	swing3		50	50	att		40	40			0	0			0	0			0	0																						0
 SuperKhalimFlail	128	0	1		1		0	0	qf2	Flail		5	5000	dblu							ltng-min		1	1	ltng-max		40	40	swing3		50	50	att		40	40	manasteal		6	6	lifesteal		6	6			0	0																						0
-Brainhack		0	1		1		1	1	ax1	Hand Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Throatseeker		0	1		1		1	1	ax2	Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Moonbender's Wing		0	1		1		1	1	ax3	Double Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Feigen's Beak		0	1		1		1	1	ax4	Military Pick		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	ax5	War Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	at1	Large Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Elite Hacker		0	1		1		1	1	at2	Broad Axe 		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Skullhammer		0	1		1		1	1	at3	Battle Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Norrec's Topor		0	1		1		1	1	at4	Great Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	at5	Giant Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Pig Sticker		0	1		1		1	1	sd1	Short Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Al Nath		0	1		1		1	1	sd2	Scimitar		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Saber of the Stormsail		0	1		1		1	1	sd3	Saber		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Bone Gasher		0	1		1		1	1	sd4	Falchion		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Sarandeshi Hellcaller		0	1		1		1	1	sd5	Broad Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	sd6	Long Sword 		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Aurumvorax		0	1		1		1	1	sd7	War Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Starhawk		0	1		1		1	1	ss1	Crystal Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	ss2	Shard Blade		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Sultan of Blinding Sand		0	1		1		1	1	st1	Two-Handed Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Blood Brother		0	1		1		1	1	st2	Claymore		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Qarak's Will		0	1		1		1	1	st3	Giant Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Tylwulf's Betrayal		0	1		1		1	1	st4	Bastard Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Doomswath		0	1		1		1	1	st5	Flamberge		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-The Dao of Xiansai		0	1		1		1	1	st6	Great Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Branch of a Million Splinters		0	1		1		1	1	cb1	Club		0	0								372				automagic-werebeast	0	100	100	0	0	0	0	0	0	0	0	automagic-werebeast		100	100																														0
-Brainsplatter		0	1		1		1	1	cb2	Barbed Club		0	0								372				automagic-werebeast	0	100	100	0	0	0	0	0	0	0	0	automagic-werebeast		100	100																														0
-		0	1		1		1	1	cb3	Spiked Club		0	0								372				automagic-werebeast	0	100	100	0	0	0	0	0	0	0	0	automagic-werebeast		100	100																														0
-The First Rule		0	1		1		1	1	cb4	Bone Club		0	0								372				automagic-werebeast	0	100	100	0	0	0	0	0	0	0	0	automagic-werebeast		100	100																														0
-Koth's Lesson		0	1		1		1	1	mc1	Mace		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Bone Rattler		0	1		1		1	1	mc2	Morning Star		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Archon's Wrath		0	1		1		1	1	mc3	Flail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Hammer of Ghrab Thaar		0	1		1		1	1	mt1	War Hammer		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Trollhammaren		0	1		1		1	1	mt2	Maul		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Chober Chaber		0	1		1		1	1	mt3	Giant Maul		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Siegehammer of Morgen Keep		0	1		1		1	1	mt4	Great Maul		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Void Seeker		0	1		1		1	1	sp1	Spear		0	0								365				dmg-mon%	4	50	50	automagic-human%	0	50	50	0	0	0	0	dmg-mon%	4	50	50	automagic-human%		50	50																										0
-Staff of the Seawitch		0	1		1		1	1	sp2	Trident		0	0								365				dmg-mon%	4	50	50	automagic-human%	0	50	50	0	0	0	0	dmg-mon%	4	50	50	automagic-human%		50	50																										0
-		0	1		1		1	1	sp3	Brandistock		0	0								365				dmg-mon%	4	50	50	automagic-human%	0	50	50	0	0	0	0	dmg-mon%	4	50	50	automagic-human%		50	50																										0
-Spear of the Ascended		0	1		1		1	1	sp4	Spetum		0	0								365				dmg-mon%	4	50	50	automagic-human%	0	50	50	0	0	0	0	dmg-mon%	4	50	50	automagic-human%		50	50																										0
-		0	1		1		1	1	sp5	Pike		0	0								365				dmg-mon%	4	50	50	automagic-human%	0	50	50	0	0	0	0	dmg-mon%	4	50	50	automagic-human%		50	50																										0
-		0	1		1		1	1	po1	Bardiche		0	0								360				hit-skill-stance	424	100	1	dmg-stun	0	25	25	0	0	0	0	hit-skill-stance	424	100	1	dmg-stun		25	25																										0
-Pledge of Caldeum		0	1		1		1	1	po2	Voulge		0	0								360				hit-skill-stance	424	100	1	dmg-stun	0	25	25	0	0	0	0	hit-skill-stance	424	100	1	dmg-stun		25	25																										0
-		0	1		1		1	1	po3	Poleaxe		0	0								360				hit-skill-stance	424	100	1	dmg-stun	0	25	25	0	0	0	0	hit-skill-stance	424	100	1	dmg-stun		25	25																										0
-Oathkeeper		0	1		1		1	1	po4	Halberd		0	0								360				hit-skill-stance	424	100	1	dmg-stun	0	25	25	0	0	0	0	hit-skill-stance	424	100	1	dmg-stun		25	25																										0
-Moonscythe		0	1		1		1	1	sc1	Scythe		0	0								359				hit-skill-stance	15	5	1	0	0	0	0	0	0	0	0	hit-skill-stance	15	5	1																														0
-Serpent Angel		0	1		1		1	1	sc2	Ornate Scythe		0	0								359				hit-skill-stance	15	5	1	0	0	0	0	0	0	0	0	hit-skill-stance	15	5	1																														0
-Seven Heads of Tathamet		0	1		1		1	1	sc3	Bone Scythe		0	0								359				hit-skill-stance	15	5	1	0	0	0	0	0	0	0	0	hit-skill-stance	15	5	1																														0
-Pagan's Geis		0	1		1		1	1	wa1	Wand		0	0								410				inherent-wand	0	10	10	skill	565	1	2	0	0	0	0	inherent-wand		10	10	skill	565	1	2																										0
-Dragonspine		0	1		1		1	1	wa2	Gemmed Wand		0	0								411				inherent-wand	0	15	15	skill	565	1	3	0	0	0	0	inherent-wand		15	15	skill	565	1	3																										0
-Compass of Souls		0	1		1		1	1	wa3	Yew Wand		0	0								412				inherent-wand	0	20	20	skill	565	1	4	0	0	0	0	inherent-wand		20	20	skill	565	1	4																										0
-Na Krul's Spine		0	1		1		1	1	wa4	Bone Wand		0	0								413				inherent-wand	0	25	25	skill	565	1	5	0	0	0	0	inherent-wand		25	25	skill	565	1	5																										0
-Varna's Poppet		0	1		1		1	1	wa5	Totemic Wand		0	0								414				inherent-wand	0	30	30	skill	565	1	6	0	0	0	0	inherent-wand		30	30	skill	565	1	6																										0
-Wand of Woh		0	1		1		1	1	wa6	Grim Wand		0	0								415				inherent-wand	0	35	35	skill	565	1	7	0	0	0	0	inherent-wand		35	35	skill	565	1	7																										0
-Deathstroke		0	1		1		1	1	wa7	Spirit Wand		0	0								416				inherent-wand	0	40	40	skill	565	1	8	0	0	0	0	inherent-wand		40	40	skill	565	1	8																										0
-Scepter of Tremain		0	1		1		1	1	sh1	Scepter		0	0								430				inherent-scepter	0	10	10	skill	502	1	2	0	0	0	0	inherent-scepter		10	10	skill	502	1	2																										0
-Faithshaker		0	1		1		1	1	sh2	Grand Scepter		0	0								431				inherent-scepter	0	20	20	skill	502	1	4	0	0	0	0	inherent-scepter		20	20	skill	502	1	4																										0
-Dreamswayer		0	1		1		1	1	sh3	War Scepter		0	0								432				inherent-scepter	0	30	30	skill	502	1	6	0	0	0	0	inherent-scepter		30	30	skill	502	1	6																										0
-Clawscratch		0	1		1		1	1	kn1	Dagger		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Helgrotha's Fang		0	1		1		1	1	kn2	Dirk		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Rhen'ho Flayer		0	1		1		1	1	kn3	Kris		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Starmetal Kukri		0	1		1		1	1	kn4	Blade		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Astrogha's Fang		0	1		1		1	1	kn5	Cinquedeas		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Meshif's Iron Parrot		0	1		1		1	1	ak1	Throwing Knife		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	ak2	Balanced Knife		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	ak3	Flying Knife		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Griefbringer		0	1		1		1	1	bt1	Throwing Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	bt2	Balanced Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Vizjerei's Folly		0	1		1		1	1	sa1	Short Staff		0	0								400				inherent-staff	0	40	40	skill	573	1	2	0	0	0	0	inherent-staff		40	40	skill	573	1	2																										0
-Xorine's Cane		0	1		1		1	1	sa2	Long Staff		0	0								401				inherent-staff	0	50	50	skill	573	1	3	0	0	0	0	inherent-staff		50	50	skill	573	1	3																										0
-		0	1		1		1	1	sa3	Gnarled Staff		0	0								402				inherent-staff	0	60	60	skill	573	1	4	0	0	0	0	inherent-staff		60	60	skill	573	1	4																										0
-Triumvirate		0	1		1		1	1	sa4	Gemmed Staff		0	0								403				inherent-staff	0	70	70	skill	573	1	5	0	0	0	0	inherent-staff		70	70	skill	573	1	5																										0
-Black King Bar		0	1		1		1	1	sa5	Battle Staff		0	0								404				inherent-staff	0	80	80	skill	573	1	6	0	0	0	0	inherent-staff		80	80	skill	573	1	6																										0
-Zular Khan's Tempest		0	1		1		1	1	sa6	War Staff		0	0								405				inherent-staff	0	90	90	skill	573	1	7	0	0	0	0	inherent-staff		90	90	skill	573	1	7																										0
-Spire of Sarnakyle		0	1		1		1	1	sa7	Dragonbone Staff		0	0								406				inherent-staff	0	100	100	skill	573	1	8	0	0	0	0	inherent-staff		100	100	skill	573	1	8																										0
-Sinewstring		0	1		1		1	1	bo1	Short Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Deadly Hunter		0	1		1		1	1	bo2	Hunter's Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Leonine Bow of Hashir		0	1		1		1	1	bo3	Long Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Gjallarhorn		0	1		1		1	1	bo4	Composite Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	bo5	Short Battle Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Harp of Vengeance		0	1		1		1	1	bo6	Long Battle Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	bo7	Short War Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	bo8	Long War Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Al Hazir's Quillholder		0	1		1		1	1	oo1	Light Crossbow		0	0								370				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
-Boss Crow		0	1		1		1	1	oo2	Crossbow		0	0								370				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
-Bucking Bertha		0	1		1		1	1	oo3	Heavy Crossbow		0	0								370				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
-Hwanin's Hwacha		0	1		1		1	1	oo4	Repeating Crossbow		0	0								370				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
-Katar Hero		0	1		1		1	1	ka1	Katar		0	0								433				inherent-claw	0	15	15	0	0	0	0	0	0	0	0	inherent-claw		15	15																														0
-		0	1		1		1	1	ka2	Hatchet Hands		0	0								434				inherent-claw	0	20	20	0	0	0	0	0	0	0	0	inherent-claw		20	20																														0
-The Toecutter		0	1		1		1	1	ka3	Cestus		0	0								435				inherent-claw	0	25	25	0	0	0	0	0	0	0	0	inherent-claw		25	25																														0
-		0	1		1		1	1	ka4	Blade Talons		0	0								436				inherent-claw	0	30	30	0	0	0	0	0	0	0	0	inherent-claw		30	30																														0
-Circuit Breaker		0	1		1		1	1	ka5	Scissors Katar		0	0								437				inherent-claw	0	35	35	0	0	0	0	0	0	0	0	inherent-claw		35	35																														0
-		0	1		1		1	1	ka6	Scissors Suwayyah		0	0								438				inherent-claw	0	40	40	0	0	0	0	0	0	0	0	inherent-claw		40	40																														0
-Vision Globe		0	1		1		1	1	or1	Eagle Orb		0	0								420				inherent-orb	0	10	10	skill	533	1	2	0	0	0	0	inherent-orb		10	10	skill	533	1	2																										0
-		0	1		1		1	1	or2	Crystal Orb		0	0								421				inherent-orb	0	15	15	skill	533	1	3	0	0	0	0	inherent-orb		15	15	skill	533	1	3																										0
-Apocalypta		0	1		1		1	1	or3	Scrying Orb		0	0								422				inherent-orb	0	20	20	skill	533	1	4	0	0	0	0	inherent-orb		20	20	skill	533	1	4																										0
-		0	1		1		1	1	or4	Scosglen Stone		0	0								423				inherent-orb	0	25	25	skill	533	1	5	0	0	0	0	inherent-orb		25	25	skill	533	1	5																										0
-		0	1		1		1	1	or5	Wyvern's Eye		0	0								424				inherent-orb	0	30	30	skill	533	1	6	0	0	0	0	inherent-orb		30	30	skill	533	1	6																										0
-Sky Sweeper		0	1		1		1	1	ac1	Stag Bow		0	0								480				inherent-abow	0	15	15	0	0	0	0	0	0	0	0	inherent-abow		15	15																														0
-Horned Hunter		0	1		1		1	1	ac2	Reflex Bow		0	0								481				inherent-abow	0	20	20	0	0	0	0	0	0	0	0	inherent-abow		20	20																														0
-		0	1		1		1	1	ac3	Dragonscale Bow		0	0								482				inherent-abow	0	25	25	0	0	0	0	0	0	0	0	inherent-abow		25	25																														0
-		0	1		1		1	1	aw1	Maiden Spear		0	0								476				inherent-aspe	0	10	10	dmg-mon%	4	50	50	automagic-human%	0	50	50	inherent-aspe		10	10	dmg-mon%	4	50	50	automagic-human%		50	50																						0
-Anessazi Dancer		0	1		1		1	1	aw2	Trishula		0	0								477				inherent-aspe	0	15	15	dmg-mon%	4	50	50	automagic-human%	0	50	50	inherent-aspe		15	15	dmg-mon%	4	50	50	automagic-human%		50	50																						0
-		0	1		1		1	1	aw3	Maiden Pike		0	0								478				inherent-aspe	0	20	20	dmg-mon%	4	50	50	automagic-human%	0	50	50	inherent-aspe		20	20	dmg-mon%	4	50	50	automagic-human%		50	50																						0
-		0	1		1		1	1	aw4	Corseque		0	0								479				inherent-aspe	0	25	25	dmg-mon%	4	50	50	automagic-human%	0	50	50	inherent-aspe		25	25	dmg-mon%	4	50	50	automagic-human%		50	50																						0
-		0	1		1		1	1	by1	Tribal Axe		0	0								483				inherent-bmel	0	10	10	0	0	0	0	0	0	0	0	inherent-bmel		10	10																														0
-		0	1		1		1	1	by2	Raiding Axe		0	0								485				inherent-bmel	0	20	20	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
-Dreadarc		0	1		1		1	1	by3	Sagaris		0	0								487				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
-Utar's Roar		0	1		1		1	1	ty1	Labrys		0	0								483				inherent-bmel	0	10	10	0	0	0	0	0	0	0	0	inherent-bmel		10	10																														0
-Bergkaiser		0	1		1		1	1	ty2	Ceremonial Axe		0	0								485				inherent-bmel	0	20	20	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
-		0	1		1		1	1	ty3	Twin Beard Axe		0	0								487				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
-The Not Too Mighty Pen		0	1		1		1	1	cu1	Cutlass		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	cu2	Shamshir		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	cu3	Machete		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	ps1	Katzbalger		0	0								362				dmg-demon	0	100	100	0	0	0	0	0	0	0	0	dmg-demon		100	100																														0
-		0	1		1		1	1	ps2	Seax		0	0								362				dmg-demon	0	100	100	0	0	0	0	0	0	0	0	dmg-demon		100	100																														0
-Kaskara of the Taan		0	1		1		1	1	bg1	Laminated Sword		0	0								483				inherent-bmel	0	10	10	0	0	0	0	0	0	0	0	inherent-bmel		10	10																														0
-Skeld's Battlesong		0	1		1		1	1	bg2	Raiding Sword		0	0								484				inherent-bmel	0	15	15	0	0	0	0	0	0	0	0	inherent-bmel		20	20																														0
-		0	1		1		1	1	bg3	Engraved Sword		0	0								485				inherent-bmel	0	20	20	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
-		0	1		1		1	1	bg4	Zweihander		0	0								486				inherent-bmel	0	25	25	0	0	0	0	0	0	0	0	inherent-bmel		40	40																														0
-		0	1		1		1	1	bg5	Ceremonial Sword		0	0								487				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
-Mace of Contrition		0	1		1		1	1	pp1	Virge		0	0								361				dmg-undead	0	50	50	0	0	0	0	0	0	0	0	dmg-undead		50	50																														0
-Hand of Naz		0	1		1		1	1	pp2	Goedendag		0	0								361				dmg-undead	0	50	50	0	0	0	0	0	0	0	0	dmg-undead		50	50																														0
-		0			1		1	1	na1	Naginata		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Azgar's Mark		0	1		1		1	1	to1	Totemic Bow		0	0								458				inherent-dbow	0	-10	-10	0	0	0	0	0	0	0	0	inherent-dbow		-10	-10																														0
-Salamander's Breath		0	1		1		1	1	to2	Siyah Bow		0	0								459				inherent-dbow	0	-15	-15	0	0	0	0	0	0	0	0	inherent-dbow		-15	-15																														0
-Leathdhiabhala		0	1		1		1	1	to3	Recurve Bow		0	0								460				inherent-dbow	0	-20	-20	0	0	0	0	0	0	0	0	inherent-dbow		-20	-20																														0
-		0	1		1		1	1	nx1	Templar Crossbow		0	0								371				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
-Thunder Machine		0	1		1		1	1	nx2	Arbalest		0	0								371				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
-Nymyr's Shadow		0	1		1		1	1	nx3	Wallarmbrust		0	0								371				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
-Manticore		0	1		1		1	1	nx4	Dragon Crossbow		0	0								371				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
-Thinking Cap		0	1		1		1	1	cc1	Cap		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Topspin		0	1		1		1	1	cc2	Skull Cap		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Thunderdome		0	1		1		1	1	cc3	Helm		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Helm of the Hierarch		0	1		1		1	1	cc4	Full Helm		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Gotterdammerung		0	1		1		1	1	cc5	Great Helm		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-The Broken Crown		0	1		1		1	1	cc6	Crown		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Trollface		0	1		1		1	1	nz1	Mask		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	ar1	Quilted Armor		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Belly of the Beast		0	1		1		1	1	ar2	Leather Armor		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Leather of Aut		0	1		1		1	1	ar3	Hard Leather Armor		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Carmen Arvale		0	1		1		1	1	ar4	Studded Leather 		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	ar5	Ring Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	ar6	Scale Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	ar7	Chain Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Jitan's Kamon		0	1		1		1	1	ar8	Breast Plate		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Splinter Mail		0	1		1		1	1	ar9	Splint Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Skin of Kabraxis		0	1		1		1	1	ar0	Plate Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Icetomb		0	1		1		1	1	aj1	Field Plate		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Scales of the Serpent		0	1		1		1	1	aj2	Gothic Plate		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	aj3	Light Plate		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Khazra Plate		0	1		1		1	1	aj4	Full Plate Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Torn Flesh of Gods		0	1		1		1	1	aj5	Ancient Armor		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Wheel of Fortune		0	1		1		1	1	se1	Buckler		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	se2	Small Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	se3	Large Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-The Tannr Scutum		0	1		1		1	1	se4	Kite Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Shield of a Thousand Stars		0	1		1		1	1	se5	Tower Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Shield of Hakan II		0	1		1		1	1	se6	Gothic Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Geglash's Dusters		0	1		1		1	1	gl1	Leather Gloves		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Gloves of Worship		0	1		1		1	1	gl2	Heavy Gloves		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Facebreaker		0	1		1		1	1	gl3	Chain Gloves		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Deadman's Hand		0	1		1		1	1	gl4	Light Gauntlets		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Pollice Verso		0	1		1		1	1	gl5	Gauntlets		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Rabbit's Foot		0	1		1		1	1	bu1	Boots		0	0								375				move3	0	5	5	0	0	0	0	0	0	0	0	move3		5	5																														0
-Death Spur		0	1		1		1	1	bu2	Heavy Boots		0	0								376				move3	0	8	8	0	0	0	0	0	0	0	0	move3		8	8																														0
-Spirit Walkers		0	1		1		1	1	bu3	Chain Boots		0	0								377				move3	0	10	10	0	0	0	0	0	0	0	0	move3		10	10																														0
-Akarat's Trek		0	1		1		1	1	bu4	Light Plated Boots		0	0								378				move3	0	12	12	0	0	0	0	0	0	0	0	move3		12	12																														0
-Toesie Warmers		0	1		1		1	1	bu5	Greaves		0	0								379				move3	0	15	15	0	0	0	0	0	0	0	0	move3		15	15																														0
-Cliffhanger		0	1		1		1	1	sx1	Sash		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-The Shame of Delsere		0	1		1		1	1	sx2	Light Belt		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Cord of the Sherma		0	1		1		1	1	sx3	Belt		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Hellcat Waistguard		0	1		1		1	1	sx4	Heavy Belt		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Edgewulf's Girdle		0	1		1		1	1	sx5	Plated Belt		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-The Prophet's Veil		0	1		1		1	1	oz1	Bone Helm		0	0								440				inherent-nxhm	0	10	10	0	0	0	0	0	0	0	0	inherent-nxhm		10	10																														0
-Deathseer's Cowl		0	1		1		1	1	oz2	Death Helm		0	0								441				inherent-nxhm	0	20	20	0	0	0	0	0	0	0	0	inherent-nxhm		20	20																														0
-The Pale		0	1		1		1	1	oh1	Bone Shield		0	0								450				inherent-nxsd	0	10	10	0	0	0	0	0	0	0	0	inherent-nxsd		10	10																														0
-Black Sheep Wall		0	1		1		1	1	oh2	Totem Shield		0	0								451				inherent-nxsd	0	15	15	0	0	0	0	0	0	0	0	inherent-nxsd		15	15																														0
-Wall of Man		0	1		1		1	1	oh3	Death Shield		0	0								452				inherent-nxsd	0	20	20	0	0	0	0	0	0	0	0	inherent-nxsd		20	20																														0
-Ripstar		0	1		1		1	1	ok1	Spiked Shield		0	0								373				automagic-woundth	0	20	20	0	0	0	0	0	0	0	0	automagic-woundth		20	20																														0
-		0	1		1		1	1	ok2	Bladed Shield		0	0								373				automagic-woundth	0	20	20	0	0	0	0	0	0	0	0	automagic-woundth		20	20																														0
-		0	1		1		1	1	ok3	Barbed Shield		0	0								373				automagic-woundth	0	20	20	0	0	0	0	0	0	0	0	automagic-woundth		20	20																														0
-Linarian's Furs		0	1		1		1	1	do1	Wolf Head		0	0								453				inherent-pelt	0	10	10	0	0	0	0	0	0	0	0	inherent-pelt		10	10																														0
-Blackfeather		0	1		1		1	1	do2	Hawk Helm		0	0								454				inherent-pelt	0	15	15	0	0	0	0	0	0	0	0	inherent-pelt		15	15																														0
-Dubhdroiacht		0	1		1		1	1	do3	Antlers		0	0								455				inherent-pelt	0	20	20	0	0	0	0	0	0	0	0	inherent-pelt		20	20																														0
-Skythrone		0	1		1		1	1	do4	Falcon Mask		0	0								456				inherent-pelt	0	25	25	0	0	0	0	0	0	0	0	inherent-pelt		25	25																														0
-		0	1		1		1	1	do5	Spirit Mask		0	0								457				inherent-pelt	0	30	30	0	0	0	0	0	0	0	0	inherent-pelt		30	30																														0
-		0	1		1		1	1	bp1	Jawbone Cap		0	0								493				inherent-phlm	0	10	10	0	0	0	0	0	0	0	0	inherent-phlm		10	10																														0
-Hellmaw		0	1		1		1	1	bp2	Fanged Helm		0	0								494				inherent-phlm	0	15	15	0	0	0	0	0	0	0	0	inherent-phlm		15	15																														0
-Cornucopia		0	1		1		1	1	bp3	Horned Helm		0	0								495				inherent-phlm	0	20	20	0	0	0	0	0	0	0	0	inherent-phlm		20	20																														0
-		0	1		1		1	1	bp4	Assault Helmet		0	0								496				inherent-phlm	0	25	25	0	0	0	0	0	0	0	0	inherent-phlm		25	25																														0
-Bul Kathos' Voice		0	1		1		1	1	bp5	Avenger Guard		0	0								497				inherent-phlm	0	30	30	0	0	0	0	0	0	0	0	inherent-phlm		30	30																														0
-Chalice of Tears		0	1		1		1	1	pl1	Targe		0	0								464				inherent-ashd	0	10	10	0	0	0	0	0	0	0	0	inherent-ashd		10	10																														0
-Lightforge		0	1		1		1	1	pl2	Rondache		0	0								465				inherent-ashd	0	15	15	0	0	0	0	0	0	0	0	inherent-ashd		15	15																														0
-		0	1		1		1	1	pl3	Heraldic Shield		0	0								466				inherent-ashd	0	20	20	0	0	0	0	0	0	0	0	inherent-ashd		20	20																														0
-Akarat's Witness		0	1		1		1	1	pl4	Aerin Shield		0	0								467				inherent-ashd	0	25	25	0	0	0	0	0	0	0	0	inherent-ashd		25	25																														0
-		0	1		1		1	1	pl5	Crown Shield		0	0								468				inherent-ashd	0	30	30	0	0	0	0	0	0	0	0	inherent-ashd		30	30																														0
-Idol of Rygnar		0	1		1		1	1	nk1	Preserved Head		0	0								445				inherent-head	0	10	10	0	0	0	0	0	0	0	0	inherent-head		10	10																														0
-Gregus Mazi's Nkisi		0	1		1		1	1	nk2	Zombie Head		0	0								446				inherent-head	0	15	15	0	0	0	0	0	0	0	0	inherent-head		15	15																														0
-Shukrani's Triumph		0	1		1		1	1	nk3	Unraveller Head		0	0								447				inherent-head	0	20	20	0	0	0	0	0	0	0	0	inherent-head		20	20																														0
-Ursua's Trodden Effigy		0	1		1		1	1	nk4	Gargoyle Head		0	0								448				inherent-head	0	25	25	0	0	0	0	0	0	0	0	inherent-head		25	25																														0
-		0	1		1		1	1	nk5	Demon Head		0	0								449				inherent-head	0	30	30	0	0	0	0	0	0	0	0	inherent-head		30	30																														0
-Eyes of Septumos		0	1		1		1	1	cq1	Circlet		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Crown of the Vasan Queen		0	1		1		1	1	cq2	Coronet		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Maiden Mother Crown		0	1		1		1	1	cq3	Tiara		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Uhkapian Serpent		0	1		1		1	1	cq4	Diadem		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	af1	Hunter's Headdress		0	0								473				inherent-ahlm	0	10	10	0	0	0	0	0	0	0	0	inherent-ahlm		10	10																														0
-		0	1		1		1	1	af2	Hoplite Helm		0	0								474				inherent-ahlm	0	15	15	0	0	0	0	0	0	0	0	inherent-ahlm		15	15																														0
-Ylfe Ban		0	1		1		1	1	af3	Einherjar Crown		0	0								475				inherent-ahlm	0	20	20	0	0	0	0	0	0	0	0	inherent-ahlm		20	20																														0
-Crown of Rakkis		0	1		1		1	1	pf1	Spangenhelm		0	0								461				inherent-chlm	0	1	1	0	0	0	0	0	0	0	0	inherent-chlm		1	1																														0
-		0	1		1		1	1	pf2	Jousting Helm		0	0								462				inherent-chlm	0	2	2	0	0	0	0	0	0	0	0	inherent-chlm		2	2																														0
-Warhelm of Kassar		0	1		1		1	1	pf3	Vallary Crown		0	0								463				inherent-chlm	0	3	3	0	0	0	0	0	0	0	0	inherent-chlm		3	3																														0
-Nor Tiraj's Turinash		0	1		1		1	1	sz1	Sorcerer's Coat		0	0								498				inherent-stor	0	5	5	0	0	0	0	0	0	0	0	inherent-stor		5	5																														0
-Wisdom's Wrap		0	1		1		1	1	sz2	Xian Wizard Cuirass		0	0								499				inherent-stor	0	10	10	0	0	0	0	0	0	0	0	inherent-stor		10	10																														0
-Lachdanan's Visage		0	1		1		1	1	sz3	Black Mage Armor		0	0								500				inherent-stor	0	15	15	0	0	0	0	0	0	0	0	inherent-stor		15	15																														0
-Zharesh Battlerobes		0	1		1		1	1	sz4	Astral Plate		0	0								501				inherent-stor	0	20	20	0	0	0	0	0	0	0	0	inherent-stor		20	20																														0
-		0	1		1		1	1	sz5	Angelic Armor		0	0								502				inherent-stor	0	25	25	0	0	0	0	0	0	0	0	inherent-stor		25	25																														0
-		0	1		1		1	1	bn1	Gilded Buckler		0	0								488				inherent-bshd	0	10	10	0	0	0	0	0	0	0	0	inherent-bshd		10	10																														0
-		0	1		1		1	1	bn2	Meteoric Shield		0	0								489				inherent-bshd	0	15	15	0	0	0	0	0	0	0	0	inherent-bshd		15	15																														0
-		0	1		1		1	1	bn3	Tribal Pavise		0	0								490				inherent-bshd	0	20	20	0	0	0	0	0	0	0	0	inherent-bshd		20	20																														0
-Golden Fleece		0	1		1		1	1	bn4	Horned Shield		0	0								491				inherent-bshd	0	25	25	0	0	0	0	0	0	0	0	inherent-bshd		25	25																														0
-Helepolis		0	1		1		1	1	bn5	Riveted Shield		0	0								492				inherent-bshd	0	30	30	0	0	0	0	0	0	0	0	inherent-bshd		30	30																														0
-		0	1		1		1	1	ml1	Cold Iron Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Danmaku		0	1		1		1	1	ml2	Sovereign Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Hypnodisk		0	1		1		1	1	ml3	Galvanized Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0			1		1	1	ml4	Jousting Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Ring of the Five		0	1		1		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Sigil of Tul Dulra		0	1		1		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Krede's Flame		0	1		1		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-		0	1		1		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Seal of the Nephalem Kings		0	1		1		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Black Dwarf		0	1		1		1	1	amu	Amulet		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Xephirian Amulet		0	1		1		1	1	amu	Amulet		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Habacalva's Firestar		0	1		1		1	1	amu	Amulet		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Talisman of Aranoch		0	1		1		1	1	amu	Amulet		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-The Star of Azkaranth		0	1		1		1	1	amu	Amulet		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Dragon's Egg		0	1		1		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Arkenstone		0	1		1		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Etched Sigil		0	1		1		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-The Madstone		0	1		1		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
-Cornerstone of the World		0	1		1		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+LazRuneword1	1	0	1		4		0	0	z01	Runeword 1		0	0								str		69	69																																														0
+LazRuneword2	2	0	1		4		0	0	z02	Runeword 2		0	0																																																									0
+LazRuneword3	3	0	1		4		0	0	z03	Runeword 3		0	0																																																									0
+LazRuneword4	4	0	1		4		0	0	z04	Runeword 4		0	0																																																									0
+LazRuneword5	5	0	1		4		0	0	z05	Runeword 5		0	0																																																									0
+LazRuneword6	6	0	1		4		0	0	z06	Runeword 6		0	0																																																									0
+LazRuneword7	7	0	1		4		0	0	z07	Runeword 7		0	0																																																									0
+LazRuneword8	8	0	1		4		0	0	z08	Runeword 8		0	0																																																									0
+LazRuneword9	9	0	1		4		0	0	z09	Runeword 9		0	0																																																									0
+LazRuneword10	10	0	1		4		0	0	z10	Runeword 10		0	0																																																									0
+LazRuneword11	11	0	1		4		0	0	z11	Runeword 11		0	0																																																									0
+LazRuneword12	12	0	1		4		0	0	z12	Runeword 12		0	0																																																									0
+LazRuneword13	13	0	1		4		0	0	z13	Runeword 13		0	0																																																									0
+LazRuneword14	14	0	1		4		0	0	z14	Runeword 14		0	0																																																									0
+LazRuneword15	15	0	1		4		0	0	z15	Runeword 15		0	0																																																									0
+LazRuneword16	16	0	1		4		0	0	z16	Runeword 16		0	0																																																									0
+LazRuneword17	17	0	1		4		0	0	z17	Runeword 17		0	0																																																									0
+LazRuneword18	18	0	1		4		0	0	z18	Runeword 18		0	0																																																									0
+LazRuneword19	19	0	1		4		0	0	z19	Runeword 19		0	0																																																									0
+LazRuneword20	20	0	1		4		0	0	z20	Runeword 20		0	0																																																									0
+LazRuneword21	21	0	1		4		0	0	z21	Runeword 21		0	0																																																									0
+LazRuneword22	22	0	1		4		0	0	z22	Runeword 22		0	0																																																									0
+LazRuneword23	23	0	1		4		0	0	z23	Runeword 23		0	0																																																									0
+LazRuneword24	24	0	1		4		0	0	z24	Runeword 24		0	0																																																									0
+LazRuneword25	25	0	1		4		0	0	z25	Runeword 25		0	0																																																									0
+LazRuneword26	26	0	1		4		0	0	z26	Runeword 26		0	0																																																									0
+LazRuneword27	27	0	1		4		0	0	z27	Runeword 27		0	0																																																									0
+LazRuneword28	28	0	1		4		0	0	z28	Runeword 28		0	0																																																									0
+LazRuneword29	29	0	1		4		0	0	z29	Runeword 29		0	0																																																									0
+LazRuneword30	30	0	1		4		0	0	z30	Runeword 30		0	0																																																									0
+LazRuneword31	31	0	1		4		0	0	z31	Runeword 31		0	0																																																									0
+LazRuneword32	32	0	1		4		0	0	z32	Runeword 32		0	0																																																									0
+LazRuneword33	33	0	1		4		0	0	z33	Runeword 33		0	0																																																									0
+LazRuneword34	34	0	1		4		0	0	z34	Runeword 34		0	0																																																									0
+LazRuneword35	35	0	1		4		0	0	z35	Runeword 35		0	0																																																									0
+LazRuneword36	36	0	1		4		0	0	z36	Runeword 36		0	0																																																									0
+LazRuneword37	37	0	1		4		0	0	z37	Runeword 37		0	0																																																									0
+LazRuneword38	38	0	1		4		0	0	z38	Runeword 38		0	0																																																									0
+LazRuneword39	39	0	1		4		0	0	z39	Runeword 39		0	0																																																									0
+LazRuneword40	40	0	1		4		0	0	z40	Runeword 40		0	0								hit-skill	423	50	1	gethit-skill	9	100	1																																										0
+LazRuneword41	41	0	1		4		0	0	z41	Runeword 41		0	0																																																									0
+LazRuneword42	42	0	1		4		0	0	z42	Runeword 42		0	0																																																									0
+LazRuneword43	43	0	1		4		0	0	z43	Runeword 43		0	0																																																									0
+LazRuneword44	44	0	1		4		0	0	z44	Runeword 44		0	0																																																									0
+LazRuneword45	45	0	1		4		0	0	z45	Runeword 45		0	0																																																									0
+LazRuneword46	46	0	1		4		0	0	z46	Runeword 46		0	0																																																									0
+LazRuneword47	47	0	1		4		0	0	z47	Runeword 47		0	0																																																									0
+LazRuneword48	48	0	1		4		0	0	z48	Runeword 48		0	0																																																									0
+LazRuneword49	49	0	1		4		0	0	z49	Runeword 49		0	0																																																									0
+LazRuneword50	50	0	1		4		0	0	z50	Runeword 50		0	0																																																									0
+LazRuneword51	51	0	1		4		0	0	z51	Runeword 51		0	0																																																									0
+LazRuneword52	52	0	1		4		0	0	z52	Runeword 52		0	0																																																									0
+LazRuneword53	53	0	1		4		0	0	z53	Runeword 53		0	0																																																									0
+LazRuneword54	54	0	1		4		0	0	z54	Runeword 54		0	0																																																									0
+LazRuneword55	55	0	1		4		0	0	z55	Runeword 55		0	0																																																									0
+LazRuneword56	56	0	1		4		0	0	z56	Runeword 56		0	0																																																									0
+LazRuneword57	57	0	1		4		0	0	z57	Runeword 57		0	0																																																									0
+LazRuneword58	58	0	1		4		0	0	z58	Runeword 58		0	0																																																									0
+LazRuneword59	59	0	1		4		0	0	z59	Runeword 59		0	0																																																									0
+LazRuneword60	60	0	1		4		0	0	z60	Runeword 60		0	0																																																									0
+LazRuneword61	61	0	1		4		0	0	z61	Runeword 61		0	0																																																									0
+LazRuneword62	62	0	1		4		0	0	z62	Runeword 62		0	0																																																									0
+LazRuneword63	63	0	1		4		0	0	z63	Runeword 63		0	0																																																									0
+LazRuneword64	64	0	1		4		0	0	z64	Runeword 64		0	0																																																									0
+LazRuneword65	65	0	1		4		0	0	z65	Runeword 65		0	0																																																									0
+LazRuneword66	66	0	1		4		0	0	z66	Runeword 66		0	0																																																									0
+LazRuneword67	67	0	1		4		0	0	z67	Runeword 67		0	0																																																									0
+LazRuneword68	68	0	1		4		0	0	z68	Runeword 68		0	0																																																									0
+LazRuneword69	69	0	1		4		0	0	z69	Runeword 69		0	0																																																									0
+LazRuneword70	70	0	1		4		0	0	z70	Runeword 70		0	0																																																									0
+LazRuneword71	71	0	1		4		0	0	z71	Runeword 71		0	0																																																									0
+LazRuneword72	72	0	1		4		0	0	z72	Runeword 72		0	0																																																									0
+LazRuneword73	73	0	1		4		0	0	z73	Runeword 73		0	0																																																									0
+LazRuneword74	74	0	1		4		0	0	z74	Runeword 74		0	0																																																									0
+LazRuneword75	75	0	1		4		0	0	z75	Runeword 75		0	0																																																									0
+LazRuneword76	76	0	1		4		0	0	z76	Runeword 76		0	0																																																									0
+LazRuneword77	77	0	1		4		0	0	z77	Runeword 77		0	0																																																									0
+LazRuneword78	78	0	1		4		0	0	z78	Runeword 78		0	0																																																									0
+LazRuneword79	79	0	1		4		0	0	z79	Runeword 79		0	0																																																									0
+LazRuneword80	80	0	1		4		0	0	z80	Runeword 80		0	0																																																									0
+Brainhack		0	1		4		1	1	ax1	Hand Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Throatseeker		0	1		4		1	1	ax2	Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Moonbender's Wing		0	1		4		1	1	ax3	Double Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Feigen's Beak		0	1		4		1	1	ax4	Military Pick		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	ax5	War Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	at1	Large Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Elite Hacker		0	1		4		1	1	at2	Broad Axe 		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Skullhammer		0	1		4		1	1	at3	Battle Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Norrec's Topor		0	1		4		1	1	at4	Great Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	at5	Giant Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Pig Sticker		0	1		4		1	1	sd1	Short Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Al Nath		0	1		4		1	1	sd2	Scimitar		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Saber of the Stormsail		0	1		4		1	1	sd3	Saber		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Bone Gasher		0	1		4		1	1	sd4	Falchion		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Sarandeshi Hellcaller		0	1		4		1	1	sd5	Broad Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	sd6	Long Sword 		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Aurumvorax		0	1		4		1	1	sd7	War Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Starhawk		0	1		4		1	1	ss1	Crystal Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	ss2	Shard Blade		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Sultan of Blinding Sand		0	1		4		1	1	st1	Two-Handed Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Blood Brother		0	1		4		1	1	st2	Claymore		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Qarak's Will		0	1		4		1	1	st3	Giant Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Tylwulf's Betrayal		0	1		4		1	1	st4	Bastard Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Doomswath		0	1		4		1	1	st5	Flamberge		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+The Dao of Xiansai		0	1		4		1	1	st6	Great Sword		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Branch of a Million Splinters		0	1		4		1	1	cb1	Club		0	0								372				automagic-werebeast	0	100	100	0	0	0	0	0	0	0	0	automagic-werebeast		100	100																														0
+Brainsplatter		0	1		4		1	1	cb2	Barbed Club		0	0								372				automagic-werebeast	0	100	100	0	0	0	0	0	0	0	0	automagic-werebeast		100	100																														0
+		0	1		4		1	1	cb3	Spiked Club		0	0								372				automagic-werebeast	0	100	100	0	0	0	0	0	0	0	0	automagic-werebeast		100	100																														0
+The First Rule		0	1		4		1	1	cb4	Bone Club		0	0								372				automagic-werebeast	0	100	100	0	0	0	0	0	0	0	0	automagic-werebeast		100	100																														0
+Koth's Lesson		0	1		4		1	1	mc1	Mace		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Bone Rattler		0	1		4		1	1	mc2	Morning Star		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Archon's Wrath		0	1		4		1	1	mc3	Flail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Hammer of Ghrab Thaar		0	1		4		1	1	mt1	War Hammer		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Trollhammaren		0	1		4		1	1	mt2	Maul		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Chober Chaber		0	1		4		1	1	mt3	Giant Maul		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Siegehammer of Morgen Keep		0	1		4		1	1	mt4	Great Maul		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Void Seeker		0	1		4		1	1	sp1	Spear		0	0								365				dmg-mon%	4	50	50	automagic-human%	0	50	50	0	0	0	0	dmg-mon%	4	50	50	automagic-human%		50	50																										0
+Staff of the Seawitch		0	1		4		1	1	sp2	Trident		0	0								365				dmg-mon%	4	50	50	automagic-human%	0	50	50	0	0	0	0	dmg-mon%	4	50	50	automagic-human%		50	50																										0
+		0	1		4		1	1	sp3	Brandistock		0	0								365				dmg-mon%	4	50	50	automagic-human%	0	50	50	0	0	0	0	dmg-mon%	4	50	50	automagic-human%		50	50																										0
+Spear of the Ascended		0	1		4		1	1	sp4	Spetum		0	0								365				dmg-mon%	4	50	50	automagic-human%	0	50	50	0	0	0	0	dmg-mon%	4	50	50	automagic-human%		50	50																										0
+		0	1		4		1	1	sp5	Pike		0	0								365				dmg-mon%	4	50	50	automagic-human%	0	50	50	0	0	0	0	dmg-mon%	4	50	50	automagic-human%		50	50																										0
+		0	1		4		1	1	po1	Bardiche		0	0								360				hit-skill-stance	424	100	1	dmg-stun	0	25	25	0	0	0	0	hit-skill-stance	424	100	1	dmg-stun		25	25																										0
+Pledge of Caldeum		0	1		4		1	1	po2	Voulge		0	0								360				hit-skill-stance	424	100	1	dmg-stun	0	25	25	0	0	0	0	hit-skill-stance	424	100	1	dmg-stun		25	25																										0
+		0	1		4		1	1	po3	Poleaxe		0	0								360				hit-skill-stance	424	100	1	dmg-stun	0	25	25	0	0	0	0	hit-skill-stance	424	100	1	dmg-stun		25	25																										0
+Oathkeeper		0	1		4		1	1	po4	Halberd		0	0								360				hit-skill-stance	424	100	1	dmg-stun	0	25	25	0	0	0	0	hit-skill-stance	424	100	1	dmg-stun		25	25																										0
+Moonscythe		0	1		4		1	1	sc1	Scythe		0	0								359				hit-skill-stance	15	5	1	0	0	0	0	0	0	0	0	hit-skill-stance	15	5	1																														0
+Serpent Angel		0	1		4		1	1	sc2	Ornate Scythe		0	0								359				hit-skill-stance	15	5	1	0	0	0	0	0	0	0	0	hit-skill-stance	15	5	1																														0
+Seven Heads of Tathamet		0	1		4		1	1	sc3	Bone Scythe		0	0								359				hit-skill-stance	15	5	1	0	0	0	0	0	0	0	0	hit-skill-stance	15	5	1																														0
+Pagan's Geis		0	1		4		1	1	wa1	Wand		0	0								410				inherent-wand	0	10	10	skill	565	1	2	0	0	0	0	inherent-wand		10	10	skill	565	1	2																										0
+Dragonspine		0	1		4		1	1	wa2	Gemmed Wand		0	0								411				inherent-wand	0	15	15	skill	565	1	3	0	0	0	0	inherent-wand		15	15	skill	565	1	3																										0
+Compass of Souls		0	1		4		1	1	wa3	Yew Wand		0	0								412				inherent-wand	0	20	20	skill	565	1	4	0	0	0	0	inherent-wand		20	20	skill	565	1	4																										0
+Na Krul's Spine		0	1		4		1	1	wa4	Bone Wand		0	0								413				inherent-wand	0	25	25	skill	565	1	5	0	0	0	0	inherent-wand		25	25	skill	565	1	5																										0
+Varna's Poppet		0	1		4		1	1	wa5	Totemic Wand		0	0								414				inherent-wand	0	30	30	skill	565	1	6	0	0	0	0	inherent-wand		30	30	skill	565	1	6																										0
+Wand of Woh		0	1		4		1	1	wa6	Grim Wand		0	0								415				inherent-wand	0	35	35	skill	565	1	7	0	0	0	0	inherent-wand		35	35	skill	565	1	7																										0
+Deathstroke		0	1		4		1	1	wa7	Spirit Wand		0	0								416				inherent-wand	0	40	40	skill	565	1	8	0	0	0	0	inherent-wand		40	40	skill	565	1	8																										0
+Scepter of Tremain		0	1		4		1	1	sh1	Scepter		0	0								430				inherent-scepter	0	10	10	skill	502	1	2	0	0	0	0	inherent-scepter		10	10	skill	502	1	2																										0
+Faithshaker		0	1		4		1	1	sh2	Grand Scepter		0	0								431				inherent-scepter	0	20	20	skill	502	1	4	0	0	0	0	inherent-scepter		20	20	skill	502	1	4																										0
+Dreamswayer		0	1		4		1	1	sh3	War Scepter		0	0								432				inherent-scepter	0	30	30	skill	502	1	6	0	0	0	0	inherent-scepter		30	30	skill	502	1	6																										0
+Clawscratch		0	1		4		1	1	kn1	Dagger		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Helgrotha's Fang		0	1		4		1	1	kn2	Dirk		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Rhen'ho Flayer		0	1		4		1	1	kn3	Kris		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Starmetal Kukri		0	1		4		1	1	kn4	Blade		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Astrogha's Fang		0	1		4		1	1	kn5	Cinquedeas		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Meshif's Iron Parrot		0	1		4		1	1	ak1	Throwing Knife		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	ak2	Balanced Knife		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	ak3	Flying Knife		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Griefbringer		0	1		4		1	1	bt1	Throwing Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	bt2	Balanced Axe		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Vizjerei's Folly		0	1		4		1	1	sa1	Short Staff		0	0								400				inherent-staff	0	40	40	skill	573	1	2	0	0	0	0	inherent-staff		40	40	skill	573	1	2																										0
+Xorine's Cane		0	1		4		1	1	sa2	Long Staff		0	0								401				inherent-staff	0	50	50	skill	573	1	3	0	0	0	0	inherent-staff		50	50	skill	573	1	3																										0
+		0	1		4		1	1	sa3	Gnarled Staff		0	0								402				inherent-staff	0	60	60	skill	573	1	4	0	0	0	0	inherent-staff		60	60	skill	573	1	4																										0
+Triumvirate		0	1		4		1	1	sa4	Gemmed Staff		0	0								403				inherent-staff	0	70	70	skill	573	1	5	0	0	0	0	inherent-staff		70	70	skill	573	1	5																										0
+Black King Bar		0	1		4		1	1	sa5	Battle Staff		0	0								404				inherent-staff	0	80	80	skill	573	1	6	0	0	0	0	inherent-staff		80	80	skill	573	1	6																										0
+Zular Khan's Tempest		0	1		4		1	1	sa6	War Staff		0	0								405				inherent-staff	0	90	90	skill	573	1	7	0	0	0	0	inherent-staff		90	90	skill	573	1	7																										0
+Spire of Sarnakyle		0	1		4		1	1	sa7	Dragonbone Staff		0	0								406				inherent-staff	0	100	100	skill	573	1	8	0	0	0	0	inherent-staff		100	100	skill	573	1	8																										0
+Sinewstring		0	1		4		1	1	bo1	Short Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Deadly Hunter		0	1		4		1	1	bo2	Hunter's Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Leonine Bow of Hashir		0	1		4		1	1	bo3	Long Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Gjallarhorn		0	1		4		1	1	bo4	Composite Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	bo5	Short Battle Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Harp of Vengeance		0	1		4		1	1	bo6	Long Battle Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	bo7	Short War Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	bo8	Long War Bow		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Al Hazir's Quillholder		0	1		4		1	1	oo1	Light Crossbow		0	0								370				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
+Boss Crow		0	1		4		1	1	oo2	Crossbow		0	0								370				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
+Bucking Bertha		0	1		4		1	1	oo3	Heavy Crossbow		0	0								370				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
+Hwanin's Hwacha		0	1		4		1	1	oo4	Repeating Crossbow		0	0								370				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
+Katar Hero		0	1		4		1	1	ka1	Katar		0	0								433				inherent-claw	0	15	15	0	0	0	0	0	0	0	0	inherent-claw		15	15																														0
+		0	1		4		1	1	ka2	Hatchet Hands		0	0								434				inherent-claw	0	20	20	0	0	0	0	0	0	0	0	inherent-claw		20	20																														0
+The Toecutter		0	1		4		1	1	ka3	Cestus		0	0								435				inherent-claw	0	25	25	0	0	0	0	0	0	0	0	inherent-claw		25	25																														0
+		0	1		4		1	1	ka4	Blade Talons		0	0								436				inherent-claw	0	30	30	0	0	0	0	0	0	0	0	inherent-claw		30	30																														0
+Circuit Breaker		0	1		4		1	1	ka5	Scissors Katar		0	0								437				inherent-claw	0	35	35	0	0	0	0	0	0	0	0	inherent-claw		35	35																														0
+		0	1		4		1	1	ka6	Scissors Suwayyah		0	0								438				inherent-claw	0	40	40	0	0	0	0	0	0	0	0	inherent-claw		40	40																														0
+Vision Globe		0	1		4		1	1	or1	Eagle Orb		0	0								420				inherent-orb	0	10	10	skill	533	1	2	0	0	0	0	inherent-orb		10	10	skill	533	1	2																										0
+		0	1		4		1	1	or2	Crystal Orb		0	0								421				inherent-orb	0	15	15	skill	533	1	3	0	0	0	0	inherent-orb		15	15	skill	533	1	3																										0
+Apocalypta		0	1		4		1	1	or3	Scrying Orb		0	0								422				inherent-orb	0	20	20	skill	533	1	4	0	0	0	0	inherent-orb		20	20	skill	533	1	4																										0
+		0	1		4		1	1	or4	Scosglen Stone		0	0								423				inherent-orb	0	25	25	skill	533	1	5	0	0	0	0	inherent-orb		25	25	skill	533	1	5																										0
+		0	1		4		1	1	or5	Wyvern's Eye		0	0								424				inherent-orb	0	30	30	skill	533	1	6	0	0	0	0	inherent-orb		30	30	skill	533	1	6																										0
+Sky Sweeper		0	1		4		1	1	ac1	Stag Bow		0	0								480				inherent-abow	0	15	15	0	0	0	0	0	0	0	0	inherent-abow		15	15																														0
+Horned Hunter		0	1		4		1	1	ac2	Reflex Bow		0	0								481				inherent-abow	0	20	20	0	0	0	0	0	0	0	0	inherent-abow		20	20																														0
+		0	1		4		1	1	ac3	Dragonscale Bow		0	0								482				inherent-abow	0	25	25	0	0	0	0	0	0	0	0	inherent-abow		25	25																														0
+		0	1		4		1	1	aw1	Maiden Spear		0	0								476				inherent-aspe	0	10	10	dmg-mon%	4	50	50	automagic-human%	0	50	50	inherent-aspe		10	10	dmg-mon%	4	50	50	automagic-human%		50	50																						0
+Anessazi Dancer		0	1		4		1	1	aw2	Trishula		0	0								477				inherent-aspe	0	15	15	dmg-mon%	4	50	50	automagic-human%	0	50	50	inherent-aspe		15	15	dmg-mon%	4	50	50	automagic-human%		50	50																						0
+		0	1		4		1	1	aw3	Maiden Pike		0	0								478				inherent-aspe	0	20	20	dmg-mon%	4	50	50	automagic-human%	0	50	50	inherent-aspe		20	20	dmg-mon%	4	50	50	automagic-human%		50	50																						0
+		0	1		4		1	1	aw4	Corseque		0	0								479				inherent-aspe	0	25	25	dmg-mon%	4	50	50	automagic-human%	0	50	50	inherent-aspe		25	25	dmg-mon%	4	50	50	automagic-human%		50	50																						0
+		0	1		4		1	1	by1	Tribal Axe		0	0								483				inherent-bmel	0	10	10	0	0	0	0	0	0	0	0	inherent-bmel		10	10																														0
+		0	1		4		1	1	by2	Raiding Axe		0	0								485				inherent-bmel	0	20	20	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
+Dreadarc		0	1		4		1	1	by3	Sagaris		0	0								487				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
+Utar's Roar		0	1		4		1	1	ty1	Labrys		0	0								483				inherent-bmel	0	10	10	0	0	0	0	0	0	0	0	inherent-bmel		10	10																														0
+Bergkaiser		0	1		4		1	1	ty2	Ceremonial Axe		0	0								485				inherent-bmel	0	20	20	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
+		0	1		4		1	1	ty3	Twin Beard Axe		0	0								487				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
+The Not Too Mighty Pen		0	1		4		1	1	cu1	Cutlass		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	cu2	Shamshir		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	cu3	Machete		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	ps1	Katzbalger		0	0								362				dmg-demon	0	100	100	0	0	0	0	0	0	0	0	dmg-demon		100	100																														0
+		0	1		4		1	1	ps2	Seax		0	0								362				dmg-demon	0	100	100	0	0	0	0	0	0	0	0	dmg-demon		100	100																														0
+Kaskara of the Taan		0	1		4		1	1	bg1	Laminated Sword		0	0								483				inherent-bmel	0	10	10	0	0	0	0	0	0	0	0	inherent-bmel		10	10																														0
+Skeld's Battlesong		0	1		4		1	1	bg2	Raiding Sword		0	0								484				inherent-bmel	0	15	15	0	0	0	0	0	0	0	0	inherent-bmel		20	20																														0
+		0	1		4		1	1	bg3	Engraved Sword		0	0								485				inherent-bmel	0	20	20	0	0	0	0	0	0	0	0	inherent-bmel		30	30																														0
+		0	1		4		1	1	bg4	Zweihander		0	0								486				inherent-bmel	0	25	25	0	0	0	0	0	0	0	0	inherent-bmel		40	40																														0
+		0	1		4		1	1	bg5	Ceremonial Sword		0	0								487				inherent-bmel	0	30	30	0	0	0	0	0	0	0	0	inherent-bmel		50	50																														0
+Mace of Contrition		0	1		4		1	1	pp1	Virge		0	0								361				dmg-undead	0	50	50	0	0	0	0	0	0	0	0	dmg-undead		50	50																														0
+Hand of Naz		0	1		4		1	1	pp2	Goedendag		0	0								361				dmg-undead	0	50	50	0	0	0	0	0	0	0	0	dmg-undead		50	50																														0
+		0			4		1	1	na1	Naginata		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Azgar's Mark		0	1		4		1	1	to1	Totemic Bow		0	0								458				inherent-dbow	0	-10	-10	0	0	0	0	0	0	0	0	inherent-dbow		-10	-10																														0
+Salamander's Breath		0	1		4		1	1	to2	Siyah Bow		0	0								459				inherent-dbow	0	-15	-15	0	0	0	0	0	0	0	0	inherent-dbow		-15	-15																														0
+Leathdhiabhala		0	1		4		1	1	to3	Recurve Bow		0	0								460				inherent-dbow	0	-20	-20	0	0	0	0	0	0	0	0	inherent-dbow		-20	-20																														0
+		0	1		4		1	1	nx1	Templar Crossbow		0	0								371				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
+Thunder Machine		0	1		4		1	1	nx2	Arbalest		0	0								371				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
+Nymyr's Shadow		0	1		4		1	1	nx3	Wallarmbrust		0	0								371				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
+Manticore		0	1		4		1	1	nx4	Dragon Crossbow		0	0								371				automagic-str	4	0	0	0	0	0	0	0	0	0	0	automagic-str	4																																0
+Thinking Cap		0	1		4		1	1	cc1	Cap		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Topspin		0	1		4		1	1	cc2	Skull Cap		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Thunderdome		0	1		4		1	1	cc3	Helm		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Helm of the Hierarch		0	1		4		1	1	cc4	Full Helm		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Gotterdammerung		0	1		4		1	1	cc5	Great Helm		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+The Broken Crown		0	1		4		1	1	cc6	Crown		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Trollface		0	1		4		1	1	nz1	Mask		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	ar1	Quilted Armor		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Belly of the Beast		0	1		4		1	1	ar2	Leather Armor		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Leather of Aut		0	1		4		1	1	ar3	Hard Leather Armor		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Carmen Arvale		0	1		4		1	1	ar4	Studded Leather 		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	ar5	Ring Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	ar6	Scale Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	ar7	Chain Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Jitan's Kamon		0	1		4		1	1	ar8	Breast Plate		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Splinter Mail		0	1		4		1	1	ar9	Splint Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Skin of Kabraxis		0	1		4		1	1	ar0	Plate Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Icetomb		0	1		4		1	1	aj1	Field Plate		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Scales of the Serpent		0	1		4		1	1	aj2	Gothic Plate		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	aj3	Light Plate		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Khazra Plate		0	1		4		1	1	aj4	Full Plate Mail		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Torn Flesh of Gods		0	1		4		1	1	aj5	Ancient Armor		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Wheel of Fortune		0	1		4		1	1	se1	Buckler		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	se2	Small Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	se3	Large Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+The Tannr Scutum		0	1		4		1	1	se4	Kite Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Shield of a Thousand Stars		0	1		4		1	1	se5	Tower Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Shield of Hakan II		0	1		4		1	1	se6	Gothic Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Geglash's Dusters		0	1		4		1	1	gl1	Leather Gloves		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Gloves of Worship		0	1		4		1	1	gl2	Heavy Gloves		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Facebreaker		0	1		4		1	1	gl3	Chain Gloves		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Deadman's Hand		0	1		4		1	1	gl4	Light Gauntlets		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Pollice Verso		0	1		4		1	1	gl5	Gauntlets		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Rabbit's Foot		0	1		4		1	1	bu1	Boots		0	0								375				move3	0	5	5	0	0	0	0	0	0	0	0	move3		5	5																														0
+Death Spur		0	1		4		1	1	bu2	Heavy Boots		0	0								376				move3	0	8	8	0	0	0	0	0	0	0	0	move3		8	8																														0
+Spirit Walkers		0	1		4		1	1	bu3	Chain Boots		0	0								377				move3	0	10	10	0	0	0	0	0	0	0	0	move3		10	10																														0
+Akarat's Trek		0	1		4		1	1	bu4	Light Plated Boots		0	0								378				move3	0	12	12	0	0	0	0	0	0	0	0	move3		12	12																														0
+Toesie Warmers		0	1		4		1	1	bu5	Greaves		0	0								379				move3	0	15	15	0	0	0	0	0	0	0	0	move3		15	15																														0
+Cliffhanger		0	1		4		1	1	sx1	Sash		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+The Shame of Delsere		0	1		4		1	1	sx2	Light Belt		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Cord of the Sherma		0	1		4		1	1	sx3	Belt		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Hellcat Waistguard		0	1		4		1	1	sx4	Heavy Belt		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Edgewulf's Girdle		0	1		4		1	1	sx5	Plated Belt		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+The Prophet's Veil		0	1		4		1	1	oz1	Bone Helm		0	0								440				inherent-nxhm	0	10	10	0	0	0	0	0	0	0	0	inherent-nxhm		10	10																														0
+Deathseer's Cowl		0	1		4		1	1	oz2	Death Helm		0	0								441				inherent-nxhm	0	20	20	0	0	0	0	0	0	0	0	inherent-nxhm		20	20																														0
+The Pale		0	1		4		1	1	oh1	Bone Shield		0	0								450				inherent-nxsd	0	10	10	0	0	0	0	0	0	0	0	inherent-nxsd		10	10																														0
+Black Sheep Wall		0	1		4		1	1	oh2	Totem Shield		0	0								451				inherent-nxsd	0	15	15	0	0	0	0	0	0	0	0	inherent-nxsd		15	15																														0
+Wall of Man		0	1		4		1	1	oh3	Death Shield		0	0								452				inherent-nxsd	0	20	20	0	0	0	0	0	0	0	0	inherent-nxsd		20	20																														0
+Ripstar		0	1		4		1	1	ok1	Spiked Shield		0	0								373				automagic-woundth	0	20	20	0	0	0	0	0	0	0	0	automagic-woundth		20	20																														0
+		0	1		4		1	1	ok2	Bladed Shield		0	0								373				automagic-woundth	0	20	20	0	0	0	0	0	0	0	0	automagic-woundth		20	20																														0
+		0	1		4		1	1	ok3	Barbed Shield		0	0								373				automagic-woundth	0	20	20	0	0	0	0	0	0	0	0	automagic-woundth		20	20																														0
+Linarian's Furs		0	1		4		1	1	do1	Wolf Head		0	0								453				inherent-pelt	0	10	10	0	0	0	0	0	0	0	0	inherent-pelt		10	10																														0
+Blackfeather		0	1		4		1	1	do2	Hawk Helm		0	0								454				inherent-pelt	0	15	15	0	0	0	0	0	0	0	0	inherent-pelt		15	15																														0
+Dubhdroiacht		0	1		4		1	1	do3	Antlers		0	0								455				inherent-pelt	0	20	20	0	0	0	0	0	0	0	0	inherent-pelt		20	20																														0
+Skythrone		0	1		4		1	1	do4	Falcon Mask		0	0								456				inherent-pelt	0	25	25	0	0	0	0	0	0	0	0	inherent-pelt		25	25																														0
+		0	1		4		1	1	do5	Spirit Mask		0	0								457				inherent-pelt	0	30	30	0	0	0	0	0	0	0	0	inherent-pelt		30	30																														0
+		0	1		4		1	1	bp1	Jawbone Cap		0	0								493				inherent-phlm	0	10	10	0	0	0	0	0	0	0	0	inherent-phlm		10	10																														0
+Hellmaw		0	1		4		1	1	bp2	Fanged Helm		0	0								494				inherent-phlm	0	15	15	0	0	0	0	0	0	0	0	inherent-phlm		15	15																														0
+Cornucopia		0	1		4		1	1	bp3	Horned Helm		0	0								495				inherent-phlm	0	20	20	0	0	0	0	0	0	0	0	inherent-phlm		20	20																														0
+		0	1		4		1	1	bp4	Assault Helmet		0	0								496				inherent-phlm	0	25	25	0	0	0	0	0	0	0	0	inherent-phlm		25	25																														0
+Bul Kathos' Voice		0	1		4		1	1	bp5	Avenger Guard		0	0								497				inherent-phlm	0	30	30	0	0	0	0	0	0	0	0	inherent-phlm		30	30																														0
+Chalice of Tears		0	1		4		1	1	pl1	Targe		0	0								464				inherent-ashd	0	10	10	0	0	0	0	0	0	0	0	inherent-ashd		10	10																														0
+Lightforge		0	1		4		1	1	pl2	Rondache		0	0								465				inherent-ashd	0	15	15	0	0	0	0	0	0	0	0	inherent-ashd		15	15																														0
+		0	1		4		1	1	pl3	Heraldic Shield		0	0								466				inherent-ashd	0	20	20	0	0	0	0	0	0	0	0	inherent-ashd		20	20																														0
+Akarat's Witness		0	1		4		1	1	pl4	Aerin Shield		0	0								467				inherent-ashd	0	25	25	0	0	0	0	0	0	0	0	inherent-ashd		25	25																														0
+		0	1		4		1	1	pl5	Crown Shield		0	0								468				inherent-ashd	0	30	30	0	0	0	0	0	0	0	0	inherent-ashd		30	30																														0
+Idol of Rygnar		0	1		4		1	1	nk1	Preserved Head		0	0								445				inherent-head	0	10	10	0	0	0	0	0	0	0	0	inherent-head		10	10																														0
+Gregus Mazi's Nkisi		0	1		4		1	1	nk2	Zombie Head		0	0								446				inherent-head	0	15	15	0	0	0	0	0	0	0	0	inherent-head		15	15																														0
+Shukrani's Triumph		0	1		4		1	1	nk3	Unraveller Head		0	0								447				inherent-head	0	20	20	0	0	0	0	0	0	0	0	inherent-head		20	20																														0
+Ursua's Trodden Effigy		0	1		4		1	1	nk4	Gargoyle Head		0	0								448				inherent-head	0	25	25	0	0	0	0	0	0	0	0	inherent-head		25	25																														0
+		0	1		4		1	1	nk5	Demon Head		0	0								449				inherent-head	0	30	30	0	0	0	0	0	0	0	0	inherent-head		30	30																														0
+Eyes of Septumos		0	1		4		1	1	cq1	Circlet		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Crown of the Vasan Queen		0	1		4		1	1	cq2	Coronet		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Maiden Mother Crown		0	1		4		1	1	cq3	Tiara		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Uhkapian Serpent		0	1		4		1	1	cq4	Diadem		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0	1		4		1	1	af1	Hunter's Headdress		0	0								473				inherent-ahlm	0	10	10	0	0	0	0	0	0	0	0	inherent-ahlm		10	10																														0
+		0	1		4		1	1	af2	Hoplite Helm		0	0								474				inherent-ahlm	0	15	15	0	0	0	0	0	0	0	0	inherent-ahlm		15	15																														0
+Ylfe Ban		0	1		4		1	1	af3	Einherjar Crown		0	0								475				inherent-ahlm	0	20	20	0	0	0	0	0	0	0	0	inherent-ahlm		20	20																														0
+Crown of Rakkis		0	1		4		1	1	pf1	Spangenhelm		0	0								461				inherent-chlm	0	1	1	0	0	0	0	0	0	0	0	inherent-chlm		1	1																														0
+		0	1		4		1	1	pf2	Jousting Helm		0	0								462				inherent-chlm	0	2	2	0	0	0	0	0	0	0	0	inherent-chlm		2	2																														0
+Warhelm of Kassar		0	1		4		1	1	pf3	Vallary Crown		0	0								463				inherent-chlm	0	3	3	0	0	0	0	0	0	0	0	inherent-chlm		3	3																														0
+Nor Tiraj's Turinash		0	1		4		1	1	sz1	Sorcerer's Coat		0	0								498				inherent-stor	0	5	5	0	0	0	0	0	0	0	0	inherent-stor		5	5																														0
+Wisdom's Wrap		0	1		4		1	1	sz2	Xian Wizard Cuirass		0	0								499				inherent-stor	0	10	10	0	0	0	0	0	0	0	0	inherent-stor		10	10																														0
+Lachdanan's Visage		0	1		4		1	1	sz3	Black Mage Armor		0	0								500				inherent-stor	0	15	15	0	0	0	0	0	0	0	0	inherent-stor		15	15																														0
+Zharesh Battlerobes		0	1		4		1	1	sz4	Astral Plate		0	0								501				inherent-stor	0	20	20	0	0	0	0	0	0	0	0	inherent-stor		20	20																														0
+		0	1		4		1	1	sz5	Angelic Armor		0	0								502				inherent-stor	0	25	25	0	0	0	0	0	0	0	0	inherent-stor		25	25																														0
+		0	1		4		1	1	bn1	Gilded Buckler		0	0								488				inherent-bshd	0	10	10	0	0	0	0	0	0	0	0	inherent-bshd		10	10																														0
+		0	1		4		1	1	bn2	Meteoric Shield		0	0								489				inherent-bshd	0	15	15	0	0	0	0	0	0	0	0	inherent-bshd		15	15																														0
+		0	1		4		1	1	bn3	Tribal Pavise		0	0								490				inherent-bshd	0	20	20	0	0	0	0	0	0	0	0	inherent-bshd		20	20																														0
+Golden Fleece		0	1		4		1	1	bn4	Horned Shield		0	0								491				inherent-bshd	0	25	25	0	0	0	0	0	0	0	0	inherent-bshd		25	25																														0
+Helepolis		0	1		4		1	1	bn5	Riveted Shield		0	0								492				inherent-bshd	0	30	30	0	0	0	0	0	0	0	0	inherent-bshd		30	30																														0
+		0	1		4		1	1	ml1	Cold Iron Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Danmaku		0	1		4		1	1	ml2	Sovereign Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Hypnodisk		0	1		4		1	1	ml3	Galvanized Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+		0			4		1	1	ml4	Jousting Shield		0	0								0				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Ring of the Five		0	1		4		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Sigil of Tul Dulra		0	1		4		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Krede's Flame		0	1		4		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Elden Ring		0	1		4		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Seal of the Nephalem Kings		0	1		4		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Black Dwarf		0	1		4		1	1	amu	Amulet		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Xephirian Amulet		0	1		4		1	1	amu	Amulet		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Habacalva's Firestar		0	1		4		1	1	amu	Amulet		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Talisman of Aranoch		0	1		4		1	1	amu	Amulet		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+The Star of Azkaranth		0	1		4		1	1	amu	Amulet		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Dragon's Egg		0	1		4		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Arkenstone		0	1		4		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Etched Sigil		0	1		4		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+The Madstone		0	1		4		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+Cornerstone of the World		0	1		4		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
 QQ		0	1		1		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0

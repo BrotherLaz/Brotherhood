@@ -112,16 +112,16 @@ Portal Generator 2	Crafting									1						p22	1	p23	1	p24	1	p25	1	p26	1	p27	1	p
 Portal Generator 3	Crafting									1						p15	1	p16	1	p17	1	p18	1	p19	1	p20	1	p21	1	Portal Generator 2	14								0
 Portal Generator 4	Crafting									1						p08	1	p09	1	p10	1	p11	1	p12	1	p13	1	p14	1	Portal Generator 3	21								0
 Portal Generator	Crafting									1						p01	1	p02	1	p03	1	p04	1	p05	1	p06	1	p07	1	Portal Generator 4	28								0
-Runeword Text 1	Crafting									1						z64	1	z65	1	z66	1	z67	1	z68	1	z69	1	z70	1										0
-Runeword Text 2	Crafting									1						z57	1	z58	1	z59	1	z60	1	z61	1	z62	1	z63	1	Runeword Text 1	7								0
-Runeword Text 3	Crafting									1						z50	1	z51	1	z52	1	z53	1	z54	1	z55	1	z56	1	Runeword Text 2	14								0
-Runeword Text 4	Crafting									1						z43	1	z44	1	z45	1	z46	1	z47	1	z48	1	z49	1	Runeword Text 3	21								0
-Runeword Text 5	Crafting									1						z36	1	z37	1	z38	1	z39	1	z40	1	z41	1	z42	1	Runeword Text 4	28								0
-Runeword Text 6	Crafting									1						z29	1	z30	1	z31	1	z32	1	z33	1	z34	1	z35	1	Runeword Text 5	35								0
-Runeword Text 7	Crafting									1						z22	1	z23	1	z24	1	z25	1	z26	1	z27	1	z28	1	Runeword Text 6	42								0
-Runeword Text 8	Crafting									1						z15	1	z16	1	z17	1	z18	1	z19	1	z20	1	z21	1	Runeword Text 7	49								0
-Runeword Text 9	Crafting									1						z08	1	z09	1	z10	1	z11	1	z12	1	z13	1	z14	1	Runeword Text 8	56								0
-Runeword Text	Crafting									1						z01	1	z02	1	z03	1	z04	1	z05	1	z06	1	z07	1	Runeword Text 9	63								0
+Runeword Text 1	Crafting									1	1024	1024	1024	1024		z64	1	z65	1	z66	1	z67	1	z68	1	z69	1	z70	1										0
+Runeword Text 2	Crafting									1	1024	1024	1024	1024		z57	1	z58	1	z59	1	z60	1	z61	1	z62	1	z63	1	Runeword Text 1	7								0
+Runeword Text 3	Crafting									1	1024	1024	1024	1024		z50	1	z51	1	z52	1	z53	1	z54	1	z55	1	z56	1	Runeword Text 2	14								0
+Runeword Text 4	Crafting									1	1024	1024	1024	1024		z43	1	z44	1	z45	1	z46	1	z47	1	z48	1	z49	1	Runeword Text 3	21								0
+Runeword Text 5	Crafting									1	1024	1024	1024	1024		z36	1	z37	1	z38	1	z39	1	z40	1	z41	1	z42	1	Runeword Text 4	28								0
+Runeword Text 6	Crafting									1	1024	1024	1024	1024		z29	1	z30	1	z31	1	z32	1	z33	1	z34	1	z35	1	Runeword Text 5	35								0
+Runeword Text 7	Crafting									1	1024	1024	1024	1024		z22	1	z23	1	z24	1	z25	1	z26	1	z27	1	z28	1	Runeword Text 6	42								0
+Runeword Text 8	Crafting									1	1024	1024	1024	1024		z15	1	z16	1	z17	1	z18	1	z19	1	z20	1	z21	1	Runeword Text 7	49								0
+Runeword Text 9	Crafting									1	1024	1024	1024	1024		z08	1	z09	1	z10	1	z11	1	z12	1	z13	1	z14	1	Runeword Text 8	56								0
+Runeword Text	Crafting									1	1024	1024	1024	1024		z01	1	z02	1	z03	1	z04	1	z05	1	z06	1	z07	1	Runeword Text 9	63								0
 Crafting Common	Crafting									1						cuu	4	cu5	4	cu6	4	cu8	4	cu9	4	Runeword Text	1												0
 Crafting Unique	Crafting									1						ix1	1	ix2	1	ix3	1	ix4	1	ix5	1	ix6	1	ixp	1	ixs	1								0
 Act 3 Ingredient Scroll	Crafting									1						cu0	8	wt1	4																	12			0
