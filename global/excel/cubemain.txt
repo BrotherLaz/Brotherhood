@@ -2,8 +2,7 @@ description	*Laz/Usage	enabled	ladder	min diff	version	op	param	value	class	numi
 Staff of Kings + Amulet of the Viper -> Horadric Staff	Quest	1			0	28				2	msf	vip						hst																																																																																							0
 Khalim's Flail + Khalim's Heart + Khalim's Eye + Khalim's Brain -> Khalim's Will	Quest	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
 Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	Quest	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
-3 Healing Potions (Any) + 3 Mana Potions (Any) + 1 Standard Gem (Any) -> Full Rejuvenation Potion	Basic recipes	1			0					7	hpot,qty=3	mpot,qty=3	gem2					rvl																																																																																							0
-3 Healing Potions (Any) + 3 Mana Potions (Any)  + 1 Chipped Gem (Any) -> Rejuvenation Potion	Basic recipes	1			0					7	hpot,qty=3	mpot,qty=3	gem0					rvs																																																																																							0
+3 Healing Potions (Any) + 3 Mana Potions (Any) -> Small Rejuvenation Potion	Basic recipes	1			0					6	hpot,qty=3	mpot,qty=3						rvs																																																																																							0
 3 Rejuvenation Potions -> Full Rejuvenation Potion	Basic recipes	1			0					3	rvs,qty=3							rvl																																																																																							0
 2 Arrows -> Bolts	Basic recipes	1			0					2	aqv,qty=2							cqv																																																																																							0
 2 Bolts -> Arrows	Basic recipes	1			0					2	cqv,qty=2							aqv																																																																																							0
@@ -3181,7 +3180,7 @@ Portal Generator = red portal	Unused				0					1	p32							Red Portal,qty=0						
 Portal Generator = red portal	Unused				0					1	p33							Red Portal,qty=0																																																																																							0
 Portal Generator = red portal	Unused				0					1	p34							Red Portal,qty=0																																																																																							0
 Portal Generator = red portal	Unused				0					1	p35							Red Portal,qty=0																																																																																							0
-Rare jewel = 2 magic jewels	Misc	1			0	3	12	20		1	jewl,rar							jewl,mag			100																										jewl,mag			100																																																							0
+Rare jewel = 2 magic jewels	Misc	1			0					1	jewl,rar							jewl,mag			100																										jewl,mag			100																																																							0
 Test - Create item		1			0					1	tsc							z40,uni	90																																																																																						0
 Test - Create item		1			0					1	aqv							aqv	90																																																																																						0
 Test - Create item		1			0					2	tsc,qty=2							or1,rar	90																																																																																						0
