@@ -991,5 +991,10 @@
     "scattershotsmall": "laz_arrowrain",
     "piercinglightshot": "teeth_missile",
     "fragmentinglightshot": "teeth_missile",
-    "fragmentinglighttrail": "mist"
+    "fragmentinglighttrail": "mist",
+    "spikefan": "spike_fiend_missle",
+    "spikenova": "spike_fiend_missle",
+    "bloodstar": "expansion_catapultpoisonbomb",
+    "caveinthrow": "rock_large",
+    "earthquakewave": "laz_dustproject"
 }
