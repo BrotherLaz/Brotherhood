@@ -397,3 +397,4 @@ inherent-bmel	1	1	skillmod_barbarian_1																												ModHealingSkil
 inherent-bshd	1	1	skillmod_barbarian_2																											Unused (itemstat has no effect, item has weapon sockets instead)	ModHealingSkillPct				0
 inherent-phlm	1	1	skillmod_barbarian_3																												ModHealingSkillPct				0
 inherent-stor	1	1	skillmod_sorceress_1																											20	ModHealingSkillPct				0
+hit-ranged-skill	1	11	monster_skillonhit_ranged																											#% Chance to cast level # [Skill] on striking	Skill	% Chance (If 0, then default to 5)	Skill Level		0

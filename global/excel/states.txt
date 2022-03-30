@@ -223,7 +223,7 @@ rathmaswill	220	necromancer											1																															bloodlust_
 skewer	221																																																																							0
 ravage	222												1	1																														direwolfcharged	direwolfcharged																											0
 ferocity	223	Barbarian skill									1		1	1																															monfrenzy						skill_frenzy																					0
-werewolfpassive	224																																																																							0
+bloodbag	224	monster																																										burning							velocitypercent							70	100	255	255	255	necromancer_reversevampire									0
 werebearpassive	225																																																																							0
 meditatemana	244	assassin					1																																					battleorders							manarecoveryrate		11										barbarian_findheart_1									0
 meditatelife	245	assassin					1																																					shout							hpregen		11										barbarian_findheart_1									0
