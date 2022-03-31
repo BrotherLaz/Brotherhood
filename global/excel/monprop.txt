@@ -50,3 +50,8 @@ laz_vulturesuper4	death-skill		657	100	1																										death-skill		6
 laz_snowyetisuper1	balance3			100	100	swing3			-10	-10																					balance3			100	100	swing3			-10	-10																					balance3			100	100	swing3			-10	-10																					0
 laz_blunderboresuper1	crush			100	100	howl			128	128	swing3			-10	-10																crush			100	100	howl			128	128	swing3			-10	-10																crush			100	100	howl			128	128	swing3			-10	-10																0
 laz_frozenhorrorsuper1	death-skill		653	100	11	state		107	1	1																					death-skill		653	100	16	state		107	1	1																					death-skill		653	100	21	state		107	1	1																					0
+laz_deathmaulersuper1	thorns%			100	100																										thorns%			100	100																										thorns%			100	100																										0
+laz_deathmaulersuper2	thorns%			125	125																										thorns%			125	125																										thorns%			125	125																										0
+laz_deathmaulersuper3	thorns%			150	150																										thorns%			150	150																										thorns%			150	150																										0
+laz_deathmaulersuper4	thorns%			175	175																										thorns%			175	175																										thorns%			175	175																										0
+laz_deathmaulersuper5	thorns%			200	200																										thorns%			200	200																										thorns%			200	200																										0
