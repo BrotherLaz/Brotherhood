@@ -37554,5 +37554,9 @@
   {"id": 38319, "Key": "explodes flayer corpses", "enUS": "Explodes Flayer Corpses", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38320, "Key": "heals fallen", "enUS": "Heals Fallen and Shamans", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38321, "Key": "blood mana", "enUS": "Blood Mana", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
-  {"id": 38322, "Key": "lays egg on death", "enUS": "Lays Egg on Death", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""}
+  {"id": 38322, "Key": "lays egg on death", "enUS": "Lays Egg on Death", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 38325, "Key": "heals and dashes at low life", "enUS": "Heals and Dashes at Low Life", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 38326, "Key": "invisibility", "enUS": "Invisibility", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 38327, "Key": "infests other monsters", "enUS": "Infests Other Monsters", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 38328, "Key": "martyrdom", "enUS": "Martyrdom", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""}
 ]
