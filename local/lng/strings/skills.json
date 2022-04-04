@@ -37558,5 +37558,7 @@
   {"id": 38325, "Key": "heals and dashes at low life", "enUS": "Heals and Dashes at Low Life", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38326, "Key": "invisibility", "enUS": "Invisibility", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38327, "Key": "infests other monsters", "enUS": "Infests Other Monsters", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
-  {"id": 38328, "Key": "martyrdom", "enUS": "Martyrdom", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""}
+  {"id": 38328, "Key": "martyrdom", "enUS": "Martyrdom", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 38329, "Key": "heals and raises undead", "enUS": "Heals and Raises Undead", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 38330, "Key": "thunder storm at low life", "enUS": "Thunder Storm at Low Life", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""}
 ]

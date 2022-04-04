@@ -1082,5 +1082,10 @@
     "martyrpoisoncenter": "null",
     "unraveleracid": "tentaclegoo",
     "unravelerwind": "expansion_hurricane_swoosh",
-    "unravelertwister": "expansion_twister"
+    "unravelertwister": "expansion_twister",
+    "serpentmagus_1": "firebolt",
+    "serpentmagus_2": "furylightning",
+    "serpentmagus_3": "fireball",
+    "serpentmagus_4": "poison_nova",
+    "serpentmagus_5": "ice_blast"
 }
