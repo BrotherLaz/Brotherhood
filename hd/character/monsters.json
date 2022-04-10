@@ -1053,5 +1053,17 @@
   "laz_painworm4": "painworm1",
   "laz_painworm5": "painworm1",
   "laz_potion1": "slinger5",
-  "laz_potion2": "slinger5"
+  "laz_potion2": "slinger5",
+  "laz_draugrspecial1": "draugrspecial1",
+  "laz_lancerspecial1": "cr_lancer1",
+  "laz_skeletonspecial1": "skeletonspecial1",
+  "laz_foulcrowspecial1": "foulcrowspecial1",
+  "laz_arachspecial1": "arachspecial1",
+  "laz_vampirespecial1": "vampirespecial1",
+  "laz_doomknightspecial1": "doomknightsuper1",
+  "laz_slingerspecial1": "slinger1",
+  "laz_vilemotherspecial1": "vilemotherspecial1",
+  "laz_putriddefilerspecial1": "putriddefilerspecial1",
+  "laz_sk_archersummoned1": "sk_archer1",
+  "laz_skeletonsummoned1": "skeleton1"
 }

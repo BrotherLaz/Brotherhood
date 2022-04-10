@@ -1100,5 +1100,20 @@
     "cracklingtrapcenter": "expansion_shock_field",
     "cracklingtrapwave": "charged_bolt",
     "chaosboltdelay": "expansion_impmissile_01",
-    "chaosboltmissile": "laz_expansion_baalsummonmissile_higher"
+    "chaosboltmissile": "laz_expansion_baalsummonmissile_higher",
+    "chilledstrikecenter": "mist",
+    "shocknova": "redemption_ghost",
+    "eldenstarscenter": "expansion_baaldeathghostie_02",
+    "eldenstarssub_1": "holy_bolt_missile",
+    "eldenstarssub_2": "holy_bolt_missile",
+    "firecrownsub_1": "shaman_fireball",
+    "firecrownsub_2": "shaman_fireball",
+    "firecrowncenter": "null",
+    "hellgatecenter": "skull_fire",
+    "hellgatesub": "null",
+    "hellgatedelay": "vampire_missile",
+    "putridcenter": "expansion_baaldeathhead_01",
+    "putridsub": "null",
+    "firestreakmaker": "firewallmaker",
+    "firestreak": "ground_fire_medium"
 }

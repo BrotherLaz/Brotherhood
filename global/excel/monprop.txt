@@ -61,7 +61,7 @@ laz_blunderboresuper1	crush			100	100	howl			128	128	swing3			-10	-10											
 laz_frozenhorrorsuper1	death-skill		653	100	11	state		107	1	1																					death-skill		653	100	16	state		107	1	1																					death-skill		653	100	21	state		107	1	1																					0
 laz_unraveler1	hit-skill		212	100	1																										hit-skill		212	100	6																										hit-skill		212	100	11																										0
 laz_fingermagesuper1	hit-skill		687	100	1																										hit-skill		687	100	6																										hit-skill		687	100	11																										0
-laz_overseersuper1	knock			1	1	wound			100	100																					knock			1	1	wound			100	100																					knock			1	1	wound			100	100																					0
+laz_overseersuper1	knock			1	1	openwounds			100	100																					knock			1	1	openwounds			100	100																					knock			1	1	openwounds			100	100																					0
 laz_deathmaulersuper1	thorns%			100	100																										thorns%			100	100																										thorns%			100	100																										0
 laz_deathmaulersuper2	thorns%			125	125																										thorns%			125	125																										thorns%			125	125																										0
 laz_deathmaulersuper3	thorns%			150	150																										thorns%			150	150																										thorns%			150	150																										0
@@ -69,3 +69,6 @@ laz_deathmaulersuper4	thorns%			175	175																										thorns%			175	1
 laz_deathmaulersuper5	thorns%			200	200																										thorns%			200	200																										thorns%			200	200																										0
 laz_potion1	death-skill		692	100	1																										death-skill		692	100	6																										death-skill		692	100	11																										0
 laz_potion2	death-skill		693	100	1																										death-skill		693	100	6																										death-skill		693	100	11																										0
+laz_lancerspecial1	crush			100	100																										crush			100	100																										crush			100	100																										0
+laz_foulcrowspecial1	hit-skill		659	100	1																										hit-skill		659	100	1																										hit-skill		659	100	1																										0
+laz_slingerspecial1	gethit-skill		592	25	1																										gethit-skill		592	25	6																										gethit-skill		592	25	11																										0
