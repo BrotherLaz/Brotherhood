@@ -73,7 +73,7 @@ warmth	70				1																																																																		
 firemastery	71																																																																							0
 lightningmastery	72																																																																							0
 coldmastery	73																																																																							0
-swordmastery	74																																																																							0
+blademastery	74																																																																							0
 axemastery	75																																																																							0
 macemastery	76																																																																							0
 polearmmastery	77																																																																							0
@@ -187,7 +187,7 @@ uberminion	184																													1		1		1	1																												
 cooldown	185		7																																		1																																			0
 sharedstash	186																																																																							0
 hidedead	187																												1	1			1																																							0
-placeholder188	188																																																																							0
+impale	188																																																																							0
 placeholder189	189																																																																							0
 placeholder190	190																																																																							0
 placeholder191	191																																																																							0
