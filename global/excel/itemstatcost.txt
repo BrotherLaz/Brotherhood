@@ -396,15 +396,15 @@ flag_gem	393	itemstatcost.txt				1	2														1	0	1	0																							
 flag_rune	394	itemstatcost.txt				1	2														1	0	1	0																														0
 flag_unique	395	uniques.txt				1	2														1	0	1	0																														0
 flag_set	396	setitems.txt				1	2														1	0	1	0																														0
-item_strength_percent	397		-50	78		1	8											250	110		7	0	7	50			11			strength										74	19		ModStrPercent	ModStrPercent		3	2	1	ModAllPercents					0
-item_dexterity_percent	398		-50	78		1	8											200	110		7	0	7	50			11			dexterity										74	19		ModDexPercent	ModDexPercent		3	2	1	ModAllPercents					0
-item_energy_percent	399		-50	78		1	8											250	110		7	0	7	50			11			energy										74	19		ModEnrPercent	ModEnrPercent		3	2	1	ModAllPercents					0
-item_vitality_percent	400		-50	78		1	8											200	110		7	0	7	50			11			vitality										74	19		ModVitPercent	ModVitPercent		3	2	1	ModAllPercents					0
-item_potion_effectiveness	401		-50	206		1	8											21	25		1	0	8	50																40	19		ModPotionEffectiveness	ModPotionEffectiveness									2	0
-item_healonstriking	402		0	32		1	6							1				1727	599		1	0	5	0												domeleedamage	28	domissiledamage	28	17	19		ModLifeOnStriking	ModLifeOnStriking									2	0
-item_manaonstriking	403		0	32		1	6							1				1250	505		1	0	5	0												domeleedamage	17	domissiledamage	17	17	19		ModManaOnStriking	ModManaOnStriking									2	0
-item_healonstrikingmelee	404		0	32		1	6							1				972	404		1	0	5	0												domeleedamage	28			16	19		ModLifeOnStrikingMelee	ModLifeOnStriking									2	0
-item_manaonstrikingmelee	405		0	32		1	6							1				728	392		1	0	5	0												domeleedamage	17			16	19		ModManaOnStrikingMelee	ModManaOnStriking									2	0
+item_strength_percent	397	item	-50	78		1	8											250	110		7	0	7	50			11			strength										74	19		ModStrPercent	ModStrPercent		3	2	1	ModAllPercents					0
+item_dexterity_percent	398	item	-50	78		1	8											200	110		7	0	7	50			11			dexterity										74	19		ModDexPercent	ModDexPercent		3	2	1	ModAllPercents					0
+item_energy_percent	399	item	-50	78		1	8											250	110		7	0	7	50			11			energy										74	19		ModEnrPercent	ModEnrPercent		3	2	1	ModAllPercents					0
+item_vitality_percent	400	item	-50	78		1	8											200	110		7	0	7	50			11			vitality										74	19		ModVitPercent	ModVitPercent		3	2	1	ModAllPercents					0
+item_potion_effectiveness	401	item	-50	206		1	8											21	25		1	0	8	50																40	19		ModPotionEffectiveness	ModPotionEffectiveness									2	0
+item_healonstriking	402	item	0	32		1	6							1				1727	599		1	0	5	0												domeleedamage	28	domissiledamage	28	17	19		ModLifeOnStriking	ModLifeOnStriking									2	0
+item_manaonstriking	403	item	0	32		1	6							1				1250	505		1	0	5	0												domeleedamage	17	domissiledamage	17	17	19		ModManaOnStriking	ModManaOnStriking									2	0
+item_healonstrikingmelee	404	item	0	32		1	6							1				972	404		1	0	5	0												domeleedamage	28			16	19		ModLifeOnStrikingMelee	ModLifeOnStriking									2	0
+item_manaonstrikingmelee	405	item	0	32		1	6							1				728	392		1	0	5	0												domeleedamage	17			16	19		ModManaOnStrikingMelee	ModManaOnStriking									2	0
 item_healonstrikingranged	406	amazon				1	6							1				870	451		1	0	5	0												domissiledamage	28																	0
 item_manaonstrikingranged	407	amazon				1	6							1				848	400		1	0	5	0												domissiledamage	17																	0
 item_healwhenstruck	408		0	64		1	7							1				902	411		1	0	6	0												damagedinmelee	28	damagedbymissile	28	17	19		ModLifeWhenStruck	ModLifeWhenStruck									2	0
