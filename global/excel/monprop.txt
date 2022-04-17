@@ -33,12 +33,20 @@ laz_quillratsuper1	openwounds			100	100	death-skill		630	100	8																		
 laz_quillratsuper2	openwounds			100	100	death-skill		630	100	8																					openwounds			100	100	death-skill		630	100	8																					openwounds			100	100	death-skill		630	100	8																					0
 laz_succubus1	death-skill		212	100	1																										death-skill		212	100	6																										death-skill		212	100	11																										0
 laz_succubuswitch1	death-skill		212	100	1																										death-skill		212	100	6																										death-skill		212	100	11																										0
-laz_brutesuper2	balance3			100	100	swing3			-10	-10																					balance3			100	100	swing3			-10	-10																					balance3			100	100	swing3			-10	-10																					0
+laz_zombie5	hit-skill		712	100	1																										hit-skill		712	100	6																										hit-skill		712	100	11																										0
+laz_brutesuper1	balance3			100	100	swing3			-10	-10																					balance3			100	100	swing3			-10	-10																					balance3			100	100	swing3			-10	-10																					0
+laz_brutesuper4	balance3			100	100	swing3			-10	-10	crush			100	100																balance3			100	100	swing3			-10	-10	crush			100	100																balance3			100	100	swing3			-10	-10	crush			100	100																0
+laz_apesuper5	death-skill		714	100	1																										death-skill		714	100	6																										death-skill		714	100	11																										0
 laz_sandraider1	hit-skill		682	100	1																										hit-skill		682	100	6																										hit-skill		682	100	11																										0
+laz_draugr5	freeze			1	1																										freeze			4	4																										freeze			7	7																										0
 laz_zealot1	swing3			50	50																										swing3			50	50																										swing3			50	50																										0
 laz_zealot2	swing3			50	50																										swing3			50	50																										swing3			50	50																										0
 laz_zealot3	swing3			50	50																										swing3			50	50																										swing3			50	50																										0
 laz_cantor1	extra-ltng			200	200																										extra-ltng			200	200																										extra-ltng			200	200																										0
+laz_swarm1	death-skill		716	25	1																										death-skill		716	25	1																										death-skill		716	25	1																										0
+laz_swarm2	death-skill		717	30	1																										death-skill		717	30	1																										death-skill		717	30	1																										0
+laz_swarm3	death-skill		718	35	1																										death-skill		718	35	1																										death-skill		718	35	1																										0
+laz_swarm4	death-skill		719	40	1																										death-skill		719	40	1																										death-skill		719	40	1																										0
 laz_scarabsuper1	death-skill		701	100	1																										death-skill		701	100	6																										death-skill		701	100	11																										0
 laz_batdemon1	gethit-skill		54	100	1																										gethit-skill		54	100	1																										gethit-skill		54	100	1																										0
 laz_bonefetish1	death-skill		668	100	1																										death-skill		668	100	6																										death-skill		668	100	11																										0
@@ -46,7 +54,7 @@ laz_wisp1	gethit-skill		659	100	1	swing3			100	100	hit-skill		659	100	1									
 laz_mosquito1	hit-skill		697	100	1																										hit-skill		697	100	6																										hit-skill		697	100	11																										0
 laz_arach1	hit-ranged-skill		658	100	1																										hit-ranged-skill		658	100	1																										hit-ranged-skill		658	100	1																										0
 laz_thornhulksuper1	hit-ranged-skill		667	100	1																										hit-ranged-skill		667	100	1																										hit-ranged-skill		667	100	1																										0
-laz_wraith1	gethit-skill		660	100	1																										gethit-skill		660	100	6																										gethit-skill		660	100	11																										0
+laz_wraith5	gethit-skill		660	100	1																										gethit-skill		660	100	6																										gethit-skill		660	100	11																										0
 laz_vulturesuper1	death-skill		654	100	1																										death-skill		654	100	6																										death-skill		654	100	11																										0
 laz_vulturesuper2	death-skill		655	100	1																										death-skill		655	100	6																										death-skill		655	100	11																										0
 laz_vulturesuper3	death-skill		656	100	1																										death-skill		656	100	6																										death-skill		656	100	11																										0
@@ -59,14 +67,19 @@ laz_fetish5	death-skill		673	100	1																										death-skill		673	100
 laz_snowyetisuper1	balance3			100	100	swing3			-10	-10																					balance3			100	100	swing3			-10	-10																					balance3			100	100	swing3			-10	-10																					0
 laz_blunderboresuper1	crush			100	100	howl			128	128	swing3			-10	-10																crush			100	100	howl			128	128	swing3			-10	-10																crush			100	100	howl			128	128	swing3			-10	-10																0
 laz_frozenhorrorsuper1	death-skill		653	100	11	state		107	1	1																					death-skill		653	100	16	state		107	1	1																					death-skill		653	100	21	state		107	1	1																					0
+laz_vulturespawned3	deadly			50	50																										deadly			50	50																										deadly			50	50																										0
+laz_clawvipersuper4	hit-skill		685	100	1																										hit-skill		685	100	6																										hit-skill		685	100	11																										0
 laz_unraveler1	hit-skill		212	100	1																										hit-skill		212	100	6																										hit-skill		212	100	11																										0
 laz_fingermagesuper1	hit-skill		687	100	1																										hit-skill		687	100	6																										hit-skill		687	100	11																										0
 laz_overseersuper1	knock			1	1	openwounds			100	100																					knock			1	1	openwounds			100	100																					knock			1	1	openwounds			100	100																					0
 laz_deathmaulersuper1	thorns%			100	100																										thorns%			100	100																										thorns%			100	100																										0
 laz_deathmaulersuper2	thorns%			125	125																										thorns%			125	125																										thorns%			125	125																										0
-laz_deathmaulersuper3	thorns%			150	150																										thorns%			150	150																										thorns%			150	150																										0
-laz_deathmaulersuper4	thorns%			175	175																										thorns%			175	175																										thorns%			175	175																										0
-laz_deathmaulersuper5	thorns%			200	200																										thorns%			200	200																										thorns%			200	200																										0
+laz_deathmaulersuper3	thorns%			200	200																										thorns%			200	200																										thorns%			200	200																										0
+laz_deathmaulersuper4	thorns%			225	225																										thorns%			225	225																										thorns%			225	225																										0
+laz_deathmaulersuper5	thorns%			300	300																										thorns%			300	300																										thorns%			300	300																										0
+laz_putriddefiler1	death-skill		715	100	1																										death-skill		715	100	6																										death-skill		715	100	11																										0
+laz_putriddefiler4	death-skill		715	100	2																										death-skill		715	100	7																										death-skill		715	100	12																										0
+laz_putriddefiler5	death-skill		715	100	3																										death-skill		715	100	8																										death-skill		715	100	13																										0
 laz_potion1	death-skill		692	100	1																										death-skill		692	100	6																										death-skill		692	100	11																										0
 laz_potion2	death-skill		693	100	1																										death-skill		693	100	6																										death-skill		693	100	11																										0
 laz_lancerspecial1	crush			100	100																										crush			100	100																										crush			100	100																										0

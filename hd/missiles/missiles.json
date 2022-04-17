@@ -1115,5 +1115,10 @@
     "putridcenter": "expansion_baaldeathhead_01",
     "putridsub": "null",
     "firestreakmaker": "firewallmaker",
-    "firestreak": "ground_fire_medium"
+    "firestreak": "ground_fire_medium",
+    "putridgascenter": "mist",
+    "insectdeathspawn_1": "null",
+    "insectdeathspawn_2": "null",
+    "insectdeathspawn_3": "null",
+    "insectdeathspawn_4": "null"
 }

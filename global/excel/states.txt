@@ -94,7 +94,7 @@ red	91																																																									70	100	255	255	25
 death_delay	92																																																																							0
 valkyrie	93					1						1																																valkyrie					valkyriestart																2	0						0
 frenzy	94																																												frenzy						skill_frenzy																					0
-berserk	95														1																													berserkfront	berserkback																											0
+berserk	95								1																																			berserkfront	berserkback																											0
 revive	96																													1	1				1																	15						85	73	255	255	255										0
 skel_mastery	97				1																																																																			0
 sourceunit	98																													1	1																					4	2																			0
@@ -202,7 +202,7 @@ placeholder199	199																																																														
 icearmor	200	sorceress																																															frozenarmor		skill_armor_percent																					0
 furystate	201	common																																																																						0
 breakthrough	202	amazon																																										breakthrough																												0
-intimidate	203								1																																																															0
+intimidate	203																																																																							0
 cooldownreset	204	Assassin proc	7																																														shadowwarriorappear														assassin_bladeshield									0
 dragonclaws	205	Assassin skill																																																																						0
 instawolf	206	druid	3			1	1				1	1	1	1																												1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
