@@ -40,13 +40,13 @@ Lord De Seis	Lord De Seis	doomknight3	37		5	30	24	5	5	1	0		11	11	11	Act 4 Super 
 Grand Vizier of Chaos	Grand Vizier of Chaos	fingermage3	38		5	9	0	9	9	1	0		26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
 The Cow King	The Cow King	cowking	39		8	17	0	6	6	1	0		27	27	27	Cow King	Cow King (N)	Cow King (H)	0
 LazBossButcher	LazBossButcher	laz_overseerspecial1	40		27	0	0	5	5	1	0		25	25	25	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
-The Feature Creep	The Feature Creep	hephasto	41	smithdemon	27	30	0	0	0	1	0		20	20	20	Haphesto	Haphesto (N)	Haphesto (H)	0
+Fightmare	The Feature Creep	hephasto	41	smithdemon	27	30	0	0	0	1	0		20	20	20	Haphesto	Haphesto (N)	Haphesto (H)	0
 Expansion																			0
 Siege Boss	Siege Boss	overseer1	42		5	0	0	0	0	0	1		7	7	7	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
 Ancient Barbarian 1	Ancient Barbarian 1	ancientbarb1	43		0	0	0	0	0	0	1		25	25	25				0
 Ancient Barbarian 2	Ancient Barbarian 2	ancientbarb2	44		0	0	0	0	0	0	1		26	26	26				0
 Ancient Barbarian 3	Ancient Barbarian 3	ancientbarb3	45		0	0	0	0	0	0	1		11	11	11				0
-Axe Dweller	Axe Dweller	bloodlord3	46		8	9	0	2	2	0	0		20	20	20	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+Ms Moneyhags	Axe Dweller	bloodlord3	46		8	9	0	2	2	0	0		20	20	20	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Bonesaw Breaker	Bonesaw Breaker	reanimatedhorde2	47		5	8	0	5	5	0	0		35	35	35	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
 Dac Farren	Dac Farren	imp3	48		18	0	0	4	4	0	0	1	36	36	36	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0
 Megaflow Rectifier	Megaflow Rectifier	minion1	49		1	6	0	8	8	0	0	1	21	21	21	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
