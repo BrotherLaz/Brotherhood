@@ -848,7 +848,7 @@
                 {
                     "type": "UnitAttachmentComponent",
                     "name": "entity_rhand_fla_UnitAttachment",
-                    "filename": "data/hd/items/weapon/sword/_monsters/reanimated_horde_2hs_sword.json",
+                    "filename": "data/hd/items/weapon/mace/_monsters/skeleton_flail.json",
                     "overrideBoneName": "",
                     "orientTowardBoneName": "",
                     "attachmentTransform": {

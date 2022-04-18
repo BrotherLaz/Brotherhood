@@ -1069,5 +1069,13 @@
   "laz_skeleton8": "skeleton1",
   "laz_sk_archer6": "sk_archer1",
   "laz_sk_archer7": "sk_archer1",
-  "laz_sk_archer8": "sk_archer1"
+  "laz_sk_archer8": "sk_archer1",
+  "laz_clawviperspecial1": "clawvipersuper1",
+  "laz_zealotspecial1": "zealotspecial1",
+  "laz_zealotspecial2": "zealotspecial2",
+  "laz_zealotspecial3": "zealotspecial3",
+  "laz_zealotspecial4": "zealotspecial4",
+  "laz_skeletonhero1": "skeletonhero1",
+  "laz_fallenspecial1": "fallenspecial1",
+  "laz_overseerspecial1": "overseerspecial1"
 }

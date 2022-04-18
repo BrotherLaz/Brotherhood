@@ -85,3 +85,7 @@ laz_potion2	death-skill		693	100	1																										death-skill		693	100
 laz_lancerspecial1	crush			100	100																										crush			100	100																										crush			100	100																										0
 laz_foulcrowspecial1	hit-skill		659	100	1																										hit-skill		659	100	1																										hit-skill		659	100	1																										0
 laz_slingerspecial1	gethit-skill		592	25	1																										gethit-skill		592	25	6																										gethit-skill		592	25	11																										0
+laz_zealotspecial1	death-skill		721	100	2	state		104	1	1																					death-skill		721	100	7	state		104	1	1																					death-skill		721	100	12	state		104	1	1																					0
+laz_zealotspecial2	death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					0
+laz_zealotspecial3	death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					0
+laz_zealotspecial4	death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					0

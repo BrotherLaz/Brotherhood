@@ -1112,7 +1112,7 @@
     "hellgatecenter": "skull_fire",
     "hellgatesub": "null",
     "hellgatedelay": "vampire_missile",
-    "putridcenter": "expansion_baaldeathhead_01",
+    "putridcenter": "yellow_ball_glow_2",
     "putridsub": "null",
     "firestreakmaker": "firewallmaker",
     "firestreak": "ground_fire_medium",
@@ -1120,5 +1120,18 @@
     "insectdeathspawn_1": "null",
     "insectdeathspawn_2": "null",
     "insectdeathspawn_3": "null",
-    "insectdeathspawn_4": "null"
+    "insectdeathspawn_4": "null",
+    "rocwave": "expansion_hurricane_swoosh",
+    "poisonpossessedmissile": "tentaclegoo",
+    "cordycepsmissile": "expansion_pod_walk_1",
+    "cordycepscenter": "corpse_explode_guts_poison",
+    "apprenticefirecenter": "expansion_firestorm_emitter",
+    "apprenticefirebolt": "expansion_firestorm_emitter",
+    "apprenticefirewall": "ground_fire_medium",
+    "apprenticelightningcenter": "bighead_lightning_missile",
+    "apprenticelightningbolt": "lightningbolt",
+    "apprenticelightningdelay": "charged_bolt",
+    "apprenticecoldcenter": "mephisto_missile",
+    "apprenticecoldbolt": "ice_blast",
+    "apprenticecolddelay": "null"
 }

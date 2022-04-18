@@ -482,7 +482,7 @@
                 {
                     "type": "ModelDefinitionComponent",
                     "name": "component_model_torso_lit",
-                    "filename": "data/hd/character/enemy/skeleton1/torso_lit.model",
+                    "filename": "data/hd/character/npc/skeleton1null/torso_lit.model",
                     "visibleLayers": 1,
                     "lightMask": 19,
                     "shadowMask": 3,
@@ -848,7 +848,7 @@
                 {
                     "type": "UnitAttachmentComponent",
                     "name": "entity_rhand_fla_UnitAttachment",
-                    "filename": "data/hd/items/weapon/sword/_monsters/reanimated_horde_2hs_sword.json",
+                    "filename": "data/hd/items/weapon/mace/_monsters/skeleton_flail.json",
                     "overrideBoneName": "",
                     "orientTowardBoneName": "",
                     "attachmentTransform": {
@@ -944,7 +944,7 @@
                 {
                     "type": "ModelDefinitionComponent",
                     "name": "component_model_rhand_mac",
-                    "filename": "data/hd/character/enemy/skeleton1/rhand_mac.model",
+                    "filename": "data/hd/character/enemy/skeleton1/rhand_hax.model",
                     "visibleLayers": 1,
                     "lightMask": 19,
                     "shadowMask": 3,
@@ -956,7 +956,7 @@
                 {
                     "type": "UnitAttachmentComponent",
                     "name": "entity_rhand_mac_UnitAttachment",
-                    "filename": "data/hd/items/weapon/mace/morning_star.json",
+                    "filename": "data/hd/items/weapon/spear/_monsters/kaelan_spear.json",
                     "overrideBoneName": "",
                     "orientTowardBoneName": "",
                     "attachmentTransform": {
@@ -998,7 +998,7 @@
                 {
                     "type": "ModelDefinitionComponent",
                     "name": "component_model_rhand_scm",
-                    "filename": "data/hd/character/enemy/skeleton1/rhand_scm.model",
+                    "filename": "data/hd/character/enemy/skeleton1/rhand_hax.model",
                     "visibleLayers": 1,
                     "lightMask": 19,
                     "shadowMask": 3,
@@ -1010,7 +1010,7 @@
                 {
                     "type": "UnitAttachmentComponent",
                     "name": "entity_rhand_scm_UnitAttachment",
-                    "filename": "data/hd/items/weapon/sword/scimitar.json",
+                    "filename": "data/hd/items/weapon/spear/_monsters/kaelan_spear.json",
                     "overrideBoneName": "",
                     "orientTowardBoneName": "",
                     "attachmentTransform": {
@@ -1027,9 +1027,9 @@
                             "z": 0.0
                         },
                         "scale": {
-                            "x": 1.0,
-                            "y": 1.0,
-                            "z": 1.0
+                            "x": 1.2,
+                            "y": 1.2,
+                            "z": 1.2
                         }
                     },
                     "attachmentStateMachineFilename": "",
