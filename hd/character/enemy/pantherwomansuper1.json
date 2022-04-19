@@ -318,9 +318,9 @@
                         "w": 1.0
                     },
                     "scale": {
-                        "x": 1.6,
-                        "y": 1.6,
-                        "z": 1.6
+                        "x": 1.4,
+                        "y": 1.4,
+                        "z": 1.4
                     },
                     "inheritOnlyPosition": false
                 },
@@ -1047,7 +1047,7 @@
                 {
                     "type": "UnitAttachmentComponent",
                     "name": "entinty_lhand_whp_UnitAttachment",
-                    "filename": "data/hd/items/weapon/mace/_monsters/sabre_cat_whip.json",
+                    "filename": "data/hd/items/weapon/polearm/athenas_wrath.json",
                     "overrideBoneName": "L_weapon_attach",
                     "orientTowardBoneName": "",
                     "attachmentTransform": {
@@ -1064,9 +1064,9 @@
                             "z": 0.0
                         },
                         "scale": {
-                            "x": 1.0,
-                            "y": 1.0,
-                            "z": 1.0
+                            "x": 1.5,
+                            "y": 1.5,
+                            "z": 1.5
                         }
                     },
                     "attachmentStateMachineFilename": "data/hd/items/weapon/mace/_monsters/sabre_cat_whip/weapon_sabre_cat_whip_pantherwoman1_state_machine.json",
@@ -1083,10 +1083,28 @@
                 {
                     "type": "UnitAttachmentComponent",
                     "name": "entity_shield_buc_UnitAttachment",
-                    "filename": "data/hd/items/armor/shield/_monsters/sabrecat_shield.json",
+                    "filename": "data/hd/items/armor/shield/spiked_shield.json",
                     "overrideBoneName": "",
                     "orientTowardBoneName": "",
-                    "attachmentTransform": {},
+                    "attachmentTransform": {
+                        "type": "Transform",
+                        "name": "entinty_lhand_whp_UnitAttachment_attachmentTransform",
+                        "translation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.25,
+                            "y": 1.25,
+                            "z": 1.25
+                        }
+                    },
                     "attachmentStateMachineFilename": "",
                     "part": "shield",
                     "variant": "buc"

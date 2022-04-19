@@ -2,7 +2,7 @@ Superunique	Name	Class	hcIdx	MonSound	Mod1	Mod2	Mod3	MinGrp	MaxGrp	AutoPos	Stack
 Bishibosh	Bishibosh	fallenshaman1	0		8	9	0	2	2	1	0		11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
 Bonebreak	Bonebreak	skeleton1	1		5	8	0	5	5	1	0		5	5	5	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
 Coldcrow	Coldcrow	cr_archer1	2		18	0	0	4	4	1	0		18	18	18	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
-LazBossRakanishu	LazBossRakanishu	fallenspecial1	3		17	6	0	1	1	0	0	1	29	29	29	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+Rakanishu	LazBossRakanishu	fallenspecial1	3		17	6	0	1	1	0	0	1	29	29	29	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
 Treehead WoodFist	Treehead WoodFist	brute2	4		5	6	0	2	2	1	0	1	4	4	4	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
 Griswold	Griswold	griswold	5		7	0	0	0	0	1	0	1	17	17	17	Griswold	Griswold (N)	Griswold (H)	0
 The Countess	The Countess	corruptrogue3	6	countess	9	0	0	6	6	1	0		16	16	16	Countess	Countess (N)	Countess (H)	0
@@ -18,7 +18,7 @@ Coldworm the Burrower	Coldworm the Burrower	maggotqueen1	15		18	8	0	0	0	0	0		13	
 Fire Eye	Fire Eye	sandraider3	16		9	6	0	3	3	1	0		12	12	12	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
 Dark Elder	Dark Elder	darkelder	17		6	8	0	4	4	1	0	1	27	27	27	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
 The Summoner	The Summoner	summoner	18		5	6	0	0	0	1	0		26	26	26	Summoner	Summoner (N)	Summoner (H)	0
-Ancient Kaa the Soulless	Ancient Kaa the Soulless	unraveler3	19		25	5	17	3	3	1	0		11	11	11	Act 2 Super C	Act 2 (N) Super C	Act 2 (H) Super C	0
+Ancient Kaa the Soulless	LazSphinx	laz_panthermeleesuper1	19		25	5	17	0	0	1	0		11	11	11	Act 2 Super C	Act 2 (N) Super C	Act 2 (H) Super C	0
 The Smith	The Smith	smith	20	smith	5	0	0	0	0	1	0		26	26	26	Smith	Smith (N)	Smith (H)	0
 Web Mage the Burning	Web Mage the Burning	arach4	21		5	7	0	5	5	1	0		19	19	19	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
 Witch Doctor Endugu	Witch Doctor Endugu	fetishshaman4	22		8	9	0	6	6	1	0		20	20	20	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
@@ -39,7 +39,7 @@ Infector of Souls	Infector of Souls	megademon3	36		6	27	0	9	9	1	0		26	26	26	Act 
 Lord De Seis	Lord De Seis	doomknight3	37		5	30	24	5	5	1	0		11	11	11	Act 4 Super C	Act 4 (N) Super C	Act 4 (H) Super C	0
 Grand Vizier of Chaos	Grand Vizier of Chaos	fingermage3	38		5	9	0	9	9	1	0		26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
 The Cow King	The Cow King	cowking	39		8	17	0	6	6	1	0		27	27	27	Cow King	Cow King (N)	Cow King (H)	0
-LazBossButcher	LazBossButcher	laz_overseerspecial1	40		27	0	0	5	5	1	0		25	25	25	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+Corpsefire	LazBossButcher	laz_overseerspecial1	40		27	0	0	5	5	1	0		25	25	25	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
 Fightmare	The Feature Creep	hephasto	41	smithdemon	27	30	0	0	0	1	0		20	20	20	Haphesto	Haphesto (N)	Haphesto (H)	0
 Expansion																			0
 Siege Boss	Siege Boss	overseer1	42		5	0	0	0	0	0	1		7	7	7	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0

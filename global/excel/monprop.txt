@@ -89,3 +89,5 @@ laz_zealotspecial1	death-skill		721	100	2	state		104	1	1																					dea
 laz_zealotspecial2	death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					0
 laz_zealotspecial3	death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					0
 laz_zealotspecial4	death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					death-skill		725	100	1	state		104	1	1																					0
+laz_shockwaverider1	state		118	1	1																										state		118	1	1																										state		118	1	1																										0
+laz_shockwaverider2	state		118	1	1																										state		118	1	1																										state		118	1	1																										0

@@ -1133,5 +1133,14 @@
     "apprenticelightningdelay": "charged_bolt",
     "apprenticecoldcenter": "mephisto_missile",
     "apprenticecoldbolt": "ice_blast",
-    "apprenticecolddelay": "null"
+    "apprenticecolddelay": "null",
+    "stigmatacenter": "null",
+    "stigmatadelay": "spike_fiend_missle",
+    "stigmatabolt": "spike_fiend_missle",
+    "hominglightning": "lightningbolt",
+    "giantquills": "spike_fiend_missle",
+    "giantquillslightning": "spike_fiend_missle",
+    "sphinxstrikecenter": "null",
+    "sphinxstrikewave": "expansion_fire_spikes",
+    "sphinxstriketripbomb": "expansion_fire_spikes_ground"
 }

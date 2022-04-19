@@ -1079,5 +1079,13 @@
   "laz_fallenspecial1": "fallenspecial1",
   "laz_overseerspecial1": "overseerspecial1",
   "laz_corruptroguespecial1": "corruptroguespecial1",
-  "laz_corruptroguespecial2": "corruptroguespecial1"
+  "laz_corruptroguespecial2": "corruptroguespecial1",
+  "laz_goatspecial1": "goatmanspecial1",
+  "laz_goatspecial2": "goatmanspecial1",
+  "laz_shockwaverider1": "shockwaverider1",
+  "laz_shockwaverider2": "shockwaverider1",
+  "laz_quillratsuper1": "quillratsuper1",
+  "laz_quillratsuper2": "quillratsuper1",
+  "laz_panthermeleespecial1": "pantherwomansuper1",
+  "laz_slingersummoned1": "slinger1"
 }

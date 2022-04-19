@@ -38002,5 +38002,8 @@
   {"id": 38342, "Key": "darkness", "enUS": "Darkness", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38343, "Key": "magic wind blast", "enUS": "Magic Wind Blast", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38344, "Key": "casts homing stars", "enUS": "Casts Homing Stars", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
-  {"id": 38345, "Key": "flowers on death", "enUS": "Flowers on Death", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""}
+  {"id": 38345, "Key": "flowers on death", "enUS": "Flowers on Death", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 38346, "Key": "heals allies", "enUS": "Heals Allies", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 38347, "Key": "homing lightning", "enUS": "Homing Lightning", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 38348, "Key": "throws exploding caltrops", "enUS": "Throws Exploding Caltrops", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""}
 ]

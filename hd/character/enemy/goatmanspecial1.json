@@ -95,7 +95,7 @@
         "other": []
     },
     "type": "UnitDefinition",
-    "name": "goatman1",
+    "name": "goatmanspecial1",
     "entities": [
         {
             "type": "Entity",
@@ -301,7 +301,7 @@
                 {
                     "type": "UnitAttachmentComponent",
                     "name": "entity_rhand_hal_UnitAttachment",
-                    "filename": "data/hd/items/weapon/polearm/_monsters/goatman_halberd.json",
+                    "filename": "data/hd/items/weapon/staff/_monsters/fe_sorceress_staff.json",
                     "overrideBoneName": "",
                     "orientTowardBoneName": "",
                     "attachmentTransform": {
@@ -343,7 +343,7 @@
                 {
                     "type": "UnitAttachmentComponent",
                     "name": "entity_rhand_lax_UnitAttachment",
-                    "filename": "data/hd/items/weapon/axe/battle_axe.json",
+                    "filename": "data/hd/items/weapon/staff/gnarled_staff.json",
                     "overrideBoneName": "",
                     "orientTowardBoneName": "",
                     "attachmentTransform": {
@@ -360,9 +360,9 @@
                             "z": 0.0
                         },
                         "scale": {
-                            "x": 1.2,
-                            "y": 1.2,
-                            "z": 1.2
+                            "x": 1.7,
+                            "y": 1.7,
+                            "z": 1.7
                         }
                     },
                     "attachmentStateMachineFilename": "",
