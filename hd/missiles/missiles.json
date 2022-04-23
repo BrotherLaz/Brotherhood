@@ -1041,7 +1041,7 @@
     "giantslamwave": "laz_dustproject",
     "giantslamwall": "laz_tower",
     "frostgiantslamwave": "icestormimpactvar_01",
-    "globalnova": "expansion_hurricane_swoosh",
+    "globalnova": "null",
     "groundpoundwave": "laz_dustproject",
     "groundpoundwall": "laz_tower",
     "maulerfingers": "expansion_deathmaulerfingers",
@@ -1160,5 +1160,6 @@
     "diabmultilasercenter_3": "null",
     "diabmultilasercenter_4": "null",
     "diabmultilasercenter_5": "null",
-    "diabmultilaserbolt": "diablo_lightning"
+    "diabmultilaserbolt": "diablo_lightning",
+    "frostspirit": "expansion_baaldeathghostie_02"
 }
