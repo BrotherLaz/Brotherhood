@@ -19,6 +19,7 @@ placeholder16																																																																			
 placeholder17																																																																																											0
 placeholder18																																																																																											0
 generic																																																																																											0
+laz_andariel	hit-ranged-skill		744	100	1																										hit-ranged-skill		744	100	1																										hit-ranged-skill		744	100	1																										0
 laz_summoner	hit-ranged-skill		659	100	1																										hit-ranged-skill		659	100	1																										hit-ranged-skill		659	100	1																										0
 laz_izual	hit-ranged-skill		744	100	1																										hit-ranged-skill		744	100	1																										hit-ranged-skill		744	100	1																										0
 summonraven	hit-skill		600	15	1																										hit-skill		600	15	1																										hit-skill		600	15	1																										0

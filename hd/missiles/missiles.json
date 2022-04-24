@@ -1161,5 +1161,17 @@
     "diabmultilasercenter_4": "null",
     "diabmultilasercenter_5": "null",
     "diabmultilaserbolt": "diablo_lightning",
-    "frostspirit": "expansion_baaldeathghostie_02"
+    "frostspirit": "expansion_baaldeathghostie_02",
+    "andyexplodingtrap": "expansion_catapultpoisonbomb",
+    "andyshockwavecorpse": "null",
+    "andyshockwavedelay": "corpse_explode_guts_poison",
+    "andyshockwaveblast": "expansion_deathmaulerfingers",
+    "andypullthrow": "slug_missile",
+    "andypulltrap": "null",
+    "andypullwave": "electric_nova",
+    "goreblastcenter": "null",
+    "goreblastwave": "laz_tower",
+    "durielminecenter": "null",
+    "durielminewave": "expansion_fire_spikes",
+    "durielminetripbomb": "expansion_molten_fragment_d"
 }
