@@ -29,8 +29,9 @@ Lavish	1	1	1	23		11				12	601	ac%		31	40										armo							circ	stor				0	0
 Ornate	1	1	1	34		17				12	601	ac%		41	50										armo							circ	stor				0	0
 Opulent	1	1	1	45		22				12	601	ac%		51	65										armo							circ	stor				0	0
 Splendid	1	1	1	56		28				12	601	ac%		66	80										armo							circ	stor				0	0
-Majestic	1	1	1	67		33				12	601	ac%		81	100										armo							circ	stor				0	0
-Sublime	1	1	1	90		45				1	601	ac%		101	125										armo							circ	stor				0	0
+Majestic	1	1	1	67		33				12	601	ac%		81	110										armo							circ	stor				0	0
+Glorious	1	1	1	78		39				12	601	ac%		111	130										armo							circ	stor				0	0
+Sublime	1	1	1	90		45				1	601	ac%		131	150										armo							circ	stor				0	0
 Useless	1			6	30	0				2	602	dmg%		-100	-100										weap							staf	wand	orb	crsx		0	0
 Weak	1			1	30	0				2	602	dmg%		-15	-40										weap							staf	wand	orb	crsx		0	0
 Keen	1	1	1	1		0				12	602	dmg%		10	20										weap							staf	wand	orb	crsx		0	0
@@ -39,8 +40,9 @@ Lethal	1	1	1	23		11				12	602	dmg%		31	40										weap							staf	wand	orb	crsx
 Brutal	1	1	1	34		17				12	602	dmg%		41	50										weap							staf	wand	orb	crsx		0	0
 Vicious	1	1	1	45		22				12	602	dmg%		51	65										weap							staf	wand	orb	crsx		0	0
 Barbarous	1	1	1	56		28				12	602	dmg%		66	80										weap							staf	wand	orb	crsx		0	0
-Cruel	1	1	1	67		33				12	602	dmg%		81	100										weap							staf	wand	orb	crsx		0	0
-Divine	1	1	1	90		45				1	602	dmg%		101	125										weap							staf	wand	orb	crsx		0	0
+Cruel	1	1	1	67		33				12	602	dmg%		81	110										weap							staf	wand	orb	crsx		0	0
+Monstrous	1	1	1	78		39				12	602	dmg%		111	130										weap							staf	wand	orb	crsx		0	0
+Divine	1	1	1	90		45				12	602	dmg%		131	150										weap							staf	wand	orb	crsx		0	0
 Useless	1			6	30	0				2	602	dmg%		-100	-100										crsx												0	0
 Weak	1			7	30	3				2	602	dmg%		-15	-40										crsx												0	0
 Keen	1	1	1	7		3				6	602	dmg%		10	20										crsx												0	0
