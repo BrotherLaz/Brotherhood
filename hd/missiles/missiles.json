@@ -1175,5 +1175,8 @@
     "durielminewave": "expansion_fire_spikes",
     "durielminetripbomb": "expansion_molten_fragment_d",
     "baaltrapcenter": "chill_blood_puff",
-    "baaltrapwave": "blue_nova_b"
+    "baaltrapwave": "blue_nova_b",
+    "newavalanchewave": "null",
+    "newavalanchedelay": "laz_newsmoke",
+    "newavalanchetrail": "laz_freeze_explode_center"
 }
