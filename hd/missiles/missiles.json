@@ -1176,7 +1176,17 @@
     "durielminetripbomb": "expansion_molten_fragment_d",
     "baaltrapcenter": "chill_blood_puff",
     "baaltrapwave": "blue_nova_b",
-    "newavalanchewave": "null",
+    "newavalanchewave": "laz_newsmoke",
     "newavalanchedelay": "laz_newsmoke",
-    "newavalanchetrail": "laz_freeze_explode_center"
+    "newavalanchetrail": "laz_freeze_explode_center",
+    "darkstarcenter": "ice_blast",
+    "darkstardamage": "laz_ice_break_large",
+    "darkstarnova": "blue_nova_b",
+    "darkstarexplode": "ice_orb_explode",
+    "icecrownsub_1": "null",
+    "icecrownsub_2": "ice_blast",
+    "icecrowncenter": "null",
+    "icecluster": "laz_newavalanche",
+    "iceclustersubmissile": "ice_blast",
+    "icefloewave": "ice_orb_explode"
 }
