@@ -5899,12 +5899,12 @@
         {
             "type": "AnimationState",
             "name": "AnimationState080",
-            "_name": "SKILL_UPHEAVAL_CAST",
+            "_name": "SKILL_CATACLYSM_CAST",
             "audioId": "",
             "loopCount": 1,
             "stateId": 58,
             "modeId": 10,
-            "skillIndex": 597,
+            "skillIndex": 580,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [

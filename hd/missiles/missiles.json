@@ -1188,5 +1188,9 @@
     "icecrowncenter": "null",
     "icecluster": "laz_newavalanche",
     "iceclustersubmissile": "ice_blast",
-    "icefloewave": "ice_orb_explode"
+    "icefloewave": "ice_orb_explode",
+    "stormeyecenter": "expansion_arctic_blast_ice",
+    "stormeyebolt": "expansion_arctic_blast_ice_2",
+    "superstormcenter": "electric_nova",
+    "superstormnova": "expansion_hurricane_swoosh"
 }

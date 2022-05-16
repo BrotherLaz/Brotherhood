@@ -198,7 +198,7 @@ placeholder195	195																																																														
 placeholder196	196																																																																							0
 placeholder197	197																																																																							0
 placeholder198	198																																																																							0
-placeholder199	199																																																																							0
+superstorm	199	sor																																										superstorm																										146		0
 icearmor	200	sorceress																																															frozenarmor		skill_armor_percent																					0
 furystate	201	common																																																																						0
 breakthrough	202	amazon																																										breakthrough																												0
