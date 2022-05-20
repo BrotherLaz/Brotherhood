@@ -6034,7 +6034,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState083",
-            "_name": "SKILL_ICENOVA_CAST",
+            "_name": "SKILL_SHATTER_CAST",
             "audioId": "",
             "loopCount": 1,
             "stateId": 61,
@@ -6200,6 +6200,96 @@
                 ],
                 "xbw": [
                     "hth_whirlwind"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState087",
+            "_name": "SKILL_DEEPFREEZE_CAST",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 65,
+            "modeId": 10,
+            "skillIndex": 588,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "stf_roar"
+                ],
+                "bow": [
+                    "stf_roar"
+                ],
+                "1hs": [
+                    "stf_roar"
+                ],
+                "1ht": [
+                    "stf_roar"
+                ],
+                "stf": [
+                    "stf_roar"
+                ],
+                "2hs": [
+                    "stf_roar"
+                ],
+                "2ht": [
+                    "stf_roar"
+                ],
+                "xbw": [
+                    "stf_roar"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState088",
+            "_name": "SKILL_SHATTER_CAST",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 66,
+            "modeId": 10,
+            "skillIndex": 596,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "stf_roar"
+                ],
+                "bow": [
+                    "stf_roar"
+                ],
+                "1hs": [
+                    "stf_roar"
+                ],
+                "1ht": [
+                    "stf_roar"
+                ],
+                "stf": [
+                    "stf_roar"
+                ],
+                "2hs": [
+                    "stf_roar"
+                ],
+                "2ht": [
+                    "stf_roar"
+                ],
+                "xbw": [
+                    "stf_roar"
                 ],
                 "1js": [],
                 "1jt": [],
