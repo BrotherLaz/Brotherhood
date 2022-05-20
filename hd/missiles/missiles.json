@@ -1196,5 +1196,7 @@
     "deepfreezecenter": "null",
     "deepfreezenova": "blue_nova_b",
     "shattercenter": "null",
-    "shatternova": "frost_nova"
+    "shatternova": "frost_nova",
+    "maelstromboltscenter": "null",
+    "maelstrombolts": "charged_bolt"
 }
