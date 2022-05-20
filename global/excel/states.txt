@@ -12,7 +12,7 @@ amplifydamage	9							1	1																																			curseamplifydamage		
 frozenarmor	10		1												1																													frozenarmor							skill_armor_percent																					0
 cold	11							1																																											velocitypercent							100	108	150	215	255	impact_bluemotize_1									0
 inferno	12				1																																																																			0
-blaze	13	sorceress (Conduit)				1					1	1																																conduitduration	conduit						velocitypercent													lightninggenerator_launch_1	1	778						0
+blaze	13	sor (Conduit)				1					1	1																																conduitduration	conduit						velocitypercent													lightninggenerator_launch_1	1	778						0
 bonearmor	14		1																																				1	1				bonearmor_front	bonearmor_back	bonearmor_null1	bonearmor_null2		bonearmor_cast			6	3																			0
 concentrate	15														1																																				skill_armor_percent																					0
 enchant	16												1									1																											enchant		skill_enchant					weap	cred															0
@@ -197,9 +197,9 @@ placeholder194	194																																																														
 placeholder195	195																																																																							0
 placeholder196	196																																																																							0
 placeholder197	197																																																																							0
-placeholder198	198																																																																							0
-superstorm	199	sor																																										superstorm																										146		0
-icearmor	200	sorceress																																															frozenarmor		skill_armor_percent																					0
+deepfreeze	198	sor													1																													frozenarmor							skill_armor_percent							100	109	50	215	255	paladin_aura_resistcold							146		0
+superstorm	199	sor																																										superstorm																			sorceress_thunder_cast	sorceress_thunder_bolt						146		0
+icearmor	200	sor																																															frozenarmor		skill_armor_percent																					0
 furystate	201	common																																																																						0
 breakthrough	202	amazon																																										breakthrough																												0
 intimidate	203																																																																							0

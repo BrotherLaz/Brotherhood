@@ -1178,7 +1178,7 @@
     "baaltrapwave": "blue_nova_b",
     "newavalanchewave": "laz_newsmoke",
     "newavalanchedelay": "laz_newsmoke",
-    "newavalanchetrail": "laz_freeze_explode_center",
+    "newavalanchetrail": "laz_ice_orb_explode",
     "darkstarcenter": "ice_blast",
     "darkstardamage": "laz_ice_break_large",
     "darkstarnova": "blue_nova_b",
@@ -1188,9 +1188,13 @@
     "icecrowncenter": "null",
     "icecluster": "laz_newavalanche",
     "iceclustersubmissile": "ice_blast",
-    "icefloewave": "ice_orb_explode",
+    "icefloewave": "ice_break_small",
     "stormeyecenter": "expansion_arctic_blast_ice",
     "stormeyebolt": "expansion_arctic_blast_ice_2",
     "superstormcenter": "electric_nova",
-    "superstormnova": "expansion_hurricane_swoosh"
+    "superstormnova": "electric_nova",
+    "deepfreezecenter": "null",
+    "deepfreezenova": "blue_nova_b",
+    "shattercenter": "null",
+    "shatternova": "frost_nova"
 }
