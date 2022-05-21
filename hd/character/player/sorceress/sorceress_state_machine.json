@@ -5683,28 +5683,28 @@
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
-                    "1hs_arctic_blast_loop"
+                    "2hs_inferno_loop"
                 ],
                 "bow": [
-                    "1hs_arctic_blast_loop"
+                    "2hs_inferno_loop"
                 ],
                 "1hs": [
-                    "1hs_arctic_blast_loop"
+                    "2hs_inferno_loop"
                 ],
                 "1ht": [
-                    "1hs_arctic_blast_loop"
+                    "2hs_inferno_loop"
                 ],
                 "stf": [
-                    "1hs_arctic_blast_loop"
+                    "2hs_inferno_loop"
                 ],
                 "2hs": [
-                    "1hs_arctic_blast_loop"
+                    "2hs_inferno_loop"
                 ],
                 "2ht": [
-                    "1hs_arctic_blast_loop"
+                    "2hs_inferno_loop"
                 ],
                 "xbw": [
-                    "1hs_arctic_blast_loop"
+                    "2hs_inferno_loop"
                 ],
                 "1js": [],
                 "1jt": [],
@@ -5712,9 +5712,7 @@
                 "1st": [],
                 "ht1": [],
                 "ht2": []
-            },
-            "enterEvents": [],
-            "exitEvents": []
+            }
         },
         {
             "type": "AnimationState",
@@ -6259,7 +6257,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState088",
-            "_name": "SKILL_SHATTER_CAST",
+            "_name": "SKILL_MAELSTROM_CAST",
             "audioId": "",
             "loopCount": 1,
             "stateId": 66,

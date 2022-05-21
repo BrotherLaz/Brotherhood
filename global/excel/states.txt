@@ -229,7 +229,7 @@ meditatemana	244	assassin					1																																					battleorders
 meditatelife	245	assassin					1																																					shout							hpregen		11										barbarian_findheart_1									0
 poisonaura	228	necromancer																																																						mele	cgrn															0
 wrathoftheberserker	229	barbarian																																										twisterfront	target_holyfire						normal_damage_reduction												barbarian_circle_1									0
-cursecripplesilent	230	sorceress						1	1												1	1																						battlecry							damagepercent																					0
+devouringflames	230	sor (Devouring Flames)																			1	1																													damagepercent																					0
 bloodofthezakarum	231	paladin skill									1				1																													progressive_fire_1							paladin_holyshield																					0
 attackbuff1	232	Druid passive																																																																						0
 attackbuff2	233	Druid passive																																																																						0
