@@ -203,7 +203,7 @@ icearmor	200	sor																																															frozenarmor		skil
 furystate	201	common																																																																						0
 breakthrough	202	amazon																																										breakthrough																												0
 intimidate	203																																																																							0
-cooldownreset	204	Assassin proc	7																																														shadowwarriorappear														assassin_bladeshield									0
+cooldownreset	204	ass (Cold Blood)	7																																														shadowwarriorappear														assassin_bladeshield									0
 dragonclaws	205	Assassin skill																																																																						0
 instawolf	206	druid	3			1	1				1	1	1	1																												1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
 instabear	207	druid	3			1	1				1	1	1		1																											1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
@@ -234,8 +234,8 @@ bloodofthezakarum	231	paladin skill									1				1																													p
 attackbuff1	232	Druid passive																																																																						0
 attackbuff2	233	Druid passive																																																																						0
 attackbuff3	234	Druid passive																																																																						0
-skillonhit1	235	Common passive																																																																						0
-skillonhit2	236	Common passive																																																																						0
+skillonhit1	235	common passive																																																																						0
+skillonhit2	236	common passive																																																																						0
 askarimanaheal	237	amazon																																															valkyriestart		manarecovery												amazon_fistofares									0
 bruteforce	238	Barbarian passive																																																																						0
 hiddenaura	239	Common passive					1																																												damagepercent																					0

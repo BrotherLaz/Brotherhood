@@ -174,14 +174,14 @@ of Power	1	1	1	40		20				6	707	enr		11	15										rod												0	0
 of Sorcery	1	1	1	53		26				6	707	enr		16	20										rod												0	0
 of Wizardry	1	1	1	66		33				6	707	enr		21	35										rod												0	0
 of Ascendance	1	1	1	80		40				6	707	enr		36	50										rod												0	0
-of the Fool	1			1	30	0				2	707	enr		-1	-5										h2h	stor											0	0
-of Energy	1	1	1	1		0				4	707	enr		1	3										h2h	stor											0	0
-of Magic	1	1	1	14		7				4	707	enr		4	6										h2h	stor											0	0
-of the Mind	1	1	1	27		13				4	707	enr		7	10										h2h	stor											0	0
-of Power	1	1	1	40		20				4	707	enr		11	15										h2h	stor											0	0
-of Sorcery	1	1	1	53		26				4	707	enr		16	20										h2h	stor											0	0
-of Wizardry	1	1	1	66		33				4	707	enr		21	25										h2h	stor											0	0
-of Ascendance	1	1	1	80		40				4	707	enr		26	30										h2h	stor											0	0
+of the Fool	1			1	30	0				2	707	enr		-1	-5										h2h	stor	dbow	abow	aspe								0	0
+of Energy	1	1	1	1		0				4	707	enr		1	3										h2h	stor	dbow	abow	aspe								0	0
+of Magic	1	1	1	14		7				4	707	enr		4	6										h2h	stor	dbow	abow	aspe								0	0
+of the Mind	1	1	1	27		13				4	707	enr		7	10										h2h	stor	dbow	abow	aspe								0	0
+of Power	1	1	1	40		20				4	707	enr		11	15										h2h	stor	dbow	abow	aspe								0	0
+of Sorcery	1	1	1	53		26				4	707	enr		16	20										h2h	stor	dbow	abow	aspe								0	0
+of Wizardry	1	1	1	66		33				4	707	enr		21	25										h2h	stor	dbow	abow	aspe								0	0
+of Ascendance	1	1	1	80		40				4	707	enr		26	30										h2h	stor	dbow	abow	aspe								0	0
 of Energy	1	1	1	1		0				4	707	enr		1	2										dusm	duse											0	0
 of Magic	1	1	1	15		8				4	707	enr		3	4										dusm	duse											0	0
 of the Mind	1	1	1	30		14				4	707	enr		5	7										dusm	duse											0	0
