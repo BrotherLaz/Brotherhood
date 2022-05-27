@@ -155,7 +155,7 @@ clawmastery	152																																																																	
 cloak_of_shadows	153			1											1																																					2											assassin_cloakofdarkness									0
 recycled	154																													1	1	1			1																																					0
 weaponblock	155																																																																							0
-cloaked	156								1														1																					cloaked							skill_armor_percent																					0
+cloaked	156								1												1																							cloaked					cast_resistfire		item_tohit_percent	12	8										necromancer_dimvision	assassin_cloakofdarkness								0
 quickness	157		2				1																																					quickness							attackrate																					0
 bladeshield	158																																											bladeshield																												0
 fade	159		2													1	1	1		1																								fade							poisonresist																					0

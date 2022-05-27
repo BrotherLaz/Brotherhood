@@ -1198,5 +1198,9 @@
     "shattercenter": "null",
     "shatternova": "frost_nova",
     "maelstromboltscenter": "null",
-    "maelstrombolts": "charged_bolt"
+    "maelstrombolts": "charged_bolt",
+    "impbombsdeploy": "expansion_impmissile_01",
+    "windtwister": "expansion_twister",
+    "bloodstormlightning": "diablo_lightning",
+    "immolate": "null"
 }

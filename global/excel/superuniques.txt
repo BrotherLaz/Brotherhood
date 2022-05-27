@@ -1,33 +1,33 @@
 Superunique	Name	*Laz/Boss	Class	hcIdx	*Laz/Loc	MonSound	Mod1	Mod2	Mod3	MinGrp	MaxGrp	AutoPos	Stacks	Replaceable	Utrans	Utrans(N)	Utrans(H)	TC	TC(N)	TC(H)	*eol
-Bishibosh	LazBossBrokenhead	Brokenhead Bangshield	laz_skeletonboss1	0	A1 Cold Plains		8	17	0	14	14	1	0		11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+Bishibosh	LazBossBrokenhead	Brokenhead Bangshield	laz_skeletonboss1	0	A1 Cold Plains		8	17	0	10	12	1	0		11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
 Bonebreak	LazBossSkeletonKing	Skeleton King	laz_skeletonheroboss1	1	A1 Crypt	suskeletonking	7	30	0	0	0	1	0		5	5	5	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
-Coldcrow	LazBossSkullfire	Skullfire	laz_skeletonarcherboss1	2	A1 Cave		9	5	0	4	4	1	0		18	18	18	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+Coldcrow	LazBossSkullfire	Skullfire	laz_skeletonarcherboss1	2	A1 Cave		9	5	0	5	6	1	0		18	18	18	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
 Rakanishu	LazBossRakanishu	Rakanishu	laz_fallenspecial1	3	A1 Stony Field		5	6	0	0	0	0	0	1	29	29	29	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
-Treehead WoodFist	LazBossHellsinger	Hellsinger Furia	laz_rogueboss1	4	A1 Dark Woods		6	18	0	2	2	1	0	1	4	4	4	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+Treehead WoodFist	LazBossHellsinger	Hellsinger Furia	laz_rogueboss1	4	A1 Dark Woods	sugames	6	18	0	5	6	1	0	1	4	4	4	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
 Griswold	Griswold		griswold	5	Quest		6	7	0	0	0	1	0	1	17	17	17	Griswold	Griswold (N)	Griswold (H)	0
-The Countess	The Countess		laz_rogue3	6	Quest	countess	9	25	0	6	6	1	0		16	16	16	Countess	Countess (N)	Countess (H)	0
-Pitspawn Fouldog	LazBossMoonbender	Moonbender	laz_batdemonboss1	7	A1 The Jail		18	26	0	4	4	1	0		31	31	31	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+The Countess	The Countess		laz_rogue3	6	Quest	countess	9	25	0	5	6	1	0		16	16	16	Countess	Countess (N)	Countess (H)	0
+Pitspawn Fouldog	LazBossMoonbender	Moonbender	laz_batdemonboss1	7	A1 The Jail		18	26	0	4	5	1	0		31	31	31	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
 Flamespike the Crawler	Flamespike the Crawler		quillrat4	8	Unused		9	7	0	6	6	1	0		16	16	16	Act 1 Unique C	Act 1 (N) Unique C	Act 1 (H) Unique C	0
 Boneash	LazBossBladeskin	Bladeskin the Slasher	laz_fallenboss1	9	A1 Cathedral		5	28	0	0	0	1	0		15	15	15	Act 1 Super C	Act 1 (N) Super C	Act 1 (H) Super C	0
 Radament	Radament		radament	10	Quest		6	7	0	3	3	1	0		30	30	30	Radament	Radament (N)	Radament (H)	0
-Bloodwitch the Wild	LazBossCrassus	Crassus the Tormentor	laz_vampireboss1	11	A2 Halls of the Dead/Dry Hills	subiolord	7	9	0	5	5	1	0		29	29	29	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
-Fangskin	LazBossKhahul	Khahul the Serpent	laz_clawviperboss1	12	A2 Claw Viper Temple	sudiealone	7	8	0	4	4	1	0		14	14	14	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
-Beetleburst	LazBossBluehorn	Bluehorn	laz_bloodlordboss1	13	A2 Far Oasis	supsionic	5	6	0	3	3	1	0	1	13	13	13	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
-Leatherarm	LazBossGraveljaw	Graveljaw the Devourer	laz_maggot1	14	A2 Stony Tomb		5	25	0	5	5	1	0		25	25	25	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
+Bloodwitch the Wild	LazBossCrassus	Crassus the Tormentor	laz_vampireboss1	11	A2 Halls of the Dead/Dry Hills	subiolord	7	9	0	0	0	1	0		29	29	29	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
+Fangskin	LazBossKhahul	Khahul the Serpent	laz_clawviperboss1	12	A2 Claw Viper Temple	sudiealone	7	8	0			1	0		14	14	14	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+Beetleburst	LazBossBluehorn	Bluehorn	laz_bloodlordboss1	13	A2 Far Oasis	supsionic	5	6	0	3	4	1	0	1	13	13	13	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+Leatherarm	LazBossGraveljaw	Graveljaw the Devourer	laz_maggot1	14	A2 Stony Tomb		5	25	0	5	7	1	0		25	25	25	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
 Coldworm the Burrower	Coldworm the Burrower		maggotqueen1	15	Quest		18	8	0	0	0	0	0		13	13	13	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
-Fire Eye	LazBossBlightfire	Blightfire	laz_goatboss2	16	A2 Palace Cellar	suscared	7	9	0	3	3	1	0		12	12	12	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
-Dark Elder	LazBossTaros	Taros the Wild	laz_panthermelee3	17	A2 Lost City	suqueen	6	17	0	4	4	1	0	1	27	27	27	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+Fire Eye	LazBossBlightfire	Blightfire	laz_goatboss2	16	A2 Palace Cellar	suscared	7	9	0	3	4	1	0		12	12	12	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+Dark Elder	LazBossTaros	Taros the Wild	laz_panthermelee3	17	A2 Lost City	suqueen	6	17	0	6	8	1	0	1	27	27	27	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
 The Summoner	The Summoner		summoner	18	Quest		25	27	0	0	0	1	0		26	26	26	Summoner	Summoner (N)	Summoner (H)	0
 Ancient Kaa the Soulless	LazBossSphinxOsammeda	Advisor Osammeda	laz_panthermeleesuper1	19	Quest		25	30	0	0	0	1	0		11	11	11	Act 2 Super C	Act 2 (N) Super C	Act 2 (H) Super C	0
 The Smith	The Smith		smith	20	Quest	smith	5	27	0	0	0	1	0		26	26	26	Smith	Smith (N)	Smith (H)	0
-Web Mage the Burning	LazBossZanthek	Zanthek the Ravagor	laz_vilemotherboss1	21	A3 Spider Cavern		9	26	0	5	5	1	0		19	19	19	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
-Witch Doctor Endugu	LazBossBairi	Bari Bairi	laz_fetishshaman4	22	A3 Flayer Dungeon		26	27	0	6	6	1	0		20	20	20	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
-Stormtree	LazBossChupacabra	Chupacabra	laz_quillratsuperboss1	23	A3 Flayer Jungle		7	29	0	4	4	1	0	1	35	35	35	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
+Web Mage the Burning	LazBossZanthek	Zanthek the Ravagor	laz_vilemotherboss1	21	A3 Spider Cavern		9	26	0	0	0	1	0		19	19	19	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
+Witch Doctor Endugu	LazBossBairi	Bari Bairi	laz_fetishshaman4	22	A3 Flayer Dungeon		26	27	0	4	6	1	0		20	20	20	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
+Stormtree	LazBossChupacabra	Chupacabra	laz_quillratsuperboss1	23	A3 Flayer Jungle		7	29	0	3	4	1	0	1	35	35	35	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
 LazBossAltarAntula	LazBossAltarAntula	Altar-Antula	laz_arachspecial1	24	A3 Fane		18	30	0	0	0	1	0	1	36	36	36	Act 3 Super C	Act 3 (N) Super C	Act 3 (H) Super C	0
-Icehawk Riftwing	LazBossKhamar	Khamar the Skulking	laz_mummyboss1	25	A3 Sewers	sudisgusting	7	25	0	7	7	1	0		21	21	21	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
-Ismail Vilehand	LazBossVephar	Vephar Scarhand	laz_councilmembersuper1	26	Quest		9	28	0	2	2	1	0		36	36	36	Council	Council (N)	Council (H)	0
-Geleb Flamefinger	LazBossSkomara	Skomara Magelord	laz_councilmembersuper2	27	Quest		18	26	0	2	2	1	0		37	37	37	Council	Council (N)	Council (H)	0
-Bremm Sparkfist	LazBossBarsam	Barsam Hellstorm	laz_councilmembersuper3	28	Quest		17	8	0	2	2	1	0		22	22	22	Council	Council (N)	Council (H)	0
+Icehawk Riftwing	LazBossKhamar	Khamar the Skulking	laz_mummyboss1	25	A3 Sewers	sudisgusting	7	25	0	6	7	1	0		21	21	21	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
+Ismail Vilehand	LazBossVephar	Vephar Scarhand	laz_councilmembersuper1	26	Quest		9	28	0	0	0	1	0		36	36	36	Council	Council (N)	Council (H)	0
+Geleb Flamefinger	LazBossSkomara	Skomara Magelord	laz_councilmembersuper2	27	Quest		18	26	0	0	0	1	0		37	37	37	Council	Council (N)	Council (H)	0
+Bremm Sparkfist	LazBossBarsam	Barsam Hellstorm	laz_councilmembersuper3	28	Quest		17	8	0	0	0	1	0		22	22	22	Council	Council (N)	Council (H)	0
 Toorc Icefist	LazBossArram	Arram Blacktongue	laz_councilmembersuper1	29	A3 Mephisto		9	7	0	0	0	1	0		23	23	23	Council	Council (N)	Council (H)	0
 Wyand Voidfinger	LazBossPalkha	Palkha Icegrip	laz_councilmembersuper2	30	A3 Mephisto		18	5	0	0	0	1	0		38	38	38	Council	Council (N)	Council (H)	0
 Maffer Dragonhand	LazBossRume	Rume Brokenstorm	laz_councilmembersuper3	31	A3 Mephisto		17	6	0	0	0	1	0		23	23	23	Council	Council (N)	Council (H)	0
@@ -35,9 +35,9 @@ Winged Death	Winged Death	Unused	megademon3	32	Unused		5	7	0	7	7	1	0		24	24	24	A
 The Tormentor	The Tormentor	Unused	willowisp3	33	Unused		8	9	0	5	5	1	0		9	9	9	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
 Taintbreeder	Taintbreeder	Unused	vilemother2	34	Unused		6	0	0	6	6	1	0		10	10	10	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
 Riftwraith the Cannibal	Riftwraith the Cannibal	Unused	regurgitator2	35	Unused		18	26	0	8	8	1	0		25	25	25	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
-Infector of Souls	LazBossBaronSludge	Baron Sludge	laz_minionboss1	36	A4 River of Flame	sudeeds	5	28	0	9	9	1	0		26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
-Lord De Seis	LazBossLordSayter	Lord Sayter	laz_goatboss1	37	A4 River of Flame	sudevil	25	27	0	5	5	1	0		11	11	11	Act 4 Super C	Act 4 (N) Super C	Act 4 (H) Super C	0
-Grand Vizier of Chaos	LazBossBilefroth	Bilefroth the Pit Master	laz_balrogboss1	38	A4 River of Flame	sudescend	8	30	0	9	9	1	0		26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
+Infector of Souls	LazBossBaronSludge	Baron Sludge	laz_minionboss1	36	A4 River of Flame	sudeeds	5	28	0	0	0	1	0		26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
+Lord De Seis	LazBossLordSayter	Lord Sayter	laz_goatboss1	37	A4 River of Flame	sudevil	25	27	0	6	8	1	0		11	11	11	Act 4 Super C	Act 4 (N) Super C	Act 4 (H) Super C	0
+Grand Vizier of Chaos	LazBossBilefroth	Bilefroth the Pit Master	laz_balrogboss1	38	A4 River of Flame	sudescend	8	30	0	4	5	1	0		26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
 The Cow King	The Cow King	Quest	cowking	39	Quest		8	17	0	6	6	1	0		27	27	27	Cow King	Cow King (N)	Cow King (H)	0
 Corpsefire	LazBossButcher	The Butcher	laz_overseerspecial1	40	A1 Den of Evil	suthebutcher	7	0	0	0	0	1	0		37	37	37	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
 The Feature Creep	The Feature Creep	Quest	hephasto	41	Quest	smithdemon	27	30	0	0	0	1	0		20	20	20	Haphesto	Haphesto (N)	Haphesto (H)	0
@@ -47,22 +47,22 @@ Ancient Barbarian 1	Ancient Barbarian 1		ancientbarb1	43	Quest		0	0	0	0	0	0	1		2
 Ancient Barbarian 2	Ancient Barbarian 2		ancientbarb2	44	Quest		0	0	0	0	0	0	1		26	26	26				0
 Ancient Barbarian 3	Ancient Barbarian 3		ancientbarb3	45	Quest		0	0	0	0	0	0	1		11	11	11				0
 Axe Dweller	Axe Dweller		bloodlord3	46	Unused		8	9	0	2	2	0	0		20	20	20	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
-Bonesaw Breaker	LazBossBlackstorm	Blackstorm	laz_apeboss1	47	A5 Glacial Trail	sudoubt	17	18	0	5	5	0	0		35	35	35	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
-Dac Farren	LazBossImpErator	Imp-Erator Medaar	laz_impboss1	48	A5 Bloody Foothills		9	26	0	4	4	0	0	1	36	36	36	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0
-Megaflow Rectifier	LazBossKorrin	Korrin the Tremor	laz_deathmaulersuper5	49	A5 Frigid Highlands	suraven	7	9	0	8	8	0	0	1	21	21	21	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
-Eyeback Unleashed	LazBossOozedrool	Oozedrool	laz_minionboss2	50	A5 Frigid Highlands	sufat	8	28	0	2	2	0	0		8	8	8	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
-Threash Socket	LazBossBoneslag	Boneslag	laz_regurgitatorsuper2	51	A5 Arreat Plateau (cave)	suzerg	5	9	0	0	0	0	0		37	37	37	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	0
-Pindleskin	LazBossGrimnight	Grimnight the Soulless	laz_draugrspecial1	52	A5 Halls	suwraith	7	30	0	6	6	0	0		22	22	22	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	0
-Snapchip Shatter	LazBossUzkez	Uzkez the Annihilator	laz_overseersuperboss1	53	A5 Icy Cellar	sumarch	5	6	0	4	4	0	0		23	23	23	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+Bonesaw Breaker	LazBossBlackstorm	Blackstorm	laz_apeboss1	47	A5 Glacial Trail	sudoubt	17	18	0	5	6	0	0		2	2	2	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
+Dac Farren	LazBossImpErator	Imp-Erator Medaar	laz_impboss1	48	A5 Bloody Foothills		8	28	0	6	8	0	0	1	36	36	36	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0
+Megaflow Rectifier	LazBossKorrin	Korrin the Tremor	laz_deathmaulersuper5	49	A5 Frigid Highlands	suraven	7	9	0	3	5	0	0	1	21	21	21	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
+Eyeback Unleashed	LazBossOozedrool	Oozedrool	laz_minionboss2	50	A5 Frigid Highlands	sufat	8	28	0	5	7	0	0		8	8	8	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
+Threash Socket	LazBossBoneslag	Boneslag	laz_regurgitatorsuper2	51	A5 Arreat Plateau (cave)	suzerg	5	9	0	2	3	0	0		37	37	37	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	0
+Pindleskin	LazBossGrimnight	Grimnight the Soulless	laz_draugrspecial1	52	A5 Halls	suwraith	7	30	0	5	6	0	0		22	22	22	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	0
+Snapchip Shatter	LazBossUzkez	Uzkez the Annihilator	laz_overseersuperboss1	53	A5 Icy Cellar	sumarch	5	6	0	0	0	0	0		23	23	23	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Anodized Elite	Anodized Elite		succubus4	54	Unused		9	7	0	6	6	0	0		38	38	38	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Vinvear Molech	Vinvear Molech		succubuswitch2	55	Unused		8	5	18	0	0	0	0		23	23	23	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
-Sharp Tooth Sayer	LazBossBallartrask	Ballartrask the Defiler	laz_balrogboss2	56	A5 Frigid Highlands	sufire	6	9	0	3	3	0	0	1	24	24	24	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0
+Sharp Tooth Sayer	LazBossBallartrask	Ballartrask the Defiler	laz_balrogboss2	56	A5 Frigid Highlands	sufire	6	9	0	4	5	0	0	1	24	24	24	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0
 Magma Torquer	Magma Torquer		imp5	57	Unused		5	7	0	5	5	0	0		9	9	9	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Blaze Ripper	Blaze Ripper		deathmauler5	58	Unused		17	6	0	4	4	0	0		10	10	10	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
-Frozenstein	LazBossHrugowl	Hrugowl the Defiant	laz_goatboss3	59	A5 Frozen River	surushdown	17	29	0	5	6	0	0		19	19	19	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+Frozenstein	LazBossHrugowl	Hrugowl the Defiant	laz_goatboss3	59	A5 Frozen River	surushdown	17	29	0	4	6	0	0		19	19	19	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
 Nihlathak Boss	Nihlathak		nihlathakboss	60	Quest		7	30	0	0	0	0	1		28	28	28	Nihlathak	Nihlathak (N)	Nihlathak (H)	0
-Baal Subject 1	LazBossGhallem	Ghallem the Cruel	laz_bigheadboss1	61	A5 Throne	suvoid	8	18	29	5	5	0	1		29	29	29	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
-Baal Subject 2	LazBossNakBrekthar	Nak Brekthar	laz_deathmaulerboss1	62	A5 Throne	suoblivion	6	7	9	3	3	0	1		21	21	21	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
-Baal Subject 3	LazBossFirewound	Firewound the Grim	laz_bloodlordsuper5	63	A5 Throne	sufool	5	9	28	5	5	0	1		36	36	36	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
-Baal Subject 4	LazBossWitchmoon	Witchmoon	laz_succubuswitchboss1	64	A5 Throne	sufallen	6	18	25	8	8	0	1		20	20	20	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
-Baal Subject 5	LazBossGraywar	Graywar the Slayer	laz_doomknightspecial1	65	A5 Throne	susummoner	9	17	18	5	5	0	1		20	20	20	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+Baal Subject 1	LazBossGhallem	Ghallem the Cruel	laz_bigheadboss1	61	A5 Throne	suvoid	8	18	29	4	5	0	1		29	29	29	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+Baal Subject 2	LazBossNakBrekthar	Nak Brekthar	laz_deathmaulerboss1	62	A5 Throne	suoblivion	6	7	9	6	8	0	1		21	21	21	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+Baal Subject 3	LazBossFirewound	Firewound the Grim	laz_bloodlordsuper5	63	A5 Throne	sufool	5	9	28	6	8	0	1		36	36	36	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+Baal Subject 4	LazBossWitchmoon	Witchmoon	laz_succubuswitchboss1	64	A5 Throne	sufallen	6	18	25	7	9	0	1		20	20	20	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+Baal Subject 5	LazBossGraywar	Graywar the Slayer	laz_doomknightspecial1	65	A5 Throne	susummoner	9	17	18	7	9	0	1		20	20	20	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0

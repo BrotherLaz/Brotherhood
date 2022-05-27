@@ -11388,18 +11388,16 @@ monster_battleboss_taunt	11385	monster_battleboss_taunt_hd	vo/eax/boss-dialog_sd
 monster_battleboss_taunt_hd	11386		vo/eax/boss-dialog_hd	sucallouts\monster_battleboss_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_biolord_taunt	11387	monster_biolord_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_biolord_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_biolord_taunt_hd	11388		vo/eax/boss-dialog_hd	sucallouts\monster_biolord_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_darklady_taunt	11389	monster_darklady_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_darklady_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_darklady_taunt_hd	11390		vo/eax/boss-dialog_hd	sucallouts\monster_darklady_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_deeds_taunt	11391	monster_deeds_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_deeds_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_deeds_taunt_hd	11392		vo/eax/boss-dialog_hd	sucallouts\monster_deeds_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_descend_taunt	11393	monster_descend_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_descend_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_descend_taunt_hd	11394		vo/eax/boss-dialog_hd	sucallouts\monster_descend_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_devil_taunt	11395	monster_devil_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_devil_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_devil_taunt_hd	11396		vo/eax/boss-dialog_hd	sucallouts\monster_devil_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_diealone_taunt	11397	monster_diealone_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_diealone_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_diealone_taunt_hd	11398		vo/eax/boss-dialog_hd	sucallouts\monster_diealone_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_disgusting_taunt	11399	monster_disgusting_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_disgusting_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_disgusting_taunt_hd	11400		vo/eax/boss-dialog_hd	sucallouts\monster_disgusting_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_deeds_taunt	11389	monster_deeds_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_deeds_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_deeds_taunt_hd	11390		vo/eax/boss-dialog_hd	sucallouts\monster_deeds_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_descend_taunt	11391	monster_descend_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_descend_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_descend_taunt_hd	11392		vo/eax/boss-dialog_hd	sucallouts\monster_descend_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_devil_taunt	11393	monster_devil_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_devil_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_devil_taunt_hd	11394		vo/eax/boss-dialog_hd	sucallouts\monster_devil_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_diealone_taunt	11395	monster_diealone_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_diealone_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_diealone_taunt_hd	11396		vo/eax/boss-dialog_hd	sucallouts\monster_diealone_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_disgusting_taunt	11397	monster_disgusting_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_disgusting_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_disgusting_taunt_hd	11398		vo/eax/boss-dialog_hd	sucallouts\monster_disgusting_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_doubt_taunt	11399	monster_doubt_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_doubt_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_doubt_taunt_hd	11400		vo/eax/boss-dialog_hd	sucallouts\monster_doubt_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_fallen_taunt	11401	monster_fallen_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_fallen_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
@@ -11410,29 +11408,31 @@ monster_fire_taunt	11405	monster_fire_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\
 monster_fire_taunt_hd	11406		vo/eax/boss-dialog_hd	sucallouts\monster_fire_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_fool_taunt	11407	monster_fool_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_fool_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
 monster_fool_taunt_hd	11408		vo/eax/boss-dialog_hd	sucallouts\monster_fool_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_march_taunt	11409	monster_march_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_march_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_march_taunt_hd	11410		vo/eax/boss-dialog_hd	sucallouts\monster_march_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_oblivion_taunt	11411	monster_oblivion_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_oblivion_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_oblivion_taunt_hd	11412		vo/eax/boss-dialog_hd	sucallouts\monster_oblivion_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_psionic_taunt	11413	monster_psionic_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_psionic_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_psionic_taunt_hd	11414		vo/eax/boss-dialog_hd	sucallouts\monster_psionic_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_queen_taunt	11415	monster_queen_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_queen_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_queen_taunt_hd	11416		vo/eax/boss-dialog_hd	sucallouts\monster_queen_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_raven_taunt	11417	monster_raven_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_raven_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_raven_taunt_hd	11418		vo/eax/boss-dialog_hd	sucallouts\monster_raven_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_rushdown_taunt	11419	monster_rushdown_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_rushdown_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_rushdown_taunt_hd	11420		vo/eax/boss-dialog_hd	sucallouts\monster_rushdown_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_scared_taunt	11421	monster_scared_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_scared_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_scared_taunt_hd	11422		vo/eax/boss-dialog_hd	sucallouts\monster_scared_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_skeletonking_taunt	11423	monster_skeletonking_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_skeletonking_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_skeletonking_taunt_hd	11424		vo/eax/boss-dialog_hd	sucallouts\monster_skeletonking_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_summoner_taunt	11425	monster_summoner_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_summoner_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_summoner_taunt_hd	11426		vo/eax/boss-dialog_hd	sucallouts\monster_summoner_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_thebutcher_taunt	11427	monster_thebutcher_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_thebutcher_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_thebutcher_taunt_hd	11428		vo/eax/boss-dialog_hd	sucallouts\monster_thebutcher_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_void_taunt	11429	monster_void_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_void_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_void_taunt_hd	11430		vo/eax/boss-dialog_hd	sucallouts\monster_void_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_wraith_taunt	11431	monster_wraith_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_wraith_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_wraith_taunt_hd	11432		vo/eax/boss-dialog_hd	sucallouts\monster_wraith_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_zerg_taunt	11433	monster_zerg_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_zerg_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
-monster_zerg_taunt_hd	11434		vo/eax/boss-dialog_hd	sucallouts\monster_zerg_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_games_taunt	11409	monster_games_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_games_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_games_taunt_hd	11410		vo/eax/boss-dialog_hd	sucallouts\monster_games_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_march_taunt	11411	monster_march_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_march_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_march_taunt_hd	11412		vo/eax/boss-dialog_hd	sucallouts\monster_march_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_oblivion_taunt	11413	monster_oblivion_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_oblivion_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_oblivion_taunt_hd	11414		vo/eax/boss-dialog_hd	sucallouts\monster_oblivion_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_psionic_taunt	11415	monster_psionic_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_psionic_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_psionic_taunt_hd	11416		vo/eax/boss-dialog_hd	sucallouts\monster_psionic_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_queen_taunt	11417	monster_queen_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_queen_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_queen_taunt_hd	11418		vo/eax/boss-dialog_hd	sucallouts\monster_queen_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_raven_taunt	11419	monster_raven_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_raven_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_raven_taunt_hd	11420		vo/eax/boss-dialog_hd	sucallouts\monster_raven_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_rushdown_taunt	11421	monster_rushdown_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_rushdown_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_rushdown_taunt_hd	11422		vo/eax/boss-dialog_hd	sucallouts\monster_rushdown_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_scared_taunt	11423	monster_scared_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_scared_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_scared_taunt_hd	11424		vo/eax/boss-dialog_hd	sucallouts\monster_scared_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_skeletonking_taunt	11425	monster_skeletonking_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_skeletonking_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_skeletonking_taunt_hd	11426		vo/eax/boss-dialog_hd	sucallouts\monster_skeletonking_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_summoner_taunt	11427	monster_summoner_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_summoner_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_summoner_taunt_hd	11428		vo/eax/boss-dialog_hd	sucallouts\monster_summoner_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_thebutcher_taunt	11429	monster_thebutcher_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_thebutcher_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_thebutcher_taunt_hd	11430		vo/eax/boss-dialog_hd	sucallouts\monster_thebutcher_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_void_taunt	11431	monster_void_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_void_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_void_taunt_hd	11432		vo/eax/boss-dialog_hd	sucallouts\monster_void_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_wraith_taunt	11433	monster_wraith_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_wraith_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_wraith_taunt_hd	11434		vo/eax/boss-dialog_hd	sucallouts\monster_wraith_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_zerg_taunt	11435	monster_zerg_taunt_hd	vo/eax/boss-dialog_sd	sucallouts\monster_zerg_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	15	0	255	1	0	1	1	0	-1	-1	-1	0	0	
+monster_zerg_taunt_hd	11436		vo/eax/boss-dialog_hd	sucallouts\monster_zerg_taunt.flac	1	0	0	0	0	255	255	100	100	0	0	0	0	0	1	0	0	0	4	25	60	255	1	0	1	1	0	-1	-1	-1	0	0	

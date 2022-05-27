@@ -95,3 +95,7 @@ laz_zealotspecial4	death-skill		725	100	1	state		104	1	1																					dea
 laz_shockwaverider1	state		118	1	1																										state		118	1	1																										state		118	1	1																										0
 laz_shockwaverider2	state		118	1	1																										state		118	1	1																										state		118	1	1																										0
 laz_overseerspecial1	knock			1	1	openwounds			100	100																					knock			1	1	openwounds			100	100																					knock			1	1	openwounds			100	100																					0
+laz_minionboss1	hit-ranged-skill		667	100	1																										hit-ranged-skill		667	100	1																										hit-ranged-skill		667	100	1																										0
+laz_clawviperboss1	hit-skill		685	100	1																										hit-skill		685	100	6																										hit-skill		685	100	11																										0
+laz_batdemonboss1	gethit-skill		54	100	1	hit-skill		659	100	1																					gethit-skill		54	100	1	hit-skill		659	100	1																					gethit-skill		54	100	1	hit-skill		659	100	1																					0
+laz_fallenboss1	thorns%			100	100																										thorns%			100	100																										thorns%			100	100																										0
