@@ -197,7 +197,7 @@ placeholder194	194																																																														
 placeholder195	195																																																																							0
 placeholder196	196																																																																							0
 placeholder197	197																																																																							0
-deepfreeze	198	sor													1																													frozenarmor							damageresist							100	109	50	215	255	paladin_aura_resistcold							146		0
+tauntthebutcher	198	monster (taunt aura)					1																																																								monster_thebutcher_taunt									0
 superstorm	199	sor																																										superstorm																			sorceress_thunder_cast	sorceress_thunder_bolt						146		0
 icearmor	200	sor																																															frozenarmor		skill_armor_percent																					0
 furystate	201	common																																																																						0
@@ -217,7 +217,7 @@ banishment	214																																																			12													
 martialcadenceproc	215	Amazon proc																			1																							fingermageflames							item_tohit_percent																					0
 converter	216																																																																							0
 impalestate	217																																																																							0
-enchantedspear	218	wrathofthewastes																																																																						0
+enchantedspear	218	ama (elemental spear)																																																																						0
 sorcmulticastcold	219	sorceress	1																																									shiverarmor							skill_sorcmulticast_cold																					0
 rathmaswill	220	necromancer											1																															bloodlust_state							skill_enchant					weap	blac						necromancer_curse_1									0
 skewer	221																																																																							0
@@ -253,4 +253,4 @@ combinedarmsrtm	250	Amazon proc																																										sanctua
 druidfire	251	druid	3				1																																					progressive_fire_3					wolf_into	wolf_undo	skill_druidfire_active												druid_morph	druid_morph								0
 druidcold	252	druid	3				1																																					progressive_cold_3					wolf_into	wolf_undo	skill_druidcold_active												druid_morph	druid_morph								0
 druidlightning	253	druid	3				1																																					progressive_lightning_3					wolf_into	wolf_undo	skill_druidlightning_active												druid_morph	druid_morph								0
-naturalize	254	druid	3			1					1	1																																					teleport	teleport															1	556						0
+deepfreeze	254	sor													1																													frozenarmor							damageresist							100	109	50	215	255	paladin_aura_resistcold							146		0
