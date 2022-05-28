@@ -142,7 +142,7 @@ Crown	138		New item class	cron	helm		1	1	head	head			0	0	0	0		1	0	0	1	25	2	40	3	
 Melee Axe	139		Because axe is also a base item	aaxe	axe		1	1	rarm	larm			0	0	0	0		1	0	0	2	25	4	40	6	0	4			0							weap	0
 Crushing Weapon	140		Contains maces and hammers	bonk	blun		0	0					0	0	0	0		1	0	0	0	25	0	40	0	0	4			0								0
 Trinket	141		Most ingredients	trin	misc		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Any Jewelry	142	merc	Amulets and rings	anyj	wtev		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
+Any Jewelry	142		Amulets and rings	anyj	wtev	merc	0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Any Weapon or Armor	143		Weapons and armor	anyx	wtev		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Ashes Magical	144		Ashes	dusm	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
 Ashes Combat	145		Ashes	dusc	dust		0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0

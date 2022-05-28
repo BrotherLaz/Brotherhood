@@ -9,11 +9,11 @@ Flawed Sapphire		5	gfb	flag-gem		1	1	dmg-cold	35	2	6					flag-gem		1	1	enr		4	4	
 Sapphire		5	gsb	flag-gem		1	1	dmg-cold	45	3	9					flag-gem		1	1	enr		6	6					flag-gem		1	1	res-cold		15	15				0
 Flawless Sapphire		5	glb	flag-gem		1	1	dmg-cold	55	4	12					flag-gem		1	1	enr		8	8					flag-gem		1	1	res-cold		20	20				0
 Perfect Sapphire		6	gpb	flag-gem		1	1	dmg-cold	65	5	15					flag-gem		1	1	enr		10	10					flag-gem		1	1	res-cold		25	25				0
-Chipped Emerald		11	gcg	flag-gem		1	1	dmg-pois	55	2	64					flag-gem		1	1	dex		2	2					flag-gem		1	1	res-pois		5	5				0
-Flawed Emerald		11	gfg	flag-gem		1	1	dmg-pois	60	8	80					flag-gem		1	1	dex		4	4					flag-gem		1	1	res-pois		10	10				0
-Emerald		11	gsg	flag-gem		1	1	dmg-pois	65	14	96					flag-gem		1	1	dex		6	6					flag-gem		1	1	res-pois		15	15				0
-Flawless Emerald		11	glg	flag-gem		1	1	dmg-pois	70	20	112					flag-gem		1	1	dex		8	8					flag-gem		1	1	res-pois		20	20				0
-Perfect Emerald		12	gpg	flag-gem		1	1	dmg-pois	75	26	128					flag-gem		1	1	dex		10	10					flag-gem		1	1	res-pois		25	25				0
+Chipped Emerald		11	gcg	flag-gem		1	1	dmg-pois	50	8	64					flag-gem		1	1	dex		2	2					flag-gem		1	1	res-pois		5	5				0
+Flawed Emerald		11	gfg	flag-gem		1	1	dmg-pois	50	10	80					flag-gem		1	1	dex		4	4					flag-gem		1	1	res-pois		10	10				0
+Emerald		11	gsg	flag-gem		1	1	dmg-pois	50	12	96					flag-gem		1	1	dex		6	6					flag-gem		1	1	res-pois		15	15				0
+Flawless Emerald		11	glg	flag-gem		1	1	dmg-pois	50	14	112					flag-gem		1	1	dex		8	8					flag-gem		1	1	res-pois		20	20				0
+Perfect Emerald		12	gpg	flag-gem		1	1	dmg-pois	50	16	128					flag-gem		1	1	dex		10	10					flag-gem		1	1	res-pois		25	25				0
 Chipped Ruby		8	gcr	flag-gem		1	1	dmg-fire		1	4					flag-gem		1	1	regen		2	2					flag-gem		1	1	res-fire		5	5				0
 Flawed Ruby		8	gfr	flag-gem		1	1	dmg-fire		2	8					flag-gem		1	1	regen		4	4					flag-gem		1	1	res-fire		10	10				0
 Ruby		8	gsr	flag-gem		1	1	dmg-fire		3	12					flag-gem		1	1	regen		6	6					flag-gem		1	1	res-fire		15	15				0

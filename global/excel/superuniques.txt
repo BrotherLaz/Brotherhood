@@ -1,9 +1,9 @@
 Superunique	Name	*Laz/Boss	Class	hcIdx	*Laz/Loc	MonSound	Mod1	Mod2	Mod3	MinGrp	MaxGrp	AutoPos	Stacks	Replaceable	Utrans	Utrans(N)	Utrans(H)	TC	TC(N)	TC(H)	*eol
-Bishibosh	LazBossBrokenhead	Brokenhead Bangshield	laz_skeletonboss1	0	A1 Cold Plains		8	17	0	10	12	1	0		11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
-Bonebreak	LazBossSkeletonKing	Skeleton King	laz_skeletonheroboss1	1	A1 Crypt	suskeletonking	7	30	0	0	0	1	0		5	5	5	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
-Coldcrow	LazBossSkullfire	Skullfire	laz_skeletonarcherboss1	2	A1 Cave		9	5	0	5	6	1	0		18	18	18	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
-Rakanishu	LazBossRakanishu	Rakanishu	laz_fallenspecial1	3	A1 Stony Field		5	6	0	0	0	0	0	1	29	29	29	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
-Treehead WoodFist	LazBossHellsinger	Hellsinger Furia	laz_rogueboss1	4	A1 Dark Woods	sugames	6	18	0	5	6	1	0	1	4	4	4	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+Bishibosh	LazBossBrokenhead	Brokenhead Bangshield	laz_skeletonboss1	0	A1 Cold Plains		17	0	0	10	12	1	0		11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+Bonebreak	LazBossSkeletonKing	Skeleton King	laz_skeletonheroboss1	1	A1 Crypt	suskeletonking	7	0	0	0	0	1	0		5	5	5	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+Coldcrow	LazBossSkullfire	Skullfire	laz_skeletonarcherboss1	2	A1 Cave		9	0	0	5	6	1	0		18	18	18	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+Rakanishu	LazBossRakanishu	Rakanishu	laz_fallenspecial1	3	A1 Stony Field		5	0	0	0	0	0	0	1	29	29	29	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+Treehead WoodFist	LazBossHellsinger	Hellsinger Furia	laz_rogueboss1	4	A1 Dark Woods	sugames	6	0	0	5	6	1	0	1	4	4	4	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
 Griswold	Griswold		griswold	5	Quest		6	7	0	0	0	1	0	1	17	17	17	Griswold	Griswold (N)	Griswold (H)	0
 The Countess	The Countess		laz_rogue3	6	Quest	countess	9	25	0	5	6	1	0		16	16	16	Countess	Countess (N)	Countess (H)	0
 Pitspawn Fouldog	LazBossMoonbender	Moonbender	laz_batdemonboss1	7	A1 The Jail		18	26	0	4	5	1	0		31	31	31	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0

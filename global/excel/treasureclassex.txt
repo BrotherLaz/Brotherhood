@@ -9,22 +9,23 @@ Normal Gem			800	0,027428571	0,068571429	0,091428571	0,428571429			1						gsv	3	
 Flawless Gem			833	0,032167539	0,080418848	0,107225131	0,502617801			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	2										0
 Perfect Gem			850	0,035310345	0,088275862	0,117701149	0,551724138			1						gpv	3	gpy	3	gpb	3	gpg	3	gpr	3	gpw	3	skz	2										0
 Ammo			866	0,038886076	0,09721519	0,129620253	0,607594937			1						aqv	2	cqv	1																				0
-Misc 0	Tpots/Keys/Scrolls		900	0,049548387	0,123870968	0,16516129	0,774193548			1						key	3	tsc	3	isc	3	opl	2	gpl	2														0
-Misc 1	Tpots/Keys/Scrolls		933	0,067516484	0,168791209	0,225054945	1,054945055			1						key	3	tsc	3	isc	3	opm	2	gpm	2														0
-Misc 2	Tpots/Keys/Scrolls		950	0,083027027	0,207567568	0,276756757	1,297297297			1						key	3	tsc	3	isc	3	ops	2	gps	2														0
-Hpotion 1			966	0,105931034	0,264827586	0,353103448	1,655172414			1						hp1	8	hp2	3	mp1	3	mp2	2	rvs	1														0
-Hpotion 2			972	0,118153846	0,295384615	0,393846154	1,846153846			1						hp1	1	hp2	4	hp3	3	mp2	2	mp3	2	rvs	1												0
-Hpotion 3			983	0,149853659	0,374634146	0,499512195	2,341463415			1						hp2	1	hp3	4	hp4	3	mp3	2	mp4	2	rvs	1												0
-Hpotion 4			995	0,211862069	0,529655172	0,706206897	3,310344828			1						hp3	1	hp4	4	hp5	3	mp4	2	mp5	2	rvs	1												0
-Hpotion 5			1024	1	1	1	1			1						hp3	1	hp4	4	hp5	4	mp5	4	rvs	1														0
-Hpotion 6										1						hp4	4	hp5	6	mp4	2	mp5	4	rvs	1														0
-Potion 1										1						hp1	12	hp2	4	mp1	5	mp2	4	rvs	1	vps	4												0
-Potion 2										1						hp1	4	hp2	8	hp3	5	mp2	2	mp3	5	rvs	1	vps	2	yps	3	wms	1						0
-Potion 3										1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1						0
-Potion 4										1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1						0
-Potion 5										1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
-Potion 6										1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
-Potion 6 Special										1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	rvl	1												0
+Misc 0	Tpots/Keys/Scrolls	12	900	0,049548387	0,123870968	0,16516129	0,774193548			1						key	2	tsc	3	isc	3	opl	1	gpl	1	tch	2												0
+Misc 1	Tpots/Keys/Scrolls	12	933	0,067516484	0,168791209	0,225054945	1,054945055			1						key	2	tsc	3	isc	3	opm	1	gpm	1	tch	2												0
+Misc 2	Tpots/Keys/Scrolls	12	950	0,083027027	0,207567568	0,276756757	1,297297297			1						key	2	tsc	3	isc	3	ops	1	gps	1	tch	2												0
+Hpotion 1	Deprecated		966	0,105931034	0,264827586	0,353103448	1,655172414			1						hp1	9	hp2	3	mp1	5	mp2	2	rvs	1														0
+Hpotion 2	Deprecated		972	0,118153846	0,295384615	0,393846154	1,846153846			1						hp1	2	hp2	6	hp3	4	mp2	4	mp3	3	rvs	1												0
+Hpotion 3	Deprecated		983	0,149853659	0,374634146	0,499512195	2,341463415			1						hp2	2	hp3	6	hp4	4	mp3	4	mp4	3	rvs	1												0
+Hpotion 4	Deprecated		995	0,211862069	0,529655172	0,706206897	3,310344828			1						hp3	2	hp4	6	hp5	4	mp4	4	mp5	3	rvs	1												0
+Hpotion 5	Deprecated		1024	1	1	1	1			1						hp3	2	hp4	7	hp5	5	mp5	5	rvs	1														0
+Hpotion 6	Deprecated									1						hp4	4	hp5	7	mp4	2	mp5	6	rvs	1														0
+Junk Potion	Useless pots									1						vps	1	yps	1	wms	1																		0
+Potion 1	Pots	30								1						Junk Potion	3	rvs	1	hp1	14	hp2	4	mp1	6	mp2	2												0
+Potion 2	Pots	30								1						Junk Potion	3	rvs	1	hp1	4	hp2	8	hp3	5	mp1	2	mp2	4	mp3	3								0
+Potion 3	Pots	30								1						Junk Potion	3	rvs	1	hp2	4	hp3	8	hp4	5	mp2	2	mp3	4	mp4	3								0
+Potion 4	Pots	30								1						Junk Potion	2	rvs	2	hp3	4	hp4	8	hp5	5	mp3	2	mp4	4	mp5	3								0
+Potion 5	Pots	30								1						Junk Potion	2	rvs	2	hp4	6	hp5	11	mp4	3	mp5	6												0
+Potion 6	Pots	30								1						Junk Potion	2	rvs	2	hp4	4	hp5	13	mp4	2	mp5	7												0
+Potion 6 Special	Pots	30								1						Junk Potion	1	rvs	2	hp4	4	hp5	13	mp4	2	mp5	7	rvl	1										0
 Runes 1	Runes									1						r01	1																						0
 Runes 2	Runes									1						r02	1	Runes 1	1																				0
 Runes 3	Runes									1						r03	1	Runes 2	2																				0

@@ -287,12 +287,12 @@ of Fate	1	1	1	35		17				4	711	mag%		16	25										ring	amul											0	0
 of Plenty	1	1	1	50		25				4	711	mag%		26	30										ring	amul											0	0
 of Providence	1	1	1	65		32				4	711	mag%		31	40										ring	amul											0	0
 of Destiny	1	1	1	80		40				4	711	mag%		41	50										ring	amul											0	0
-of Curses	1			6	30	3				2	711	mag%		-5	-15										weap	armo	misl										0	0
-of Luck	1	1	1	20		10				4	711	mag%		5	10										weap	armo	misl										0	0
-of Fortune	1	1	1	35		17				4	711	mag%		11	15										weap	armo	misl										0	0
-of Fate	1	1	1	50		25				4	711	mag%		16	25										weap	armo	misl										0	0
-of Plenty	1	1	1	65		32				4	711	mag%		26	30										weap	armo	misl										0	0
-of Providence	1	1	1	80		40				4	711	mag%		31	40										weap	armo	misl										0	0
+of Curses	1			6	30	3				2	711	mag%		-5	-15										weap	armo	misl					ring	amul				0	0
+of Luck	1	1	1	20		10				4	711	mag%		5	10										weap	armo	misl					ring	amul				0	0
+of Fortune	1	1	1	35		17				4	711	mag%		11	15										weap	armo	misl					ring	amul				0	0
+of Fate	1	1	1	50		25				4	711	mag%		16	25										weap	armo	misl					ring	amul				0	0
+of Plenty	1	1	1	65		32				4	711	mag%		26	30										weap	armo	misl					ring	amul				0	0
+of Providence	1	1	1	80		40				4	711	mag%		31	40										weap	armo	misl					ring	amul				0	0
 of Luck	1	1	1	22		11				4	711	mag%		5	10										dust												0	0
 of Fortune	1	1	1	39		19				4	711	mag%		11	15										dust												0	0
 of Fate	1	1	1	55		28				4	711	mag%		16	25										dust												0	0
@@ -367,15 +367,15 @@ of Amelioration	1	1	1	25		12				4	715	res-pois-len		15	30										amul	ashd	hel
 of Remedy	1	1	1	18		9				4	715	res-pois-len		31	50										amul												0	0
 of Convalescence	1	1	1	7		3				4	715	res-pois-len		51	70										amul												0	0
 of Amelioration	1	1	1	35		17				4	715	res-pois-len		15	30										duse												0	0
-of Simplicity	1	1	1	25		12				4	716	ease		-10	-20										weap	armo											0	0
-of Ease	1	1	1	15		7				4	716	ease		-21	-40										weap	armo											0	0
+of Simplicity	1	1	1	25		12				4	716	ease		-10	-20										weap	armo						ring	amul				0	0
+of Ease	1	1	1	15		7				4	716	ease		-21	-40										weap	armo						ring	amul				0	0
 of Simplicity	1	1	1	1		0				4	716	ease		-3	-5										jewl												0	0
 of Ease	1	1	1	52		26				4	716	ease		-6	-10										jewl												0	0
-of Self-Repair	1	1	1	3		1				4	717	rep-dur	1												weap	armo						thro	miss				0	0
-of Quick Repair	1	1	1	20		10				4	717	rep-dur	2												weap	armo						thro	miss				0	0
-of Fast Repair	1	1	1	37		18				4	717	rep-dur	6												weap	armo						thro	miss				0	0
-of Rapid Repair	1	1	1	54		27				4	717	rep-dur	20												weap	armo						thro	miss				0	0
-of the Ages	1			50	30	25				2	717	indestruct													weap	armo						thro	miss				0	0
+of Self-Repair	1	1	1	3		1				4	717	rep-dur	1												weap	armo						thro	miss	ring	amul		0	0
+of Quick Repair	1	1	1	20		10				4	717	rep-dur	2												weap	armo						thro	miss	ring	amul		0	0
+of Fast Repair	1	1	1	37		18				4	717	rep-dur	6												weap	armo						thro	miss	ring	amul		0	0
+of Rapid Repair	1	1	1	54		27				4	717	rep-dur	20												weap	armo						thro	miss	ring	amul		0	0
+of the Ages	1			50	30	25				2	717	indestruct													weap	armo						thro	miss	ring	amul		0	0
 of Replenishing	1	1	1	3		1				4	718	rep-quant	1												thro												0	0
 of Propagation	1	1	1	20		10				4	718	rep-quant	2												thro												0	0
 of Proliferation	1	1	1	37		18				4	718	rep-quant	6												thro												0	0
@@ -511,7 +511,9 @@ of Rains	1	1	1	43		21				4	725	healskill		16	20										dust												0	0
 of the Monsoon	1	1	1	62		31				4	725	healskill		21	25										dust												0	0
 of Healing	1	1	1	6		3				4	725	healskill		3	5										jewl												0	0
 of Songs	1	1	1	28		14				4	725	healskill		6	15										jewl												0	0
-of Predation	1	1	1	1		0				6	726	heal-kill		1	3										weap							abow	aspe				0	0
+of Predation	1	1	1	1		0				6	726	heal-kill		1	1										weap							abow	aspe				0	0
+of Predation	1	1	1	6		0				6	726	heal-kill		2	2										weap							abow	aspe				0	0
+of Predation	1	1	1	11		0				6	726	heal-kill		3	3										weap							abow	aspe				0	0
 of Hunger	1	1	1	22		11				6	726	heal-kill		4	6										weap							abow	aspe				0	0
 of Devouring	1	1	1	43		21				6	726	heal-kill		7	12										weap							abow	aspe				0	0
 of Famine	1	1	1	64		32				6	726	heal-kill		13	20										weap							abow	aspe				0	0
@@ -526,7 +528,9 @@ of Famine	1	1	1	70		35				6	726	heal-kill		7	10										dusc												0	0
 of Predation	1	1	1	1		0				4	726	heal-kill		1	1										jewl												0	0
 of Hunger	1	1	1	38		19				4	726	heal-kill		2	2										jewl												0	0
 of Devouring	1	1	1	73		36				4	726	heal-kill		3	3										jewl												0	0
-of the Source	1	1	1	1		0				6	727	mana-kill		1	3										weap							h2h					0	0
+of the Source	1	1	1	1		0				6	727	mana-kill		1	1										weap							h2h					0	0
+of the Source	1	1	1	6		0				6	727	mana-kill		2	2										weap							h2h					0	0
+of the Source	1	1	1	11		0				6	727	mana-kill		3	3										weap							h2h					0	0
 of the Fountain	1	1	1	22		11				6	727	mana-kill		4	6										weap							h2h					0	0
 of the Wellspring	1	1	1	43		21				6	727	mana-kill		7	12										weap							h2h					0	0
 of Tears	1	1	1	64		32				6	727	mana-kill		13	20										weap							h2h					0	0

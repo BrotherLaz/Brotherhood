@@ -21,17 +21,17 @@ Royal	1	1	1	73		36				4	600	ac		36	50										dusc	dusp											0	0
 Stout	1	1	1	1		0				4	600	ac		3	5										jewl												0	0
 Strong	1	1	1	17		8				4	600	ac		6	10										jewl												0	0
 Tough	1	1	1	62		31				4	600	ac		11	15										jewl												0	0
-Vulnerable	1			6	30	0				2	601	ac%		-100	-100										armo							circ	stor				0	0
-Rusted	1			1	30	0				2	601	ac%		-15	-40										armo							circ	stor				0	0
-Fine	1	1	1	1		0				12	601	ac%		10	20										armo							circ	stor				0	0
-Grand	1	1	1	12		6				12	601	ac%		21	30										armo							circ	stor				0	0
-Lavish	1	1	1	23		11				12	601	ac%		31	40										armo							circ	stor				0	0
-Ornate	1	1	1	34		17				12	601	ac%		41	50										armo							circ	stor				0	0
-Opulent	1	1	1	45		22				12	601	ac%		51	65										armo							circ	stor				0	0
-Splendid	1	1	1	56		28				12	601	ac%		66	85										armo							circ	stor				0	0
-Majestic	1	1	1	67		33				12	601	ac%		86	120										armo							circ	stor				0	0
-Glorious	1	1	1	78		39				12	601	ac%		121	150										armo							circ	stor				0	0
-Sublime	1	1	1	90		45				1	601	ac%		151	200										armo							circ	stor				0	0
+Vulnerable	1			6	30	0				2	601	ac%		-100	-100										armo							circ	stor	anyj			0	0
+Rusted	1			1	30	0				2	601	ac%		-15	-40										armo							circ	stor	anyj			0	0
+Fine	1	1	1	1		0				12	601	ac%		10	20										armo							circ	stor	anyj			0	0
+Grand	1	1	1	12		6				12	601	ac%		21	30										armo							circ	stor	anyj			0	0
+Lavish	1	1	1	23		11				12	601	ac%		31	40										armo							circ	stor	anyj			0	0
+Ornate	1	1	1	34		17				12	601	ac%		41	50										armo							circ	stor	anyj			0	0
+Opulent	1	1	1	45		22				12	601	ac%		51	65										armo							circ	stor	anyj			0	0
+Splendid	1	1	1	56		28				12	601	ac%		66	85										armo							circ	stor	anyj			0	0
+Majestic	1	1	1	67		33				12	601	ac%		86	120										armo							circ	stor	anyj			0	0
+Glorious	1	1	1	78		39				12	601	ac%		121	150										armo							circ	stor	anyj			0	0
+Sublime	1	1	1	90		45				1	601	ac%		151	200										armo							circ	stor	anyj			0	0
 Useless	1			6	30	0				2	602	dmg%		-100	-100										weap							staf	wand	orb	crsx		0	0
 Weak	1			1	30	0				2	602	dmg%		-15	-40										weap							staf	wand	orb	crsx		0	0
 Keen	1	1	1	1		0				12	602	dmg%		10	20										weap							staf	wand	orb	crsx		0	0
@@ -784,19 +784,19 @@ Plumed	1	1	1	63		31				4	636	pot-rate		26	30										dust												0	0
 Adorned	1	1	1	76		37				4	636	pot-rate		31	35										dust												0	0
 Healing	1	1	1	14		7				4	636	pot-rate		5	10										jewl												0	0
 Medicinal	1	1	1	65		32				4	636	pot-rate		11	15										jewl												0	0
-Shoddy	1			17	30	0				2	637	dur%		-26	-50										weap	armo						miss	thro				0	0
-Rickety	1			1	30	0				2	637	dur%		-10	-25										weap	armo						miss	thro				0	0
-Hardened	1	1	1	1		0				4	637	dur%		10	25										weap	armo						miss	thro				0	0
-Fortified	1	1	1	17		8				4	637	dur%		26	50										weap	armo						miss	thro				0	0
+Shoddy	1			17	30	0				2	637	dur%		-26	-50										weap	armo						miss	thro	anyj			0	0
+Rickety	1			1	30	0				2	637	dur%		-10	-25										weap	armo						miss	thro	anyj			0	0
+Hardened	1	1	1	1		0				4	637	dur%		10	25										weap	armo						miss	thro	anyj			0	0
+Fortified	1	1	1	17		8				4	637	dur%		26	50										weap	armo						miss	thro	anyj			0	0
 Bloated	1			1	30	0				2	637	stack		-10	-50										thro												0	0
 Compact	1	1	1	1		0				4	637	stack		10	25										thro												0	0
 Miniature	1	1	1	11		5				4	637	stack		26	50										thro												0	0
-Unbreakable	1	1	1	33		16				4	637	indestruct		1	1										weap	armo						miss	thro				0	0
-Disappointing	1			15	30	0				2	638	levelreq		2	2	levelreq-display		2	2						weap	armo											0	0
-Interesting	1	1	1	15		0				4	638	levelreq		-2	-2	levelreq-display		-2	-2						weap	armo											0	0
-Intriguing	1	1	1	35		0				4	638	levelreq		-3	-3	levelreq-display		-3	-3						weap	armo											0	0
-Compelling	1	1	1	55		0				4	638	levelreq		-4	-4	levelreq-display		-4	-4						weap	armo											0	0
-Captivating	1	1	1	75		0				4	638	levelreq		-5	-5	levelreq-display		-5	-5						weap	armo											0	0
+Unbreakable	1	1	1	33		16				4	637	indestruct		1	1										weap	armo						miss	thro	anyj			0	0
+Disappointing	1			15	30	0				2	638	levelreq		2	2	levelreq-display		2	2						weap	armo						anyj					0	0
+Interesting	1	1	1	15		0				4	638	levelreq		-2	-2	levelreq-display		-2	-2						weap	armo						anyj					0	0
+Intriguing	1	1	1	35		0				4	638	levelreq		-3	-3	levelreq-display		-3	-3						weap	armo						anyj					0	0
+Compelling	1	1	1	55		0				4	638	levelreq		-4	-4	levelreq-display		-4	-4						weap	armo						anyj					0	0
+Captivating	1	1	1	75		0				4	638	levelreq		-5	-5	levelreq-display		-5	-5						weap	armo						anyj					0	0
 Interesting	1	1	1	40		0				4	638	levelreq		-1	-1	levelreq-display		-1	-1						jewl												0	0
 Faithless	1			15	30	0				2	639	pal-aurarange		-1	-2										ashd	pasc	chlm										0	0
 Lustrous	1		1	15		0				2	639	pal-aurarange		1	1										ashd	pasc	chlm										0	0
