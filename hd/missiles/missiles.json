@@ -1204,5 +1204,8 @@
     "bloodstormlightning": "diablo_lightning",
     "immolate": "null",
     "apocalypsewave": "null",
-    "monchargedbolt": "charged_bolt"
+    "monchargedbolt": "charged_bolt",
+    "elementalskbowarrow_3": "ice_arrow",
+    "elementalskbowarrow_4": "fire_arrow",
+    "elementalskbowarrow_5": "safe_arrow"
 }
