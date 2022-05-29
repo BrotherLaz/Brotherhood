@@ -196,7 +196,7 @@ placeholder193	193																																																														
 placeholder194	194																																																																							0
 placeholder195	195																																																																							0
 placeholder196	196																																																																							0
-torchactive	197																																											torchfire							item_lightradius									255	183	64		sorceress_firebolt_impact_1								0
+torchactive	197																																											torchfire							item_lightradius									255	183	64	object_fire_loop_torch	sorceress_firebolt_impact_1								0
 tauntthebutcher	198	monster (taunt aura)					1																																																								monster_thebutcher_taunt									0
 superstorm	199	sor																																										superstorm																			sorceress_thunder_cast	sorceress_thunder_bolt						146		0
 icearmor	200	sor																																															frozenarmor		skill_armor_percent																					0

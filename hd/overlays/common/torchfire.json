@@ -67,7 +67,7 @@
         },
         {
             "type": "Entity",
-            "name": "vfx_shoulder_R2",
+            "name": "vfx_shoulder_R_2",
             "id": 2526295779,
             "components": [
                 {
