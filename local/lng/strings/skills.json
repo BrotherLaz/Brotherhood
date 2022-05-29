@@ -29106,7 +29106,7 @@
   {
     "id": 11202,
     "Key": "SkillCategoryPa1",
-    "enUS": "Defensive Auras",
+    "enUS": "Offensive",
     "zhTW": "防禦靈氣",
     "deDE": "Defensiv-\nauren",
     "esES": "Auras defensivas",
@@ -29123,7 +29123,7 @@
   {
     "id": 11203,
     "Key": "SkillCategoryPa2",
-    "enUS": "Offensive Auras",
+    "enUS": "Defensive",
     "zhTW": "攻擊靈氣",
     "deDE": "Offensiv-\nauren",
     "esES": "Auras ofensivas",
@@ -29140,7 +29140,7 @@
   {
     "id": 11204,
     "Key": "SkillCategoryPa3",
-    "enUS": "Combat Skills",
+    "enUS": "Auras",
     "zhTW": "戰鬥技能",
     "deDE": "Kampf-\nfertigkeiten",
     "esES": "Habilidades de combate",
@@ -35913,8 +35913,8 @@
   {"id": 30194, "Key": "FlameWaveWaves", "enUS": "Waves: %d per second", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 30195, "Key": "FireSerpentImpacts", "enUS": "Pyres: %d per second", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},  
   {"id": 30196, "Key": "CovenantVelocity", "enUS": "Fervor: Run/Walk Speed: %+d%%", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
-  {"id": 30197, "Key": "Desc30197", "enUS": "PlaceholderDesc30197", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
-  {"id": 30198, "Key": "Desc30198", "enUS": "PlaceholderDesc30198", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 30197, "Key": "AuraSkill", "enUS": "Aura Skill", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 30198, "Key": "AuraSkillExplanation", "enUS": "Effectiveness Reduced by 75% when Mana is Empty", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},  
   {"id": 30199, "Key": "Desc30199", "enUS": "PlaceholderDesc30199", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 30200, "Key": "Desc30200", "enUS": "PlaceholderDesc30200", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 30201, "Key": "Desc30201", "enUS": "PlaceholderDesc30201", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},

@@ -169,58 +169,58 @@ Act 3 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 3 (H) C
 Act 4 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 4 (H) Crafting Good	20																	50			0
 Act 5 (H) Crafting	Crafting pieces									1						Crafting Common	30	Act 5 (H) Crafting Good	20																	50			0
 Act 1 Equip A	Base classes							1	0	1						weap3	7	armo3	7																				0
-Act 1 Equip B	Base classes							1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																0
-Act 1 Equip C	Base classes							1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
-Act 2 Equip A	Base classes		3000,00%					1	12	1						weap6	2	armo6	1	weap9	6	armo9	3	weap12	14	armo12	7	weap15	2	armo15	1	Act 1 Equip C	30			36	66	0.4545	0
-Act 2 Equip B	Base classes		5000,00%					1	15	1						weap9	2	armo9	1	weap12	6	armo12	3	weap15	14	armo15	7	weap18	2	armo18	1	Act 2 Equip A	60			36	96	0.6250	0
-Act 2 Equip C	Base classes		7000,00%					1	18	1						weap12	2	armo12	1	weap15	6	armo15	3	weap18	14	armo18	7	weap21	2	armo21	1	Act 2 Equip B	80			36	116	0.6897	0
-Act 3 Equip A	Base classes		9000,00%					1	20	1						weap15	2	armo15	1	weap18	6	armo18	3	weap21	14	armo21	7	weap24	2	armo24	1	Act 2 Equip C	100			36	136	0.7353	0
-Act 3 Equip B	Base classes		11000,00%					1	22	1						weap18	2	armo18	1	weap21	6	armo21	3	weap24	14	armo24	7	weap27	2	armo27	1	Act 3 Equip A	200			36	236	0.8475	0
-Act 3 Equip C	Base classes		13000,00%					1	24	1						weap21	2	armo21	1	weap24	6	armo24	3	weap27	14	armo27	7	weap30	2	armo30	1	Act 3 Equip B	340			36	376	0.9043	0
-Act 4 Equip A	Base classes		15000,00%					1	26	1						weap24	2	armo24	1	weap27	6	armo27	3	weap30	14	armo30	4	weap33	2	armo33	1	Act 3 Equip C	430			33	463	0.9287	0
-Act 4 Equip B	Base classes		17000,00%					1	29	1						weap27	2	armo27	1	weap30	6	armo30	3	weap33	14	armo33	3	weap36	2	armo36	1	Act 4 Equip A	500			32	532	0.9398	0
-Act 5 Equip A	Base classes		19000,00%					1	32	1						weap27	2	armo27	1	weap30	6	armo30	3	weap33	14	armo33	3	weap36	7	armo36	5	Act 4 Equip B	629			41	670	0.9388	0
-Act 5 Equip B	Base classes		21000,00%					1	34	1						weap30	2	armo30	1	weap33	6	armo33	2	weap36	14	armo36	7	weap39	2	armo39	1	Act 5 Equip A	731			35	766	0.9543	0
-Act 5 Equip C	Base classes		23000,00%					1	36	1						weap30	2	armo30	1	weap33	6	armo33	2	weap36	14	armo36	7	weap39	2	armo39	1	Act 5 Equip B	833			35	868	0.9597	0
-Act 1 (N) Equip A	Base classes		25000,00%					1	38	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	2	armo42	1	Act 5 Equip C	935			36	971	0.9629	0
-Act 1 (N) Equip B	Base classes		27000,00%					1	40	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	6	armo42	3	Act 1 (N) Equip A	1105			42	1147	0.9634	0
-Act 1 (N) Equip C	Base classes		29000,00%					1	42	1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	2	armo45	1	Act 1 (N) Equip A	1020			36	1056	0.9659	0
-Act 2 (N) Equip A	Base classes		31000,00%					1	44	1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	6	armo45	3	Act 1 (N) Equip B	1233			42	1275	0.9671	0
-Act 2 (N) Equip B	Base classes		33000,00%					1	46	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Act 2 (N) Equip A	1105			36	1141	0.9684	0
-Act 2 (N) Equip C	Base classes		35000,00%					1	48	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	6	armo48	3	Act 2 (N) Equip A	1318			42	1360	0.9691	0
-Act 3 (N) Equip A	Base classes		37000,00%					1	50	1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	2	armo51	1	Act 2 (N) Equip B	1190			36	1226	0.9706	0
-Act 3 (N) Equip B	Base classes		39000,00%					1	52	1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	6	armo51	3	Act 3 (N) Equip A	1445			42	1487	0.9718	0
-Act 3 (N) Equip C	Base classes		41000,00%					1	54	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Act 3 (N) Equip A	1275			36	1311	0.9725	0
-Act 4 (N) Equip A	Base classes		43000,00%					1	56	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Act 3 (N) Equip B	1530			42	1572	0.9733	0
-Act 4 (N) Equip B	Base classes		45000,00%					1	58	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Act 4 (N) Equip A	1360			36	1396	0.9742	0
-Act 4 (N) Equip C	Base classes		47000,00%					1	60	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	6	armo57	3	Act 4 (N) Equip A	1658			42	1700	0.9753	0
-Act 5 (N) Equip A	Base classes		49000,00%					1	62	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Act 4 (N) Equip B	1445			36	1481	0.9757	0
-Act 5 (N) Equip B	Base classes		51000,00%					1	64	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	6	armo60	3	Act 5 (N) Equip A	1743			42	1785	0.9765	0
-Act 5 (N) Equip C	Base classes		53000,00%					1	66	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	2	armo63	1	Act 5 (N) Equip B	1530			36	1566	0.9770	0
-Act 1 (H) Equip A	Base classes		55000,00%					1	68	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	6	armo63	3	Act 5 (N) Equip C	1785			42	1827	0.9770	0
-Act 1 (H) Equip B	Base classes		57000,00%					1	70	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	2	armo66	1	Act 1 (H) Equip A	1530			36	1566	0.9770	0
-Act 1 (H) Equip C	Base classes		59000,00%					1	71	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	6	armo66	3	Act 1 (H) Equip A	1785			42	1827	0.9770	0
-Act 2 (H) Equip A	Base classes		61000,00%					1	73	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Act 1 (H) Equip B	1530			36	1566	0.9770	0
-Act 2 (H) Equip B	Base classes		63000,00%					1	75	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	6	armo69	3	Act 2 (H) Equip A	1785			42	1827	0.9770	0
-Act 2 (H) Equip C	Base classes		65000,00%					1	76	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Act 2 (H) Equip A	1530			36	1566	0.9770	0
-Act 3 (H) Equip A	Base classes		67000,00%					1	77	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Act 2 (H) Equip B	1785			42	1827	0.9770	0
-Act 3 (H) Equip B	Base classes		69000,00%					1	78	1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	2	armo75	1	Act 3 (H) Equip A	1530			36	1566	0.9770	0
-Act 3 (H) Equip C	Base classes		71000,00%					1	79	1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	6	armo75	3	Act 3 (H) Equip A	1785			42	1827	0.9770	0
-Act 4 (H) Equip A	Base classes		73000,00%					1	80	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	2	armo78	1	Act 3 (H) Equip B	1530			36	1566	0.9770	0
-Act 4 (H) Equip B	Base classes		75000,00%					1	81	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	6	armo78	3	Act 4 (H) Equip A	1785			42	1827	0.9770	0
-Act 4 (H) Equip C	Base classes		77000,00%					1	82	1						weap72	2	armo72	1	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Act 4 (H) Equip A	1530			36	1566	0.9770	0
-Act 5 (H) Equip A	Base classes		79000,00%					1	83	1						weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Act 4 (H) Equip B	1530			36	1566	0.9770	0
-Act 5 (H) Equip B	Base classes		81000,00%					1	84	1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Act 5 (H) Equip A	1530			36	1566	0.9770	0
-Act 5 (H) Equip C	Base classes		83000,00%					1	85	1						weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap87	1	armo87	1	Act 5 (H) Equip B	1530			35	1565	0.9776	0
+Act 1 Equip B	Base classes							1	2	1						weap3	3	armo3	3	weap6	7	armo6	7	Act 1 Equip A	5														0
+Act 1 Equip C	Base classes	53						1	5	1						weap3	3	armo3	2	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1	Act 1 Equip B	15						0
+Act 2 Equip A	Base classes	66	3000,00%					1	8	1						weap6	2	armo6	1	weap9	6	armo9	3	weap12	14	armo12	7	weap15	2	armo15	1	Act 1 Equip C	30			36	66	0.4545	0
+Act 2 Equip B	Base classes	96	5000,00%					1	11	1						weap9	2	armo9	1	weap12	6	armo12	3	weap15	14	armo15	7	weap18	2	armo18	1	Act 2 Equip A	60			36	96	0.6250	0
+Act 2 Equip C	Base classes	116	7000,00%					1	14	1						weap12	2	armo12	1	weap15	6	armo15	3	weap18	14	armo18	7	weap21	2	armo21	1	Act 2 Equip B	80			36	116	0.6897	0
+Act 3 Equip A	Base classes	136	9000,00%					1	17	1						weap15	2	armo15	1	weap18	6	armo18	3	weap21	14	armo21	7	weap24	2	armo24	1	Act 2 Equip C	100			36	136	0.7353	0
+Act 3 Equip B	Base classes	236	11000,00%					1	20	1						weap18	2	armo18	1	weap21	6	armo21	3	weap24	14	armo24	7	weap27	2	armo27	1	Act 3 Equip A	200			36	236	0.8475	0
+Act 3 Equip C	Base classes	376	13000,00%					1	23	1						weap21	2	armo21	1	weap24	6	armo24	3	weap27	14	armo27	7	weap30	2	armo30	1	Act 3 Equip B	340			36	376	0.9043	0
+Act 4 Equip A	Base classes	463	15000,00%					1	26	1						weap24	2	armo24	1	weap27	6	armo27	3	weap30	14	armo30	4	weap33	2	armo33	1	Act 3 Equip C	430			33	463	0.9287	0
+Act 4 Equip B	Base classes	532	17000,00%					1	29	1						weap27	2	armo27	1	weap30	6	armo30	3	weap33	14	armo33	3	weap36	2	armo36	1	Act 4 Equip A	500			32	532	0.9398	0
+Act 5 Equip A	Base classes	670	19000,00%					1	32	1						weap27	2	armo27	1	weap30	6	armo30	3	weap33	14	armo33	3	weap36	7	armo36	5	Act 4 Equip B	629			41	670	0.9388	0
+Act 5 Equip B	Base classes	766	21000,00%					1	34	1						weap30	2	armo30	1	weap33	6	armo33	2	weap36	14	armo36	7	weap39	2	armo39	1	Act 5 Equip A	731			35	766	0.9543	0
+Act 5 Equip C	Base classes	868	23000,00%					1	36	1						weap30	2	armo30	1	weap33	6	armo33	2	weap36	14	armo36	7	weap39	2	armo39	1	Act 5 Equip B	833			35	868	0.9597	0
+Act 1 (N) Equip A	Base classes	971	25000,00%					1	38	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	2	armo42	1	Act 5 Equip C	935			36	971	0.9629	0
+Act 1 (N) Equip B	Base classes	1147	27000,00%					1	40	1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	6	armo42	3	Act 1 (N) Equip A	1105			42	1147	0.9634	0
+Act 1 (N) Equip C	Base classes	1056	29000,00%					1	42	1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	2	armo45	1	Act 1 (N) Equip A	1020			36	1056	0.9659	0
+Act 2 (N) Equip A	Base classes	1275	31000,00%					1	44	1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	6	armo45	3	Act 1 (N) Equip B	1233			42	1275	0.9671	0
+Act 2 (N) Equip B	Base classes	1141	33000,00%					1	46	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Act 2 (N) Equip A	1105			36	1141	0.9684	0
+Act 2 (N) Equip C	Base classes	1360	35000,00%					1	48	1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	6	armo48	3	Act 2 (N) Equip A	1318			42	1360	0.9691	0
+Act 3 (N) Equip A	Base classes	1226	37000,00%					1	50	1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	2	armo51	1	Act 2 (N) Equip B	1190			36	1226	0.9706	0
+Act 3 (N) Equip B	Base classes	1487	39000,00%					1	52	1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	6	armo51	3	Act 3 (N) Equip A	1445			42	1487	0.9718	0
+Act 3 (N) Equip C	Base classes	1311	41000,00%					1	54	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Act 3 (N) Equip A	1275			36	1311	0.9725	0
+Act 4 (N) Equip A	Base classes	1572	43000,00%					1	56	1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Act 3 (N) Equip B	1530			42	1572	0.9733	0
+Act 4 (N) Equip B	Base classes	1396	45000,00%					1	58	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Act 4 (N) Equip A	1360			36	1396	0.9742	0
+Act 4 (N) Equip C	Base classes	1700	47000,00%					1	60	1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	6	armo57	3	Act 4 (N) Equip A	1658			42	1700	0.9753	0
+Act 5 (N) Equip A	Base classes	1481	49000,00%					1	62	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Act 4 (N) Equip B	1445			36	1481	0.9757	0
+Act 5 (N) Equip B	Base classes	1785	51000,00%					1	64	1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	6	armo60	3	Act 5 (N) Equip A	1743			42	1785	0.9765	0
+Act 5 (N) Equip C	Base classes	1566	53000,00%					1	66	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	2	armo63	1	Act 5 (N) Equip B	1530			36	1566	0.9770	0
+Act 1 (H) Equip A	Base classes	1827	55000,00%					1	68	1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	6	armo63	3	Act 5 (N) Equip C	1785			42	1827	0.9770	0
+Act 1 (H) Equip B	Base classes	1566	57000,00%					1	70	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	2	armo66	1	Act 1 (H) Equip A	1530			36	1566	0.9770	0
+Act 1 (H) Equip C	Base classes	1827	59000,00%					1	71	1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	6	armo66	3	Act 1 (H) Equip A	1785			42	1827	0.9770	0
+Act 2 (H) Equip A	Base classes	1566	61000,00%					1	73	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Act 1 (H) Equip B	1530			36	1566	0.9770	0
+Act 2 (H) Equip B	Base classes	1827	63000,00%					1	75	1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	6	armo69	3	Act 2 (H) Equip A	1785			42	1827	0.9770	0
+Act 2 (H) Equip C	Base classes	1566	65000,00%					1	76	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Act 2 (H) Equip A	1530			36	1566	0.9770	0
+Act 3 (H) Equip A	Base classes	1827	67000,00%					1	77	1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Act 2 (H) Equip B	1785			42	1827	0.9770	0
+Act 3 (H) Equip B	Base classes	1566	69000,00%					1	78	1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	2	armo75	1	Act 3 (H) Equip A	1530			36	1566	0.9770	0
+Act 3 (H) Equip C	Base classes	1827	71000,00%					1	79	1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	6	armo75	3	Act 3 (H) Equip A	1785			42	1827	0.9770	0
+Act 4 (H) Equip A	Base classes	1566	73000,00%					1	80	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	2	armo78	1	Act 3 (H) Equip B	1530			36	1566	0.9770	0
+Act 4 (H) Equip B	Base classes	1827	75000,00%					1	81	1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	6	armo78	3	Act 4 (H) Equip A	1785			42	1827	0.9770	0
+Act 4 (H) Equip C	Base classes	1566	77000,00%					1	82	1						weap72	2	armo72	1	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Act 4 (H) Equip A	1530			36	1566	0.9770	0
+Act 5 (H) Equip A	Base classes	1566	79000,00%					1	83	1						weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Act 4 (H) Equip B	1530			36	1566	0.9770	0
+Act 5 (H) Equip B	Base classes	1566	81000,00%					1	84	1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Act 5 (H) Equip A	1530			36	1566	0.9770	0
+Act 5 (H) Equip C	Base classes	1565	83000,00%					1	85	1						weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap87	1	armo87	1	Act 5 (H) Equip B	1530			35	1565	0.9776	0
 Act 1 Melee A	Base classes							2	0	1						mele3	7	armo3	7																				0
-Act 1 Melee B	Base classes							2	5	1						mele3	3	armo3	3	mele6	7	armo6	7																0
-Act 1 Melee C	Base classes							2	9	1						mele3	2	armo3	1	mele6	6	armo6	3	mele9	14	armo9	7	mele12	2	armo12	1								0
-Act 2 Melee A	Base classes							2	12	1						mele6	2	armo6	1	mele9	6	armo9	3	mele12	14	armo12	7	mele15	2	armo15	1	Act 1 Melee C	30			36	66	0.4545	0
-Act 2 Melee B	Base classes							2	15	1						mele9	2	armo9	1	mele12	6	armo12	3	mele15	14	armo15	7	mele18	2	armo18	1	Act 2 Melee A	60			36	96	0.6250	0
-Act 2 Melee C	Base classes							2	18	1						mele12	2	armo12	1	mele15	6	armo15	3	mele18	14	armo18	7	mele21	2	armo21	1	Act 2 Melee B	90			36	126	0.7143	0
-Act 3 Melee A	Base classes							2	20	1						mele15	2	armo15	1	mele18	6	armo18	3	mele21	14	armo21	7	mele24	2	armo24	1	Act 2 Melee C	120			36	156	0.7692	0
-Act 3 Melee B	Base classes							2	22	1						mele18	2	armo18	1	mele21	6	armo21	3	mele24	14	armo24	7	mele27	2	armo27	1	Act 3 Melee A	150			36	186	0.8065	0
-Act 3 Melee C	Base classes							2	24	1						mele21	2	armo21	1	mele24	6	armo24	3	mele27	14	armo27	7	mele30	2	armo30	1	Act 3 Melee B	180			36	216	0.8333	0
+Act 1 Melee B	Base classes							2	2	1						mele3	3	armo3	3	mele6	7	armo6	7																0
+Act 1 Melee C	Base classes							2	5	1						mele3	2	armo3	1	mele6	6	armo6	3	mele9	14	armo9	7	mele12	2	armo12	1								0
+Act 2 Melee A	Base classes							2	8	1						mele6	2	armo6	1	mele9	6	armo9	3	mele12	14	armo12	7	mele15	2	armo15	1	Act 1 Melee C	30			36	66	0.4545	0
+Act 2 Melee B	Base classes							2	11	1						mele9	2	armo9	1	mele12	6	armo12	3	mele15	14	armo15	7	mele18	2	armo18	1	Act 2 Melee A	60			36	96	0.6250	0
+Act 2 Melee C	Base classes							2	14	1						mele12	2	armo12	1	mele15	6	armo15	3	mele18	14	armo18	7	mele21	2	armo21	1	Act 2 Melee B	90			36	126	0.7143	0
+Act 3 Melee A	Base classes							2	17	1						mele15	2	armo15	1	mele18	6	armo18	3	mele21	14	armo21	7	mele24	2	armo24	1	Act 2 Melee C	120			36	156	0.7692	0
+Act 3 Melee B	Base classes							2	20	1						mele18	2	armo18	1	mele21	6	armo21	3	mele24	14	armo24	7	mele27	2	armo27	1	Act 3 Melee A	150			36	186	0.8065	0
+Act 3 Melee C	Base classes							2	23	1						mele21	2	armo21	1	mele24	6	armo24	3	mele27	14	armo27	7	mele30	2	armo30	1	Act 3 Melee B	180			36	216	0.8333	0
 Act 4 Melee A	Base classes							2	26	1						mele24	2	armo24	1	mele27	6	armo27	3	mele30	14	armo30	4	mele33	2	armo33	1	Act 3 Melee C	210			33	243	0.8642	0
 Act 4 Melee B	Base classes							2	29	1						mele27	2	armo27	1	mele30	6	armo30	3	mele33	14	armo33	3	mele36	2	armo36	1	Act 4 Melee A	260			32	292	0.8904	0
 Act 5 Melee A	Base classes							2	32	1						mele27	2	armo27	1	mele30	6	armo30	3	mele33	14	armo33	3	mele36	7	armo36	5	Act 4 Melee B	400			41	441	0.9070	0
@@ -249,14 +249,14 @@ Act 5 (H) Melee A	Base classes							2	81	1						weap75	2	armo75	1	weap78	6	armo
 Act 5 (H) Melee B	Base classes							2	83	1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Act 5 (H) Melee A	1530			36	1566	0.9770	0
 Act 5 (H) Melee C	Base classes							2	85	1						weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap87	1	armo87	1	Act 5 (H) Melee B	1530			35	1565	0.9776	0
 Act 1 Bow A	Base classes							3	0	1						bow3	36																						0
-Act 1 Bow B	Base classes							3	5	1						bow3	20	bow6	16																				0
-Act 1 Bow C	Base classes							3	9	1						bow3	10	bow6	16	bow9	10																		0
-Act 2 Bow A	Base classes							3	12	1						bow3	3	bow6	15	bow9	15	bow12	3																0
-Act 2 Bow B	Base classes							3	15	1						bow3	1	bow6	7	bow9	20	bow12	7	bow15	1														0
-Act 2 Bow C	Base classes							3	18	1						bow3	1	bow6	3	bow9	14	bow12	14	bow15	3	bow18	1												0
-Act 3 Bow A	Base classes							3	20	1						bow3	1	bow6	3	bow9	6	bow12	12	bow15	6	bow18	3	bow21	1										0
-Act 3 Bow B	Base classes							3	22	1						bow3	1	bow6	3	bow9	6	bow12	8	bow15	8	bow18	6	bow21	3	bow24	1								0
-Act 3 Bow C	Base classes							3	24	1						bow3	1	bow6	2	bow9	5	bow12	7	bow15	8	bow18	7	bow21	4	bow24	2								0
+Act 1 Bow B	Base classes							3	2	1						bow3	20	bow6	16																				0
+Act 1 Bow C	Base classes							3	5	1						bow3	10	bow6	16	bow9	10																		0
+Act 2 Bow A	Base classes							3	8	1						bow3	3	bow6	15	bow9	15	bow12	3																0
+Act 2 Bow B	Base classes							3	11	1						bow3	1	bow6	7	bow9	20	bow12	7	bow15	1														0
+Act 2 Bow C	Base classes							3	14	1						bow3	1	bow6	3	bow9	14	bow12	14	bow15	3	bow18	1												0
+Act 3 Bow A	Base classes							3	17	1						bow3	1	bow6	3	bow9	6	bow12	12	bow15	6	bow18	3	bow21	1										0
+Act 3 Bow B	Base classes							3	20	1						bow3	1	bow6	3	bow9	6	bow12	8	bow15	8	bow18	6	bow21	3	bow24	1								0
+Act 3 Bow C	Base classes							3	23	1						bow3	1	bow6	2	bow9	5	bow12	7	bow15	8	bow18	7	bow21	4	bow24	2								0
 Act 4 Bow A	Base classes							3	26	1						bow6	1	bow9	3	bow12	6	bow15	8	bow18	8	bow21	6	bow24	3	bow27	1	Act 3 Bow C	110			36	146	0.7534	0
 Act 4 Bow B	Base classes							3	29	1						bow6	1	bow9	2	bow12	5	bow15	7	bow18	8	bow21	7	bow24	4	bow27	2	Act 4 Bow A	180			36	216	0.8333	0
 Act 5 Bow A	Base classes							3	32	1						bow9	1	bow12	3	bow15	6	bow18	8	bow21	8	bow24	6	bow27	3	bow30	1	Act 4 Bow B	270			36	306	0.8824	0
@@ -274,14 +274,14 @@ Act 5 (N) Bow A	Base classes							3	57	1						bow36	1	bow39	2	bow42	5	bow45	7	b
 Act 5 (N) Bow B	Base classes							3	60	1						bow39	1	bow42	2	bow45	5	bow48	7	bow51	8	bow54	7	bow57	4	bow60	2	Act 5 (N) Bow A	1970			36	2006	0.9821	0
 Act 5 (N) Bow C	Base classes							3	63	1						bow42	1	bow45	2	bow48	5	bow51	7	bow54	8	bow57	7	bow60	4	bow63	2	Act 5 (N) Bow B	2120			36	2156	0.9833	0
 Act 1 (H) Bow A	Base classes							3	66	1						bow45	1	bow48	2	bow51	5	bow54	7	bow57	8	bow60	7	bow63	4	bow66	2	Act 5 (N) Bow C	2270			36	2306	0.9844	0
-Act 1 (H) Bow B	Base classes							3	69	1						bow48	1	bow51	2	bow54	5	bow57	7	bow60	8	bow63	7	bow66	4	bow69	2	Act 1 (H) Bow A	2270			36	2306	0.9844	0
+Act 1 (H) Bow B	Base classes							3	68	1						bow48	1	bow51	2	bow54	5	bow57	7	bow60	8	bow63	7	bow66	4	bow69	2	Act 1 (H) Bow A	2270			36	2306	0.9844	0
 Act 2 (H) Bow A	Base classes							3	71	1						bow51	1	bow54	2	bow57	5	bow60	7	bow63	8	bow66	7	bow69	4	bow72	2	Act 1 (H) Bow B	2270			36	2306	0.9844	0
 Act 2 (H) Bow B	Base classes							3	73	1						bow54	1	bow57	2	bow60	5	bow63	7	bow66	8	bow69	7	bow72	4	bow75	2	Act 2 (H) Bow A	2270			36	2306	0.9844	0
 Act 3 (H) Bow A	Base classes							3	75	1						bow57	1	bow60	2	bow63	5	bow66	7	bow69	8	bow72	7	bow75	4	bow78	2	Act 2 (H) Bow B	2270			36	2306	0.9844	0
 Act 3 (H) Bow B	Base classes							3	77	1						bow60	1	bow63	2	bow66	5	bow69	7	bow72	8	bow75	7	bow78	4	bow81	2	Act 3 (H) Bow A	2270			36	2306	0.9844	0
 Act 4 (H) Bow A	Base classes							3	79	1						bow63	1	bow66	2	bow69	5	bow72	7	bow75	8	bow78	7	bow81	4	bow84	2	Act 3 (H) Bow B	2270			36	2306	0.9844	0
 Act 4 (H) Bow B	Base classes							3	80	1						bow66	1	bow69	2	bow72	5	bow75	7	bow78	8	bow81	7	bow84	2	bow84	1	Act 4 (H) Bow A	2080			33	2113	0.9844	0
-Act 5 (H) Bow A	Base classes							3	82	1						bow69	1	bow72	2	bow75	5	bow78	7	bow81	8	bow84	7	bow87	2	bow87	1	Act 4 (H) Bow B	2080			33	2113	0.9844	0
+Act 5 (H) Bow A	Base classes							3	81	1						bow69	1	bow72	2	bow75	5	bow78	7	bow81	8	bow84	7	bow87	2	bow87	1	Act 4 (H) Bow B	2080			33	2113	0.9844	0
 Act 5 (H) Bow B	Base classes							3	83	1						bow72	1	bow75	2	bow78	5	bow81	7	bow84	8	bow87	7	bow87	2	bow87	1	Act 5 (H) Bow A	2080			33	2113	0.9844	0
 Act 5 (H) Bow C	Base classes							3	85	1						bow75	1	bow78	2	bow81	5	bow84	7	bow87	8	bow87	1	bow87	1	bow87	1	Act 5 (H) Bow B	1655			26	1681	0.9845	0
 Act 1 Healing A	Scrolls/Mana pots							4	0	1						hp1	6																						0
@@ -321,14 +321,14 @@ Act 5 (H) Healing A	Scrolls/Mana pots							4	82	1						hp4	2	hp5	4													
 Act 5 (H) Healing B	Scrolls/Mana pots							4	83	1						hp4	2	hp5	4																				0
 Act 5 (H) Healing C	Scrolls/Mana pots							4	85	1						hp4	2	hp5	4																				0
 Act 1 Magic A	Scrolls/Mana pots							4	0	1						tsc	2	isc	4	mp1	6																		0
-Act 1 Magic B	Scrolls/Mana pots							4	5	1						tsc	2	isc	4	mp1	4	mp2	2																0
-Act 1 Magic C	Scrolls/Mana pots							4	9	1						tsc	2	isc	4	mp1	2	mp2	4																0
-Act 2 Magic A	Scrolls/Mana pots							4	12	1						tsc	2	isc	4	mp1	1	mp2	4	mp3	1														0
-Act 2 Magic B	Scrolls/Mana pots							4	15	1						tsc	2	isc	4	mp1	1	mp2	3	mp3	2														0
-Act 2 Magic C	Scrolls/Mana pots							4	18	1						tsc	2	isc	4	mp2	2	mp3	3	mp4	1														0
-Act 3 Magic A	Scrolls/Mana pots							4	20	1						tsc	2	isc	4	mp3	4	mp4	2																0
-Act 3 Magic B	Scrolls/Mana pots							4	22	1						tsc	2	isc	4	mp3	3	mp4	3																0
-Act 3 Magic C	Scrolls/Mana pots							4	24	1						tsc	2	isc	4	mp3	2	mp4	3	mp5	1														0
+Act 1 Magic B	Scrolls/Mana pots							4	2	1						tsc	2	isc	4	mp1	4	mp2	2																0
+Act 1 Magic C	Scrolls/Mana pots							4	5	1						tsc	2	isc	4	mp1	2	mp2	4																0
+Act 2 Magic A	Scrolls/Mana pots							4	8	1						tsc	2	isc	4	mp1	1	mp2	4	mp3	1														0
+Act 2 Magic B	Scrolls/Mana pots							4	11	1						tsc	2	isc	4	mp1	1	mp2	3	mp3	2														0
+Act 2 Magic C	Scrolls/Mana pots							4	14	1						tsc	2	isc	4	mp2	2	mp3	3	mp4	1														0
+Act 3 Magic A	Scrolls/Mana pots							4	17	1						tsc	2	isc	4	mp3	4	mp4	2																0
+Act 3 Magic B	Scrolls/Mana pots							4	20	1						tsc	2	isc	4	mp3	3	mp4	3																0
+Act 3 Magic C	Scrolls/Mana pots							4	23	1						tsc	2	isc	4	mp3	2	mp4	3	mp5	1														0
 Act 4 Magic A	Scrolls/Mana pots							4	26	1						tsc	2	isc	4	mp3	1	mp4	4	mp5	1														0
 Act 4 Magic B	Scrolls/Mana pots							4	29	1						tsc	2	isc	4	mp4	4	mp5	2																0
 Act 5 Magic A	Scrolls/Mana pots							4	32	1						tsc	2	isc	4	mp4	3	mp5	3																0
@@ -346,14 +346,14 @@ Act 5 (N) Magic A	Scrolls/Mana pots							4	57	1						tsc	2	isc	4	mp4	2	mp5	4			
 Act 5 (N) Magic B	Scrolls/Mana pots							4	60	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (N) Magic C	Scrolls/Mana pots							4	63	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 1 (H) Magic A	Scrolls/Mana pots							4	66	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 (H) Magic B	Scrolls/Mana pots							4	69	1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 1 (H) Magic B	Scrolls/Mana pots							4	68	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 2 (H) Magic A	Scrolls/Mana pots							4	71	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 2 (H) Magic B	Scrolls/Mana pots							4	73	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 3 (H) Magic A	Scrolls/Mana pots							4	75	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 3 (H) Magic B	Scrolls/Mana pots							4	77	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 4 (H) Magic A	Scrolls/Mana pots							4	79	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 4 (H) Magic B	Scrolls/Mana pots							4	80	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 5 (H) Magic A	Scrolls/Mana pots							4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 5 (H) Magic A	Scrolls/Mana pots							4	81	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic B	Scrolls/Mana pots							4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic C	Scrolls/Mana pots							4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 1 Good	Jewels/Gems/Runes							5	0	1						Jewelry A	5	Chipped Gem	5																				0
