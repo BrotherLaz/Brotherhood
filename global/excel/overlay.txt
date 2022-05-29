@@ -299,3 +299,4 @@ conduitduration	296	conduitduration	100	8	sorceress	0	1	0	0	0	0	0	0	16	0	3	0	0	0
 moltenshield	297	moltenshield	100	8	sorceress	0	1	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
 apocalypsehit	298	apocalypsehit	100	8	sorceress	0	1	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
 superstorm	299	superstorm	100	8	sorceress	0	1	0	0	0	0	0	0	16	0	3	1	4	211	211	255	1	0
+torchfire	300	torchfire	100	8	common	0	1	0	0	0	0	0	0	16	0	3	7	8	255	183	64	1	0

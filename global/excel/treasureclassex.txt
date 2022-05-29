@@ -905,93 +905,93 @@ Act 4 (H) Champ B	Champions		89,29%	3,22%	8,04%	27,68%	100,00%	13	80	-3	833	833	
 Act 5 (H) Champ A	Champions		90,09%	3,22%	8,04%	27,68%	100,00%	13	81	-3	833	833	950	1024	0	Act 5 (H) Citem A	1	Potion 6	2																				0
 Act 5 (H) Champ B	Champions		90,91%	3,22%	8,04%	27,68%	100,00%	13	83	-3	833	833	950	1024	0	Act 5 (H) Citem B	1	Potion 6	2																				0
 Act 5 (H) Champ C	Champions		91,74%	3,22%	8,04%	27,68%	100,00%	13	85	-3	833	833	950	1024	0	Act 5 (H) Citem C	1	Potion 6	2																				0
-Act 1 Unique A	Uniques		166,67%	3,53%	8,83%	39,38%	100,00%	15	0	-4	850	850	972	1024	0	Act 1 Citem A	1	Act 1 Uitem A	1	Potion 2	2																		0
-Act 1 Unique B	Uniques		167,11%	3,53%	8,83%	39,38%	100,00%	15	5	-4	850	850	972	1024	0	Act 1 Citem B	1	Act 1 Uitem B	1	Potion 4	2																		0
-Act 1 Unique C	Uniques		167,57%	3,53%	8,83%	39,38%	100,00%	15	9	-4	850	850	972	1024	0	Act 1 Citem C	1	Act 1 Uitem C	1	Potion 6	2																		0
-Act 2 Unique A	Uniques		168,03%	3,53%	8,83%	39,38%	100,00%	15	12	-4	850	850	972	1024	0	Act 2 Citem A	1	Act 2 Uitem A	1	Potion 6 Special	2																		0
-Act 2 Unique B	Uniques		168,49%	3,53%	8,83%	39,38%	100,00%	15	15	-4	850	850	972	1024	0	Act 2 Citem B	1	Act 2 Uitem B	1	Potion 6 Special	2																		0
-Act 2 Unique C	Uniques		168,97%	3,53%	8,83%	39,38%	100,00%	15	18	-4	850	850	972	1024	0	Act 2 Citem C	1	Act 2 Uitem C	1	Potion 6 Special	2																		0
-Act 3 Unique A	Uniques		169,44%	3,53%	8,83%	39,38%	100,00%	15	20	-4	850	850	972	1024	0	Act 3 Citem A	1	Act 3 Uitem A	1	Potion 6 Special	2																		0
-Act 3 Unique B	Uniques		169,93%	3,53%	8,83%	39,38%	100,00%	15	22	-4	850	850	972	1024	0	Act 3 Citem B	1	Act 3 Uitem B	1	Potion 6 Special	2																		0
-Act 3 Unique C	Uniques		170,42%	3,53%	8,83%	39,38%	100,00%	15	24	-4	850	850	972	1024	0	Act 3 Citem C	1	Act 3 Uitem C	1	Potion 6 Special	2																		0
-Act 4 Unique A	Uniques		170,92%	3,53%	8,83%	39,38%	100,00%	15	26	-4	850	850	972	1024	0	Act 4 Citem A	1	Act 4 Uitem A	1	Potion 6 Special	2																		0
-Act 4 Unique B	Uniques		171,43%	3,53%	8,83%	39,38%	100,00%	15	29	-4	850	850	972	1024	0	Act 4 Citem B	1	Act 4 Uitem B	1	Potion 6 Special	2																		0
-Act 5 Unique A	Uniques		171,94%	3,53%	8,83%	39,38%	100,00%	15	32	-4	850	850	972	1024	0	Act 5 Citem A	1	Act 5 Uitem A	1	Potion 6 Special	2																		0
-Act 5 Unique B	Uniques		172,46%	3,53%	8,83%	39,38%	100,00%	15	34	-4	850	850	972	1024	0	Act 5 Citem B	1	Act 5 Uitem B	1	Potion 6 Special	2																		0
-Act 5 Unique C	Uniques		172,99%	3,53%	8,83%	39,38%	100,00%	15	36	-4	850	850	972	1024	0	Act 5 Citem C	1	Act 5 Uitem C	1	Potion 6 Special	2																		0
-Act 1 (N) Unique A	Uniques		173,53%	3,53%	8,83%	39,38%	100,00%	15	38	-4	850	850	972	1024	0	Act 1 (N) Citem A	1	Act 1 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 1 (N) Unique B	Uniques		174,07%	3,53%	8,83%	39,38%	100,00%	15	40	-4	850	850	972	1024	0	Act 1 (N) Citem B	1	Act 1 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 1 (N) Unique C	Uniques		174,63%	3,53%	8,83%	39,38%	100,00%	15	41	-4	850	850	972	1024	0	Act 1 (N) Citem C	1	Act 1 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 2 (N) Unique A	Uniques		175,19%	3,53%	8,83%	39,38%	100,00%	15	42	-4	850	850	972	1024	0	Act 2 (N) Citem A	1	Act 2 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 2 (N) Unique B	Uniques		175,76%	3,53%	8,83%	39,38%	100,00%	15	44	-4	850	850	972	1024	0	Act 2 (N) Citem B	1	Act 2 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 2 (N) Unique C	Uniques		176,34%	3,53%	8,83%	39,38%	100,00%	15	45	-4	850	850	972	1024	0	Act 2 (N) Citem C	1	Act 2 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 3 (N) Unique A	Uniques		176,92%	3,53%	8,83%	39,38%	100,00%	15	46	-4	850	850	972	1024	0	Act 3 (N) Citem A	1	Act 3 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 3 (N) Unique B	Uniques		177,52%	3,53%	8,83%	39,38%	100,00%	15	48	-4	850	850	972	1024	0	Act 3 (N) Citem B	1	Act 3 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 3 (N) Unique C	Uniques		178,13%	3,53%	8,83%	39,38%	100,00%	15	50	-4	850	850	972	1024	0	Act 3 (N) Citem C	1	Act 3 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 4 (N) Unique A	Uniques		178,74%	3,53%	8,83%	39,38%	100,00%	15	51	-4	850	850	972	1024	0	Act 4 (N) Citem A	1	Act 4 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 4 (N) Unique B	Uniques		179,37%	3,53%	8,83%	39,38%	100,00%	15	54	-4	850	850	972	1024	0	Act 4 (N) Citem B	1	Act 4 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (N) Unique A	Uniques		180,00%	3,53%	8,83%	39,38%	100,00%	15	57	-4	850	850	972	1024	0	Act 5 (N) Citem A	1	Act 5 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 5 (N) Unique B	Uniques		180,65%	3,53%	8,83%	39,38%	100,00%	15	60	-4	850	850	972	1024	0	Act 5 (N) Citem B	1	Act 5 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (N) Unique C	Uniques		181,30%	3,53%	8,83%	39,38%	100,00%	15	62	-4	850	850	972	1024	0	Act 5 (N) Citem C	1	Act 5 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 1 (H) Unique A	Uniques		181,97%	3,53%	8,83%	39,38%	100,00%	15	63	-4	850	850	972	1024	0	Act 1 (H) Citem A	1	Act 1 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 1 (H) Unique B	Uniques		182,64%	3,53%	8,83%	39,38%	100,00%	15	66	-4	850	850	972	1024	0	Act 1 (H) Citem B	1	Act 1 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 1 (H) Unique C	Uniques		183,33%	3,53%	8,83%	39,38%	100,00%	15	68	-4	850	850	972	1024	0	Act 1 (H) Citem C	1	Act 1 (H) Uitem C	1	Potion 6 Special	2																		0
-Act 2 (H) Unique A	Uniques		184,03%	3,53%	8,83%	39,38%	100,00%	15	69	-4	850	850	972	1024	0	Act 2 (H) Citem A	1	Act 2 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 2 (H) Unique B	Uniques		184,75%	3,53%	8,83%	39,38%	100,00%	15	71	-4	850	850	972	1024	0	Act 2 (H) Citem B	1	Act 2 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 2 (H) Unique C	Uniques		185,47%	3,53%	8,83%	39,38%	100,00%	15	72	-4	850	850	972	1024	0	Act 2 (H) Citem C	1	Act 2 (H) Uitem C	1	Potion 6 Special	2																		0
-Act 3 (H) Unique A	Uniques		186,21%	3,53%	8,83%	39,38%	100,00%	15	74	-4	850	850	972	1024	0	Act 3 (H) Citem A	1	Act 3 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 3 (H) Unique B	Uniques		186,96%	3,53%	8,83%	39,38%	100,00%	15	75	-4	850	850	972	1024	0	Act 3 (H) Citem B	1	Act 3 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 3 (H) Unique C	Uniques		187,72%	3,53%	8,83%	39,38%	100,00%	15	77	-4	850	850	972	1024	0	Act 3 (H) Citem C	1	Act 3 (H) Uitem C	1	Potion 6 Special	2																		0
-Act 4 (H) Unique A	Uniques		188,50%	3,53%	8,83%	39,38%	100,00%	15	78	-4	850	850	972	1024	0	Act 4 (H) Citem A	1	Act 4 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 4 (H) Unique B	Uniques		189,29%	3,53%	8,83%	39,38%	100,00%	15	80	-4	850	850	972	1024	0	Act 4 (H) Citem B	1	Act 4 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (H) Unique A	Uniques		190,09%	3,53%	8,83%	39,38%	100,00%	15	81	-4	850	850	972	1024	0	Act 5 (H) Citem A	1	Act 5 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 5 (H) Unique B	Uniques		190,91%	3,53%	8,83%	39,38%	100,00%	15	83	-4	850	850	972	1024	0	Act 5 (H) Citem B	1	Act 5 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (H) Unique C	Uniques		191,74%	3,53%	8,83%	39,38%	100,00%	15	85	-4	850	850	972	1024	0	Act 5 (H) Citem C	1	Act 5 (H) Uitem C	1	Potion 6 Special	2																		0
-Act 1 Super A	Superunique		233,33%	4,95%	12,39%	35,31%	100,00%	18	0	-5	900	900	966	1024	0	Act 1 Citem A	2	Act 1 Uitem A	1	Potion 2	2																		0
-Act 1 Super B	Superunique		234,23%	4,95%	12,39%	35,31%	100,00%	18	5	-5	900	900	966	1024	0	Act 1 Citem B	2	Act 1 Uitem B	1	Potion 4	2																		0
-Act 1 Super C	Superunique		235,14%	4,95%	12,39%	35,31%	100,00%	18	9	-5	900	900	966	1024	0	Act 1 Citem C	2	Act 1 Uitem C	1	Potion 6	2																		0
-Act 2 Super A	Superunique		236,05%	4,95%	12,39%	35,31%	100,00%	18	12	-5	900	900	966	1024	0	Act 2 Citem A	2	Act 2 Uitem A	1	Potion 6 Special	2																		0
-Act 2 Super B	Superunique		236,99%	4,95%	12,39%	35,31%	100,00%	18	15	-5	900	900	966	1024	0	Act 2 Citem B	2	Act 2 Uitem B	1	Potion 6 Special	2																		0
-Act 2 Super C	Superunique		237,93%	4,95%	12,39%	35,31%	100,00%	18	18	-5	900	900	966	1024	0	Act 2 Citem C	2	Act 2 Uitem C	1	Potion 6 Special	2																		0
-Act 3 Super A	Superunique		238,89%	4,95%	12,39%	35,31%	100,00%	18	20	-5	900	900	966	1024	0	Act 3 Citem A	2	Act 3 Uitem A	1	Potion 6 Special	2																		0
-Act 3 Super B	Superunique		239,86%	4,95%	12,39%	35,31%	100,00%	18	22	-5	900	900	966	1024	0	Act 3 Citem B	2	Act 3 Uitem B	1	Potion 6 Special	2																		0
-Act 3 Super C	Superunique		240,85%	4,95%	12,39%	35,31%	100,00%	18	24	-5	900	900	966	1024	0	Act 3 Citem C	2	Act 3 Uitem C	1	Potion 6 Special	2																		0
-Act 4 Super A	Superunique		241,84%	4,95%	12,39%	35,31%	100,00%	18	26	-5	900	900	966	1024	0	Act 4 Citem A	2	Act 4 Uitem A	1	Potion 6 Special	2																		0
-Act 4 Super B	Superunique		242,86%	4,95%	12,39%	35,31%	100,00%	18	29	-5	900	900	966	1024	0	Act 4 Citem B	2	Act 4 Uitem B	1	Potion 6 Special	2																		0
-Act 4 Super C	Superunique		242,86%	4,95%	12,39%	35,31%	100,00%	18	32	-5	900	900	966	1024	0	Act 4 Citem B	2	Act 4 Uitem B	1	Potion 6 Special	2																		0
-Act 5 Super A	Superunique		243,88%	4,95%	12,39%	35,31%	100,00%	18	34	-5	900	900	966	1024	0	Act 5 Citem A	2	Act 5 Uitem A	1	Potion 6 Special	2																		0
-Act 5 Super B	Superunique		244,93%	4,95%	12,39%	35,31%	100,00%	18	36	-5	900	900	966	1024	0	Act 5 Citem B	2	Act 5 Uitem B	1	Potion 6 Special	2																		0
-Act 5 Super C	Superunique		245,99%	4,95%	12,39%	35,31%	100,00%	18	38	-5	900	900	966	1024	0	Act 5 Citem C	2	Act 5 Uitem C	1	Potion 6 Special	2																		0
-Act 1 (N) Super A	Superunique		247,06%	4,95%	12,39%	35,31%	100,00%	18	40	-5	900	900	966	1024	0	Act 1 (N) Citem A	2	Act 1 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 1 (N) Super B	Superunique		248,15%	4,95%	12,39%	35,31%	100,00%	18	41	-5	900	900	966	1024	0	Act 1 (N) Citem B	2	Act 1 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 1 (N) Super C	Superunique		249,25%	4,95%	12,39%	35,31%	100,00%	18	42	-5	900	900	966	1024	0	Act 1 (N) Citem C	2	Act 1 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 2 (N) Super A	Superunique		250,38%	4,95%	12,39%	35,31%	100,00%	18	44	-5	900	900	966	1024	0	Act 2 (N) Citem A	2	Act 2 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 2 (N) Super B	Superunique		251,52%	4,95%	12,39%	35,31%	100,00%	18	45	-5	900	900	966	1024	0	Act 2 (N) Citem B	2	Act 2 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 2 (N) Super C	Superunique		252,67%	4,95%	12,39%	35,31%	100,00%	18	46	-5	900	900	966	1024	0	Act 2 (N) Citem C	2	Act 2 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 3 (N) Super A	Superunique		253,85%	4,95%	12,39%	35,31%	100,00%	18	48	-5	900	900	966	1024	0	Act 3 (N) Citem A	2	Act 3 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 3 (N) Super B	Superunique		255,04%	4,95%	12,39%	35,31%	100,00%	18	50	-5	900	900	966	1024	0	Act 3 (N) Citem B	2	Act 3 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 3 (N) Super C	Superunique		256,25%	4,95%	12,39%	35,31%	100,00%	18	51	-5	900	900	966	1024	0	Act 3 (N) Citem C	2	Act 3 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 4 (N) Super A	Superunique		257,48%	4,95%	12,39%	35,31%	100,00%	18	54	-5	900	900	966	1024	0	Act 4 (N) Citem A	2	Act 4 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 4 (N) Super B	Superunique		258,73%	4,95%	12,39%	35,31%	100,00%	18	57	-5	900	900	966	1024	0	Act 4 (N) Citem B	2	Act 4 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 4 (N) Super C	Superunique		258,73%	4,95%	12,39%	35,31%	100,00%	18	60	-5	900	900	966	1024	0	Act 4 (N) Citem B	2	Act 4 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (N) Super A	Superunique		260,00%	4,95%	12,39%	35,31%	100,00%	18	62	-5	900	900	966	1024	0	Act 5 (N) Citem A	2	Act 5 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 5 (N) Super B	Superunique		261,29%	4,95%	12,39%	35,31%	100,00%	18	63	-5	900	900	966	1024	0	Act 5 (N) Citem B	2	Act 5 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (N) Super C	Superunique		262,60%	4,95%	12,39%	35,31%	100,00%	18	66	-5	900	900	966	1024	0	Act 5 (N) Citem C	2	Act 5 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 1 (H) Super A	Superunique		263,93%	4,95%	12,39%	35,31%	100,00%	18	67	-5	900	900	966	1024	0	Act 1 (H) Citem A	2	Act 1 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 1 (H) Super B	Superunique		265,29%	4,95%	12,39%	35,31%	100,00%	18	67	-5	900	900	966	1024	0	Act 1 (H) Citem B	2	Act 1 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 1 (H) Super C	Superunique		266,67%	4,95%	12,39%	35,31%	100,00%	18	68	-5	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	1	Potion 6 Special	2																		0
-Act 2 (H) Super A	Superunique		268,07%	4,95%	12,39%	35,31%	100,00%	18	68	-5	900	900	966	1024	0	Act 2 (H) Citem A	2	Act 2 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 2 (H) Super B	Superunique		269,49%	4,95%	12,39%	35,31%	100,00%	18	69	-5	900	900	966	1024	0	Act 2 (H) Citem B	2	Act 2 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 2 (H) Super C	Superunique		270,94%	4,95%	12,39%	35,31%	100,00%	18	72	-5	900	900	966	1024	0	Act 2 (H) Citem C	2	Act 2 (H) Uitem C	1	Potion 6 Special	2																		0
-Act 3 (H) Super A	Superunique		272,41%	4,95%	12,39%	35,31%	100,00%	18	73	-5	900	900	966	1024	0	Act 3 (H) Citem A	2	Act 3 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 3 (H) Super B	Superunique		273,91%	4,95%	12,39%	35,31%	100,00%	18	75	-5	900	900	966	1024	0	Act 3 (H) Citem B	2	Act 3 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 3 (H) Super C	Superunique		275,44%	4,95%	12,39%	35,31%	100,00%	18	78	-5	900	900	966	1024	0	Act 3 (H) Citem C	2	Act 3 (H) Uitem C	1	Potion 6 Special	2																		0
-Act 4 (H) Super A	Superunique		276,99%	4,95%	12,39%	35,31%	100,00%	18	81	-5	900	900	966	1024	0	Act 4 (H) Citem A	2	Act 4 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 4 (H) Super B	Superunique		278,57%	4,95%	12,39%	35,31%	100,00%	18	84	-5	900	900	966	1024	0	Act 4 (H) Citem B	2	Act 4 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 4 (H) Super C	Superunique		278,57%	4,95%	12,39%	35,31%	100,00%	18	87	-5	900	900	966	1024	0	Act 4 (H) Citem B	2	Act 4 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (H) Super A	Superunique		280,18%	4,95%	12,39%	35,31%	100,00%	18	90	-5	900	900	966	1024	0	Act 5 (H) Citem A	2	Act 5 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 5 (H) Super B	Superunique		281,82%	4,95%	12,39%	35,31%	100,00%	18	93	-5	900	900	966	1024	0	Act 5 (H) Citem B	2	Act 5 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (H) Super C	Superunique		283,49%	4,95%	12,39%	35,31%	100,00%	18	96	-5	900	900	966	1024	0	Act 5 (H) Citem C	2	Act 5 (H) Uitem C	1	Potion 6 Special	2																		0
+Act 1 Unique A	Uniques		166,67%	3,53%	8,83%	39,38%	100,00%	15	0	-5	850	850	972	1024	0	Act 1 Citem A	1	Act 1 Uitem A	2	Potion 2	2																		0
+Act 1 Unique B	Uniques		167,11%	3,53%	8,83%	39,38%	100,00%	15	5	-5	850	850	972	1024	0	Act 1 Citem B	1	Act 1 Uitem B	2	Potion 4	2																		0
+Act 1 Unique C	Uniques		167,57%	3,53%	8,83%	39,38%	100,00%	15	9	-5	850	850	972	1024	0	Act 1 Citem C	1	Act 1 Uitem C	2	Potion 6	2																		0
+Act 2 Unique A	Uniques		168,03%	3,53%	8,83%	39,38%	100,00%	15	12	-5	850	850	972	1024	0	Act 2 Citem A	1	Act 2 Uitem A	2	Potion 6 Special	2																		0
+Act 2 Unique B	Uniques		168,49%	3,53%	8,83%	39,38%	100,00%	15	15	-5	850	850	972	1024	0	Act 2 Citem B	1	Act 2 Uitem B	2	Potion 6 Special	2																		0
+Act 2 Unique C	Uniques		168,97%	3,53%	8,83%	39,38%	100,00%	15	18	-5	850	850	972	1024	0	Act 2 Citem C	1	Act 2 Uitem C	2	Potion 6 Special	2																		0
+Act 3 Unique A	Uniques		169,44%	3,53%	8,83%	39,38%	100,00%	15	20	-5	850	850	972	1024	0	Act 3 Citem A	1	Act 3 Uitem A	2	Potion 6 Special	2																		0
+Act 3 Unique B	Uniques		169,93%	3,53%	8,83%	39,38%	100,00%	15	22	-5	850	850	972	1024	0	Act 3 Citem B	1	Act 3 Uitem B	2	Potion 6 Special	2																		0
+Act 3 Unique C	Uniques		170,42%	3,53%	8,83%	39,38%	100,00%	15	24	-5	850	850	972	1024	0	Act 3 Citem C	1	Act 3 Uitem C	2	Potion 6 Special	2																		0
+Act 4 Unique A	Uniques		170,92%	3,53%	8,83%	39,38%	100,00%	15	26	-5	850	850	972	1024	0	Act 4 Citem A	1	Act 4 Uitem A	2	Potion 6 Special	2																		0
+Act 4 Unique B	Uniques		171,43%	3,53%	8,83%	39,38%	100,00%	15	29	-5	850	850	972	1024	0	Act 4 Citem B	1	Act 4 Uitem B	2	Potion 6 Special	2																		0
+Act 5 Unique A	Uniques		171,94%	3,53%	8,83%	39,38%	100,00%	15	32	-5	850	850	972	1024	0	Act 5 Citem A	1	Act 5 Uitem A	2	Potion 6 Special	2																		0
+Act 5 Unique B	Uniques		172,46%	3,53%	8,83%	39,38%	100,00%	15	34	-5	850	850	972	1024	0	Act 5 Citem B	1	Act 5 Uitem B	2	Potion 6 Special	2																		0
+Act 5 Unique C	Uniques		172,99%	3,53%	8,83%	39,38%	100,00%	15	36	-5	850	850	972	1024	0	Act 5 Citem C	1	Act 5 Uitem C	2	Potion 6 Special	2																		0
+Act 1 (N) Unique A	Uniques		173,53%	3,53%	8,83%	39,38%	100,00%	15	38	-5	850	850	972	1024	0	Act 1 (N) Citem A	1	Act 1 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 1 (N) Unique B	Uniques		174,07%	3,53%	8,83%	39,38%	100,00%	15	40	-5	850	850	972	1024	0	Act 1 (N) Citem B	1	Act 1 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 1 (N) Unique C	Uniques		174,63%	3,53%	8,83%	39,38%	100,00%	15	41	-5	850	850	972	1024	0	Act 1 (N) Citem C	1	Act 1 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 2 (N) Unique A	Uniques		175,19%	3,53%	8,83%	39,38%	100,00%	15	42	-5	850	850	972	1024	0	Act 2 (N) Citem A	1	Act 2 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 2 (N) Unique B	Uniques		175,76%	3,53%	8,83%	39,38%	100,00%	15	44	-5	850	850	972	1024	0	Act 2 (N) Citem B	1	Act 2 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 2 (N) Unique C	Uniques		176,34%	3,53%	8,83%	39,38%	100,00%	15	45	-5	850	850	972	1024	0	Act 2 (N) Citem C	1	Act 2 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 3 (N) Unique A	Uniques		176,92%	3,53%	8,83%	39,38%	100,00%	15	46	-5	850	850	972	1024	0	Act 3 (N) Citem A	1	Act 3 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 3 (N) Unique B	Uniques		177,52%	3,53%	8,83%	39,38%	100,00%	15	48	-5	850	850	972	1024	0	Act 3 (N) Citem B	1	Act 3 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 3 (N) Unique C	Uniques		178,13%	3,53%	8,83%	39,38%	100,00%	15	50	-5	850	850	972	1024	0	Act 3 (N) Citem C	1	Act 3 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 4 (N) Unique A	Uniques		178,74%	3,53%	8,83%	39,38%	100,00%	15	51	-5	850	850	972	1024	0	Act 4 (N) Citem A	1	Act 4 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 4 (N) Unique B	Uniques		179,37%	3,53%	8,83%	39,38%	100,00%	15	54	-5	850	850	972	1024	0	Act 4 (N) Citem B	1	Act 4 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (N) Unique A	Uniques		180,00%	3,53%	8,83%	39,38%	100,00%	15	57	-5	850	850	972	1024	0	Act 5 (N) Citem A	1	Act 5 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 5 (N) Unique B	Uniques		180,65%	3,53%	8,83%	39,38%	100,00%	15	60	-5	850	850	972	1024	0	Act 5 (N) Citem B	1	Act 5 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (N) Unique C	Uniques		181,30%	3,53%	8,83%	39,38%	100,00%	15	62	-5	850	850	972	1024	0	Act 5 (N) Citem C	1	Act 5 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 1 (H) Unique A	Uniques		181,97%	3,53%	8,83%	39,38%	100,00%	15	63	-5	850	850	972	1024	0	Act 1 (H) Citem A	1	Act 1 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 1 (H) Unique B	Uniques		182,64%	3,53%	8,83%	39,38%	100,00%	15	66	-5	850	850	972	1024	0	Act 1 (H) Citem B	1	Act 1 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 1 (H) Unique C	Uniques		183,33%	3,53%	8,83%	39,38%	100,00%	15	68	-5	850	850	972	1024	0	Act 1 (H) Citem C	1	Act 1 (H) Uitem C	2	Potion 6 Special	2																		0
+Act 2 (H) Unique A	Uniques		184,03%	3,53%	8,83%	39,38%	100,00%	15	69	-5	850	850	972	1024	0	Act 2 (H) Citem A	1	Act 2 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 2 (H) Unique B	Uniques		184,75%	3,53%	8,83%	39,38%	100,00%	15	71	-5	850	850	972	1024	0	Act 2 (H) Citem B	1	Act 2 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 2 (H) Unique C	Uniques		185,47%	3,53%	8,83%	39,38%	100,00%	15	72	-5	850	850	972	1024	0	Act 2 (H) Citem C	1	Act 2 (H) Uitem C	2	Potion 6 Special	2																		0
+Act 3 (H) Unique A	Uniques		186,21%	3,53%	8,83%	39,38%	100,00%	15	74	-5	850	850	972	1024	0	Act 3 (H) Citem A	1	Act 3 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 3 (H) Unique B	Uniques		186,96%	3,53%	8,83%	39,38%	100,00%	15	75	-5	850	850	972	1024	0	Act 3 (H) Citem B	1	Act 3 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 3 (H) Unique C	Uniques		187,72%	3,53%	8,83%	39,38%	100,00%	15	77	-5	850	850	972	1024	0	Act 3 (H) Citem C	1	Act 3 (H) Uitem C	2	Potion 6 Special	2																		0
+Act 4 (H) Unique A	Uniques		188,50%	3,53%	8,83%	39,38%	100,00%	15	78	-5	850	850	972	1024	0	Act 4 (H) Citem A	1	Act 4 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 4 (H) Unique B	Uniques		189,29%	3,53%	8,83%	39,38%	100,00%	15	80	-5	850	850	972	1024	0	Act 4 (H) Citem B	1	Act 4 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (H) Unique A	Uniques		190,09%	3,53%	8,83%	39,38%	100,00%	15	81	-5	850	850	972	1024	0	Act 5 (H) Citem A	1	Act 5 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 5 (H) Unique B	Uniques		190,91%	3,53%	8,83%	39,38%	100,00%	15	83	-5	850	850	972	1024	0	Act 5 (H) Citem B	1	Act 5 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (H) Unique C	Uniques		191,74%	3,53%	8,83%	39,38%	100,00%	15	85	-5	850	850	972	1024	0	Act 5 (H) Citem C	1	Act 5 (H) Uitem C	2	Potion 6 Special	2																		0
+Act 1 Super A	Superunique		233,33%	4,95%	12,39%	35,31%	100,00%	18	0	-6	900	900	966	1024	0	Act 1 Citem A	2	Act 1 Uitem A	2	Potion 2	2																		0
+Act 1 Super B	Superunique		234,23%	4,95%	12,39%	35,31%	100,00%	18	5	-6	900	900	966	1024	0	Act 1 Citem B	2	Act 1 Uitem B	2	Potion 4	2																		0
+Act 1 Super C	Superunique		235,14%	4,95%	12,39%	35,31%	100,00%	18	9	-6	900	900	966	1024	0	Act 1 Citem C	2	Act 1 Uitem C	2	Potion 6	2																		0
+Act 2 Super A	Superunique		236,05%	4,95%	12,39%	35,31%	100,00%	18	12	-6	900	900	966	1024	0	Act 2 Citem A	2	Act 2 Uitem A	2	Potion 6 Special	2																		0
+Act 2 Super B	Superunique		236,99%	4,95%	12,39%	35,31%	100,00%	18	15	-6	900	900	966	1024	0	Act 2 Citem B	2	Act 2 Uitem B	2	Potion 6 Special	2																		0
+Act 2 Super C	Superunique		237,93%	4,95%	12,39%	35,31%	100,00%	18	18	-6	900	900	966	1024	0	Act 2 Citem C	2	Act 2 Uitem C	2	Potion 6 Special	2																		0
+Act 3 Super A	Superunique		238,89%	4,95%	12,39%	35,31%	100,00%	18	20	-6	900	900	966	1024	0	Act 3 Citem A	2	Act 3 Uitem A	2	Potion 6 Special	2																		0
+Act 3 Super B	Superunique		239,86%	4,95%	12,39%	35,31%	100,00%	18	22	-6	900	900	966	1024	0	Act 3 Citem B	2	Act 3 Uitem B	2	Potion 6 Special	2																		0
+Act 3 Super C	Superunique		240,85%	4,95%	12,39%	35,31%	100,00%	18	24	-6	900	900	966	1024	0	Act 3 Citem C	2	Act 3 Uitem C	2	Potion 6 Special	2																		0
+Act 4 Super A	Superunique		241,84%	4,95%	12,39%	35,31%	100,00%	18	26	-6	900	900	966	1024	0	Act 4 Citem A	2	Act 4 Uitem A	2	Potion 6 Special	2																		0
+Act 4 Super B	Superunique		242,86%	4,95%	12,39%	35,31%	100,00%	18	29	-6	900	900	966	1024	0	Act 4 Citem B	2	Act 4 Uitem B	2	Potion 6 Special	2																		0
+Act 4 Super C	Superunique		242,86%	4,95%	12,39%	35,31%	100,00%	18	32	-6	900	900	966	1024	0	Act 4 Citem B	2	Act 4 Uitem B	2	Potion 6 Special	2																		0
+Act 5 Super A	Superunique		243,88%	4,95%	12,39%	35,31%	100,00%	18	34	-6	900	900	966	1024	0	Act 5 Citem A	2	Act 5 Uitem A	2	Potion 6 Special	2																		0
+Act 5 Super B	Superunique		244,93%	4,95%	12,39%	35,31%	100,00%	18	36	-6	900	900	966	1024	0	Act 5 Citem B	2	Act 5 Uitem B	2	Potion 6 Special	2																		0
+Act 5 Super C	Superunique		245,99%	4,95%	12,39%	35,31%	100,00%	18	38	-6	900	900	966	1024	0	Act 5 Citem C	2	Act 5 Uitem C	2	Potion 6 Special	2																		0
+Act 1 (N) Super A	Superunique		247,06%	4,95%	12,39%	35,31%	100,00%	18	40	-6	900	900	966	1024	0	Act 1 (N) Citem A	2	Act 1 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 1 (N) Super B	Superunique		248,15%	4,95%	12,39%	35,31%	100,00%	18	41	-6	900	900	966	1024	0	Act 1 (N) Citem B	2	Act 1 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 1 (N) Super C	Superunique		249,25%	4,95%	12,39%	35,31%	100,00%	18	42	-6	900	900	966	1024	0	Act 1 (N) Citem C	2	Act 1 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 2 (N) Super A	Superunique		250,38%	4,95%	12,39%	35,31%	100,00%	18	44	-6	900	900	966	1024	0	Act 2 (N) Citem A	2	Act 2 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 2 (N) Super B	Superunique		251,52%	4,95%	12,39%	35,31%	100,00%	18	45	-6	900	900	966	1024	0	Act 2 (N) Citem B	2	Act 2 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 2 (N) Super C	Superunique		252,67%	4,95%	12,39%	35,31%	100,00%	18	46	-6	900	900	966	1024	0	Act 2 (N) Citem C	2	Act 2 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 3 (N) Super A	Superunique		253,85%	4,95%	12,39%	35,31%	100,00%	18	48	-6	900	900	966	1024	0	Act 3 (N) Citem A	2	Act 3 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 3 (N) Super B	Superunique		255,04%	4,95%	12,39%	35,31%	100,00%	18	50	-6	900	900	966	1024	0	Act 3 (N) Citem B	2	Act 3 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 3 (N) Super C	Superunique		256,25%	4,95%	12,39%	35,31%	100,00%	18	51	-6	900	900	966	1024	0	Act 3 (N) Citem C	2	Act 3 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 4 (N) Super A	Superunique		257,48%	4,95%	12,39%	35,31%	100,00%	18	54	-6	900	900	966	1024	0	Act 4 (N) Citem A	2	Act 4 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 4 (N) Super B	Superunique		258,73%	4,95%	12,39%	35,31%	100,00%	18	57	-6	900	900	966	1024	0	Act 4 (N) Citem B	2	Act 4 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 4 (N) Super C	Superunique		258,73%	4,95%	12,39%	35,31%	100,00%	18	60	-6	900	900	966	1024	0	Act 4 (N) Citem B	2	Act 4 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (N) Super A	Superunique		260,00%	4,95%	12,39%	35,31%	100,00%	18	62	-6	900	900	966	1024	0	Act 5 (N) Citem A	2	Act 5 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 5 (N) Super B	Superunique		261,29%	4,95%	12,39%	35,31%	100,00%	18	63	-6	900	900	966	1024	0	Act 5 (N) Citem B	2	Act 5 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (N) Super C	Superunique		262,60%	4,95%	12,39%	35,31%	100,00%	18	66	-6	900	900	966	1024	0	Act 5 (N) Citem C	2	Act 5 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 1 (H) Super A	Superunique		263,93%	4,95%	12,39%	35,31%	100,00%	18	67	-6	900	900	966	1024	0	Act 1 (H) Citem A	2	Act 1 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 1 (H) Super B	Superunique		265,29%	4,95%	12,39%	35,31%	100,00%	18	67	-6	900	900	966	1024	0	Act 1 (H) Citem B	2	Act 1 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 1 (H) Super C	Superunique		266,67%	4,95%	12,39%	35,31%	100,00%	18	68	-6	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	2	Potion 6 Special	2																		0
+Act 2 (H) Super A	Superunique		268,07%	4,95%	12,39%	35,31%	100,00%	18	68	-6	900	900	966	1024	0	Act 2 (H) Citem A	2	Act 2 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 2 (H) Super B	Superunique		269,49%	4,95%	12,39%	35,31%	100,00%	18	69	-6	900	900	966	1024	0	Act 2 (H) Citem B	2	Act 2 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 2 (H) Super C	Superunique		270,94%	4,95%	12,39%	35,31%	100,00%	18	72	-6	900	900	966	1024	0	Act 2 (H) Citem C	2	Act 2 (H) Uitem C	2	Potion 6 Special	2																		0
+Act 3 (H) Super A	Superunique		272,41%	4,95%	12,39%	35,31%	100,00%	18	73	-6	900	900	966	1024	0	Act 3 (H) Citem A	2	Act 3 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 3 (H) Super B	Superunique		273,91%	4,95%	12,39%	35,31%	100,00%	18	75	-6	900	900	966	1024	0	Act 3 (H) Citem B	2	Act 3 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 3 (H) Super C	Superunique		275,44%	4,95%	12,39%	35,31%	100,00%	18	78	-6	900	900	966	1024	0	Act 3 (H) Citem C	2	Act 3 (H) Uitem C	2	Potion 6 Special	2																		0
+Act 4 (H) Super A	Superunique		276,99%	4,95%	12,39%	35,31%	100,00%	18	81	-6	900	900	966	1024	0	Act 4 (H) Citem A	2	Act 4 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 4 (H) Super B	Superunique		278,57%	4,95%	12,39%	35,31%	100,00%	18	84	-6	900	900	966	1024	0	Act 4 (H) Citem B	2	Act 4 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 4 (H) Super C	Superunique		278,57%	4,95%	12,39%	35,31%	100,00%	18	87	-6	900	900	966	1024	0	Act 4 (H) Citem B	2	Act 4 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (H) Super A	Superunique		280,18%	4,95%	12,39%	35,31%	100,00%	18	90	-6	900	900	966	1024	0	Act 5 (H) Citem A	2	Act 5 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 5 (H) Super B	Superunique		281,82%	4,95%	12,39%	35,31%	100,00%	18	93	-6	900	900	966	1024	0	Act 5 (H) Citem B	2	Act 5 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (H) Super C	Superunique		283,49%	4,95%	12,39%	35,31%	100,00%	18	96	-6	900	900	966	1024	0	Act 5 (H) Citem C	2	Act 5 (H) Uitem C	2	Potion 6 Special	2																		0
 Act 1 Super Ax	Nerfed Superunique		166,67%	1,04%	3,00%	10,72%	100,00%	18	0	-4	433	512	833	1024	0	Act 1 Citem A	1	Act 1 Uitem A	1	Potion 2	2																		0
 Act 1 Super Bx	Nerfed Superunique		167,11%	1,04%	3,00%	10,72%	100,00%	18	5	-4	433	512	833	1024	0	Act 1 Citem B	1	Act 1 Uitem B	1	Potion 4	2																		0
 Act 1 Super Cx	Nerfed Superunique		167,57%	1,04%	3,00%	10,72%	100,00%	18	9	-4	433	512	833	1024	0	Act 1 Citem C	1	Act 1 Uitem C	1	Potion 6	2																		0

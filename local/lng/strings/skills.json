@@ -38506,6 +38506,7 @@
   {"id": 38451, "Key": "energized at low life", "enUS": "Energized at Low Life", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38452, "Key": "fireballs spawn caltrops", "enUS": "Fireballs Spawn Caltrops", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38453, "Key": "cannot be frozen", "enUS": "Cannot Be Frozen", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 38454, "Key": "random curses", "enUS": "Random Curses", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38500, "Key": "monster_battleboss_taunt", "enUS": "Show them that they came here to die!", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38501, "Key": "monster_biolord_taunt", "enUS": "Much work complete. Allow demonstration.", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38502, "Key": "monster_deeds_taunt", "enUS": "Your deeds have been noted.", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},

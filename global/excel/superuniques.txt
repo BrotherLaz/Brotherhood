@@ -8,7 +8,7 @@ Griswold	Griswold		griswold	5	Quest		6	7	0	0	0	1	0	1	17	17	17	Griswold	Griswold 
 The Countess	The Countess		laz_rogue3	6	Quest	countess	9	25	0	5	6	1	0		16	16	16	Countess	Countess (N)	Countess (H)	0
 Pitspawn Fouldog	LazBossMoonbender	Moonbender	laz_batdemonboss1	7	A1 The Jail		18	26	0	4	5	1	0		31	31	31	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
 Flamespike the Crawler	Flamespike the Crawler		quillrat4	8	Unused		9	7	0	6	6	1	0		16	16	16	Act 1 Unique C	Act 1 (N) Unique C	Act 1 (H) Unique C	0
-Boneash	LazBossBladeskin	Bladeskin the Slasher	laz_fallenboss1	9	A1 Cathedral		5	28	0	0	0	1	0		15	15	15	Act 1 Super C	Act 1 (N) Super C	Act 1 (H) Super C	0
+Boneash	LazBossBladeskin	Bladeskin the Slasher	laz_fallenboss1	9	A1 Cathedral		5	28	0	7	7	1	0		15	15	15	Act 1 Super C	Act 1 (N) Super C	Act 1 (H) Super C	0
 Radament	Radament		radament	10	Quest		6	7	0	3	3	1	0		30	30	30	Radament	Radament (N)	Radament (H)	0
 Bloodwitch the Wild	LazBossCrassus	Crassus the Tormentor	laz_vampireboss1	11	A2 Halls of the Dead/Dry Hills	subiolord	7	9	0	0	0	1	0		29	29	29	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
 Fangskin	LazBossKhahul	Khahul the Serpent	laz_clawviperboss1	12	A2 Claw Viper Temple	sudiealone	7	8	0			1	0		14	14	14	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0

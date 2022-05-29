@@ -1,0 +1,108 @@
+{
+    "dependencies": {
+        "particles": [
+            {
+                "path": "data/hd/vfx/particles/overlays/sorceress/energyshield/energyshield_Overlay.particles"
+            }
+        ],
+        "models": [
+            {
+                "path": "data/hd/vfx/meshes/FX_Mesh_EnergyShield.model"
+            }
+        ],
+        "skeletons": [],
+        "animations": [],
+        "textures": [
+            {
+                "path": "data/hd/vfx/textures/gradient/T_FX_linearGradient_parabolicfalloff.texture"
+            }
+        ],
+        "physics": [],
+        "json": [],
+        "variantdata": [],
+        "objecteffects": [],
+        "other": []
+    },
+    "type": "OverlayDefinition",
+    "name": "torchfire",
+    "entities": [
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavaup/fx_meteorlavaup.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "EntityAttachmentDefinitionComponent",
+                    "name": "vfx_shoulder_EntityAttachmentDefinition",
+                    "targetbone": "R_finger_C_C"
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.25
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "inheritOnlyPosition": false
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R2",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavaup/fx_meteorlavaup.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "EntityAttachmentDefinitionComponent",
+                    "name": "vfx_shoulder_EntityAttachmentDefinition",
+                    "targetbone": "R_finger_C_C"
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.25
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "inheritOnlyPosition": false
+                }
+            ]
+        }
+    ]
+}
