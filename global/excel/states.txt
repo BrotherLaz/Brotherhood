@@ -192,7 +192,7 @@ placeholder189	189																																																														
 placeholder190	190																																																																							0
 placeholder191	191																																																																							0
 placeholder192	192																																																																							0
-torchactive	193	consumable item																																										torchfire							item_lightradius									255	183	64	sorceress_firebolt_impact_1	andariel_fire_end								0
+torchactive	193	consumable item																																										torchfire							item_lightradius									255	183	64	sorceress_firebolt_impact_1									0
 superheal	194	consumable item																																																													necromancer_unsummon									0
 supermana	195	consumable item																																																													necromancer_unsummon									0
 trinketbuffmf	196	consumable item																																															dopllezon_appear		item_magicbonus												amazon_valkyrie_cast									0
