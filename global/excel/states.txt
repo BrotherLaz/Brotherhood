@@ -192,15 +192,15 @@ placeholder189	189																																																														
 placeholder190	190																																																																							0
 placeholder191	191																																																																							0
 placeholder192	192																																																																							0
-placeholder193	193																																																																							0
-placeholder194	194																																																																							0
-placeholder195	195																																																																							0
-placeholder196	196																																																																							0
-torchactive	197																																											torchfire							item_lightradius									255	183	64	object_fire_loop_torch	sorceress_firebolt_impact_1								0
-tauntthebutcher	198	monster (taunt aura)					1																																																								monster_thebutcher_taunt									0
-superstorm	199	sor																																										superstorm																			sorceress_thunder_cast	sorceress_thunder_bolt						146		0
-icearmor	200	sor																																															frozenarmor		skill_armor_percent																					0
-furystate	201	common																																																																						0
+torchactive	193	consumable item																																										torchfire							item_lightradius									255	183	64	sorceress_firebolt_impact_1	andariel_fire_end								0
+superheal	194	consumable item																																																													necromancer_unsummon									0
+supermana	195	consumable item																																																													necromancer_unsummon									0
+trinketbuffmf	196	consumable item																																															dopllezon_appear		item_magicbonus												amazon_valkyrie_cast									0
+trinketbuffxp	197	consumable item																																															dopllezon_appear		item_addexperience												amazon_valkyrie_cast									0
+vialbufffire	198	consumable item	5													1																												multigleam							fireresist																					0
+vialbuffcold	199	consumable item	5															1																										multigleam							coldresist																					0
+vialbufflight	200	consumable item	5														1																											multigleam							lightresist																					0
+vialbuffpoison	201	consumable item	5																	1																								multigleam							poisonresist																					0
 breakthrough	202	amazon																																										breakthrough																												0
 intimidate	203																																																																							0
 cooldownreset	204	ass (Cold Blood)	7																																														shadowwarriorappear														assassin_bladeshield									0
@@ -213,29 +213,29 @@ canconvert	210	paladin skill									1																																	charge			
 covenant	211	paladin skill											1	1																														bloodlust_state																												0
 zombietimer	212	necromancer																																																																						0
 haunt	213	necromancer						1																																				berserkfront					curse_hit														necromancer_dimvision									0
-banishment	214																																																			12																				0
+deepfreeze	214	sor													1																													frozenarmor							damageresist							100	109	50	215	255	paladin_aura_resistcold							146		0
 martialcadenceproc	215	Amazon proc																			1																							fingermageflames							item_tohit_percent																					0
-converter	216																																																																							0
+converter	216	pal																																																																						0
 impalestate	217																																																																							0
-enchantedspear	218	ama (elemental spear)																																																																						0
-sorcmulticastcold	219	sorceress	1																																									shiverarmor							skill_sorcmulticast_cold																					0
-rathmaswill	220	necromancer											1																															bloodlust_state							skill_enchant					weap	blac						necromancer_curse_1									0
+enchantedspear	218	ama																																																																						0
+sorcmulticastcold	219	sor	1																																									shiverarmor							skill_sorcmulticast_cold																					0
+rathmaswill	220	nec											1																															bloodlust_state							skill_enchant					weap	blac						necromancer_curse_1									0
 skewer	221																																																																							0
 ravage	222												1	1																														direwolfcharged	direwolfcharged																											0
-ferocity	223	Barbarian skill									1		1	1																															monfrenzy						skill_frenzy																					0
+ferocity	223	bar									1		1	1																															monfrenzy						skill_frenzy																					0
 bloodbag	224	monster																																										burning							velocitypercent							70	100	255	255	255	necromancer_reversevampire									0
-werebearpassive	225																																																																							0
-meditatemana	244	assassin					1																																					battleorders							manarecoveryrate		11										barbarian_findheart_1									0
-meditatelife	245	assassin					1																																					shout							hpregen		11										barbarian_findheart_1									0
+superstorm	225	sor																																										superstorm																			sorceress_thunder_cast	sorceress_thunder_bolt						146		0
+meditatemana	226	assassin					1																																					battleorders							manarecoveryrate		11										barbarian_findheart_1									0
+meditatelife	227	assassin					1																																					shout							hpregen		11										barbarian_findheart_1									0
 poisonaura	228	necromancer																																																						mele	cgrn															0
-wrathoftheberserker	229	barbarian																																										twisterfront	target_holyfire						normal_damage_reduction												barbarian_circle_1									0
-devouringflames	230	sor (Devouring Flames)																			1	1																													damagepercent																					0
-bloodofthezakarum	231	paladin skill									1				1																													progressive_fire_1							paladin_holyshield																					0
-attackbuff1	232	Druid passive																																																																						0
-attackbuff2	233	Druid passive																																																																						0
-attackbuff3	234	Druid passive																																																																						0
-skillonhit1	235	common passive																																																																						0
-skillonhit2	236	common passive																																																																						0
+icearmor	229	sor																																															frozenarmor		skill_armor_percent																					0
+devouringflames	230	sor																			1	1																													damagepercent													impact_fire_1								0
+furystate	231	ama																																																																						0
+attackbuff1	232	common																																																																						0
+attackbuff2	233	common																																																																						0
+attackbuff3	234	common																																																																						0
+skillonhit1	235	common																																																																						0
+skillonhit2	236	common																																																																						0
 askarimanaheal	237	amazon																																															valkyriestart		manarecovery												amazon_fistofares									0
 bruteforce	238	Barbarian passive																																																																						0
 hiddenaura	239	Common passive					1																																												damagepercent																					0
@@ -245,12 +245,12 @@ arreatswail	242	Barbarian skill					1																																					shout	
 grimtotem	243	necromancer					1																																					battlecommand					battlecommandcast		hpregen		11										barbarian_findheart_1									0
 grimsentinel	244	necromancer					1																																					shout					shoutstart		hpregen		11										barbarian_findheart_1									0
 grimwatcher	245	necromancer					1																																					battleorders					battleorderscast		manarecoveryrate		11										barbarian_findheart_1									0
-generalpassive1	246	Common passive																																																																						0
-generalpassive2	247	Common passive																																																																						0
-bandageheal	248	barbarian/druid																																															healing		hpregen												barbarian_findheart_1									0
+generalpassive1	246	common																																																																						0
+generalpassive2	247	common																																																																						0
+bandageheal	248	bar																																															healing		hpregen												barbarian_findheart_1									0
 askariprayer	249	Amazon skill																																															receiving		hpregen												barbarian_findheart_1									0
 combinedarmsrtm	250	Amazon proc																																										sanctuaryback																												0
-druidfire	251	druid	3				1																																					progressive_fire_3					wolf_into	wolf_undo	skill_druidfire_active												druid_morph	druid_morph								0
-druidcold	252	druid	3				1																																					progressive_cold_3					wolf_into	wolf_undo	skill_druidcold_active												druid_morph	druid_morph								0
-druidlightning	253	druid	3				1																																					progressive_lightning_3					wolf_into	wolf_undo	skill_druidlightning_active												druid_morph	druid_morph								0
-deepfreeze	254	sor													1																													frozenarmor							damageresist							100	109	50	215	255	paladin_aura_resistcold							146		0
+kitbuffstr	251	consumable item	11																																														dopllezon_appear		strength												quest_hellforge_smash									0
+kitbuffdex	252	consumable item	11																																														dopllezon_appear		dexterity												quest_hellforge_smash									0
+kitbuffenr	253	consumable item	11																																														dopllezon_appear		energy												quest_hellforge_smash									0
+kitbuffvit	254	consumable item	11																																														dopllezon_appear		vitality												quest_hellforge_smash									0

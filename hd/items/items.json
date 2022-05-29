@@ -1176,5 +1176,18 @@
   { "z68": { "asset": "quest/runeword_papers" } },
   { "z69": { "asset": "quest/runeword_papers" } },
   { "z70": { "asset": "quest/runeword_papers" } },
-  { "sxg": { "asset": "quest/refocusing_lens" } }
+  { "sxg": { "asset": "quest/refocusing_lens" } },
+  { "m01": { "asset": "quest/beads" } },
+  { "m02": { "asset": "quest/energyring" } },
+  { "m03": { "asset": "quest/feather" } },
+  { "m04": { "asset": "quest/kit" } },
+  { "m05": { "asset": "quest/sharpen" } },
+  { "m06": { "asset": "quest/ghostlantern" } },
+  { "m07": { "asset": "quest/runecharm" } },  
+  { "m08": { "asset": "quest/fossila" } },
+  { "m09": { "asset": "quest/fossilb" } },
+  { "m0p": { "asset": "potion/oilred" } },
+  { "m1p": { "asset": "potion/oilblue" } },
+  { "m2p": { "asset": "potion/oilgold" } },
+  { "m3p": { "asset": "potion/oilgreen" } }  
 ]

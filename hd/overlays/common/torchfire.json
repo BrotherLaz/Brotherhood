@@ -34,60 +34,22 @@
                 {
                     "type": "VfxDefinitionComponent",
                     "name": "vfx_shoulder_VfxDefinition",
-                    "filename": "data/hd/vfx/particles/missiles/meteorlavaup/fx_meteorlavaup.particles",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
                     "hardKillOnDestroy": true
                 },
                 {
                     "type": "EntityAttachmentDefinitionComponent",
                     "name": "vfx_shoulder_EntityAttachmentDefinition",
-                    "targetbone": "R_finger_C_C"
+                    "targetbone": "xR_finger_C_C",
+                    "orientTowardBoneName": "xL_finger_C_C"
                 },
                 {
                     "type": "TransformDefinitionComponent",
                     "name": "component_transform1",
                     "position": {
                         "x": 0.0,
-                        "y": 0.0,
-                        "z": 1.25
-                    },
-                    "orientation": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 0.0,
-                        "w": 1.0
-                    },
-                    "scale": {
-                        "x": 0.25,
-                        "y": 0.25,
-                        "z": 0.25
-                    },
-                    "inheritOnlyPosition": false
-                }
-            ]
-        },
-        {
-            "type": "Entity",
-            "name": "vfx_shoulder_R_2",
-            "id": 2526295779,
-            "components": [
-                {
-                    "type": "VfxDefinitionComponent",
-                    "name": "vfx_shoulder_VfxDefinition",
-                    "filename": "data/hd/vfx/particles/missiles/meteorlavaup/fx_meteorlavaup.particles",
-                    "hardKillOnDestroy": true
-                },
-                {
-                    "type": "EntityAttachmentDefinitionComponent",
-                    "name": "vfx_shoulder_EntityAttachmentDefinition",
-                    "targetbone": "R_finger_C_C"
-                },
-                {
-                    "type": "TransformDefinitionComponent",
-                    "name": "component_transform1",
-                    "position": {
-                        "x": 0.0,
-                        "y": 0.0,
-                        "z": 1.25
+                        "y": 0.1,
+                        "z": 0.0
                     },
                     "orientation": {
                         "x": 0.0,
