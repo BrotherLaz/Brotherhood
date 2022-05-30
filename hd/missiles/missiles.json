@@ -1163,6 +1163,7 @@
     "diabmultilaserbolt": "diablo_lightning",
     "baalspirit": "expansion_baalsummonmissile_2",
     "andyexplodingtrap": "expansion_catapultpoisonbomb",
+    "andyexplodingwave": "poison_nova",
     "andyshockwavecorpse": "null",
     "andyshockwavedelay": "corpse_explode_guts_poison",
     "andyshockwaveblast": "expansion_deathmaulerfingers",
