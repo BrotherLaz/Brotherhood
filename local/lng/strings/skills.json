@@ -37241,6 +37241,7 @@
   {"id": 35247, "Key": "DescArmorBarbarianShield", "enUS": "Socketed as Weapon\n5%% Slower Run/Walk", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 35248, "Key": "DescArmorBarbarianHelm", "enUS": "Weapon Skill Stun Length: %+d%%", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 35249, "Key": "DescArmorSorceressTorso", "enUS": "Energy Improves Skills %+d%% More", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},  
+  {"id": 35250, "Key": "ReducePoisonDuration", "enUS": "Reduces poison duration by %d%%", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 35300, "Key": "ax1", "enUS": "Hand Axe", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 35301, "Key": "ax2", "enUS": "Axe", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 35302, "Key": "ax3", "enUS": "Double Axe", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
