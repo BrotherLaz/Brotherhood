@@ -1093,7 +1093,7 @@
   "laz_rogueboss1": "corruptrogueboss1",
   "laz_minionboss1": "minionboss1",
   "laz_balrogboss1": "megademonboss1",
-  "laz_mummyboss1": "mummy1",
+  "laz_mummyboss1": "mummyboss1",
   "laz_bloodlordboss1": "bloodlordboss1",
   "laz_bigheadboss1": "bigheadsuper1",
   "laz_clawviperboss1": "clawvipersuper1",
@@ -1112,5 +1112,5 @@
   "laz_impboss1": "imp1",
   "laz_overseersuperboss1": "overseerspecial1",
   "laz_deathmaulerboss1": "deathmaulersuper1",
-  "laz_skeletonboss1": "skeletonboss1"  
+  "laz_skeletonboss1": "skeletonboss1"
 }

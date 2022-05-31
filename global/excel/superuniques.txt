@@ -22,9 +22,9 @@ Ancient Kaa the Soulless	LazBossSphinxOsammeda	Advisor Osammeda	laz_panthermelee
 The Smith	The Smith		smith	20	Quest	smith	5	27	0	0	0	1	0		26	26	26	Smith	Smith (N)	Smith (H)	0
 Web Mage the Burning	LazBossZanthek	Zanthek the Ravagor	laz_vilemotherboss1	21	A3 Spider Cavern		9	26	0	0	0	1	0		19	19	19	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
 Witch Doctor Endugu	LazBossBairi	Bari Bairi	laz_fetishshaman4	22	A3 Flayer Dungeon		26	27	0	4	6	1	0		20	20	20	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
-Stormtree	LazBossChupacabra	Chupacabra	laz_quillratsuperboss1	23	A3 Flayer Jungle		7	29	0	3	4	1	0	1	35	35	35	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
+Stormtree	LazBossShatterbone	Shatterbone	laz_blunderboreboss1	23	A3 Flayer Jungle	sunoneshallpass	7	29	0	3	4	1	0	1	35	35	35	Shatterbone	Shatterbone (N)	Shatterbone (H)	0
 LazBossAltarAntula	LazBossAltarAntula	Altar-Antula	laz_arachspecial1	24	A3 Fane		18	30	0	0	0	1	0	1	36	36	36	Act 3 Super C	Act 3 (N) Super C	Act 3 (H) Super C	0
-Icehawk Riftwing	LazBossKhamar	Khamar the Skulking	laz_mummyboss1	25	A3 Sewers	sudisgusting	7	25	0	6	7	1	0		21	21	21	Khamar	Khamar (N)	Khamar (H)	0
+Icehawk Riftwing	LazBossKhamar	Khamar the Skulking	laz_mummyboss1	25	A3 Sewers	sudisgusting	7	25	0	0	0	1	0		21	21	21	Khamar	Khamar (N)	Khamar (H)	0
 Ismail Vilehand	LazBossVephar	Vephar Scarhand	laz_councilmembersuper1	26	Quest		9	28	0	0	0	1	0		36	36	36	Council	Council (N)	Council (H)	0
 Geleb Flamefinger	LazBossSkomara	Skomara Magelord	laz_councilmembersuper2	27	Quest		18	26	0	0	0	1	0		37	37	37	Council	Council (N)	Council (H)	0
 Bremm Sparkfist	LazBossBarsam	Barsam Hellstorm	laz_councilmembersuper3	28	Quest		17	8	0	0	0	1	0		22	22	22	Council	Council (N)	Council (H)	0
