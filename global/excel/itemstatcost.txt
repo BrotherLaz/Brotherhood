@@ -84,7 +84,7 @@ item_knockback	81		1	8							1				105	0		7	0	7	0											1	domeleedamage	7	dom
 item_timeduration	82		1	10														9	20	9	20																														0
 item_addclassskills	83		1	4	3						1				49523	1560		3	0	3	0	3															150	13		ModStr3a	ModStr3a										0
 unsentparam1	84																	3	0																																0
-item_addexperience	85		1	9											36015	519		3	0	9	50																11	19		Moditem2ExpG	Moditem2ExpG									2	0
+item_addexperience	85		1	9											3605	100		3	0	9	50																11	19		Moditem2ExpG	Moditem2ExpG									2	0
 item_healafterkill	86		1	7							1				30	101		3	0	7	0												kill	28			16	19		ModitemHPaK	ModitemHPaK									2	0
 item_reducedprices	87			8											18957	203		3	0	7	0																8	19		ModitemRedVendP	ModitemRedVendP									2	0
 item_doubleherbduration	88		1	2														1	0	1	0																														0
@@ -92,19 +92,19 @@ item_lightradius	89		1	5							1				15	51		4	4	4	4																6	19		ModStr3f
 item_lightcolor	90		1	24							1				155	0		5	0	24	0																														0
 item_req_percent	91		1	9											26	-34		8	100	9	100																1	19		ModStr3h	ModStr3h										0
 item_levelreq	92																	6	20	8	50																														0
-item_fasterattackrate	93	1	1	9											1042	156		7	20	7	20											1					145	19		ModStr4m	ModAttackNeg									2	0
+item_fasterattackrate	93	1	1	9											585	96		7	20	7	20											1					145	19		ModStr4m	ModAttackNeg									2	0
 item_levelreqpct	94		1	8														7	20	7	64			13			item_levelreq										1	19		ModLevelReq	ModLevelReq										0
 lastblockframe	95																	6	20																																0
-item_fastermovevelocity	96	1	1	9											4083	156		7	20	7	30																148	19		ModStr4s	ModMoveNeg									2	0
+item_fastermovevelocity	96	1	1	9											585	96		7	20	7	30																148	19		ModStr4s	ModMoveNeg									2	0
 item_nonclassskill	97		1	15	10						1			1	181	327		7	20	6	0	10															81	28		ItemModifierNonClassSkill	ItemModifierNonClassSkill										0
 state	98	1		1	8						1				415	64		6	20	1		8																													0
-item_fastergethitrate	99	1	1	9											1065	72		7	20	7	30																139	19		ModStr4p	ModBalanceNeg									2	0
+item_fastergethitrate	99	1	1	9											585	96		7	20	7	30																139	19		ModStr4p	ModBalanceNeg									2	0
 monster_playercount	100																	7	20																																0
 skill_poison_override_length	101			8														6	20																																0
-item_fasterblockrate	102	1	1	9											1484	72		7	20	7	30																136	19		ModStr4y	ModBlockNeg									2	0
+item_fasterblockrate	102	1	1	9											585	96		7	20	7	30																136	19		ModStr4y	ModBlockNeg									2	0
 skill_bypass_undead	103			1											50525	250		7	20	1	0																14	19		ModIgnoreUndead	ModIgnoreUndead										0
 skill_bypass_demons	104			1											50525	250		6	20	1	0																15	19		ModIgnoreDemons	ModIgnoreDemons										0
-item_fastercastrate	105	1	1	9											3876	156		7	20	7	30																142	19		ModStr4v	ModCastNeg									2	0
+item_fastercastrate	105	1	1	9											585	96		7	20	7	30																142	19		ModStr4v	ModCastNeg									2	0
 skill_bypass_beasts	106			1											50525	250		7	20	1	0																16	19		ModIgnoreBeasts	ModIgnoreBeasts										0
 item_singleskill	107		1	16	10						1			1	181	256		14	0	4	0	10															81	27		ItemModifierClassSkill	ItemModifierClassSkill										0
 item_restinpeace	108			1							1				1987	0		14	0	1	0											1	kill	29			81	19		ModitemSMRIP	ModitemSMRIP									2	0

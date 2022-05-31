@@ -92,14 +92,14 @@ Act 2 (H) Junk	Pots/Tpots/Keys/Scrolls/Ammo									1						Potion 6	8	Misc 2	4	A
 Act 3 (H) Junk	Pots/Tpots/Keys/Scrolls/Ammo									1						Potion 6	8	Misc 2	4	Ammo	4	Act 2 (H) Junk	2																0
 Act 4 (H) Junk	Pots/Tpots/Keys/Scrolls/Ammo									1						Potion 6	8	Misc 2	4	Ammo	4	Act 3 (H) Junk	2																0
 Act 5 (H) Junk	Pots/Tpots/Keys/Scrolls/Ammo									1						Potion 6	8	Misc 2	4	Ammo	4	Act 4 (H) Junk	2																0
-Trophy Dust	Crafting									1						du1	1	du2	1	du3	1	du4	1																0
-Old Religion Herb 1	Crafting									1						w36	1	w37	1	w38	1	w39	1	w40	1														0
-Old Religion Herb 2	Crafting									1						w29	1	w30	1	w31	1	w32	1	w33	1	w34	1	w35	1	Old Religion Herb 1	5								0
-Old Religion Herb 3	Crafting									1						w22	1	w23	1	w24	1	w25	1	w26	1	w27	1	w28	1	Old Religion Herb 2	12								0
-Old Religion Herb 4	Crafting									1						w15	1	w16	1	w17	1	w18	1	w19	1	w20	1	w21	1	Old Religion Herb 3	19								0
-Old Religion Herb 5	Crafting									1						w08	1	w09	1	w10	1	w11	1	w12	1	w13	1	w14	1	Old Religion Herb 4	26								0
-Old Religion Herb	Crafting									1						w01	1	w02	1	w03	1	w04	1	w05	1	w06	1	w07	1	Old Religion Herb 5	33								0
-Sankekur Holy Symbol	Crafting									1						sxg	1																						0
+Chaosphere Dust	Chaosphere crafting									1						du1	1	du2	1	du3	1	du4	1																0
+Old Religion Herb 1	Old Religion crafting									1						w36	1	w37	1	w38	1	w39	1	w40	1														0
+Old Religion Herb 2	Old Religion crafting									1						w29	1	w30	1	w31	1	w32	1	w33	1	w34	1	w35	1	Old Religion Herb 1	5								0
+Old Religion Herb 3	Old Religion crafting									1						w22	1	w23	1	w24	1	w25	1	w26	1	w27	1	w28	1	Old Religion Herb 2	12								0
+Old Religion Herb 4	Old Religion crafting									1						w15	1	w16	1	w17	1	w18	1	w19	1	w20	1	w21	1	Old Religion Herb 3	19								0
+Old Religion Herb 5	Old Religion crafting									1						w08	1	w09	1	w10	1	w11	1	w12	1	w13	1	w14	1	Old Religion Herb 4	26								0
+Old Religion Herb	Old Religion crafting									1						w01	1	w02	1	w03	1	w04	1	w05	1	w06	1	w07	1	Old Religion Herb 5	33								0
+Sankekur Holy Symbol	Bust of Sankekur crafting									1						sxg	1																						0
 Prefix Orb 1	Crafting									1						i29	1	i30	1	i31	1	i32	1	i33	1	i34	1	i35	1										0
 Prefix Orb 2	Crafting									1						i22	1	i23	1	i24	1	i25	1	i26	1	i27	1	i28	1	Prefix Orb 1	7								0
 Prefix Orb 3	Crafting									1						i15	1	i16	1	i17	1	i18	1	i19	1	i20	1	i21	1	Prefix Orb 2	14								0
@@ -147,14 +147,14 @@ Act 4 Crafting Good	Crafting Good pieces						40			1						Crafting Common	12	Por
 Act 5 Crafting Good	Crafting Good pieces						40			1						Crafting Common	12	Portal Generator	8	Act 5 Ingredient Scroll	8	Clockwork Orb	4	Old Religion Herb	8											40			0
 Act 1 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	10	Portal Generator	8	Act 1 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8									40			0
 Act 2 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	10	Portal Generator	8	Act 2 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8									40			0
-Act 3 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 3 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							40			0
-Act 4 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 4 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							40			0
-Act 5 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 5 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							40			0
-Act 1 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 1 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							40			0
-Act 2 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 2 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4							40			0
-Act 3 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	2	Portal Generator	8	Act 3 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4	Sankekur Holy Symbol	4					40			0
-Act 4 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	2	Portal Generator	8	Act 4 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4	Sankekur Holy Symbol	4					40			0
-Act 5 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	2	Portal Generator	8	Act 5 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Trophy Dust	4	Sankekur Holy Symbol	4					40			0
+Act 3 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 3 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Chaosphere Dust	4							40			0
+Act 4 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 4 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Chaosphere Dust	4							40			0
+Act 5 (N) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 5 (N) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Chaosphere Dust	4							40			0
+Act 1 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 1 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Chaosphere Dust	4							40			0
+Act 2 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	6	Portal Generator	8	Act 2 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Chaosphere Dust	4							40			0
+Act 3 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	2	Portal Generator	8	Act 3 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Chaosphere Dust	4	Sankekur Holy Symbol	4					40			0
+Act 4 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	2	Portal Generator	8	Act 4 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Chaosphere Dust	4	Sankekur Holy Symbol	4					40			0
+Act 5 (H) Crafting Good	Crafting Good pieces						40			1						Crafting Common	2	Portal Generator	8	Act 5 (H) Ingredient Scroll	8	Clockwork Orb	4	Crafting Unique	2	Old Religion Herb	8	Chaosphere Dust	4	Sankekur Holy Symbol	4					40			0
 Act 3 Crafting	Crafting pieces									1						Crafting Common	30	Act 3 Crafting Good	20																	50			0
 Act 4 Crafting	Crafting pieces									1						Crafting Common	30	Act 4 Crafting Good	20																	50			0
 Act 5 Crafting	Crafting pieces									1						Crafting Common	30	Act 5 Crafting Good	20																	50			0
@@ -996,102 +996,105 @@ Act 4 (H) Super C	Superunique		278,57%	4,95%	12,39%	35,31%	100,00%	18	87	-6	900	
 Act 5 (H) Super A	Superunique		280,18%	4,95%	12,39%	35,31%	100,00%	18	90	-6	900	900	966	1024	0	Act 5 (H) Citem A	2	Act 5 (H) Uitem A	2	Potion 6 Special	2																		0
 Act 5 (H) Super B	Superunique		281,82%	4,95%	12,39%	35,31%	100,00%	18	93	-6	900	900	966	1024	0	Act 5 (H) Citem B	2	Act 5 (H) Uitem B	2	Potion 6 Special	2																		0
 Act 5 (H) Super C	Superunique		283,49%	4,95%	12,39%	35,31%	100,00%	18	96	-6	900	900	966	1024	0	Act 5 (H) Citem C	2	Act 5 (H) Uitem C	2	Potion 6 Special	2																		0
-Act 1 Super Ax	Nerfed Superunique		166,67%	1,04%	3,00%	10,72%	100,00%	18	0	-4	433	512	833	1024	0	Act 1 Citem A	1	Act 1 Uitem A	1	Potion 2	2																		0
-Act 1 Super Bx	Nerfed Superunique		167,11%	1,04%	3,00%	10,72%	100,00%	18	5	-4	433	512	833	1024	0	Act 1 Citem B	1	Act 1 Uitem B	1	Potion 4	2																		0
-Act 1 Super Cx	Nerfed Superunique		167,57%	1,04%	3,00%	10,72%	100,00%	18	9	-4	433	512	833	1024	0	Act 1 Citem C	1	Act 1 Uitem C	1	Potion 6	2																		0
-Act 2 Super Ax	Nerfed Superunique		168,03%	1,04%	3,00%	10,72%	100,00%	18	12	-4	433	512	833	1024	0	Act 2 Citem A	1	Act 2 Uitem A	1	Potion 6 Special	2																		0
-Act 2 Super Bx	Nerfed Superunique		168,49%	1,04%	3,00%	10,72%	100,00%	18	15	-4	433	512	833	1024	0	Act 2 Citem B	1	Act 2 Uitem B	1	Potion 6 Special	2																		0
-Act 2 Super Cx	Nerfed Superunique		168,97%	1,04%	3,00%	10,72%	100,00%	18	18	-4	433	512	833	1024	0	Act 2 Citem C	1	Act 2 Uitem C	1	Potion 6 Special	2																		0
-Act 3 Super Ax	Nerfed Superunique		169,44%	1,04%	3,00%	10,72%	100,00%	18	20	-4	433	512	833	1024	0	Act 3 Citem A	1	Act 3 Uitem A	1	Potion 6 Special	2																		0
-Act 3 Super Bx	Nerfed Superunique		169,93%	1,04%	3,00%	10,72%	100,00%	18	22	-4	433	512	833	1024	0	Act 3 Citem B	1	Act 3 Uitem B	1	Potion 6 Special	2																		0
-Act 3 Super Cx	Nerfed Superunique		170,42%	1,04%	3,00%	10,72%	100,00%	18	24	-4	433	512	833	1024	0	Act 3 Citem C	1	Act 3 Uitem C	1	Potion 6 Special	2																		0
-Act 4 Super Ax	Nerfed Superunique		170,92%	1,04%	3,00%	10,72%	100,00%	18	26	-4	433	512	833	1024	0	Act 4 Citem A	1	Act 4 Uitem A	1	Potion 6 Special	2																		0
-Act 4 Super Bx	Nerfed Superunique		171,43%	1,04%	3,00%	10,72%	100,00%	18	29	-4	433	512	833	1024	0	Act 4 Citem B	1	Act 4 Uitem B	1	Potion 6 Special	2																		0
-Act 4 Super Cx	Nerfed Superunique		171,43%	1,04%	3,00%	10,72%	100,00%	18	32	-4	433	512	833	1024	0	Act 4 Citem B	1	Act 4 Uitem B	1	Potion 6 Special	2																		0
-Act 5 Super Ax	Nerfed Superunique		171,94%	1,04%	3,00%	10,72%	100,00%	18	34	-4	433	512	833	1024	0	Act 5 Citem A	1	Act 5 Uitem A	1	Potion 6 Special	2																		0
-Act 5 Super Bx	Nerfed Superunique		172,46%	1,04%	3,00%	10,72%	100,00%	18	36	-4	433	512	833	1024	0	Act 5 Citem B	1	Act 5 Uitem B	1	Potion 6 Special	2																		0
-Act 5 Super Cx	Nerfed Superunique		172,99%	1,04%	3,00%	10,72%	100,00%	18	38	-4	433	512	833	1024	0	Act 5 Citem C	1	Act 5 Uitem C	1	Potion 6 Special	2																		0
-Act 1 (N) Super Ax	Nerfed Superunique		173,53%	1,04%	3,00%	10,72%	100,00%	18	40	-4	433	512	833	1024	0	Act 1 (N) Citem A	1	Act 1 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 1 (N) Super Bx	Nerfed Superunique		174,07%	1,04%	3,00%	10,72%	100,00%	18	41	-4	433	512	833	1024	0	Act 1 (N) Citem B	1	Act 1 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 1 (N) Super Cx	Nerfed Superunique		174,63%	1,04%	3,00%	10,72%	100,00%	18	42	-4	433	512	833	1024	0	Act 1 (N) Citem C	1	Act 1 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 2 (N) Super Ax	Nerfed Superunique		175,19%	1,04%	3,00%	10,72%	100,00%	18	44	-4	433	512	833	1024	0	Act 2 (N) Citem A	1	Act 2 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 2 (N) Super Bx	Nerfed Superunique		175,76%	1,04%	3,00%	10,72%	100,00%	18	45	-4	433	512	833	1024	0	Act 2 (N) Citem B	1	Act 2 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 2 (N) Super Cx	Nerfed Superunique		176,34%	1,04%	3,00%	10,72%	100,00%	18	46	-4	433	512	833	1024	0	Act 2 (N) Citem C	1	Act 2 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 3 (N) Super Ax	Nerfed Superunique		176,92%	1,04%	3,00%	10,72%	100,00%	18	48	-4	433	512	833	1024	0	Act 3 (N) Citem A	1	Act 3 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 3 (N) Super Bx	Nerfed Superunique		177,52%	1,04%	3,00%	10,72%	100,00%	18	50	-4	433	512	833	1024	0	Act 3 (N) Citem B	1	Act 3 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 3 (N) Super Cx	Nerfed Superunique		178,13%	1,04%	3,00%	10,72%	100,00%	18	51	-4	433	512	833	1024	0	Act 3 (N) Citem C	1	Act 3 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 4 (N) Super Ax	Nerfed Superunique		178,74%	1,04%	3,00%	10,72%	100,00%	18	54	-4	433	512	833	1024	0	Act 4 (N) Citem A	1	Act 4 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 4 (N) Super Bx	Nerfed Superunique		179,37%	1,04%	3,00%	10,72%	100,00%	18	57	-4	433	512	833	1024	0	Act 4 (N) Citem B	1	Act 4 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 4 (N) Super Cx	Nerfed Superunique		179,37%	1,04%	3,00%	10,72%	100,00%	18	60	-4	433	512	833	1024	0	Act 4 (N) Citem B	1	Act 4 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (N) Super Ax	Nerfed Superunique		180,00%	1,04%	3,00%	10,72%	100,00%	18	62	-4	433	512	833	1024	0	Act 5 (N) Citem A	1	Act 5 (N) Uitem A	1	Potion 6 Special	2																		0
-Act 5 (N) Super Bx	Nerfed Superunique		180,65%	1,04%	3,00%	10,72%	100,00%	18	63	-4	433	512	833	1024	0	Act 5 (N) Citem B	1	Act 5 (N) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (N) Super Cx	Nerfed Superunique		181,30%	1,04%	3,00%	10,72%	100,00%	18	66	-4	433	512	833	1024	0	Act 5 (N) Citem C	1	Act 5 (N) Uitem C	1	Potion 6 Special	2																		0
-Act 1 (H) Super Ax	Nerfed Superunique		181,97%	1,04%	3,00%	10,72%	100,00%	18	67	-4	433	512	833	1024	0	Act 1 (H) Citem A	1	Act 1 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 1 (H) Super Bx	Nerfed Superunique		182,64%	1,04%	3,00%	10,72%	100,00%	18	67	-4	433	512	833	1024	0	Act 1 (H) Citem B	1	Act 1 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 1 (H) Super Cx	Nerfed Superunique		183,33%	1,04%	3,00%	10,72%	100,00%	18	68	-4	433	512	833	1024	0	Act 1 (H) Citem C	1	Act 1 (H) Uitem C	1	Potion 6 Special	2																		0
-Act 2 (H) Super Ax	Nerfed Superunique		184,03%	1,04%	3,00%	10,72%	100,00%	18	68	-4	433	512	833	1024	0	Act 2 (H) Citem A	1	Act 2 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 2 (H) Super Bx	Nerfed Superunique		184,75%	1,04%	3,00%	10,72%	100,00%	18	69	-4	433	512	833	1024	0	Act 2 (H) Citem B	1	Act 2 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 2 (H) Super Cx	Nerfed Superunique		185,47%	1,04%	3,00%	10,72%	100,00%	18	72	-4	433	512	833	1024	0	Act 2 (H) Citem C	1	Act 2 (H) Uitem C	1	Potion 6 Special	2																		0
-Act 3 (H) Super Ax	Nerfed Superunique		186,21%	1,04%	3,00%	10,72%	100,00%	18	73	-4	433	512	833	1024	0	Act 3 (H) Citem A	1	Act 3 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 3 (H) Super Bx	Nerfed Superunique		186,96%	1,04%	3,00%	10,72%	100,00%	18	75	-4	433	512	833	1024	0	Act 3 (H) Citem B	1	Act 3 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 3 (H) Super Cx	Nerfed Superunique		187,72%	1,04%	3,00%	10,72%	100,00%	18	78	-4	433	512	833	1024	0	Act 3 (H) Citem C	1	Act 3 (H) Uitem C	1	Potion 6 Special	2																		0
-Act 4 (H) Super Ax	Nerfed Superunique		188,50%	1,04%	3,00%	10,72%	100,00%	18	81	-4	433	512	833	1024	0	Act 4 (H) Citem A	1	Act 4 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 4 (H) Super Bx	Nerfed Superunique		189,29%	1,04%	3,00%	10,72%	100,00%	18	84	-4	433	512	833	1024	0	Act 4 (H) Citem B	1	Act 4 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 4 (H) Super Cx	Nerfed Superunique		189,29%	1,04%	3,00%	10,72%	100,00%	18	87	-4	433	512	833	1024	0	Act 4 (H) Citem B	1	Act 4 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (H) Super Ax	Nerfed Superunique		190,09%	1,04%	3,00%	10,72%	100,00%	18	90	-4	433	512	833	1024	0	Act 5 (H) Citem A	1	Act 5 (H) Uitem A	1	Potion 6 Special	2																		0
-Act 5 (H) Super Bx	Nerfed Superunique		190,91%	1,04%	3,00%	10,72%	100,00%	18	93	-4	433	512	833	1024	0	Act 5 (H) Citem B	1	Act 5 (H) Uitem B	1	Potion 6 Special	2																		0
-Act 5 (H) Super Cx	Nerfed Superunique		191,74%	1,04%	3,00%	10,72%	100,00%	18	96	-4	433	512	833	1024	0	Act 5 (H) Citem C	1	Act 5 (H) Uitem C	1	Potion 6 Special	2																		0
-Drop Trophy 1	Boss drops for new items									-1	1024	1024	1024	1024	0	rf1	1																						0
-Drop Trophy 1 (N)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf1	1																						0
-Drop Trophy 1 (H)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf1	1																						0
-Drop Trophy 2	Boss drops for new items									-1	1024	1024	1024	1024	0	rf2	1																						0
-Drop Trophy 2 (N)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf2	1																						0
-Drop Trophy 2 (H)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf2	1																						0
+Act 1 Super Ax	Nerfed Superunique		166,67%	1,04%	3,00%	10,72%	100,00%	18	0	-4	433	512	833	1024	0	Act 1 Citem A	1	Act 1 Uitem A	2	Potion 2	2																		0
+Act 1 Super Bx	Nerfed Superunique		167,11%	1,04%	3,00%	10,72%	100,00%	18	5	-4	433	512	833	1024	0	Act 1 Citem B	1	Act 1 Uitem B	2	Potion 4	2																		0
+Act 1 Super Cx	Nerfed Superunique		167,57%	1,04%	3,00%	10,72%	100,00%	18	9	-4	433	512	833	1024	0	Act 1 Citem C	1	Act 1 Uitem C	2	Potion 6	2																		0
+Act 2 Super Ax	Nerfed Superunique		168,03%	1,04%	3,00%	10,72%	100,00%	18	12	-4	433	512	833	1024	0	Act 2 Citem A	1	Act 2 Uitem A	2	Potion 6 Special	2																		0
+Act 2 Super Bx	Nerfed Superunique		168,49%	1,04%	3,00%	10,72%	100,00%	18	15	-4	433	512	833	1024	0	Act 2 Citem B	1	Act 2 Uitem B	2	Potion 6 Special	2																		0
+Act 2 Super Cx	Nerfed Superunique		168,97%	1,04%	3,00%	10,72%	100,00%	18	18	-4	433	512	833	1024	0	Act 2 Citem C	1	Act 2 Uitem C	2	Potion 6 Special	2																		0
+Act 3 Super Ax	Nerfed Superunique		169,44%	1,04%	3,00%	10,72%	100,00%	18	20	-4	433	512	833	1024	0	Act 3 Citem A	1	Act 3 Uitem A	2	Potion 6 Special	2																		0
+Act 3 Super Bx	Nerfed Superunique		169,93%	1,04%	3,00%	10,72%	100,00%	18	22	-4	433	512	833	1024	0	Act 3 Citem B	1	Act 3 Uitem B	2	Potion 6 Special	2																		0
+Act 3 Super Cx	Nerfed Superunique		170,42%	1,04%	3,00%	10,72%	100,00%	18	24	-4	433	512	833	1024	0	Act 3 Citem C	1	Act 3 Uitem C	2	Potion 6 Special	2																		0
+Act 4 Super Ax	Nerfed Superunique		170,92%	1,04%	3,00%	10,72%	100,00%	18	26	-4	433	512	833	1024	0	Act 4 Citem A	1	Act 4 Uitem A	2	Potion 6 Special	2																		0
+Act 4 Super Bx	Nerfed Superunique		171,43%	1,04%	3,00%	10,72%	100,00%	18	29	-4	433	512	833	1024	0	Act 4 Citem B	1	Act 4 Uitem B	2	Potion 6 Special	2																		0
+Act 4 Super Cx	Nerfed Superunique		171,43%	1,04%	3,00%	10,72%	100,00%	18	32	-4	433	512	833	1024	0	Act 4 Citem B	1	Act 4 Uitem B	2	Potion 6 Special	2																		0
+Act 5 Super Ax	Nerfed Superunique		171,94%	1,04%	3,00%	10,72%	100,00%	18	34	-4	433	512	833	1024	0	Act 5 Citem A	1	Act 5 Uitem A	2	Potion 6 Special	2																		0
+Act 5 Super Bx	Nerfed Superunique		172,46%	1,04%	3,00%	10,72%	100,00%	18	36	-4	433	512	833	1024	0	Act 5 Citem B	1	Act 5 Uitem B	2	Potion 6 Special	2																		0
+Act 5 Super Cx	Nerfed Superunique		172,99%	1,04%	3,00%	10,72%	100,00%	18	38	-4	433	512	833	1024	0	Act 5 Citem C	1	Act 5 Uitem C	2	Potion 6 Special	2																		0
+Act 1 (N) Super Ax	Nerfed Superunique		173,53%	1,04%	3,00%	10,72%	100,00%	18	40	-4	433	512	833	1024	0	Act 1 (N) Citem A	1	Act 1 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 1 (N) Super Bx	Nerfed Superunique		174,07%	1,04%	3,00%	10,72%	100,00%	18	41	-4	433	512	833	1024	0	Act 1 (N) Citem B	1	Act 1 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 1 (N) Super Cx	Nerfed Superunique		174,63%	1,04%	3,00%	10,72%	100,00%	18	42	-4	433	512	833	1024	0	Act 1 (N) Citem C	1	Act 1 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 2 (N) Super Ax	Nerfed Superunique		175,19%	1,04%	3,00%	10,72%	100,00%	18	44	-4	433	512	833	1024	0	Act 2 (N) Citem A	1	Act 2 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 2 (N) Super Bx	Nerfed Superunique		175,76%	1,04%	3,00%	10,72%	100,00%	18	45	-4	433	512	833	1024	0	Act 2 (N) Citem B	1	Act 2 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 2 (N) Super Cx	Nerfed Superunique		176,34%	1,04%	3,00%	10,72%	100,00%	18	46	-4	433	512	833	1024	0	Act 2 (N) Citem C	1	Act 2 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 3 (N) Super Ax	Nerfed Superunique		176,92%	1,04%	3,00%	10,72%	100,00%	18	48	-4	433	512	833	1024	0	Act 3 (N) Citem A	1	Act 3 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 3 (N) Super Bx	Nerfed Superunique		177,52%	1,04%	3,00%	10,72%	100,00%	18	50	-4	433	512	833	1024	0	Act 3 (N) Citem B	1	Act 3 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 3 (N) Super Cx	Nerfed Superunique		178,13%	1,04%	3,00%	10,72%	100,00%	18	51	-4	433	512	833	1024	0	Act 3 (N) Citem C	1	Act 3 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 4 (N) Super Ax	Nerfed Superunique		178,74%	1,04%	3,00%	10,72%	100,00%	18	54	-4	433	512	833	1024	0	Act 4 (N) Citem A	1	Act 4 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 4 (N) Super Bx	Nerfed Superunique		179,37%	1,04%	3,00%	10,72%	100,00%	18	57	-4	433	512	833	1024	0	Act 4 (N) Citem B	1	Act 4 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 4 (N) Super Cx	Nerfed Superunique		179,37%	1,04%	3,00%	10,72%	100,00%	18	60	-4	433	512	833	1024	0	Act 4 (N) Citem B	1	Act 4 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (N) Super Ax	Nerfed Superunique		180,00%	1,04%	3,00%	10,72%	100,00%	18	62	-4	433	512	833	1024	0	Act 5 (N) Citem A	1	Act 5 (N) Uitem A	2	Potion 6 Special	2																		0
+Act 5 (N) Super Bx	Nerfed Superunique		180,65%	1,04%	3,00%	10,72%	100,00%	18	63	-4	433	512	833	1024	0	Act 5 (N) Citem B	1	Act 5 (N) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (N) Super Cx	Nerfed Superunique		181,30%	1,04%	3,00%	10,72%	100,00%	18	66	-4	433	512	833	1024	0	Act 5 (N) Citem C	1	Act 5 (N) Uitem C	2	Potion 6 Special	2																		0
+Act 1 (H) Super Ax	Nerfed Superunique		181,97%	1,04%	3,00%	10,72%	100,00%	18	67	-4	433	512	833	1024	0	Act 1 (H) Citem A	1	Act 1 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 1 (H) Super Bx	Nerfed Superunique		182,64%	1,04%	3,00%	10,72%	100,00%	18	67	-4	433	512	833	1024	0	Act 1 (H) Citem B	1	Act 1 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 1 (H) Super Cx	Nerfed Superunique		183,33%	1,04%	3,00%	10,72%	100,00%	18	68	-4	433	512	833	1024	0	Act 1 (H) Citem C	1	Act 1 (H) Uitem C	2	Potion 6 Special	2																		0
+Act 2 (H) Super Ax	Nerfed Superunique		184,03%	1,04%	3,00%	10,72%	100,00%	18	68	-4	433	512	833	1024	0	Act 2 (H) Citem A	1	Act 2 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 2 (H) Super Bx	Nerfed Superunique		184,75%	1,04%	3,00%	10,72%	100,00%	18	69	-4	433	512	833	1024	0	Act 2 (H) Citem B	1	Act 2 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 2 (H) Super Cx	Nerfed Superunique		185,47%	1,04%	3,00%	10,72%	100,00%	18	72	-4	433	512	833	1024	0	Act 2 (H) Citem C	1	Act 2 (H) Uitem C	2	Potion 6 Special	2																		0
+Act 3 (H) Super Ax	Nerfed Superunique		186,21%	1,04%	3,00%	10,72%	100,00%	18	73	-4	433	512	833	1024	0	Act 3 (H) Citem A	1	Act 3 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 3 (H) Super Bx	Nerfed Superunique		186,96%	1,04%	3,00%	10,72%	100,00%	18	75	-4	433	512	833	1024	0	Act 3 (H) Citem B	1	Act 3 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 3 (H) Super Cx	Nerfed Superunique		187,72%	1,04%	3,00%	10,72%	100,00%	18	78	-4	433	512	833	1024	0	Act 3 (H) Citem C	1	Act 3 (H) Uitem C	2	Potion 6 Special	2																		0
+Act 4 (H) Super Ax	Nerfed Superunique		188,50%	1,04%	3,00%	10,72%	100,00%	18	81	-4	433	512	833	1024	0	Act 4 (H) Citem A	1	Act 4 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 4 (H) Super Bx	Nerfed Superunique		189,29%	1,04%	3,00%	10,72%	100,00%	18	84	-4	433	512	833	1024	0	Act 4 (H) Citem B	1	Act 4 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 4 (H) Super Cx	Nerfed Superunique		189,29%	1,04%	3,00%	10,72%	100,00%	18	87	-4	433	512	833	1024	0	Act 4 (H) Citem B	1	Act 4 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (H) Super Ax	Nerfed Superunique		190,09%	1,04%	3,00%	10,72%	100,00%	18	90	-4	433	512	833	1024	0	Act 5 (H) Citem A	1	Act 5 (H) Uitem A	2	Potion 6 Special	2																		0
+Act 5 (H) Super Bx	Nerfed Superunique		190,91%	1,04%	3,00%	10,72%	100,00%	18	93	-4	433	512	833	1024	0	Act 5 (H) Citem B	1	Act 5 (H) Uitem B	2	Potion 6 Special	2																		0
+Act 5 (H) Super Cx	Nerfed Superunique		191,74%	1,04%	3,00%	10,72%	100,00%	18	96	-4	433	512	833	1024	0	Act 5 (H) Citem C	1	Act 5 (H) Uitem C	2	Potion 6 Special	2																		0
+Trophy Chaosphere	Chaosphere									-1	1024	1024	1024	1024	0	rf1	1																						0
+Trophy Chaosphere (N)	Chaosphere									-1	1024	1024	1024	1024	0	rf1	1																						0
+Trophy Chaosphere (H)	Chaosphere									-1	1024	1024	1024	1024	0	rf1	1																						0
+Trophy Old Religion	Old Religion									-1	1024	1024	1024	1024	0	rf2	1																						0
+Trophy Old Religion (N)	Old Religion									-1	1024	1024	1024	1024	0	rf2	1																						0
+Trophy Old Religion (H)	Old Religion									-1	1024	1024	1024	1024	0	rf2	1																						0
 Drop Trophy 3	Boss drops for new items									-1	1024	1024	1024	1024	0	rf3	1																						0
 Drop Trophy 3 (N)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf3	1																						0
 Drop Trophy 3 (H)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf3	1																						0
-Drop Trophy 4	Boss drops for new items									-1	1024	1024	1024	1024	0	rf4	1																						0
-Drop Trophy 4 (N)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf4	1																						0
-Drop Trophy 4 (H)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf4	1																						0
-Blood Raven	Mini Boss	2 items + 1 gem + 2 potions	234,23%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 Citem B	2	Act 1 Uitem B	1	Potion 2	2																		0
-Blood Raven (N)	Mini Boss	2 items + 1 gem + 2 potions	248,15%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 (N) Citem B	2	Act 1 (N) Uitem B	1	Potion 6 Special	2																		0
-Blood Raven (H)	Mini Boss	2 items + 1 gem + 2 potions	265,29%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 (H) Citem B	2	Act 1 (H) Uitem B	1	Potion 6 Special	2																		0
-Griswold	Mini Boss	2 items + 1 gem + 2 potions	235,14%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 Citem C	2	Act 1 Uitem C	1	Potion 4	2																		0
-Griswold (N)	Mini Boss	2 items + 1 gem + 2 potions	266,67%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	1	Potion 6 Special	2																		0
-Griswold (H)	Mini Boss	2 items + 1 gem + 2 potions	266,67%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	1	Potion 6 Special	2																		0
+Drop Trophy 4	Bust of Sankekur									-1	1024	1024	1024	1024	0	rf4	1																						0
+Drop Trophy 4 (N)	Bust of Sankekur									-1	1024	1024	1024	1024	0	rf4	1																						0
+Drop Trophy 4 (H)	Bust of Sankekur									-1	1024	1024	1024	1024	0	rf4	1																						0
+Blood Raven	Mini Boss	2 items + 1 gem + 2 potions	234,23%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 Citem B	2	Act 1 Uitem B	2	Potion 2	2																		0
+Blood Raven (N)	Mini Boss	2 items + 1 gem + 2 potions	248,15%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 (N) Citem B	2	Act 1 (N) Uitem B	2	Potion 6 Special	2																		0
+Blood Raven (H)	Mini Boss	2 items + 1 gem + 2 potions	265,29%	1,60%	5,28%	16,52%	100,00%			-5	640	733	900	1024	0	Act 1 (H) Citem B	2	Act 1 (H) Uitem B	2	Potion 6 Special	2																		0
+Griswold	Mini Boss	2 items + 1 gem + 2 potions	235,14%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 Citem C	2	Act 1 Uitem C	2	Potion 4	2																		0
+Griswold (N)	Mini Boss	2 items + 1 gem + 2 potions	266,67%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	2	Potion 6 Special	2																		0
+Griswold (H)	Mini Boss	2 items + 1 gem + 2 potions	266,67%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	2	Potion 6 Special	2																		0
 Countess Rune	Mini Boss Sub									4				1024	5	Runes 4	15																						0
 Countess Rune (N)	Mini Boss Sub									4				1024	5	Runes 8	15																						0
 Countess Rune (H)	Mini Boss Sub									4				1024	5	Runes 12	15																						0
-Countess Item	Deprecated	2 items + 1 gem + 2 potions	235,14%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 Citem C	2	Act 1 Uitem C	1	Potion 4	2																		0
-Countess Item (N)	Deprecated	2 items + 1 gem + 2 potions	266,67%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	1	Potion 6 Special	2																		0
-Countess Item (H)	Deprecated	2 items + 1 gem + 2 potions	266,67%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	1	Potion 6 Special	2																		0
+Countess Item	Deprecated	2 items + 1 gem + 2 potions	235,14%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 Citem C	2	Act 1 Uitem C	2	Potion 4	2																		0
+Countess Item (N)	Deprecated	2 items + 1 gem + 2 potions	266,67%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	2	Potion 6 Special	2																		0
+Countess Item (H)	Deprecated	2 items + 1 gem + 2 potions	266,67%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	2	Potion 6 Special	2																		0
 Countess	Mini Boss									-5				1024	0	Act 1 Citem C	2	Countess Rune	1	Potion 4	2																		0
 Countess (N)	Mini Boss									-5				1024	0	Act 1 (H) Citem C	2	Countess Rune (N)	1	Potion 6 Special	2																		0
 Countess (H)	Mini Boss									-5				1024	0	Act 1 (H) Citem C	2	Countess Rune (H)	1	Potion 6 Special	2																		0
-Smith	Mini Boss	2 items + 1 gem + 2 potions	235,14%	1,20%	4,00%	12,96%	100,00%			-5	512	640	866	1024	0	Act 1 Citem C	2	Act 1 Uitem C	1	Potion 4	2																		0
-Smith (N)	Mini Boss	2 items + 1 gem + 2 potions	266,67%	1,20%	4,00%	12,96%	100,00%			-5	512	640	866	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	1	Potion 6 Special	2																		0
-Smith (H)	Mini Boss	2 items + 1 gem + 2 potions	266,67%	1,20%	4,00%	12,96%	100,00%			-5	512	640	866	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	1	Potion 6 Special	2																		0
-Radament	Mini Boss	2 items + 1 gem + 2 potions	236,99%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 Citem B	2	Act 2 Uitem B	1	Potion 6 Special	2																		0
-Radament (N)	Mini Boss	2 items + 1 gem + 2 potions	269,49%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 (H) Citem B	2	Act 2 (H) Uitem B	1	Potion 6 Special	2																		0
-Radament (H)	Mini Boss	2 items + 1 gem + 2 potions	269,49%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 (H) Citem B	2	Act 2 (H) Uitem B	1	Potion 6 Special	2																		0
-Summoner	Mini Boss	2 items + 1 gem + 2 potions	237,93%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 Citem C	2	Act 2 Uitem C	1	Potion 6 Special	2																		0
-Summoner (N)	Mini Boss	2 items + 1 gem + 2 potions	252,67%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 (N) Citem C	2	Act 2 (N) Uitem C	1	Drop Trophy 1 (N)	1	dust	1																0
-Summoner (H)	Mini Boss	2 items + 1 gem + 2 potions	270,94%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 (H) Citem C	2	Act 2 (H) Uitem C	1	Drop Trophy 1 (H)	1	dust	1																0
-Council	Mini Boss	2 items + 1 gem + 2 potions	241,84%	2,11%	6,86%	22,51%	100,00%			-5	733	800	933	1024	0	Act 4 Citem A	2	Act 4 Uitem A	1	Potion 6 Special	2																		0
-Council (N)	Mini Boss	2 items + 1 gem + 2 potions	257,48%	2,11%	6,86%	22,51%	100,00%			-5	733	800	933	1024	0	Act 4 (N) Citem A	2	Act 4 (N) Uitem A	1	Potion 6 Special	2																		0
-Council (H)	Mini Boss	2 items + 1 gem + 2 potions	276,99%	2,11%	6,86%	22,51%	100,00%			-5	733	800	933	1024	0	Act 4 (H) Citem A	2	Act 4 (H) Uitem A	1	Potion 6 Special	2																		0
-Izual	Mini Boss	2 items + 1 gem + 2 potions	242,86%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 4 Citem B	2	Act 4 Uitem B	1	Potion 6 Special	2																		0
-Izual (N)	Mini Boss	2 items + 1 gem + 2 potions	258,73%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 4 (N) Citem B	2	Act 4 (N) Uitem B	1	Potion 6 Special	2																		0
-Izual (H)	Mini Boss	2 items + 1 gem + 2 potions	278,57%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 4 (H) Citem B	2	Act 4 (H) Uitem B	1	Potion 6 Special	2																		0
-Haphesto	Mini Boss	2 items + 1 gem + 2 potions	243,88%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 Citem A	2	Act 5 Uitem A	1	Potion 6 Special	2																		0
-Haphesto (N)	Mini Boss	2 items + 1 gem + 2 potions	260,00%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 (N) Citem A	2	Act 5 (N) Uitem A	1	Potion 6 Special	2																		0
-Haphesto (H)	Mini Boss	2 items + 1 gem + 2 potions	280,18%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 (H) Citem A	2	Act 5 (H) Uitem A	1	Potion 6 Special	2																		0
-Nihlathak	Mini Boss	2 items + 1 gem + 2 potions	244,93%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 Citem B	2	Act 5 Uitem B	1	Potion 6 Special	2																		0
-Nihlathak (N)	Mini Boss	2 items + 1 gem + 2 potions	261,29%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 (N) Citem B	2	Act 5 (N) Uitem B	1	Potion 6 Special	2																		0
-Nihlathak (H)	Mini Boss	2 items + 1 gem + 2 potions	281,82%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 (H) Citem B	2	Act 5 (H) Uitem B	1	Potion 6 Special	2																		0
-Cow King	Mini Boss	2 items	235,14%	4,95%	12,39%	35,31%	100,00%			-6	900	900	966	1024	0	Act 1 Citem C	2	Act 1 Uitem C	1	vps	3																		0
-Cow King (N)	Mini Boss	2 items	266,67%	4,95%	12,39%	35,31%	100,00%			-6	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	1	vps	3																		0
-Cow King (H)	Mini Boss	2 items	266,67%	4,95%	12,39%	35,31%	100,00%			-6	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	1	vps	3																		0
+Smith	Mini Boss	2 items + 1 gem + 2 potions	235,14%	1,20%	4,00%	12,96%	100,00%			-5	512	640	866	1024	0	Act 1 Citem C	2	Act 1 Uitem C	2	Potion 4	2																		0
+Smith (N)	Mini Boss	2 items + 1 gem + 2 potions	266,67%	1,20%	4,00%	12,96%	100,00%			-5	512	640	866	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	2	Potion 6 Special	2																		0
+Smith (H)	Mini Boss	2 items + 1 gem + 2 potions	266,67%	1,20%	4,00%	12,96%	100,00%			-5	512	640	866	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	2	Potion 6 Special	2																		0
+Radament	Mini Boss	2 items + 1 gem + 2 potions	236,99%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 Citem B	2	Act 2 Uitem B	2	Potion 6 Special	2																		0
+Radament (N)	Mini Boss	2 items + 1 gem + 2 potions	269,49%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 (H) Citem B	2	Act 2 (H) Uitem B	2	Potion 6 Special	2																		0
+Radament (H)	Mini Boss	2 items + 1 gem + 2 potions	269,49%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 2 (H) Citem B	2	Act 2 (H) Uitem B	2	Potion 6 Special	2																		0
+Summoner	Mini Boss	2 items + 1 gem + 2 potions	237,93%	6,75%	16,88%	39,38%	100,00%			-5	933	933	972	1024	0	Act 2 Citem C	2	Act 2 Uitem C	2	Potion 6 Special	2																		0
+Summoner (N)	Mini Boss	2 items + 1 gem + 2 potions	252,67%	6,75%	16,88%	39,38%	100,00%			-6	933	933	972	1024	0	Act 2 (N) Citem C	2	Act 2 (N) Uitem C	2	Trophy Chaosphere (N)	1	dust	2																0
+Summoner (H)	Mini Boss	2 items + 1 gem + 2 potions	270,94%	6,75%	16,88%	39,38%	100,00%			-6	933	933	972	1024	0	Act 2 (H) Citem C	2	Act 2 (H) Uitem C	2	Trophy Chaosphere (H)	1	dust	2																0
+Khamar	Mini Boss	2 items + 1 gem + 2 potions	238,89%	4,95%	12,39%	35,31%	100,00%	18	20	-6	900	900	966	1024	0	Act 3 Citem B	2	Act 3 Uitem B	2	Trophy Old Religion	1	Old Religion Herb	1																0
+Khamar (N)	Mini Boss	2 items + 1 gem + 2 potions	253,85%	4,95%	12,39%	35,31%	100,00%	18	48	-6	900	900	966	1024	0	Act 3 (N) Citem B	2	Act 3 (N) Uitem B	2	Trophy Old Religion (N)	1	Old Religion Herb	1																0
+Khamar (H)	Mini Boss	2 items + 1 gem + 2 potions	272,41%	4,95%	12,39%	35,31%	100,00%	18	73	-6	900	900	966	1024	0	Act 3 (H) Citem B	2	Act 3 (H) Uitem B	2	Trophy Old Religion (H)	1	Old Religion Herb	1																0
+Council	Mini Boss	2 items + 1 gem + 2 potions	241,84%	2,11%	6,86%	22,51%	100,00%			-5	733	800	933	1024	0	Act 4 Citem A	2	Act 4 Uitem A	2	Potion 6 Special	2																		0
+Council (N)	Mini Boss	2 items + 1 gem + 2 potions	257,48%	2,11%	6,86%	22,51%	100,00%			-5	733	800	933	1024	0	Act 4 (N) Citem A	2	Act 4 (N) Uitem A	2	Potion 6 Special	2																		0
+Council (H)	Mini Boss	2 items + 1 gem + 2 potions	276,99%	2,11%	6,86%	22,51%	100,00%			-5	733	800	933	1024	0	Act 4 (H) Citem A	2	Act 4 (H) Uitem A	2	Potion 6 Special	2																		0
+Izual	Mini Boss	2 items + 1 gem + 2 potions	242,86%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 4 Citem B	2	Act 4 Uitem B	2	Potion 6 Special	2																		0
+Izual (N)	Mini Boss	2 items + 1 gem + 2 potions	258,73%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 4 (N) Citem B	2	Act 4 (N) Uitem B	2	Potion 6 Special	2																		0
+Izual (H)	Mini Boss	2 items + 1 gem + 2 potions	278,57%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 4 (H) Citem B	2	Act 4 (H) Uitem B	2	Potion 6 Special	2																		0
+Haphesto	Mini Boss	2 items + 1 gem + 2 potions	243,88%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 Citem A	2	Act 5 Uitem A	2	Potion 6 Special	2																		0
+Haphesto (N)	Mini Boss	2 items + 1 gem + 2 potions	260,00%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 (N) Citem A	2	Act 5 (N) Uitem A	2	Potion 6 Special	2																		0
+Haphesto (H)	Mini Boss	2 items + 1 gem + 2 potions	280,18%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 (H) Citem A	2	Act 5 (H) Uitem A	2	Potion 6 Special	2																		0
+Nihlathak	Mini Boss	2 items + 1 gem + 2 potions	244,93%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 Citem B	2	Act 5 Uitem B	2	Potion 6 Special	2																		0
+Nihlathak (N)	Mini Boss	2 items + 1 gem + 2 potions	261,29%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 (N) Citem B	2	Act 5 (N) Uitem B	2	Potion 6 Special	2																		0
+Nihlathak (H)	Mini Boss	2 items + 1 gem + 2 potions	281,82%	4,95%	12,39%	35,31%	100,00%			-5	900	900	966	1024	0	Act 5 (H) Citem B	2	Act 5 (H) Uitem B	2	Potion 6 Special	2																		0
+Cow King	Mini Boss	2 items	235,14%	4,95%	12,39%	35,31%	100,00%			-6	900	900	966	1024	0	Act 1 Citem C	2	Act 1 Uitem C	2	vps	3																		0
+Cow King (N)	Mini Boss	2 items	266,67%	4,95%	12,39%	35,31%	100,00%			-6	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	2	vps	3																		0
+Cow King (H)	Mini Boss	2 items	266,67%	4,95%	12,39%	35,31%	100,00%			-6	900	900	966	1024	0	Act 1 (H) Citem C	2	Act 1 (H) Uitem C	2	vps	3																		0
 Andarielq	Act Boss		468,03%	14,99%	37,46%	100,00%	100			-6	983	983	1024	1024	0	Act 2 Citem A	1	Act 2 Uitem A	4	Potion 6 Special	1																		0
 Andarielq (N)	Act Boss		475,19%	14,99%	37,46%	100,00%	100			-6	983	983	1024	1024	0	Act 2 (N) Citem A	1	Act 2 (N) Uitem A	4	Potion 6 Special	1																		0
 Andarielq (H)	Act Boss		484,03%	14,99%	37,46%	100,00%	100			-6	983	983	1024	1024	0	Act 2 (H) Citem A	1	Act 2 (H) Uitem A	4	Potion 6 Special	1																		0

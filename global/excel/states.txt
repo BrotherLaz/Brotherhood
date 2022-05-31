@@ -247,7 +247,7 @@ grimsentinel	244	necromancer					1																																					shout				
 grimwatcher	245	necromancer					1																																					battleorders					battleorderscast		manarecoveryrate		11										barbarian_findheart_1									0
 generalpassive1	246	common																																																																						0
 generalpassive2	247	common																																																																						0
-bandageheal	248	bar																																															healing		hpregen												barbarian_findheart_1									0
+bandageheal	248	bar																																										receiving					healing		hpregen												barbarian_findheart_1									0
 askariprayer	249	Amazon skill																																															receiving		hpregen												barbarian_findheart_1									0
 combinedarmsrtm	250	Amazon proc																																										sanctuaryback																												0
 kitbuffstr	251	consumable item	11																																														dopllezon_appear		strength												quest_hellforge_smash									0
