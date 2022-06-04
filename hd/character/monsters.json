@@ -1112,5 +1112,8 @@
   "laz_impboss1": "imp1",
   "laz_overseersuperboss1": "overseerspecial1",
   "laz_deathmaulerboss1": "deathmaulersuper1",
-  "laz_skeletonboss1": "skeletonboss1"
+  "laz_skeletonboss1": "skeletonboss1",
+  "laz_barbs": "spiritofbarbs",
+  "laz_wolverine": "spiritofbarbs",
+  "laz_oaksage": "spiritofbarbs"
 }

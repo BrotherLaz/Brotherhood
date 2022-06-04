@@ -99,3 +99,6 @@ laz_minionboss1	hit-ranged-skill		667	100	1																										hit-ranged-
 laz_clawviperboss1	hit-skill		685	100	1																										hit-skill		685	100	6																										hit-skill		685	100	11																										0
 laz_batdemonboss1	gethit-skill		54	100	1	hit-skill		659	100	1																					gethit-skill		54	100	1	hit-skill		659	100	1																					gethit-skill		54	100	1	hit-skill		659	100	1																					0
 laz_fallenboss1	thorns%			100	100																										thorns%			100	100																										thorns%			100	100																										0
+laz_barbs	aura		296	1	1																										aura		296	6	6																										aura		296	11	11																										0
+laz_wolverine	aura		297	1	1																										aura		297	6	6																										aura		297	11	11																										0
+laz_oaksage	aura		298	1	1																										aura		298	6	6																										aura		298	11	11																										0
