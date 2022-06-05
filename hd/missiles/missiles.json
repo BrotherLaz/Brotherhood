@@ -1208,5 +1208,16 @@
     "monchargedbolt": "charged_bolt",
     "elementalskbowarrow_3": "ice_arrow",
     "elementalskbowarrow_4": "fire_arrow",
-    "elementalskbowarrow_5": "safe_arrow"
+    "elementalskbowarrow_5": "safe_arrow",
+    "hellstarblack": "explosion_spark_small",
+    "hellstarblue": "explosion_spark_small",
+    "hellstarwhite": "explosion_spark_small",
+    "hellstarred": "explosion_spark_small",
+    "hellstarviolet": "explosion_spark_small",
+    "hellstarblackwave": "null",
+    "hellstarbluewave": "charged_bolt",
+    "hellstarwhitewave": "laz_blue_nova_b",
+    "hellstarredwave": "expansion_firestorm_emitter",
+    "newflamewavemaker": "expansion_firestorm_emitter",
+    "newflamewave": "firewallmaker"
 }

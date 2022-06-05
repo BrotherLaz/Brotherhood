@@ -1115,5 +1115,8 @@
   "laz_skeletonboss1": "skeletonboss1",
   "laz_barbs": "spiritofbarbs",
   "laz_wolverine": "spiritofbarbs",
-  "laz_oaksage": "spiritofbarbs"
+  "laz_oaksage": "spiritofbarbs",
+  "laz_mummyally": "mummyboss1",
+  "laz_skeletonally": "skeleton1",
+  "laz_necrowall": "bonewall"  
 }

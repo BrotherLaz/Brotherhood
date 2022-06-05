@@ -25,6 +25,7 @@ laz_izual	hit-ranged-skill		744	100	1																										hit-ranged-skill	
 summonraven	hit-skill		600	15	1																										hit-skill		600	15	1																										hit-skill		600	15	1																										0
 summonwolf	hit-skill		601	15	1																										hit-skill		601	15	1																										hit-skill		601	15	1																										0
 summonbear	hit-skill		602	30	1																										hit-skill		602	30	1																										hit-skill		602	30	1																										0
+necroskeleton																																																																																											0
 necrowraith	hit-skill		15	10	1	state		red	1	1																					hit-skill		15	10	1	state		red	1	1																					hit-skill		15	10	1	state		red	1	1																					0
 necrowallzombie	state		104	1	1																										state		104	1	1																										state		104	1	1																										0
 laz_quillrat1	openwounds			100	100	death-skill		630	100	8																					openwounds			100	100	death-skill		630	100	8																					openwounds			100	100	death-skill		630	100	8																					0

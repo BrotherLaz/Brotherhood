@@ -1,0 +1,577 @@
+{
+    "dependencies": {
+        "particles": [
+            {
+                "path": "data/hd/vfx/particles/overlays/sorceress/energyshield/energyshield_Overlay.particles"
+            }
+        ],
+        "models": [
+            {
+                "path": "data/hd/vfx/meshes/FX_Mesh_EnergyShield.model"
+            }
+        ],
+        "skeletons": [],
+        "animations": [],
+        "textures": [
+            {
+                "path": "data/hd/vfx/textures/gradient/T_FX_linearGradient_parabolicfalloff.texture"
+            }
+        ],
+        "physics": [],
+        "json": [],
+        "variantdata": [],
+        "objecteffects": [],
+        "other": []
+    },
+    "type": "OverlayDefinition",
+    "name": "torchfire",
+    "entities": [
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 20.0,
+                        "y": 8.1,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R2",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 20.0,
+                        "y": 8.0,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.25,
+                        "y": 1.25,
+                        "z": 1.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": -20.0,
+                        "y": 8.1,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R2",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": -20.0,
+                        "y": 8.0,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.25,
+                        "y": 1.25,
+                        "z": 1.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 0.0,
+                        "y": 8.1,
+                        "z": 20.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R2",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 0.0,
+                        "y": 8.0,
+                        "z": 20.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.25,
+                        "y": 1.25,
+                        "z": 1.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 0.0,
+                        "y": 8.1,
+                        "z": -20.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R2",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 0.0,
+                        "y": 8.0,
+                        "z": -20.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.25,
+                        "y": 1.25,
+                        "z": 1.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+
+
+
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 14.0,
+                        "y": 8.1,
+                        "z": -14.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R2",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 14.0,
+                        "y": 8.0,
+                        "z": -14.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.25,
+                        "y": 1.25,
+                        "z": 1.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": -14.0,
+                        "y": 8.1,
+                        "z": 14.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R2",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": -14.0,
+                        "y": 8.0,
+                        "z": 14.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.25,
+                        "y": 1.25,
+                        "z": 1.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 14.0,
+                        "y": 8.1,
+                        "z": 14.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R2",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": 14.0,
+                        "y": 8.0,
+                        "z": 14.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.25,
+                        "y": 1.25,
+                        "z": 1.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": -14.0,
+                        "y": 8.1,
+                        "z": -14.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        },
+        {
+            "type": "Entity",
+            "name": "vfx_shoulder_R2",
+            "id": 2526295779,
+            "components": [
+                {
+                    "type": "VfxDefinitionComponent",
+                    "name": "vfx_shoulder_VfxDefinition",
+                    "filename": "data/hd/vfx/particles/missiles/meteorlavadown/fx_meteorlavadown.particles",
+                    "hardKillOnDestroy": true
+                },
+                {
+                    "type": "TransformDefinitionComponent",
+                    "name": "component_transform1",
+                    "position": {
+                        "x": -14.0,
+                        "y": 8.0,
+                        "z": -14.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "w": 1.0
+                    },
+                    "scale": {
+                        "x": 1.25,
+                        "y": 1.25,
+                        "z": 1.25
+                    },
+                    "inheritOnlyPosition": true
+                }
+            ]
+        }
+    ]
+}

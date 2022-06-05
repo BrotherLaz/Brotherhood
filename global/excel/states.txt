@@ -192,7 +192,7 @@ placeholder189	189																																																														
 placeholder190	190																																																																							0
 placeholder191	191																																																																							0
 placeholder192	192																																																																							0
-torchactive	193	consumable item																																										torchfire							item_lightradius									255	183	64	sorceress_firebolt_impact_1									0
+torchactive	193	consumable item	15																																									torchfire							item_lightradius									255	183	64	sorceress_firebolt_impact_1									0
 superheal	194	consumable item																																																													necromancer_unsummon									0
 supermana	195	consumable item																																																													necromancer_unsummon									0
 trinketbuffmf	196	consumable item																																															dopllezon_appear		item_magicbonus												amazon_valkyrie_cast									0
@@ -202,15 +202,15 @@ vialbuffcold	199	consumable item	5															1																										mult
 vialbufflight	200	consumable item	5														1																											multigleam							lightresist																					0
 vialbuffpoison	201	consumable item	5																	1																								multigleam							poisonresist																					0
 breakthrough	202	amazon																																										breakthrough																												0
-intimidate	203																																																																							0
+blankweaponbuff	203	common																																																																						0
 cooldownreset	204	ass (Cold Blood)	7																																														shadowwarriorappear														assassin_bladeshield									0
 dragonclaws	205	Assassin skill																																																																						0
-instawolf	206	druid	3			1	1				1	1	1	1																												1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
-instabear	207	druid	3			1	1				1	1	1		1																											1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
-instarat	208	druid	3			1	1				1	1																														1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
-instaspirit	209	druid	3			1	1				1	1																														1							bear_into	bear_undo								50	100	255	255	255	druid_morph	druid_morph	1	770						0
-canconvert	210	paladin skill									1																																	charge							paladin_holyshield																					0
-covenant	211	paladin skill											1	1																														bloodlust_state																												0
+instawolf	206	dru	3			1	1				1	1	1	1																												1							wolf_into	wolf_undo													druid_morph	druid_morph	1	430						0
+instabear	207	dru	3			1	1				1	1	1		1																											1							bear_into	bear_undo													druid_morph	druid_morph	1	431						0
+instarat	208	dru	3			1	1				1	1																														1							bear_into	bear_undo													druid_morph	druid_morph	1	769						0
+instaspirit	209	dru	3			1	1				1	1																														1							bear_into	bear_undo								50	100	255	255	255	druid_morph	druid_morph	1	770						0
+canconvert	210	pal									1																																	charge							paladin_holyshield																					0
+covenant	211	pal											1	1																														bloodlust_state																												0
 zombietimer	212	necromancer																																																																						0
 haunt	213	necromancer						1																																				berserkfront					curse_hit														necromancer_dimvision									0
 deepfreeze	214	sor													1																													frozenarmor							damageresist							100	109	50	215	255	paladin_aura_resistcold							146		0
@@ -220,7 +220,7 @@ impalestate	217																																																																	
 enchantedspear	218	ama																																																																						0
 sorcmulticastcold	219	sor	1																																									shiverarmor							skill_sorcmulticast_cold																					0
 rathmaswill	220	nec											1																															bloodlust_state							skill_enchant					weap	blac						necromancer_curse_1									0
-skewer	221																																																																							0
+multitorchactive	193	consumable item	15																																									multitorchfire							item_lightradius									255	183	64	sorceress_firebolt_impact_1									0
 ravage	222												1	1																														direwolfcharged	direwolfcharged																											0
 ferocity	223	bar									1		1	1																															monfrenzy						skill_frenzy																					0
 bloodbag	224	monster																																										burning							velocitypercent							70	100	255	255	255	necromancer_reversevampire									0

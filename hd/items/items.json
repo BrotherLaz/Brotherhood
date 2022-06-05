@@ -1189,5 +1189,11 @@
   { "m0p": { "asset": "potion/oilred" } },
   { "m1p": { "asset": "potion/oilblue" } },
   { "m2p": { "asset": "potion/oilgold" } },
-  { "m3p": { "asset": "potion/oilgreen" } }  
+  { "m3p": { "asset": "potion/oilgreen" } },
+  { "hs1": { "asset": "potion/hellstar_black" } },
+  { "hs2": { "asset": "potion/hellstar_bluered" } },
+  { "hs3": { "asset": "potion/hellstar_cold" } },
+  { "hs4": { "asset": "potion/hellstar_fire" } },
+  { "hs5": { "asset": "potion/hellstar_purple" } },
+  { "tc2": { "asset": "torch/multitorch" } }
 ]

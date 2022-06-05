@@ -21,6 +21,7 @@ Boots 2	100			Scaling automod	1	1	1		0				4	376	move3		8	8										armo	weap			
 Boots 3	100			Scaling automod	1	1	1		0				4	377	move3		10	10										armo	weap											0	0
 Boots 4	100			Scaling automod	1	1	1		0				4	378	move3		12	12										armo	weap											0	0
 Boots 5	100			Scaling automod	1	1	1		0				4	379	move3		15	15										armo	weap											0	0
+Boots 5	100			Scaling automod	1	1	1		0				4	379	move3		15	15										armo	weap											0	0
 Staff of Flame Bolt	100	Fire	Short Staff	Inherent	1	1	1		0				4	400	inherent-staff		40	40	skill	573	1	2						armo	weap											0	0
 Staff of New Warmth	100	Fire	Short Staff	Inherent	1	1	1		0				4	400	inherent-staff		40	40	skill	574	1	2						armo	weap											0	0
 Staff of Incinerate	100	Fire	Short Staff	Inherent	1	1	6		3				4	400	inherent-staff		40	40	skill	575	1	2						armo	weap											0	0

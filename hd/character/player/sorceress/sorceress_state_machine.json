@@ -5674,12 +5674,12 @@
         {
             "type": "AnimationState",
             "name": "AnimationState076",
-            "_name": "SKILL_FLAMEWAVE_START",
+            "_name": "SKILL_DRAGONSBREATH_START",
             "audioId": "",
             "loopCount": 1,
             "stateId": 53,
             "modeId": 10,
-            "skillIndex": 576,
+            "skillIndex": 597,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
