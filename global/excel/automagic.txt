@@ -607,5 +607,5 @@ Ingredient Pyramid	100			Crafting Unique	1	1							4	329	chargestack		5	5							
 Ingredient Tech Orb	100			Crafting Unique	1	1							4	332	chargestack		10	10										trin												0	0
 Ingredient Guidestone	100			Crafting Unique	1	1							4	333	chargestack		10	10										trin												0	0
 Self Repairing Throwing 1	100	Demonhearts	1 per 50	Automod	1	1	1		0				4	380	rep-quant	2	2	2										armo	weap											0	0
-Self Repairing Throwing 2	100	Throwing	1 per 3	Automod	1	1	1		0				4	381	rep-quant	30	30	30										armo	weap											0	0
-Self Repairing Throwing 3	100	Quivers	1 per 2	Automod	1	1	1		0				4	382	rep-quant	50	50	50										armo	weap											0	0
+Self Repairing Throwing 2	100	Throwing	1 per 1	Automod	1	1	1		0				4	381	rep-quant	100	100	100										armo	weap											0	0
+Self Repairing Throwing 3	100	Quivers	1 per 1	Automod	1	1	1		0				4	382	rep-quant	100	100	100										misl												0	0
