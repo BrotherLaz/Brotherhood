@@ -1222,5 +1222,10 @@
     "newflamewave": "firewallmaker",
     "demonheartcorpsecenter": "null",
     "demonheartstunwave": "null",
-    "demonheartfearwave": "null"
+    "demonheartfearwave": "null",
+    "spidercloudfalling": "poison_sparks",
+    "powerimpactwave": "laz_dustproject",
+    "powerimpactwall": "laz_tower",
+    "impalepierce": "horadric_light_beamstreaks",
+    "jabpierce": "javelin"
 }
