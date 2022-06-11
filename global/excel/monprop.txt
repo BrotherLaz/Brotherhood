@@ -52,7 +52,11 @@ laz_swarm2	death-skill		717	30	1																										death-skill		717	30	1	
 laz_swarm3	death-skill		718	35	1																										death-skill		718	35	1																										death-skill		718	35	1																										0
 laz_swarm4	death-skill		719	40	1																										death-skill		719	40	1																										death-skill		719	40	1																										0
 laz_scarabsuper1	death-skill		701	100	1																										death-skill		701	100	6																										death-skill		701	100	11																										0
-laz_batdemon1	gethit-skill		54	100	1																										gethit-skill		54	100	1																										gethit-skill		54	100	1																										0
+laz_batdemon1	gethit-skill		54	30	1																										gethit-skill		54	30	1																										gethit-skill		54	30	1																										0
+laz_batdemon2	gethit-skill		54	35	1																										gethit-skill		54	35	1																										gethit-skill		54	35	1																										0
+laz_batdemon3	gethit-skill		54	40	1																										gethit-skill		54	40	1																										gethit-skill		54	40	1																										0
+laz_batdemon4	gethit-skill		54	45	1																										gethit-skill		54	45	1																										gethit-skill		54	45	1																										0
+laz_batdemon5	gethit-skill		54	50	1																										gethit-skill		54	50	1																										gethit-skill		54	50	1																										0
 laz_bonefetish1	death-skill		668	100	1																										death-skill		668	100	6																										death-skill		668	100	11																										0
 laz_wisp1	gethit-skill		659	100	1	swing3			100	100	hit-skill		659	100	1																gethit-skill		659	100	1	swing3			100	100	hit-skill		659	100	1																gethit-skill		659	100	1	swing3			100	100	hit-skill		659	100	1																0
 laz_mosquito1	hit-skill		697	100	1																										hit-skill		697	100	6																										hit-skill		697	100	11																										0
