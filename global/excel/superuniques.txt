@@ -39,7 +39,7 @@ Infector of Souls	LazBossBaronSludge	Baron Sludge	laz_minionboss1	36	A4 River of
 Lord De Seis	LazBossLordSayter	Lord Sayter	laz_goatboss1	37	A4 River of Flame	sudevil	25	27	0	6	8	1	0		11	11	11	Act 4 Super C	Act 4 (N) Super C	Act 4 (H) Super C	0
 Grand Vizier of Chaos	LazBossBilefroth	Bilefroth the Pit Master	laz_balrogboss1	38	A4 River of Flame	sudescend	8	30	0	4	5	1	0		26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
 The Cow King	The Cow King	Quest	cowking	39	Quest		8	17	0	6	6	1	0		27	27	27	Cow King	Cow King (N)	Cow King (H)	0
-Corpsefire	LazBossButcher	The Butcher	laz_overseerspecial1	40	A1 Den of Evil	suthebutcher	7	0	0	0	0	1	0		37	37	37	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+Corpsefire	LazBossButcher	The Butcher	laz_overseerspecial1	40	A1 Den of Evil	suthebutcher	7	0	0	0	0	1	0		37	37	37	The Butcher	The Butcher (N)	The Butcher (H)	0
 The Feature Creep	The Feature Creep	Quest	hephasto	41	Quest	smithdemon	27	30	0	0	0	1	0		20	20	20	Haphesto	Haphesto (N)	Haphesto (H)	0
 Expansion																					0
 Siege Boss	LazBossShenk	Shenk the Overlord	laz_overseersuper4	42	A5 Bloody Foothills	subattleboss	5	30	0	0	0	0	1		7	7	7	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0

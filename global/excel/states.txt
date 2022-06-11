@@ -176,7 +176,7 @@ corpseexp	173																													1	1	1			1								1									18		corpsee
 whirlwind	174																																											whirlwind																												0
 fullsetgeneric	175																																											aura_fanatic																												0
 monsterset	176		3			1						1																																					fire_cast_2																1	135						0
-delerium	177		3			1					1	1																																					teleport	teleport															1	212						0
+delerium	177	modified	3			1						1																																					cursehit	poisonhit															1	535						0
 antidote	178																			1																																																				0
 thawing	179																	1																																																						0
 staminapot	180																		1																																																					0

@@ -1043,6 +1043,9 @@ Act 4 (H) Super Cx	Nerfed Superunique		189,29%	1,04%	3,00%	10,72%	100,00%	18	87	
 Act 5 (H) Super Ax	Nerfed Superunique		190,09%	1,04%	3,00%	10,72%	100,00%	18	90	-5	433	512	833	1024	0	Act 5 (H) Citem A	1	Act 5 (H) Uitem A	2	Potion 6 Special	2																		0
 Act 5 (H) Super Bx	Nerfed Superunique		190,91%	1,04%	3,00%	10,72%	100,00%	18	93	-5	433	512	833	1024	0	Act 5 (H) Citem B	1	Act 5 (H) Uitem B	2	Potion 6 Special	2																		0
 Act 5 (H) Super Cx	Nerfed Superunique		191,74%	1,04%	3,00%	10,72%	100,00%	18	96	-5	433	512	833	1024	0	Act 5 (H) Citem C	1	Act 5 (H) Uitem C	2	Potion 6 Special	2																		0
+Unique Demonheart	Demonheart									-1	1024	1024	1024	1024	0	dh1	1																						0
+Unique Demonheart (N)	Demonheart									-1	1024	1024	1024	1024	0	dh1	1																						0
+Unique Demonheart (H)	Demonheart									-1	1024	1024	1024	1024	0	dh1	1																						0
 Trophy Chaosphere	Chaosphere									-1	1024	1024	1024	1024	0	rf1	1																						0
 Trophy Chaosphere (N)	Chaosphere									-1	1024	1024	1024	1024	0	rf1	1																						0
 Trophy Chaosphere (H)	Chaosphere									-1	1024	1024	1024	1024	0	rf1	1																						0
@@ -1055,6 +1058,9 @@ Drop Trophy 3 (H)	Boss drops for new items									-1	1024	1024	1024	1024	0	rf3	
 Trophy Sankekur	Bust of Sankekur									-1	1024	1024	1024	1024	0	rf4	1																						0
 Trophy Sankekur (N)	Bust of Sankekur									-1	1024	1024	1024	1024	0	rf4	1																						0
 Trophy Sankekur (H)	Bust of Sankekur									-1	1024	1024	1024	1024	0	rf4	1																						0
+The Butcher	Mini Boss	2 items + 1 gem + 2 potions	234,23%	1,60%	5,28%	16,52%	100,00%			-6	640	733	900	1024	0	Act 1 Citem B	2	Act 1 Uitem B	2	Unique Demonheart	1																		0
+The Butcher (N)	Mini Boss	2 items + 1 gem + 2 potions	248,15%	1,60%	5,28%	16,52%	100,00%			-6	640	733	900	1024	0	Act 1 (N) Citem B	2	Act 1 (N) Uitem B	2	Unique Demonheart (N)	1																		0
+The Butcher (H)	Mini Boss	2 items + 1 gem + 2 potions	265,29%	1,60%	5,28%	16,52%	100,00%			-6	640	733	900	1024	0	Act 1 (H) Citem B	2	Act 1 (H) Uitem B	2	Unique Demonheart (H)	1																		0
 Blood Raven	Mini Boss	2 items + 1 gem + 2 potions	234,23%	1,60%	5,28%	16,52%	100,00%			-6	640	733	900	1024	0	Act 1 Citem B	2	Act 1 Uitem B	2	Potion 2	2																		0
 Blood Raven (N)	Mini Boss	2 items + 1 gem + 2 potions	248,15%	1,60%	5,28%	16,52%	100,00%			-6	640	733	900	1024	0	Act 1 (N) Citem B	2	Act 1 (N) Uitem B	2	Potion 6 Special	2																		0
 Blood Raven (H)	Mini Boss	2 items + 1 gem + 2 potions	265,29%	1,60%	5,28%	16,52%	100,00%			-6	640	733	900	1024	0	Act 1 (H) Citem B	2	Act 1 (H) Uitem B	2	Potion 6 Special	2																		0

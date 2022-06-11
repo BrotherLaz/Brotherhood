@@ -1219,5 +1219,8 @@
     "hellstarwhitewave": "laz_blue_nova_b",
     "hellstarredwave": "expansion_firestorm_emitter",
     "newflamewavemaker": "expansion_firestorm_emitter",
-    "newflamewave": "firewallmaker"
+    "newflamewave": "firewallmaker",
+    "demonheartcorpsecenter": "null",
+    "demonheartstunwave": "null",
+    "demonheartfearwave": "null"
 }
