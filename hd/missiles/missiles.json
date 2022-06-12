@@ -1230,5 +1230,7 @@
     "javelinpierce": "javelin",
     "skewer": "javelin",
     "axepiercedelay": "laz_axe",
-    "axepierce": "laz_axe"
+    "axepierce": "laz_axe",
+    "clearmindandbodycenter": "null",
+    "clearmindandbodywave": "expansion_hurricane_swoosh"
 }

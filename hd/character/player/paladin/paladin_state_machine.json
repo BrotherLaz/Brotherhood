@@ -5383,7 +5383,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState150",
-            "_name": "SplitTheHeavens_Seq",
+            "_name": "PARTTHECLOUDS_SEQ",
             "audioId": "",
             "loopCount": 1,
             "stateId": 51,
@@ -5428,7 +5428,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState159",
-            "_name": "Dervish_Seq",
+            "_name": "NEWDERVISH_SEQ",
             "audioId": "",
             "loopCount": 0,
             "stateId": 52,
@@ -5468,7 +5468,7 @@
         },
         {
             "type": "AnimationState160",
-            "name": "NewSacrifice_Seq",
+            "name": "NEWSACRIFICE_SEQ",
             "_name": "",
             "audioId": "",
             "loopCount": 1,
@@ -5497,6 +5497,51 @@
                     "2ht_jab"
                 ],
                 "xbw": [],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [],
+                "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState160",
+            "name": "CLEARMINDANDBODY_SEQ",
+            "_name": "",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 54,
+            "modeId": 18,
+            "skillIndex": 514,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "hth_whirlwind"
+                ],
+                "bow": [
+                    "1hs_whirlwind"
+                ],
+                "1hs": [
+                    "1hs_whirlwind"
+                ],
+                "1ht": [
+                    "1ht_whirlwind"
+                ],
+                "stf": [
+                    "stf_whirlwind"
+                ],
+                "2hs": [
+                    "2hs_whirlwind"
+                ],
+                "2ht": [
+                    "2ht_whirlwind"
+                ],
+                "xbw": [
+                    "1hs_whirlwind"
+                ],
                 "1js": [],
                 "1jt": [],
                 "1ss": [],
