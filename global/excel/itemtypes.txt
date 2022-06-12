@@ -26241,7 +26241,7 @@ Placeholder Item Type 26237	26237			m48d			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3
 Placeholder Item Type 26238	26238			m48e			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26239	26239			m48f			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26240	26240			m48g			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Skill Ref Javelin Proc	26241		skills.txt reference	coma			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Skill Ref Skewer Proc	26241		skills.txt reference	skew			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26242	26242			m48i			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26243	26243			m48j			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26244	26244			m48k			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

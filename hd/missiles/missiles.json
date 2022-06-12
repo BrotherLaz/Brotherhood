@@ -1228,6 +1228,7 @@
     "powerimpactwall": "laz_tower",
     "javelinpiercedelay": "javelin",
     "javelinpierce": "javelin",
+    "skewer": "javelin",
     "axepiercedelay": "laz_axe",
     "axepierce": "laz_axe"
 }

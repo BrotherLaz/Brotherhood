@@ -5444,12 +5444,12 @@
         {
             "type": "AnimationState",
             "name": "AnimationState150",
-            "_name": "NewImpale_Seq",
+            "_name": "NEWIMPALE_SEQ",
             "audioId": "",
             "loopCount": 1,
             "stateId": 75,
             "modeId": 18,
-            "skillIndex": 478,
+            "skillIndex": 178,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [],
@@ -5477,7 +5477,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState151",
-            "_name": "Lunge_Seq",
+            "_name": "LUNGE_SEQ",
             "audioId": "",
             "loopCount": 1,
             "stateId": 76,
@@ -5512,7 +5512,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState153",
-            "_name": "NewJab_Seq",
+            "_name": "NEWJAB_SEQ",
             "audioId": "",
             "loopCount": 0,
             "stateId": 78,
@@ -5545,7 +5545,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState154",
-            "_name": "Breakthrough_Seq",
+            "_name": "BREAKTHROUGH_SEQ",
             "audioId": "",
             "loopCount": 0,
             "stateId": 79,
@@ -5703,6 +5703,63 @@
                 "1st": [],
                 "ht1": [],
                 "ht2": []
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState159",
+            "_name": "SKEWER_SEQ",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 84,
+            "modeId": 18,
+            "skillIndex": 478,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "1ht_throw"
+                ],
+                "bow": [
+                    "1ht_throw"
+                ],
+                "1hs": [
+                    "1ht_throw"
+                ],
+                "1ht": [
+                    "1ht_throw"
+                ],
+                "stf": [
+                    "1ht_throw"
+                ],
+                "2hs": [
+                    "1ht_throw"
+                ],
+                "2ht": [
+                    "1ht_throw"
+                ],
+                "xbw": [
+                    "1ht_throw"
+                ],
+                "1js": [
+                    "1ht_throw"
+                ],
+                "1jt": [
+                    "1ht_throw"
+                ],
+                "1ss": [
+                    "1ht_throw"
+                ],
+                "1st": [
+                    "1ht_throw"
+                ],
+                "ht1": [
+                    "1ht_throw"
+                ],
+                "ht2": [
+                    "1ht_throw"
+                ]
             },
             "enterEvents": [],
             "exitEvents": []
