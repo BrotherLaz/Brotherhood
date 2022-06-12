@@ -5166,6 +5166,63 @@
             },
             "enterEvents": [],
             "exitEvents": []
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState152",
+            "_name": "PHANTASM_SEQ",
+            "audioId": "",
+            "loopCount": 0,
+            "stateId": 77,
+            "modeId": 18,
+            "skillIndex": 157,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "stf_attack1"
+                ],
+                "bow": [
+                    "stf_attack1"
+                ],
+                "1hs": [
+                    "stf_attack1"
+                ],
+                "1ht": [
+                    "stf_attack1"
+                ],
+                "stf": [
+                    "stf_attack1"
+                ],
+                "2hs": [
+                    "stf_attack1"
+                ],
+                "2ht": [
+                    "stf_attack1"
+                ],
+                "xbw": [
+                    "stf_attack1"
+                ],
+                "1js": [
+                    "stf_attack1"
+                ],
+                "1jt": [
+                    "stf_attack1"
+                ],
+                "1ss": [
+                    "stf_attack1"
+                ],
+                "1st": [
+                    "stf_attack1"
+                ],
+                "ht1": [
+                    "stf_attack1"
+                ],
+                "ht2": [
+                    "stf_attack1"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": []
         }
     ],
     "transitions": [

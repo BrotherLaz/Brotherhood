@@ -1232,5 +1232,7 @@
     "axepiercedelay": "laz_axe",
     "axepierce": "laz_axe",
     "clearmindandbodycenter": "null",
-    "clearmindandbodywave": "expansion_hurricane_swoosh"
+    "clearmindandbodywave": "expansion_hurricane_swoosh",
+    "newphantasmcenter": "mist",
+    "newphantasmdamage": "laz_tower"
 }
