@@ -35935,7 +35935,7 @@
   {"id": 30216, "Key": "PassiveDamageXbow", "enUS": "Passive: Crossbow Damage: %+d%%", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 30217, "Key": "PassiveCritXbow", "enUS": "Passive: Crossbow %d%% Chance of Critical Strike", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},  
   {"id": 30218, "Key": "WaveOfLightSplit", "enUS": "Splits Bolt into %d shards", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
-  {"id": 30219, "Key": "Desc30219", "enUS": "PlaceholderDesc30219", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 30219, "Key": "HitsUndeadAndDemons", "enUS": "Hits Undead/Demons", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 30220, "Key": "Desc30220", "enUS": "PlaceholderDesc30220", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 30221, "Key": "Desc30221", "enUS": "PlaceholderDesc30221", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 30222, "Key": "Desc30222", "enUS": "PlaceholderDesc30222", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
