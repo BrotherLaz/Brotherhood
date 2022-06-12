@@ -501,3 +501,4 @@ skillmod_barbarian_2	498		1	6														4	0	6	30																													
 skillmod_barbarian_3	499		1	6														4	0	6	30																														0
 skillmod_sorceress_1	500		1	6														4	0	6	30																														0
 monster_skillonhit_ranged	501		1	7	16						1			2				21	0	7	0	16										1	domissiledamage	20																	0
+skill_skillonhitmelee_combinedarms	502		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20																	0
