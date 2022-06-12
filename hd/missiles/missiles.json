@@ -1226,6 +1226,8 @@
     "spidercloudfalling": "poison_sparks",
     "powerimpactwave": "laz_dustproject",
     "powerimpactwall": "laz_tower",
-    "impalepierce": "horadric_light_beamstreaks",
-    "jabpierce": "javelin"
+    "javelinpiercedelay": "javelin",
+    "javelinpierce": "javelin",
+    "axepiercedelay": "laz_axe",
+    "axepierce": "laz_axe"
 }
