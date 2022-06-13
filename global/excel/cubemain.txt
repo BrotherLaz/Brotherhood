@@ -3205,6 +3205,11 @@ Portal Generator = red portal	Unused				0					1	p33							Red Portal,qty=0						
 Portal Generator = red portal	Unused				0					1	p34							Red Portal,qty=0																																																																																							0
 Portal Generator = red portal	Unused				0					1	p35							Red Portal,qty=0																																																																																							0
 Rare jewel = 2 magic jewels	Misc	1			0					1	jewl,rar							jewl,mag			100																										jewl,mag			100																																																							0
+Test - Act Reward		1			0					1	UniqueAct1BossReward							UniqueAct1BossReward																																																																																							0
+Test - Act Reward		1			0					1	UniqueAct2BossReward							UniqueAct2BossReward																																																																																							0
+Test - Act Reward		1			0					1	UniqueAct3BossReward							UniqueAct3BossReward																																																																																							0
+Test - Act Reward		1			0					1	UniqueAct4BossReward							UniqueAct4BossReward																																																																																							0
+Test - Act Reward		1			0					1	UniqueAct5BossReward							UniqueAct5BossReward																																																																																							0
 Test - General ring		1			0					2	tsc	isc						rin				allskills			7	7	all-stats			100	100																																																																										0
 Test - Filler amulet		1			0					4	tsc,qty=2	isc,qty=2						amu				allskills			7	7	all-stats			100	100	extra-all			100	100																																																																					0
 Test - Pike		1			0					3	tsc	isc,qty=2						sp5				all-stats			200	200	extra-all			40	40	ease			-100	-100	dmg%			200	200	dmg-max			40	40																																																											0

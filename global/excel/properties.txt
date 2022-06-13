@@ -398,3 +398,8 @@ inherent-bshd	1	1	skillmod_barbarian_2																											Unused (itemsta
 inherent-phlm	1	1	skillmod_barbarian_3																												ModHealingSkillPct				0
 inherent-stor	1	1	skillmod_sorceress_1																											20	ModHealingSkillPct				0
 hit-ranged-skill	1	11	monster_skillonhit_ranged																											#% Chance to cast level # [Skill] on striking	Skill	% Chance (If 0, then default to 5)	Skill Level		0
+bossreward1	1	1	desc_act1_bossreward																											20	ModHealingSkillPct				0
+bossreward2	1	1	desc_act2_bossreward																											20	ModHealingSkillPct				0
+bossreward3	1	1	desc_act3_bossreward																											20	ModHealingSkillPct				0
+bossreward4	1	1	desc_act4_bossreward																											20	ModHealingSkillPct				0
+bossreward5	1	1	desc_act5_bossreward																											20	ModHealingSkillPct				0

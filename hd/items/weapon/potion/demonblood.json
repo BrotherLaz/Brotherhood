@@ -3,30 +3,30 @@
         "particles": [],
         "models": [
             {
-                "path": "data/hd/items/misc/body_part/heart/heart.model"
+                "path": "data/hd/items/misc/body_part/eye/eye.model"
             }
         ],
         "skeletons": [
             {
-                "path": "data/hd/items/dropped_items/skeleton/dropped_items.skeleton"
+                "path": "data/hd/items/misc/body_part/eye/skeleton/eye.skeleton"
             }
         ],
         "animations": [],
         "textures": [
             {
-                "path": "data/hd/items/misc/body_part/heart/misc_heart_ALB.texture"
+                "path": "data/hd/items/misc/body_part/eye/misc_eye_ALB.texture"
             },
             {
-                "path": "data/hd/items/misc/body_part/heart/misc_heart_NRM.texture"
+                "path": "data/hd/items/misc/body_part/eye/misc_eye_NRM.texture"
             },
             {
-                "path": "data/hd/items/misc/body_part/heart/misc_heart_ORM.texture"
+                "path": "data/hd/items/misc/body_part/eye/misc_eye_ORM.texture"
             }
         ],
         "physics": [],
         "json": [
             {
-                "path": "data/hd/items/dropped_items/dropped_items_shields_ne.json"
+                "path": "data/hd/items/dropped_items/dropped_items_eye_flip.json"
             }
         ],
         "variantdata": [],
@@ -34,17 +34,17 @@
         "other": []
     },
     "type": "UnitDefinition",
-    "name": "demonheart",
+    "name": "demonblood",
     "entities": [
         {
             "type": "Entity",
             "name": "entity_root",
-            "id": 2588476013,
+            "id": 861116925,
             "components": [
                 {
                     "type": "UnitRootComponent",
                     "name": "component_root",
-                    "state_machine_filename": "data/hd/items/dropped_items/dropped_items_shields_ne.json",
+                    "state_machine_filename": "data/hd/items/dropped_items/dropped_items_eye_flip.json",
                     "doNotInheritRotation": false,
                     "rotationOverride": {
                         "x": 0.0,
@@ -60,7 +60,7 @@
                 {
                     "type": "SkeletonDefinitionComponent",
                     "name": "component_skeleton",
-                    "filename": "data/hd/items/dropped_items/skeleton/dropped_items.skeleton"
+                    "filename": "data/hd/items/misc/body_part/eye/skeleton/eye.skeleton"
                 },
                 {
                     "type": "TransformDefinitionComponent",
@@ -72,9 +72,9 @@
                     },
                     "orientation": {
                         "x": 0.0,
-                        "y": -0.819152057,
+                        "y": -0.130526185,
                         "z": 0.0,
-                        "w": 0.57357645
+                        "w": 0.9914449
                     },
                     "scale": {
                         "x": 1.0,
@@ -88,12 +88,12 @@
         {
             "type": "Entity",
             "name": "entity_model",
-            "id": 464378974,
+            "id": 1806247012,
             "components": [
                 {
                     "type": "ModelDefinitionComponent",
-                    "name": "component_model_heart",
-                    "filename": "data/hd/items/misc/body_part/heart/heart.model",
+                    "name": "component_model_eye",
+                    "filename": "data/hd/items/misc/body_part/eye/eye.model",
                     "visibleLayers": 1,
                     "lightMask": 19,
                     "shadowMask": 3,

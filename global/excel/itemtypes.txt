@@ -226,13 +226,13 @@ Portal Generator	222		Portal generator base type	porg	trin		0	0					0	0	0	0			0	
 Runeword Text	223		Runeword text base type	rude	trin		0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
 Trophy 4	224		Trophy 4	tro4	ggwp	char	0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	4			0							misc	0
 Merc Fake Helm	225		hireling	helm	armo	merc	1	1	head	head			0	0	0	0		1	0	0	2	25	2	40	3	0	3			0							armo	0
-Demonheart	226		demonheart	deha	weap		1	1	rarm				0	0	0	0			0	0	2	25	3	40	4	0	3			0							misc	0
-Placeholder 227	227			p227			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Act 1 Boss Reward	226		act 1 boss reward	deha	weap		1	1	rarm				0	0	0	0			0	0	2	25	3	40	4	0	3			0							misc	0
+Act 2 Boss Reward	227		act 2 boss reward	dehb	weap	tpot	1	1	rarm				1	1	1	1			0	0	2	25	0	40	0	0	3			0								0
 Placeholder 228	228			p228			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Any item at all	229		any item	wtev			0	0					0	0	0	0			0	0	0	25	0	40	0	0	4			0							misc	0
-Placeholder 230	230			p230			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 231	231			p231			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Placeholder 232	232			p232			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Act 3 Boss Reward	230		act 3 boss reward	dehc	weap		1	1	rarm				0	0	0	0			0	0	2	25	0	40	0	0	3			0								0
+Act 4 Boss Reward	231		act 4 boss reward	dehd	weap		1	1	rarm				0	0	0	0			0	0	2	25	0	40	0	0	3			0								0
+Act 5 Boss Reward	232		act 5 boss reward	dehe	weap		1	1	rarm				0	0	0	0			0	0	2	25	0	40	0	0	3			0								0
 Placeholder 233	233			p233			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 234	234			a10a			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 235	235			a10b			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

@@ -1234,5 +1234,10 @@
     "clearmindandbodycenter": "null",
     "clearmindandbodywave": "expansion_hurricane_swoosh",
     "newphantasmcenter": "mist",
-    "newphantasmdamage": "laz_tower"
+    "newphantasmdamage": "laz_tower",
+    "pantherpotorangesuper": "pantherpotorange",
+    "pantherpotgreensuper": "mslgps",
+    "demonbloodspawner": "expansion_baalsummonmissile_2",
+    "demonbloodcenter": "null",
+    "demonbloodlob": "corpse_explode_guts"
 }

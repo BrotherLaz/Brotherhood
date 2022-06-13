@@ -501,4 +501,9 @@ skillmod_barbarian_2	498		1	6														4	0	6	30																													
 skillmod_barbarian_3	499		1	6														4	0	6	30																														0
 skillmod_sorceress_1	500		1	6														4	0	6	30																														0
 monster_skillonhit_ranged	501		1	7	16						1			2				21	0	7	0	16										1	domissiledamage	20																	0
-skill_skillonhitmelee_combinedarms	502		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20																	0
+skill_skillonhitmelee_skewer	502		1	7	16						1			2	190	256		21	0	7	0	16										1	domeleedamage	20																	0
+desc_act1_bossreward	503		1	2														4	0	2	0																10	19		DescAct1BossReward											0
+desc_act2_bossreward	504		1	2														4	0	2	0																10	19		DescAct2BossReward											0
+desc_act3_bossreward	505		1	2														4	0	2	0																10	19		DescAct3BossReward											0
+desc_act4_bossreward	506		1	2														4	0	2	0																10	19		DescAct4BossReward											0
+desc_act5_bossreward	507		1	2														4	0	2	0																10	19		DescAct5BossReward											0

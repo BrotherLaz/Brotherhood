@@ -13,7 +13,11 @@ Horadric Staff	125	0	1		1		0	0	hst	Staff		5	5000	blac							mana		10	10	res-pois
 Hell Forge Hammer	126	0	1		1		0	0	hfh	Hammer		5	5000	cred							fire-min		5	5	fire-max		20	20	res-fire		40	40	ac		35	35			0	0			0	0			0	0																						0
 KhalimFlail	127	0	1		1		0	0	qf1	Flail		5	5000	dblu							ltng-min		1	1	ltng-max		20	20	swing3		50	50	att		40	40			0	0			0	0			0	0																						0
 SuperKhalimFlail	128	0	1		1		0	0	qf2	Flail		5	5000	dblu							ltng-min		1	1	ltng-max		40	40	swing3		50	50	att		40	40	manasteal		6	6	lifesteal		6	6			0	0																						0
-UniqueDemonheart	129	0	1		1		0	0	dh1	Demonheart		5	5000	cgrn							rep-quant	5	5	5																																														0
+UniqueAct1BossReward	129	0	1		1		0	0	dh1	Laz Act 1 Boss Reward		5	5000	cred	cred						rep-quant	2	2	2	bossreward1		1	1	dmg-fire		10	25																																						0
+UniqueAct2BossReward	130	0	1		1		0	0	dh2	Laz Act 2 Boss Reward		5	5000	dgrn	dgrn						rep-quant	2	2	2	bossreward2		1	1	pot-rate		25	25																																						0
+UniqueAct3BossReward	131	0	1		1		0	0	dh3	Laz Act 3 Boss Reward		5	5000	cred	cred						rep-quant	2	2	2	bossreward3		1	1																																										0
+UniqueAct4BossReward	132	0	1		1		0	0	dh4	Laz Act 4 Boss Reward		5	5000	cred	cred						rep-quant	2	2	2	bossreward4		1	1																																										0
+UniqueAct5BossReward	133	0	1		1		0	0	dh5	Laz Act 5 Boss Reward		5	5000	cred	cred						rep-quant	2	2	2	bossreward5		1	1																																										0
 LazRuneword1	1	0	1		4		0	0	z01	Runeword 1		0	0																																																									0
 LazRuneword2	2	0	1		4		0	0	z02	Runeword 2		0	0																																																									0
 LazRuneword3	3	0	1		4		0	0	z03	Runeword 3		0	0																																																									0
