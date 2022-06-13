@@ -1,5 +1,5 @@
 uniquemod	id	enabled	version	xfer	champion	fPick	exclude1	exclude2	cpick	cpick (N)	cpick (H)	upick	upick (N)	upick (H)	constants	*constant desc	*eol
-none	0	0	0	1											33	Champion chance to spawn instead of Unique	0
+none	0	0	0	1											0	Champion chance to spawn instead of Unique	0
 rndname	1	1	0	0											100	Minion of Unique HP % Bonus	0
 hpmultiply	2	1	0	0											100	Minion of Unique HP % Bonus (Nightmare)	0
 light	3	1	0	0											100	Minion of Unique HP % Bonus (Hell)	0
