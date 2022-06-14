@@ -27,3 +27,4 @@ necroskeleton		0	1		1	1	1	StrUI1	1	2	skeletonicon									0
 necroskeletalmage		0	1		1	1	1	StrUI2	1	2	skeletonmageicon									0
 necrozombie		0		1	1		1	Zombie		2	earthgolumicon									0
 necrowall		0		1	1		1													0
+necrotentacle		0		1	1		1													0
