@@ -1197,5 +1197,6 @@
   { "hs5": { "asset": "potion/hellstar_purple" } },
   { "tc2": { "asset": "torch/multitorch" } },
   { "dh1": { "asset": "potion/demonheart" } },
-  { "dh2": { "asset": "potion/demonblood" } }
+  { "dh2": { "asset": "potion/demonblood" } },
+  { "sn1": { "asset": "potion/demonblood" } }
 ]

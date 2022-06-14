@@ -340,3 +340,4 @@ Etched Sigil		0	1		4		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B
 The Madstone		0	1		4		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
 Cornerstone of the World		0	1		4		1	1	jew	Jewel		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
 QQ		0	1		1		1	1	rin	Ring		0	0								#N/B				#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B	#N/B																																		0
+TestBK		0	1		4		0	0	rin	Runeword 11		0	0																																																									0
