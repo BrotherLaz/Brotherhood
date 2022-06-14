@@ -38589,6 +38589,7 @@
   {"id": 38457, "Key": "casts lightning spells", "enUS": "Casts Lightning Spells", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38458, "Key": "casts cold spells", "enUS": "Casts Cold Spells", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38459, "Key": "drains stamina and may respawn", "enUS": "Drains Stamina and May Split on Death", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
+  {"id": 38460, "Key": "short ranged dash", "enUS": "Short Ranged Dash", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38500, "Key": "monster_battleboss_taunt", "enUS": "Show them that they came here to die!", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38501, "Key": "monster_biolord_taunt", "enUS": "Much work complete. Allow demonstration.", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
   {"id": 38502, "Key": "monster_deeds_taunt", "enUS": "Your deeds have been noted.", "zhTW": "","deDE": "","esES": "","frFR": "","itIT": "","koKR": "","plPL": "","esMX": "","jaJP": "","ptBR": "","ruRU": "","zhCN": ""},
