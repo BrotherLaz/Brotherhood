@@ -26113,7 +26113,7 @@ Placeholder Item Type 26109	26109			h48f			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3
 Placeholder Item Type 26110	26110			h48g			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26111	26111			h48h			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26112	26112			h48i			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Skill Ref Placeholder Proc 1	26113		skills.txt reference	h48j			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Skill Ref Pounce Proc	26113		skills.txt reference	poun			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26114	26114			h48k			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26115	26115			h48l			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26116	26116			h48m			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
@@ -26177,7 +26177,7 @@ Placeholder Item Type 26173	26173			j48r			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3
 Placeholder Item Type 26174	26174			j48s			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26175	26175			j48t			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26176	26176			j48u			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
-Skill Ref Placeholder Proc 2	26177		skills.txt reference	j48v			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
+Skill Ref Ardor Proc	26177		skills.txt reference	ardo			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26178	26178			j48w			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26179	26179			j48x			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Placeholder Item Type 26180	26180			j48y			0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0

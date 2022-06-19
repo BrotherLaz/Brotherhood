@@ -552,10 +552,12 @@ Scepter of Thorns	100	Auras	Scepter	Inherent	1	1	24		12				4	432	inherent-scepte
 Scepter of Salvation	100	Auras	Scepter	Inherent	1	1	30		15				4	432	inherent-scepter		30	30	pal	524	1	6						armo	weap											0	1536
 Claw	100			Inherent	1	1							4	433	inherent-claw		15	15										armo	weap											0	0
 Claw	100			Inherent	1	1							4	434	inherent-claw		20	20										armo	weap											0	0
-Claw	100			Inherent	1	1							4	435	inherent-claw		25	25										armo	weap											0	0
-Claw	100			Inherent	1	1							4	436	inherent-claw		30	30										armo	weap											0	0
-Claw	100			Inherent	1	1							4	437	inherent-claw		35	35										armo	weap											0	0
-Claw	100			Inherent	1	1							4	438	inherent-claw		40	40										armo	weap											0	0
+Claw	100			Inherent	1	1							4	433	inherent-claw		15	15	ass		1	1						armo	weap											0	512
+Claw	100			Inherent	1	1							4	434	inherent-claw		20	20	ass		1	1						armo	weap											0	512
+Claw	100			Inherent	1	1							4	435	inherent-claw		25	25	ass		1	2						armo	weap											0	1024
+Claw	100			Inherent	1	1							4	436	inherent-claw		30	30	ass		1	2						armo	weap											0	1024
+Claw	100			Inherent	1	1							4	437	inherent-claw		35	35	ass		1	3						armo	weap											0	1024
+Claw	100			Inherent	1	1							4	438	inherent-claw		40	40	ass		1	3						armo	weap											0	1024
 Necromancer Helm	100			Inherent	1	1							4	440	inherent-nxhm		10	10										armo	weap											0	0
 Necromancer Helm	100			Inherent	1	1							4	441	inherent-nxhm		20	20										armo	weap											0	0
 Necromancer Xbow	100			Unused		1							4	442	inherent-nxxb		10	10										armo	weap											0	0

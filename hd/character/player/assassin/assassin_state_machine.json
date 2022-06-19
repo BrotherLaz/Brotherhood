@@ -6737,7 +6737,7 @@
             "loopCount": 1,
             "stateId": 81,
             "modeId": 18,
-            "skillIndex": 445,
+            "skillIndex": 145,
             "stepIndex": 0,
             "animationBindings": {
                 "hth": [
@@ -6794,7 +6794,7 @@
             "loopCount": 0,
             "stateId": 82,
             "modeId": 18,
-            "skillIndex": 445,
+            "skillIndex": 145,
             "stepIndex": 1,
             "animationBindings": {
                 "hth": [
@@ -6846,7 +6846,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState158",
-            "_name": "SKILL_LEECH_START",
+            "_name": "SKILL_CRIMSONLOTUS_START",
             "audioId": "",
             "loopCount": 1,
             "stateId": 83,
@@ -6903,7 +6903,7 @@
         {
             "type": "AnimationState",
             "name": "AnimationState159",
-            "_name": "SKILL_LEECH_LOOP",
+            "_name": "SKILL_CRIMSONLOTUS_LOOP",
             "audioId": "",
             "loopCount": 0,
             "stateId": 84,
@@ -6956,7 +6956,56 @@
             },
             "enterEvents": [],
             "exitEvents": []
-        }
+        },
+        {
+            "type": "AnimationState",
+            "name": "AnimationState160",
+            "_name": "SKILL_SALTO_START",
+            "audioId": "",
+            "loopCount": 1,
+            "stateId": 85,
+            "modeId": 18,
+            "skillIndex": 445,
+            "stepIndex": 0,
+            "animationBindings": {
+                "hth": [
+                    "hth_dragonflight_start"
+                ],
+                "bow": [
+                    "bow_dragonflight_start"
+                ],
+                "1hs": [
+                    "1hs_dragonflight_start"
+                ],
+                "1ht": [
+                    "1ht_dragonflight_start"
+                ],
+                "stf": [
+                    "stf_dragonflight_start"
+                ],
+                "2hs": [
+                    "2hs_dragonflight_start"
+                ],
+                "2ht": [
+                    "2ht_dragonflight_start"
+                ],
+                "xbw": [
+                    "xbw_dragonflight_start"
+                ],
+                "1js": [],
+                "1jt": [],
+                "1ss": [],
+                "1st": [],
+                "ht1": [
+                    "ht1_dragonflight_start"
+                ],
+                "ht2": [
+                    "ht2_dragonflight_start"
+                ]
+            },
+            "enterEvents": [],
+            "exitEvents": []
+        },
     ],
     "transitions": [
         {
